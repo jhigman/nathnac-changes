@@ -3,3 +3,4 @@ AL http://www.nathnac.org/ds/c_pages/country_page_AL.htm
 DZ http://www.nathnac.org/ds/c_pages/country_page_DZ.htm
 AS http://www.nathnac.org/ds/c_pages/country_page_AS.htm
 IN_AN http://www.nathnac.org/ds/c_pages/country_page_IN_AN.htm
+AD http://www.nathnac.org/ds/c_pages/country_page_IN_AD.htm
