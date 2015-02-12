@@ -97,14 +97,7 @@ Back_to_Top
 Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
-  17 December 2014:
-      Ebola_virus_disease:_West_Africa_&ndash;_update
-  15 December 2014:
-      Middle_East_respiratory_syndrome_coronavirus_(MERS-CoV)_update
-  3 December 2014:
-      Enterovirus_D68:_North_America_and_Europe
-  28 November 2014:
-      Ebola_virus_disease:_West_Africa_&ndash;_update
+  There have been no Clinical Updates about this country in the last 6 months.
 View_a_full_list_of_Clinical_Updates_for_this_country.
 •Risk_of_mosquito_and_tick_borne_diseases:_Advice_for_travellers_to_the_United
 States_new
