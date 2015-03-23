@@ -240,26 +240,6 @@ the central nervous system, leading to paralytic poliomyelitis.
     * All travellers who have not completed a primary course of polio vaccine
       or have not had a polio vaccine booster in the last 10 years should
       receive a polio vaccine before travel.
-The following Public Health England and NaTHNaC advice should also be followed
-until further notice
-    * Travellers to settings with extremely poor hygiene (e.g. refugee camps),
-      or likely to be in close proximity with cases (e.g. healthcare workers),
-      and/or visiting for 6 months or more, are advised to have a booster dose
-      of polio-containing vaccine if they had not received vaccination in the
-      past 12 months.
-    * Travellers who intend to visit these countries four weeks or more should
-      be aware that proof of vaccination, given four weeks to 12 months before
-      departure from the country (an International_Certificate_of_Vaccination
-      or_Prophylaxis ), may be required on exit. Failure to produce this
-      documentation may result in vaccination at the point of departure.
-    * Immunosuppressed and their household contacts or pregnant individuals who
-      plan to travel to Syrian Arab Republic for one month or more are advised
-      to receive inactivated polio vaccine (IPV) within 1 year before planned
-      departure from Syrian Arab Republic and to ensure this is recorded on an
-      ICVP.
-    * Further information relating to the advice and ICVP issues is available
-      here.
- 
 ** Resources **
 ** Health Professionals **                 ** Travellers **
 NaTHNaC_Health_Information_Sheet_on        NaTHNaC_Health_Information_Sheet_on
@@ -268,9 +248,8 @@ Department_of_Health_Immunisation_agaianst NaTHNaC_Health_Information_Sheet_on
 infectious_disease_(Green_Book)_-          Prevention_of_Food_and_Water-Borne
 Poliomyelitis                              Diseases
 Global_Polio_Eradication_Initiative
- National_Polio_Surveillance_Project_of
+National_Polio_Surveillance_Project_of
 India_website
-
 Additional_Risks | Back_to_Top
 *** RABIES ***
 Rabies is a neurological disease caused by viruses of the Lyssavirus genus.

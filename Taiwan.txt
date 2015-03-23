@@ -97,6 +97,8 @@ Back_to_Top
 Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
+  18 March 2015:
+      Human_infections_with_avian_influenza_viruses:_Egypt_and_worldwide
   10 February 2015:
       Imported_avian_influenza_A(H7N9)_cases:_Canada
   28 November 2014:

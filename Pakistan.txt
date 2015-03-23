@@ -337,7 +337,7 @@ Polio is a viral disease involving the gastrointestinal tract and occasionally
 the central nervous system, leading to paralytic poliomyelitis.
 ** Risk assessment **
     * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
-      - Case/s of wild type polio virus were last reported in 2014.
+      - Case/s of wild type polio virus were last reported in 2015.
     * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
       increase_disease_risk - Polio is transmitted through contaminated food
       and water. Those at higher risk of exposure include travellers visiting
