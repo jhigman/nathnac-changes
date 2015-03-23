@@ -8,6 +8,7 @@ else
 	echo "Committing changes with timestamp $timestamp.."
 	timestamp=`date +"%Y-%m-%d %H:%M"`
 	git commit -am "$timestamp"
+	git push origin master
 	echo "Finished"
 fi
 
