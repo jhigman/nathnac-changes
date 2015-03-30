@@ -342,7 +342,8 @@ until further notice
       be aware that proof of vaccination, given four weeks to 12 months before
       departure from the country (an International_Certificate_of_Vaccination
       or_Prophylaxis ), may be required on exit. Failure to produce this
-      documentation may result in vaccination at the point of departure.
+      documentation may result in vaccination at the point of departure, most
+      likely with oral polio vaccine.
     * Immunosuppressed and their household contacts or pregnant individuals who
       plan to travel to Equatorial Guinea for one month or more are advised to
       receive inactivated polio vaccine (IPV) within 1 year before planned
