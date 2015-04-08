@@ -98,8 +98,7 @@ Back_to_Top
 Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
-  8 October 2014:
-      Marburg_virus_disease_in_Uganda
+  There have been no Clinical Updates about this country in the last 6 months.
 View_a_full_list_of_Clinical_Updates_for_this_country.
  new: Since the beginning of 2015, Uganda has reported an outbreak of typhoid
 fever, more information availablehere

@@ -325,33 +325,23 @@ the central nervous system, leading to paralytic poliomyelitis.
 ** Risk management **
     * Travellers should practice strict food, water and personal hygiene
       precautions.
-    * Travellers should have completed a primary vaccination course according
+    *  Travellers should have completed a primary vaccination course according
       to the UK schedule (previous poliomyelitis does not confer immunity
       against another episode of poliomyelitis).
-    * All travellers who have not completed a primary course of polio vaccine
-      or have not had a polio vaccine booster in the last 10 years should
-      receive a polio vaccine before travel.
-The following Public Health England and NaTHNaC advice should also be followed
-until further notice
+All travellers who have not completed a primary course of polio vaccine or have
+not had a polio vaccine booster in the last 10 years should receive a polio
+vaccine before travel.
+The following additional Public Health England and NaTHNaC advice should also
+be followed until further notice
     * Travellers to settings with extremely poor hygiene (e.g. refugee camps),
       or likely to be in close proximity with cases (e.g. healthcare workers),
-      and/or visiting for 6 months or more, are advised to have a booster dose
-      of polio-containing vaccine if they had not received vaccination in the
-      past 12 months.
-    * Travellers who intend to visit these countries four weeks or more should
-      be aware that proof of vaccination, given four weeks to 12 months before
-      departure from the country (an International_Certificate_of_Vaccination
-      or_Prophylaxis ), may be required on exit. Failure to produce this
-      documentation may result in vaccination at the point of departure, most
-      likely with oral polio vaccine.
-    * Immunosuppressed and their household contacts or pregnant individuals who
-      plan to travel to Equatorial Guinea for one month or more are advised to
-      receive inactivated polio vaccine (IPV) within 1 year before planned
-      departure from Equatorial Guinea and to ensure this is recorded on an
-      ICVP.
-    * Further information relating to the advice and ICVP issues is available
-      here.
- 
+      and/or visiting for six months or more, are advised to have a booster
+      dose of polio-containing vaccine if they had not received vaccination in
+      the past 12 months.
+    * Travellers are encouraged to carry documentary evidence of their polio
+      vaccination status (an International Certificate of Vaccination or
+      Prophylaxis is NOT required by this country).
+    * Further information relating to this advice is availablehere.
 ** Resources **
 ** Health Professionals **                 ** Travellers **
 NaTHNaC_Health_Information_Sheet_on        NaTHNaC_Health_Information_Sheet_on
@@ -362,7 +352,6 @@ Poliomyelitis                              Diseases
 Global_Polio_Eradication_Initiative
  National_Polio_Surveillance_Project_of
 India_website
-
 Additional_Risks | Back_to_Top
 *** RABIES ***
 Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
