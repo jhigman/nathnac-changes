@@ -219,9 +219,6 @@ the central nervous system, leading to paralytic poliomyelitis.
       and water. Those at higher risk of exposure include travellers visiting
       friends and relatives, those in direct contact with an infected person,
       long stay travellers, and those visiting areas of poor sanitation.
-    * All travellers who have not completed a primary course of polio vaccine
-      or have not had a polio vaccine booster in the last 10 years should
-      receive a polio vaccine before travel.
 ** Risk management **
     * Travellers should practice strict food, water and personal hygiene
       precautions.
@@ -231,17 +228,7 @@ the central nervous system, leading to paralytic poliomyelitis.
     * All travellers who have not completed a primary course of polio vaccine
       or have not had a polio vaccine booster in the last 10 years should
       receive a polio vaccine before travel.
-The following additional Public Health England and NaTHNaC advice should also
-be followed until further notice
-    * Travellers to settings with extremely poor hygiene (e.g. refugee camps),
-      or likely to be in close proximity with cases (e.g. healthcare workers),
-      and/or visiting for six months or more, are advised to have a booster
-      dose of polio-containing vaccine if they had not received vaccination in
-      the past 12 months.
-    * Travellers are encouraged to carry documentary evidence of their polio
-      vaccination status (an International Certificate of Vaccination or
-      Prophylaxis is NOT required by this country).
-    * Further information relating to this advice is available here.
+ 
 ** Resources **
 ** Health Professionals **                 ** Travellers **
 NaTHNaC_Health_Information_Sheet_on        NaTHNaC_Health_Information_Sheet_on

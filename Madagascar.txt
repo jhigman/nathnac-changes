@@ -116,10 +116,7 @@ Back_to_Top
 Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
-  27 November 2014:
-      Plague_in_Madagascar
-  14 November 2014:
-      Vaccine_derived_polio_virus:_Madagascar
+  There have been no Clinical Updates about this country in the last 6 months.
 View_a_full_list_of_Clinical_Updates_for_this_country.
 
 
