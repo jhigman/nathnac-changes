@@ -308,23 +308,12 @@ the central nervous system, leading to paralytic poliomyelitis.
 ** Risk management **
     * Travellers should practice strict food, water and personal hygiene
       precautions.
-    *  Travellers should have completed a primary vaccination course according
+    * Travellers should have completed a primary vaccination course according
       to the UK schedule (previous poliomyelitis does not confer immunity
       against another episode of poliomyelitis).
-All travellers who have not completed a primary course of polio vaccine or have
-not had a polio vaccine booster in the last 10 years should receive a polio
-vaccine before travel.
-The following additional Public Health England and NaTHNaC advice should also
-be followed until further notice
-    * Travellers to settings with extremely poor hygiene (e.g. refugee camps),
-      or likely to be in close proximity with cases (e.g. healthcare workers),
-      and/or visiting for six months or more, are advised to have a booster
-      dose of polio-containing vaccine if they had not received vaccination in
-      the past 12 months.
-    * Travellers are encouraged to carry documentary evidence of their polio
-      vaccination status (an International Certificate of Vaccination or
-      Prophylaxis is NOT required by this country).
-    * Further information relating to this advice is availablehere.
+    * All travellers who have not completed a primary course of polio vaccine
+      or have not had a polio vaccine booster in the last 10 years should
+      receive a polio vaccine before travel.
 ** Resources **
 ** Health Professionals **                 ** Travellers **
 NaTHNaC_Health_Information_Sheet_on        NaTHNaC_Health_Information_Sheet_on
@@ -333,7 +322,7 @@ Department_of_Health_Immunisation_agaianst NaTHNaC_Health_Information_Sheet_on
 infectious_disease_(Green_Book)_-          Prevention_of_Food_and_Water-Borne
 Poliomyelitis                              Diseases
 Global_Polio_Eradication_Initiative
- National_Polio_Surveillance_Project_of
+National_Polio_Surveillance_Project_of
 India_website
 Additional_Risks | Back_to_Top
 *** RABIES ***

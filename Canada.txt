@@ -97,6 +97,8 @@ Back_to_Top
 Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
+  6 May 2015:
+      Novel_highly_pathogenic_avian_influenza_(HPAI)_viruses:_Canada_and_USA
   18 February 2015:
       Measles_and_travel:_a_reminder_for_health_professionals_and_travellers
   10 February 2015:
