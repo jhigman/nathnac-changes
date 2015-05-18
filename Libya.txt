@@ -41,14 +41,14 @@ Country Specific
 ****** [Country Information] ******
 
 ***** Locate Country *****
-&raquo; World_Map
-    * North_&amp;_Central_America
-    * South_America_&amp;_Antarctica
+» World_Map
+    * North_&_Central_America
+    * South_America_&_Antarctica
     * Europe
-    * North_Africa_&amp;_Middle_East
+    * North_Africa_&_Middle_East
     * Africa
-    * Asia_&amp;_Oceania
-&raquo; Alphabetical_list_of_countries
+    * Asia_&_Oceania
+» Alphabetical_list_of_countries
 A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
 U | V | W | X | Y | Z
 ***** Guidance *****
@@ -61,7 +61,7 @@ Rationale_for_risk_assessment_and_risk_management
 Search_for_recent_disease_outbreaks
 ***** Clinical Updates *****
 Information that may result in a change in travel advice
-&raquo;_All_clinical_updates
+»_All_clinical_updates
 
 ***** Health Information Sheets *****
 Health_information_sheets_for_health_professionals
@@ -446,10 +446,9 @@ your travel and medical history. While every care has been taken to ensure the
 accuracy and timeliness of the travel health information, NaTHNaC cannot accept
 any liability for injury, loss or damage arising in any respect of any
 statement contained therein.
-For the purpose of these web pages the term &quot;country&quot; covers
-countries, territories and areas. Areas within a country may be shown
-separately where it is felt necessary in order to provide travel health
-information.
+For the purpose of these web pages the term "country" covers countries,
+territories and areas. Areas within a country may be shown separately where it
+is felt necessary in order to provide travel health information.
 
 Disclaimer | Copyright | Privacy | Sitemap | Accessibility
 
