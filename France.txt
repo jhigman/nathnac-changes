@@ -97,10 +97,9 @@ Back_to_Top
 Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
-  15 December 2014:
-      Middle_East_respiratory_syndrome_coronavirus_(MERS-CoV)_update
-  3 December 2014:
-      Enterovirus_D68:_North_America_and_Europe
+  27 May 2015:
+      Imported_Canine_Rabies:_Le_Chambon_Feugerolles,_Loire,_RHONE-ALPES,
+      France
 View_a_full_list_of_Clinical_Updates_for_this_country.
 •Diseases_transmitted_by_insects_and_ticks_in_Europe_new
 
@@ -200,7 +199,10 @@ Additional_Risks | Back_to_Top
 *** RABIES ***
 Rabies has not been reported in domestic or wild animals in this country
 however, bats may carry rabies-like viruses.
- 
+• As of 27 May 2015, following the report of one case of imported rabies in a
+domesticated dog, there is a low risk of rabies in Le Chambon Feugerolles,
+Loire, Rhone-Alpes, France (Clinical_Update,_27_May_2015).
+• There is no risk of rabies in the rest of France.
 ** Risk assessment **
     * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
       increase_disease_risk - Rabies transmission may occur following contact
