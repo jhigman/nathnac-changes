@@ -102,14 +102,15 @@ Back_to_Top
 Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
+  5 June 2015:
+      Middle_Eastrespiratory_syndrome_coronavirus_(MERS-CoV)_update:_Republic
+      of_Korea_and_China
   22 May 2015:
       Hand,_foot_and_mouth_disease_in_the_Western_Pacific_region
   18 March 2015:
       Human_infections_with_avian_influenza_viruses:_Egypt_and_worldwide
   18 February 2015:
       Measles_and_travel:_a_reminder_for_health_professionals_and_travellers
-  10 February 2015:
-      Imported_avian_influenza_A(H7N9)_cases:_Canada
 View_a_full_list_of_Clinical_Updates_for_this_country.
 
 
