@@ -145,10 +145,10 @@ Yellow fever is a systemic viral disease.
     * Under International Health Regulations (2005), a yellow fever vaccination
       certificate is required for travellers over 1 year of age arriving from
       countries with risk of yellow fever transmission excluding Guyana,
-      Suriname, and Trinidad and Tobagobut including Sao Tome and Principe,
-      Somalia and United Republic of Tanzania and travellers having transited
+      Suriname, and Trinidad and Tobago and for travellers having transited
       more than 12 hours through the airport of a country with risk of yellow
-      fever transmission (with the previous exclusions and inclusions).
+      fever transmission (with the previous exclusions).
+    * The certificate of yellow fever vaccination is valid for life.
     * In addition, view_the_list_of_countries_with_risk_of_yellow_fever
       transmission.
 ** Resources **

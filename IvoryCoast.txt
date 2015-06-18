@@ -155,6 +155,8 @@ Yellow fever is a systemic viral disease.
 ** Certificate requirements **
     * Under International Health Regulations (2005), a certificate of yellow
       fever vaccination is required from all travellers over 9 months of age.
+    * For this country, the yellow fever vaccination certificate is assumed to
+      be valid for 10 years until further notice.
 ** Resources **
 ** Health Professionals **              ** Travellers **
 NaTHNaC_Health_Information_Sheet_on     NaTHNaC_Yellow_Fever_Vaccine:

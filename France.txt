@@ -98,7 +98,7 @@ Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
   27 May 2015:
-      Imported_Canine_Rabies:_Le_Chambon_Feugerolles,_Loire,_RHONE-ALPES,
+      Imported_Canine_Rabies:_Le_Chambon_Feugerolles,_Loire,_Rhône-Alpes,
       France
 View_a_full_list_of_Clinical_Updates_for_this_country.
 •Diseases_transmitted_by_insects_and_ticks_in_Europe_new

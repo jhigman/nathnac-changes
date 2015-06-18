@@ -138,7 +138,7 @@ YELLOW FEVER
 Yellow fever is a systemic viral disease.
 ** Risk assessment **
     * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
-      - There is a risk of yellow fever transmission in all areas of this
+      - There is a low potential for exposure to yellow fever in this
       country.View_the_WHO_yellow_fever_vaccine_recommendation_map_for_Africa.
     * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
       increase_disease_risk - Yellow fever is transmitted via the bite of an
@@ -147,14 +147,17 @@ Yellow fever is a systemic viral disease.
 ** Risk management **
     * Travellers should take mosquito bite avoidance measures. Aedes mosquitoes
       feed predominantly during daylight hours.
-    * Yellow fever vaccine should_be_givenAll_travellers_in_risk_categories
-      should_receive_vaccine to travellers 9 months of age and older.
+    * Yellow fever vaccine is generally not recommended for travellers to
+      Rwanda.
     * There are specific contraindications and adverse events associated with
       yellow fever vaccine. A careful risk assessment should be made before
       administration and specialist advice sought as appropriate.
 ** Certificate requirements **
     * Under International Health Regulations (2005), a certificate of yellow
       fever vaccination is required from all travellers over 1 year of age.
+    * For this country, the yellow fever vaccination certificate is assumed to
+      be valid for 10 years until further notice.
+    * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
 ** Resources **
 ** Health Professionals **              ** Travellers **
 NaTHNaC_Health_Information_Sheet_on     NaTHNaC_Yellow_Fever_Vaccine:

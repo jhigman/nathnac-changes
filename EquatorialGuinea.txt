@@ -159,6 +159,8 @@ Yellow fever is a systemic viral disease.
       arriving from countries with risk of yellow fever transmission. Infants
       from 6 months may be vaccinated when the risk of yellow fever is high
       (expert opinion should be sought in these situations).
+    * For this country, the yellow fever vaccination certificate is assumed to
+      be valid for 10 years until further notice.
     * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
 ** Resources **
 ** Health Professionals **              ** Travellers **
