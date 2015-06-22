@@ -143,10 +143,13 @@ Yellow fever is a systemic viral disease.
 ** Certificate requirements **
     * Under International Health Regulations (2005), a certificate of yellow
       fever vaccination is required from travellers over 1 year of age arriving
-      from countries with a risk of yellow fever (with the exception of Panama)
-      and for travellers having transited for more than 12 hours through the
-      airport of a country with risk of yellow fever transmission (with the
-      exception of Panama).
+      from countries with a risk of yellow fever and for travellers having
+      transited for more than 12 hours through the airport of a country with
+      risk of yellow fever transmission (with the addition of Sao Tome and
+      Principe and with the exception of South Sudan in Africa and of Panama
+      and Trinidad and Tobago in South America).  
+    * This country considers the yellow fever vaccination certificate to be
+      valid for life if applied 10 days before travelling.
     * In addition, view_the_WHO_list_of_countries_with_risk_of_yellow_fever
       transmission.
 ** Resources **

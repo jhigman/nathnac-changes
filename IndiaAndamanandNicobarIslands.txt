@@ -173,11 +173,13 @@ Yellow fever is a systemic viral disease.
                   Liberia, Mali, Mauritania, Niger, Nigeria, Rwanda, Senegal,
                   Sierra Leone, Sudan, South Sudan, Togo and Uganda.
                 # America: Argentina, Bolivia, Brazil, Colombia, Ecuador,
-                  French Guiana, Guyana, Suriname, Trinidad (Trinidad only),
-                  Panama, Paraguay, Peru, Venezuela.
+                  French Guiana, Guyana, Panama, Paraguay, Peru, Suriname,
+                  Trinidad (Trinidad only), and Venezuela.
     * Note. When a case of yellow fever is reported from any country, that
       country is regarded by the Government of India as a country with risk of
       yellow fever and is added to the above list.
+    * For this country, the yellow fever vaccination certificate is assumed to
+      be valid for 10 years until further notice.
     * In addition, view_the_WHO_list_of_countries_with_risk_of_yellow_fever
       transmission.
 ** Resources **

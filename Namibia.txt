@@ -154,6 +154,8 @@ Yellow fever is a systemic viral disease.
       unscheduled flights are required to possess a certificate. The
       certificate is not insisted upon in the case of children under 1 year of
       age, but such infants may be subject to surveillance.
+    * For this country, the yellow fever vaccination certificate is assumed to
+      be valid for 10 years until further notice.
     * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
 ** Resources **
 ** Health Professionals **              ** Travellers **

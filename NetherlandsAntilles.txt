@@ -138,14 +138,21 @@ necessarily indicate that there is no risk of disease.
 YELLOW FEVER
 Yellow fever is a systemic viral disease.
 ** Risk assessment **
-    * There is no risk of yellow fever in this country, however, there is a
-      certificate requirement.
+    * There  is no risk of yellow fever on these islands, however, there are
+      certificate requirements as listed below.
 ** Certificate requirements **
-    * Under International Health Regulations (2005), a certificate of yellow
-      fever vaccination is required from travellers over 6 months of age
-      arriving from countries with risk of yellow fever transmission.
+    * Bonaire: Under International Health Regulations (2005), a certificate of
+      yellow fever vaccination is required from travellers over 6 months of age
+      arriving from countries with risk of yellow fever transmission. This
+      requirement applies only to travellers going to Bonaire, Saba or Sint
+      Eustatius.
+    * Curacao and Sint Maarten : a yellow fever vaccination certificate is
+      required for travellers over 6 months of age arriving from countries with
+      risk of yellow fever transmission.
+    * The yellow fever vaccination certificate is assumed to be valid for 10
+      years until further notice.
     * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
-    * See also : Saint_Martin_(France)
+    * See also: Saint_Martin_(France)
  
 ** Resources **
  

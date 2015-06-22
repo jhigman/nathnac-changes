@@ -136,15 +136,17 @@ necessarily indicate that there is no risk of disease.
 YELLOW FEVER
 Yellow fever is a systemic viral disease.
 ** Risk assessment **
-    * There is no risk of yellow fever in this country, however, there is a
-      certificate requirement.
+    * There is no risk of yellow fever on these islands, however, there is a
+      certificate requirement for Tristan de Cunhaonly.
 ** Certificate requirements **
-    * Under International Health Regulations (2005), a yellow fever vaccination
-      certificate is required from travellers over 1 year of age arriving from
-      countries with risk of yellow fever transmission (for travellers to Saint
-      Helena only).
-    * Tristan de Cunha and Ascension - these countries have not stated their
-      yellow fever vaccination certificate requirements.
+    * Tristan de Cunha: Under International Health Regulations (2005), a yellow
+      fever vaccination certificate is required for travellers over 6 months of
+      age arriving from countries with risk of yellow fever transmission and
+      for travellers having transited through an airport of a country with risk
+      of yellow fever transmission.
+    * The certificate of yellow fever vaccination is valid for 10 years.
+    * Ascension and Saint Helena: There are no certificate requirements under
+      International Health Regulations (2005). 
     * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
 ** Resources **
 ** Health Professionals **              ** Travellers **

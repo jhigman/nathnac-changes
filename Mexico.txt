@@ -134,31 +134,9 @@ according to the UK schedule:
 Yellow Fever
 Vaccine Preventable Risks: Yellow_Fever | Additional_Risks | Back_to_Top
 YELLOW FEVER
-Yellow fever is a systemic viral disease.
-** Risk assessment **
-    * There is no risk of yellow fever in this country, however, there is a
-      certificate requirement.
-** Certificate requirements **
-    * Under International Health Regulations (2005), a yellow fever vaccination
-      certificate is required from travellers over 1 year of age arriving from
-      countries with risk of yellow fever transmission and for travellers
-      having transited for more than 12 hours through the airport of a country
-      with risk of yellow fever transmission.
-    * The certificate of yellow fever vaccination is valid for life.
-    * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
-** Resources **
-** Health Professionals **              ** Travellers **
-NaTHNaC_Health_Information_Sheet_on     NaTHNaC_Yellow_Fever_Vaccine:
-Yellow_Fever                            Information_for_Travellers
-NaTHNaC_Yellow_Fever_Vaccine:           NaTHNaC_Health_Information_Sheet_on
-Information_for_Travellers              Insect_Bite_Avoidance
-NaTHNaC_Health_Information_Sheet_on
-Insect_Bite_Avoidance
-Department_of_Health_Immunisation
-Against_Infectious_Disease_(Green_Book)
-World_Health_Organization_(WHO)_Yellow
-Fever_Vaccination_Recommendations_and
-Requirements
+There is no risk of yellow fever in this country and there are no certificate
+requirements under International Health Regulations (2005).
+
 Additional Risks
 Vaccine Preventable Risks: Yellow_Fever | Additional_Risks | Back_to_Top
 The diseases below may be a risk in all or part of the country and are

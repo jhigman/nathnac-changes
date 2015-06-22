@@ -131,12 +131,8 @@ according to the UK schedule:
 Yellow Fever
 Vaccine Preventable Risks: Yellow_Fever | Additional_Risks | Back_to_Top
 YELLOW FEVER
-Yellow fever is a systemic viral disease.
-** Risk assessment **
-    * There is no risk of yellow fever in this country.
-** Certificate requirements **
-    * This country has not stated its yellow fever vaccination certificate
-      requirements.
+There is no risk of yellow fever in this country and there are no certificate
+requirements under International Health Regulations (2005).
 
 Additional Risks
 Vaccine Preventable Risks: Yellow_Fever | Additional_Risks | Back_to_Top

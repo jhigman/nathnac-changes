@@ -166,6 +166,7 @@ Yellow fever is a systemic viral disease.
       risk of yellow fever transmission. Nationals and residents of Myanmar are
       required to possess certificates of vaccination on their departure to an
       area with risk of yellow fever transmission.
+    * The certificate of yellow fever vaccination is valid for life.
     * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
 ** Resources **
 ** Health Professionals **              ** Travellers **

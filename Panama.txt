@@ -141,9 +141,10 @@ Yellow fever is a systemic viral disease.
     * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
       - There is a risk of yellow fever transmission in the regions of Emberá
       and Kuna Yala, the province of Darién and areas of the provinces of Colón
-      and Panama that are east of the Canal Zone.
+      and Panama that are east of the Canal.
     * There is no risk of yellow fever transmission in Panama City, the Canal
-      Zone, the Balboa and San Blas islands, and areas west of the Canal Zone.
+      Zone, the Balboa Islands (Pearl Islands) and San Blas islands, and areas
+      west of the Canal.
     * View_the_WHO_yellow_fever_vaccine_recommendation_map_for_Americas.
     * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
       increase_disease_risk - Yellow fever is transmitted via the bite of an
@@ -156,9 +157,10 @@ Yellow fever is a systemic viral disease.
       should_receive_vaccine  to travellers 9 months of age and older
       travelling to the regions of Emberá and Kuna Yala, the province of
       Darién, and areas of the province of Colón and Panama that are east of
-      the Canal Zone.
-    * Vaccine is not recommended for travel only to Panama City, the Canal
-      Zone, the Balboa and San Blas islands, and areas west of the Canal Zone.
+      the Canal.
+    * Vaccine is not recommended for travel only to Panama City, the Canal, the
+      Balboa Islands (Pearl Islands) and San Blas islands, and areas west of
+      the Canal.
     * View_the_WHO_yellow_fever_vaccine_recommendation_map_for_Americas.
     * There are specific contraindications and adverse events associated with
       yellow fever vaccine. A careful risk assessment should be made before

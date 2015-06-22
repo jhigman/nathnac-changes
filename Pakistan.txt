@@ -145,11 +145,10 @@ Yellow fever is a systemic viral disease.
       certificate requirement.
 ** Certificate requirements **
     * Under International Health Regulations (2005), a certificate of yellow
-      fever vaccination is required from travellers over 9 month of age
-      arriving from any part of a country in which there is a risk of yellow
-      fever transmission and for travellers having transited for more than 12
-      hours through the airport of a country with risk of yellow fever
-      transmission.
+      fever vaccination is required from travellers over 1 year of age arriving
+      from any part of a country in which there is a risk of yellow fever
+      transmission and for travellers having transited for more than 12 hours
+      through the airport of a country with risk of yellow fever transmission.
     * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
 ** Resources **
 ** Health Professionals **              ** Travellers **

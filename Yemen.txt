@@ -135,30 +135,9 @@ certificate requirements under International Health Regulations and the risk of
 yellow fever at the destination. The lack of a certificate requirement does not
 necessarily indicate that there is no risk of disease.
 YELLOW FEVER
-Yellow fever is a systemic viral disease.
-** Risk assessment **
-    * There is no risk of yellow fever in this country, however, there is a
-      certificate requirement.
-** Certificate requirements **
-    * Under International Health Regulations (2005), a yellow fever vaccination
-      certificate is required from travellers over 1 year of age arriving from
-      countries with risk of yellow fever transmission.
-    * For this country, the yellow fever vaccination certificate is assumed to
-      be valid for 10 years until further notice.
-    * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
-** Resources **
-** Health Professionals **              ** Travellers **
-NaTHNaC_Health_Information_Sheet_on     NaTHNaC_Yellow_Fever_Vaccine:
-Yellow_Fever                            Information_for_Travellers
-NaTHNaC_Yellow_Fever_Vaccine:           NaTHNaC_Health_Information_Sheet_on
-Information_for_Travellers              Insect_Bite_Avoidance
-NaTHNaC_Health_Information_Sheet_on
-Insect_Bite_Avoidance
-Department_of_Health_Immunisation
-Against_Infectious_Disease_(Green_Book)
-World_Health_Organization_(WHO)_Yellow
-Fever_Vaccination_Recommendations_and
-Requirements
+There is no risk of yellow fever in this country and there are no certificate
+requirements under International Health Regulations (2005).
+
 Additional Risks
 Vaccine Preventable Risks: Yellow_Fever | Additional_Risks | Back_to_Top
 The diseases below may be a risk in all or part of the country and are
