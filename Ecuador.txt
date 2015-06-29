@@ -142,8 +142,8 @@ Yellow fever is a systemic viral disease.
 ** Risk assessment **
     * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
       - There is a risk of yellow fever transmission east of the Andes
-      Mountains in the following areas below 2,300m: the provinces of Morona-
-      Santiago, Napo, Orellana, Pastaza, Sucumbios and Zamora-Chinchipe.
+      Mountains in the following provinces below 2,300m: the provinces of
+      Morona-Santiago, Napo, Orellana, Pastaza, Sucumbios and Zamora-Chinchipe.
     * There is a low potential for exposure to yellow fever in the following
       provinces west of the Andes at altitudes below 2,300m: Esmeraldas,
       Guayas, Los Rios, Santa Helena, Santo Domingo de los Tsachilas and
@@ -161,7 +161,7 @@ Yellow fever is a systemic viral disease.
       feed predominantly during daylight hours.
     * Yellow fever vaccine should_be_givenAll_travellers_in_risk_categories
       should_receive_vaccine to travellers 9 months of age and older travelling
-      to the following areas east of the Andes Mountains below 2,300m: the
+      to the following provinces east of the Andes Mountains below 2,300m: the
       provinces of Morona-Santiago, Napo, Orellana, Pastaza, Sucumbios and
       Zamora-Chinchipe.
     * Yellow fever vaccine isgenerally_not_recommendedMost_travellers_at_very

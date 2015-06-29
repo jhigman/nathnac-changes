@@ -97,14 +97,15 @@ Back_to_Top
 Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
+  25 June 2015:
+      Invasive_meningococcal_disease_(meningitis)_outbreak_in_men_who_have_sex
+      with_men:_United_States
   6 May 2015:
       Novel_highly_pathogenic_avian_influenza_(HPAI)_viruses:_Canada_and_USA
   21 April 2015:
       Chikungunya_virus:_Caribbean_and_the_Americas
   18 February 2015:
       Measles_and_travel:_a_reminder_for_health_professionals_and_travellers
-  6 February 2015:
-      Pertussis:_global_update
 View_a_full_list_of_Clinical_Updates_for_this_country.
 •Risk_of_mosquito_and_tick_borne_diseases:_Advice_for_travellers_to_the_United
 States_new

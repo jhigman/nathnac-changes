@@ -142,11 +142,11 @@ Yellow fever is a systemic viral disease.
       -There is a risk of yellow fever transmission in the following areas at
       altitudes below 2300m in the entire regions of Amazonas, Loreto, Madre de
       Dios, San Martin, Ucayali, Puno, Cuzco Junín, Pasco and Huánuco and in
-      some areas within the regions of northern Apurimac, northern
-      Huancavelica, north eastern Ancash, eastern La Libertad, north and
+      some areas within the regions of far-northern Apurimac, far-northern
+      Huancavelica, far-north-eastern Ancash, eastern La Libertad, north and
       eastern Cajamarca, north and north eastern Ayacucho and eastern Piura.
     * There is a low potential for exposure to yellow fever in the following
-      areas west of the Andes: entire regions of Labayeque and Tumbes and
+      areas west of the Andes: entire regions of Lambayeque and Tumbes and
       designated areas of western Piura and south, west and central Cajamarca.
     * There is no risk of yellow fever transmission in the cities of Cusco and
       Lima, in Machu Picchu and the Inca Trail.
@@ -169,7 +169,7 @@ Yellow fever is a systemic viral disease.
     * Vaccine isgenerally_not_recommendedMost_travellers_at_very_low_risk.
       Consider_vaccine_for_those_with_prolonged,_repetitive_mosquito_exposure.
       for travel only to the following areas west of the Andes: entire regions
-      of Labayeque and Tumbes and designated areas of western Piura and south,
+      of Lambayeque and Tumbes and designated areas of western Piura and south,
       west and central Cajamarca.
     * Vaccine is not recommended for travel only to the cities of Cusco and
       Lima, Machu Picchu and the Inca Trail.

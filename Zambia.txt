@@ -134,8 +134,8 @@ YELLOW FEVER
 Yellow fever is a systemic viral disease.
 ** Risk assessment **
     * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
-      - There is a low potential for exposure to yellow fever in North Western
-      and Western provinces.
+      - There is a low potential for exposure to yellow fever in the entire
+      North Western and Western provinces.
     * There is no risk of yellow fever tranmission in other areas of the
       country.
     * View_the_WHO_yellow_fever_vaccine_recommendation_map_for_Africa.
@@ -148,7 +148,8 @@ Yellow fever is a systemic viral disease.
       feed predominantly during daylight hours.
     * Yellow fever vaccine isgenerally_not_recommendedMost_travellers_at_very
       low_risk._Consider_vaccine_for_those_with_prolonged,_repetitive_mosquito
-      exposure. for travellers to North Western and Western provinces.
+      exposure. for travellers to the entire North Western and Western
+      provinces.
     * Yellow fever vaccine is not recommended for other areas of the country.
     * There are specific contraindications and adverse events associated with
       yellow fever vaccine. A careful risk assessment should be made before
@@ -159,6 +160,7 @@ Yellow fever is a systemic viral disease.
       arriving from countries with risk of yellow fever transmission and for
       travellers having transited for more than 12 hours through the airport of
       a country with risk of yellow fever transmission.
+    * The certificate of yellow fever vaccination is valid for life.
     * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
 ** Resources **
 ** Health Professionals **              ** Travellers **

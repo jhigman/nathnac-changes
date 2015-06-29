@@ -140,7 +140,7 @@ Yellow fever is a systemic viral disease.
 ** Risk assessment **
     * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
       - There is no risk of yellow fever transmission in all areas >2300m in
-      elevation in the States of Trujillo, Merida, and Táchira; the States of
+      elevation in the states of Merida, Trujillo, and Tachira; the states of
       Falcon and Lara; Margarita Island; the capital city of Caracas; and the
       city of Valencia.
     * There is a low potential for exposure to yellow fever in the entire
@@ -157,7 +157,7 @@ Yellow fever is a systemic viral disease.
     * Travellers should take mosquito bite avoidance measures. Aedes mosquitoes
       feed predominantly during daylight hours.
     * Yellow fever vaccine is not recommended for travel to areas >2300m in
-      elevation in the States of Trujillo, Merida, and Táchira; the States of
+      elevation in the states of Merida, Trujillo, and Tachira; the states of
       Falcon and Lara; Margarita Island; the capital city of Caracas; and the
       city of Valencia.
     * Yellow fever vaccine isgenerally_not_recommendedMost_travellers_at_very

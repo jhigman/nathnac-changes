@@ -150,11 +150,7 @@ Yellow fever is a systemic viral disease.
       countries with risk of yellow fever transmission, and for travellers
       having transited more than 12 hours through the airport of a country with
       risk of yellow fever transmission.
-    * As of 3 February 2015 the South African Government has confirmed that a
-      yellow fever (YF) certificate is no longer required by South African
-      authorities from travellers between South Africa and the following
-      countries: Zambia, Tanzania, Eritrea, Somalia, Sao Tome and Principe
-      (Clinical_Update_as_of_5_February_2015).
+    * The certificate of yellow fever vaccination is valid for life.
     * In_addition,_view_the_WHO_list_of_countries_with_risk_of_yellow_fever
       transmission.
 ** Resources **

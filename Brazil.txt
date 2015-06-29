@@ -148,9 +148,9 @@ Yellow fever is a systemic viral disease.
       - There is a risk of yellow fever transmission in the states of Acre,
       Amapá, Amazonas, Distrito Federal (including the capital city of
       Brasília), Goias, Maranhaõ, Mato Grosso, Mato Grosso do Sul, Minas
-      Gerais, Pará, Rondônia, Roraima and Tocantins, and specific areas in the
-      states of Bahia, Paraná, Piauí, Rio Grande do Sul, Santa Catarina, and
-      São Paulo (see below for Sao Paulo city).
+      Gerais, Pará, Rondônia, Roraima and Tocantins, and designated areas in
+      the states of Bahia, Paraná, Piauí, Rio Grande do Sul, Santa Catarina,
+      and São Paulo (see below for Sao Paulo city).
     * There is no risk of yellow fever transmission in other areas of Brazil,
       including thecitiesof Fortaleza, Recife, Rio de Janeiro, Salvador and Sǎo
       Paulo.
@@ -169,7 +169,7 @@ Yellow fever is a systemic viral disease.
       should_receive_vaccine to travellers 9 months of age and older travelling
       to the states of Acre, Amapá, Amazonas, Distrito Federal (including the
       capital city of Brasília), Goias, Maranhaõ, Mato Grosso, Mato Grosso do
-      Sul, Minas Gerais, Pará, Rondônia, Roraima and Tocantins, and specific
+      Sul, Minas Gerais, Pará, Rondônia, Roraima and Tocantins, and designated
       areas in the states Bahia, Paraná, Piauí, Rio Grande do Sul, Santa
       Catarina and São Paulo. Vaccination is also recommended for travel to
       Iguaçu Falls.
