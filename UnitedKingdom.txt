@@ -7,82 +7,82 @@
 
 Search :
 [Search NaTHNaC      ] [Submit /images/country_go_but.gif]
-[NaTHNaC_Logo]
+_[_N_a_T_H_N_a_C_ _L_o_g_o_]
 Health Professional
-    * Home
-    * Health_Professionals
-    * About_Us
-    * News
-    * Clinical_Updates
-    * Health_Information
-    * Yellow_Fever_Centres
-    * Links
-    * Contact_Us
-    * Country_Information
+    * _H_o_m_e
+    * _H_e_a_l_t_h_ _P_r_o_f_e_s_s_i_o_n_a_l_s
+    * _A_b_o_u_t_ _U_s
+    * _N_e_w_s
+    * _C_l_i_n_i_c_a_l_ _U_p_d_a_t_e_s
+    * _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n
+    * _Y_e_l_l_o_w_ _F_e_v_e_r_ _C_e_n_t_r_e_s
+    * _L_i_n_k_s
+    * _C_o_n_t_a_c_t_ _U_s
+    * _C_o_u_n_t_r_y_ _I_n_f_o_r_m_a_t_i_o_n
 Travellers
-    * Home
-    * Travellers
-    * About_us
-    * News
-    * Health_Information
-    * Yellow_Fever_Centres
-    * Links
-    * Contact_Us
-    * Country_Information
+    * _H_o_m_e
+    * _T_r_a_v_e_l_l_e_r_s
+    * _A_b_o_u_t_ _u_s
+    * _N_e_w_s
+    * _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n
+    * _Y_e_l_l_o_w_ _F_e_v_e_r_ _C_e_n_t_r_e_s
+    * _L_i_n_k_s
+    * _C_o_n_t_a_c_t_ _U_s
+    * _C_o_u_n_t_r_y_ _I_n_f_o_r_m_a_t_i_o_n
 Country Specific
-    * Home
-    * Health_Professionals
-    * Travellers
-    * Yellow_Fever_Centres
-    * Outbreak_Surveillance
-    * Clinical_Updates
-    * Contact_Us
-****** [Country Information] ******
+    * _H_o_m_e
+    * _H_e_a_l_t_h_ _P_r_o_f_e_s_s_i_o_n_a_l_s
+    * _T_r_a_v_e_l_l_e_r_s
+    * _Y_e_l_l_o_w_ _F_e_v_e_r_ _C_e_n_t_r_e_s
+    * _O_u_t_b_r_e_a_k_ _S_u_r_v_e_i_l_l_a_n_c_e
+    * _C_l_i_n_i_c_a_l_ _U_p_d_a_t_e_s
+    * _C_o_n_t_a_c_t_ _U_s
+************ [[CCoouunnttrryy IInnffoorrmmaattiioonn]] ************
 
-***** Locate Country *****
-Â» World_Map
-    * North_&_Central_America
-    * South_America_&_Antarctica
-    * Europe
-    * North_Africa_&_Middle_East
-    * Africa
-    * Asia_&_Oceania
-Â» Alphabetical_list_of_countries
-A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
-U | V | W | X | Y | Z
-***** Guidance *****
-[guidance]Making_the_most_of_this_resource
-Â 
-Rationale_for_risk_assessment_and_risk_management
-***** Outbreak Surveillance *****
-[Outbreak_Surveillance]
+********** LLooccaattee CCoouunnttrryy **********
+» _W_o_r_l_d_ _M_a_p
+    * _N_o_r_t_h_ _&_a_m_p_;_ _C_e_n_t_r_a_l_ _A_m_e_r_i_c_a
+    * _S_o_u_t_h_ _A_m_e_r_i_c_a_ _&_a_m_p_;_ _A_n_t_a_r_c_t_i_c_a
+    * _E_u_r_o_p_e
+    * _N_o_r_t_h_ _A_f_r_i_c_a_ _&_a_m_p_;_ _M_i_d_d_l_e_ _E_a_s_t
+    * _A_f_r_i_c_a
+    * _A_s_i_a_ _&_a_m_p_;_ _O_c_e_a_n_i_a
+» _A_l_p_h_a_b_e_t_i_c_a_l_ _l_i_s_t_ _o_f_ _c_o_u_n_t_r_i_e_s
+_A | _B | _C | _D | _E | _F | _G | _H | _I | _J | _K | _L | _M | _N | _O | _P | _Q | _R | _S | _T |
+_U | _V | _W | _X | _Y | _Z
+********** GGuuiiddaannccee **********
+[guidance]_M_a_k_i_n_g_ _t_h_e_ _m_o_s_t_ _o_f_ _t_h_i_s_ _r_e_s_o_u_r_c_e
+ 
+_R_a_t_i_o_n_a_l_e_ _f_o_r_ _r_i_s_k_ _a_s_s_e_s_s_m_e_n_t_ _a_n_d_ _r_i_s_k_ _m_a_n_a_g_e_m_e_n_t
+********** OOuuttbbrreeaakk SSuurrvveeiillllaannccee **********
+_[_O_u_t_b_r_e_a_k_ _S_u_r_v_e_i_l_l_a_n_c_e_]
 
-Search_for_recent_disease_outbreaks
-***** Clinical Updates *****
+_S_e_a_r_c_h_ _f_o_r_ _r_e_c_e_n_t_ _d_i_s_e_a_s_e_ _o_u_t_b_r_e_a_k_s
+********** CClliinniiccaall UUppddaatteess **********
 Information that may result in a change in travel advice
-Â»_All_clinical_updates
+_»_ _A_l_l_ _c_l_i_n_i_c_a_l_ _u_p_d_a_t_e_s
 
-***** Health Information Sheets *****
-Health_information_sheets_for_health_professionals
-Health_information_sheets_for_travellers
+********** HHeeaalltthh IInnffoorrmmaattiioonn SShheeeettss **********
+_H_e_a_l_t_h_ _i_n_f_o_r_m_a_t_i_o_n_ _s_h_e_e_t_s_ _f_o_r_ _h_e_a_l_t_h_ _p_r_o_f_e_s_s_i_o_n_a_l_s
+_H_e_a_l_t_h_ _i_n_f_o_r_m_a_t_i_o_n_ _s_h_e_e_t_s_ _f_o_r_ _t_r_a_v_e_l_l_e_r_s
 
-***** Foreign and Commonwealth Office *****
-[The_Foreign_and_Commonweath_office]
+********** FFoorreeiiggnn aanndd CCoommmmoonnwweeaalltthh OOffffiiccee **********
+_[_T_h_e_ _F_o_r_e_i_g_n_ _a_n_d_ _C_o_m_m_o_n_w_e_a_t_h_ _o_f_f_i_c_e_]
 
-Country-specific_Travel_Advice_notices_for_safety_and_security,_entry
-requirements_and_other_relevant_information
+_C_o_u_n_t_r_y_-_s_p_e_c_i_f_i_c_ _T_r_a_v_e_l_ _A_d_v_i_c_e_ _n_o_t_i_c_e_s_ _f_o_r_ _s_a_f_e_t_y_ _a_n_d_ _s_e_c_u_r_i_t_y_,_ _e_n_t_r_y
+_r_e_q_u_i_r_e_m_e_n_t_s_ _a_n_d_ _o_t_h_e_r_ _r_e_l_e_v_a_n_t_ _i_n_f_o_r_m_a_t_i_o_n
 
-***** United Kingdom *****
-Â 
+********** UUnniitteedd KKiinnggddoomm **********
+ 
 There are no vaccination requirements for visitors to the UK.
 NaTHNaC provides information for health professionals advising UK residents
 travelling overseas. If you reside outside of the UK and intend to travel to
 the UK or are advising travellers who will be travelling to the UK, please
 check resources in your own country for health information for travel.
-For general advice about your trip to the United Kingdom, see the i-UK_website.
-For health protection information, visit Public_Health_England_(PHE).
+For general advice about your trip to the United Kingdom, see the _i_-_U_K_ _w_e_b_s_i_t_e_.
+For health protection information, visit _P_u_b_l_i_c_ _H_e_a_l_t_h_ _E_n_g_l_a_n_d_ _(_P_H_E_).
 
-Disclaimer | Copyright | Privacy | Sitemap | Accessibility
+_D_i_s_c_l_a_i_m_e_r | _C_o_p_y_r_i_g_h_t | _P_r_i_v_a_c_y | _S_i_t_e_m_a_p | _A_c_c_e_s_s_i_b_i_l_i_t_y
 
 
 

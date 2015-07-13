@@ -7,88 +7,88 @@
 
 Search :
 [Search NaTHNaC      ] [Submit /images/country_go_but.gif]
-[NaTHNaC_Logo]
+_[_N_a_T_H_N_a_C_ _L_o_g_o_]
 Health Professional
-    * Home
-    * Health_Professionals
-    * About_Us
-    * News
-    * Clinical_Updates
-    * Health_Information
-    * Yellow_Fever_Centres
-    * Links
-    * Contact_Us
-    * Country_Information
+    * _H_o_m_e
+    * _H_e_a_l_t_h_ _P_r_o_f_e_s_s_i_o_n_a_l_s
+    * _A_b_o_u_t_ _U_s
+    * _N_e_w_s
+    * _C_l_i_n_i_c_a_l_ _U_p_d_a_t_e_s
+    * _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n
+    * _Y_e_l_l_o_w_ _F_e_v_e_r_ _C_e_n_t_r_e_s
+    * _L_i_n_k_s
+    * _C_o_n_t_a_c_t_ _U_s
+    * _C_o_u_n_t_r_y_ _I_n_f_o_r_m_a_t_i_o_n
 Travellers
-    * Home
-    * Travellers
-    * About_us
-    * News
-    * Health_Information
-    * Yellow_Fever_Centres
-    * Links
-    * Contact_Us
-    * Country_Information
+    * _H_o_m_e
+    * _T_r_a_v_e_l_l_e_r_s
+    * _A_b_o_u_t_ _u_s
+    * _N_e_w_s
+    * _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n
+    * _Y_e_l_l_o_w_ _F_e_v_e_r_ _C_e_n_t_r_e_s
+    * _L_i_n_k_s
+    * _C_o_n_t_a_c_t_ _U_s
+    * _C_o_u_n_t_r_y_ _I_n_f_o_r_m_a_t_i_o_n
 Country Specific
-    * Home
-    * Health_Professionals
-    * Travellers
-    * Yellow_Fever_Centres
-    * Outbreak_Surveillance
-    * Clinical_Updates
-    * Contact_Us
-****** [Country Information] ******
+    * _H_o_m_e
+    * _H_e_a_l_t_h_ _P_r_o_f_e_s_s_i_o_n_a_l_s
+    * _T_r_a_v_e_l_l_e_r_s
+    * _Y_e_l_l_o_w_ _F_e_v_e_r_ _C_e_n_t_r_e_s
+    * _O_u_t_b_r_e_a_k_ _S_u_r_v_e_i_l_l_a_n_c_e
+    * _C_l_i_n_i_c_a_l_ _U_p_d_a_t_e_s
+    * _C_o_n_t_a_c_t_ _U_s
+************ [[CCoouunnttrryy IInnffoorrmmaattiioonn]] ************
 
-***** Locate Country *****
-» World_Map
-    * North_&_Central_America
-    * South_America_&_Antarctica
-    * Europe
-    * North_Africa_&_Middle_East
-    * Africa
-    * Asia_&_Oceania
-» Alphabetical_list_of_countries
-A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
-U | V | W | X | Y | Z
-***** Guidance *****
-[guidance]Making_the_most_of_this_resource
- 
-Rationale_for_risk_assessment_and_risk_management
-***** Outbreak Surveillance *****
-[Outbreak_Surveillance]
+********** LLooccaattee CCoouunnttrryy **********
+� _W_o_r_l_d_ _M_a_p
+    * _N_o_r_t_h_ _&_a_m_p_;_ _C_e_n_t_r_a_l_ _A_m_e_r_i_c_a
+    * _S_o_u_t_h_ _A_m_e_r_i_c_a_ _&_a_m_p_;_ _A_n_t_a_r_c_t_i_c_a
+    * _E_u_r_o_p_e
+    * _N_o_r_t_h_ _A_f_r_i_c_a_ _&_a_m_p_;_ _M_i_d_d_l_e_ _E_a_s_t
+    * _A_f_r_i_c_a
+    * _A_s_i_a_ _&_a_m_p_;_ _O_c_e_a_n_i_a
+� _A_l_p_h_a_b_e_t_i_c_a_l_ _l_i_s_t_ _o_f_ _c_o_u_n_t_r_i_e_s
+_A | _B | _C | _D | _E | _F | _G | _H | _I | _J | _K | _L | _M | _N | _O | _P | _Q | _R | _S | _T |
+_U | _V | _W | _X | _Y | _Z
+********** GGuuiiddaannccee **********
+[guidance]_M_a_k_i_n_g_ _t_h_e_ _m_o_s_t_ _o_f_ _t_h_i_s_ _r_e_s_o_u_r_c_e
+ 
+_R_a_t_i_o_n_a_l_e_ _f_o_r_ _r_i_s_k_ _a_s_s_e_s_s_m_e_n_t_ _a_n_d_ _r_i_s_k_ _m_a_n_a_g_e_m_e_n_t
+********** OOuuttbbrreeaakk SSuurrvveeiillllaannccee **********
+_[_O_u_t_b_r_e_a_k_ _S_u_r_v_e_i_l_l_a_n_c_e_]
 
-Search_for_recent_disease_outbreaks
-***** Clinical Updates *****
+_S_e_a_r_c_h_ _f_o_r_ _r_e_c_e_n_t_ _d_i_s_e_a_s_e_ _o_u_t_b_r_e_a_k_s
+********** CClliinniiccaall UUppddaatteess **********
 Information that may result in a change in travel advice
-»_All_clinical_updates
+_�_ _A_l_l_ _c_l_i_n_i_c_a_l_ _u_p_d_a_t_e_s
 
-***** Health Information Sheets *****
-Health_information_sheets_for_health_professionals
-Health_information_sheets_for_travellers
+********** HHeeaalltthh IInnffoorrmmaattiioonn SShheeeettss **********
+_H_e_a_l_t_h_ _i_n_f_o_r_m_a_t_i_o_n_ _s_h_e_e_t_s_ _f_o_r_ _h_e_a_l_t_h_ _p_r_o_f_e_s_s_i_o_n_a_l_s
+_H_e_a_l_t_h_ _i_n_f_o_r_m_a_t_i_o_n_ _s_h_e_e_t_s_ _f_o_r_ _t_r_a_v_e_l_l_e_r_s
 
-***** Foreign and Commonwealth Office *****
-[The_Foreign_and_Commonweath_office]
+********** FFoorreeiiggnn aanndd CCoommmmoonnwweeaalltthh OOffffiiccee **********
+_[_T_h_e_ _F_o_r_e_i_g_n_ _a_n_d_ _C_o_m_m_o_n_w_e_a_t_h_ _o_f_f_i_c_e_]
 
-Country-specific_Travel_Advice_notices_for_safety_and_security,_entry
-requirements_and_other_relevant_information
+_C_o_u_n_t_r_y_-_s_p_e_c_i_f_i_c_ _T_r_a_v_e_l_ _A_d_v_i_c_e_ _n_o_t_i_c_e_s_ _f_o_r_ _s_a_f_e_t_y_ _a_n_d_ _s_e_c_u_r_i_t_y_,_ _e_n_t_r_y
+_r_e_q_u_i_r_e_m_e_n_t_s_ _a_n_d_ _o_t_h_e_r_ _r_e_l_e_v_a_n_t_ _i_n_f_o_r_m_a_t_i_o_n
 
-***** Qatar *****
+********** QQaattaarr **********
 [Map of Qatar]
 Welcome to the NaTHNaC Country Information page.
 The information on this page should be used as part of a comprehensive pre-
 travel health consultation. Ideally this should be scheduled at least six weeks
 prior to travel. All travellers should have adequate travel health insurance.
-**** Contents ****
+******** CCoonntteennttss ********
 On this page:
-    * Recent_Clinical_Updates
-    * General_Health_Risks
-    * Vaccine_Preventable_Risks
-    * Non-Vaccine_Preventable_Risks
+    * _R_e_c_e_n_t_ _C_l_i_n_i_c_a_l_ _U_p_d_a_t_e_s
+    * _G_e_n_e_r_a_l_ _H_e_a_l_t_h_ _R_i_s_k_s
+    * _V_a_c_c_i_n_e_ _P_r_e_v_e_n_t_a_b_l_e_ _R_i_s_k_s
+    * _N_o_n_-_V_a_c_c_i_n_e_ _P_r_e_v_e_n_t_a_b_l_e_ _R_i_s_k_s
 Country Specific Links:
-    * NaTHNaC_Outbreak_Surveillance
-    * Foreign_and_Commonwealth_Office_(including_information_on_security,
-      safety_and_natural_disasters)
-View_Disclaimer
+    * _N_a_T_H_N_a_C_ _O_u_t_b_r_e_a_k_ _S_u_r_v_e_i_l_l_a_n_c_e
+    * _F_o_r_e_i_g_n_ _a_n_d_ _C_o_m_m_o_n_w_e_a_l_t_h_ _O_f_f_i_c_e_ _(_i_n_c_l_u_d_i_n_g_ _i_n_f_o_r_m_a_t_i_o_n_ _o_n_ _s_e_c_u_r_i_t_y_,
+      _s_a_f_e_t_y_ _a_n_d_ _n_a_t_u_r_a_l_ _d_i_s_a_s_t_e_r_s_)
+_V_i_e_w_ _D_i_s_c_l_a_i_m_e_r
 
 
 
@@ -106,105 +106,105 @@ View_Disclaimer
 
 
 
-Recent Clinical Updates
-Clinical_Updates_| General_Risks_|Vaccine_Preventable_Risks_|Non-Vaccine
-Preventable_Risks
-Back_to_Top
+RReecceenntt CClliinniiccaall UUppddaatteess
+_C_l_i_n_i_c_a_l_ _U_p_d_a_t_e_s_ _| _G_e_n_e_r_a_l_ _R_i_s_k_s_ _|_V_a_c_c_i_n_e_ _P_r_e_v_e_n_t_a_b_l_e_ _R_i_s_k_s_ _|_N_o_n_-_V_a_c_c_i_n_e
+_P_r_e_v_e_n_t_a_b_l_e_ _R_i_s_k_s
+_B_a_c_k_ _t_o_ _T_o_p
 Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
   There have been no Clinical Updates about this country in the last 6 months.
-View_a_full_list_of_Clinical_Updates_for_this_country.
+_V_i_e_w_ _a_ _f_u_l_l_ _l_i_s_t_ _o_f_ _C_l_i_n_i_c_a_l_ _U_p_d_a_t_e_s_ _f_o_r_ _t_h_i_s_ _c_o_u_n_t_r_y_.
 
 
-General Health Risks
-Clinical_Updates | General_Risks | Vaccine_Preventable_Risks | Non-Vaccine
-Preventable_Risks | Back_to_Top
+GGeenneerraall HHeeaalltthh RRiisskkss
+_C_l_i_n_i_c_a_l_ _U_p_d_a_t_e_s | _G_e_n_e_r_a_l_ _R_i_s_k_s | _V_a_c_c_i_n_e_ _P_r_e_v_e_n_t_a_b_l_e_ _R_i_s_k_s | _N_o_n_-_V_a_c_c_i_n_e
+_P_r_e_v_e_n_t_a_b_l_e_ _R_i_s_k_s | _B_a_c_k_ _t_o_ _T_o_p
 Some health risks apply to travellers to all countries. Please see below for a
 list of important health information sheets. A full list of information sheets
 is available through the Health Information Sheets link on the left hand side
 of the page.
-** Health Professionals **              ** Travellers **
-Food_and_Water-Borne_Diseases           Food_and_Water-Borne_Diseases
-Insect_Bite_Avoidance                   Insect_Bite_Avoidance
-Personal_Safety_During_Travel           Personal_Safety_During_Travel
-Sun_Protection                          Sun_Protection
-HIV_and_sexually_transmitted_infections Sexually_transmitted_infections_and
-Natural_Disasters_-_Advice_for_relief   travel
-workers_and_other_travellers_to_areas   Travel_to_Areas_of_Disasters_and
-affected_by_natural_disasters           Conflicts
+**** HHeeaalltthh PPrrooffeessssiioonnaallss ****              **** TTrraavveelllleerrss ****
+_F_o_o_d_ _a_n_d_ _W_a_t_e_r_-_B_o_r_n_e_ _D_i_s_e_a_s_e_s           _F_o_o_d_ _a_n_d_ _W_a_t_e_r_-_B_o_r_n_e_ _D_i_s_e_a_s_e_s
+_I_n_s_e_c_t_ _B_i_t_e_ _A_v_o_i_d_a_n_c_e                   _I_n_s_e_c_t_ _B_i_t_e_ _A_v_o_i_d_a_n_ce
+_P_e_r_s_o_n_a_l_ _S_a_f_e_t_y_ _D_u_r_i_n_g_ _T_r_a_v_e_l           _P_e_r_s_o_n_a_l_ _S_a_f_e_t_y_ _D_u_r_i_n_g_ _T_r_a_v_e_l
+_S_u_n_ _P_r_o_t_e_c_t_i_o_n                          _S_u_n_ _P_r_o_t_e_c_t_i_o_n
+_H_I_V_ _a_n_d_ _s_e_x_u_a_l_l_y_ _t_r_a_n_s_m_i_t_t_e_d_ _i_n_f_e_c_t_i_o_n_s _S_e_x_u_a_l_l_y_ _t_r_a_n_s_m_i_t_t_e_d_ _i_n_f_e_c_t_i_o_n_s_ _a_n_d
+_N_a_t_u_r_a_l_ _D_i_s_a_s_t_e_r_s_ _-_ _A_d_v_i_c_e_ _f_o_r_ _r_e_l_i_e_f   _t_r_a_v_e_l
+_w_o_r_k_e_r_s_ _a_n_d_ _o_t_h_e_r_ _t_r_a_v_e_l_l_e_r_s_ _t_o_ _a_r_e_a_s   _T_r_a_v_e_l_ _t_o_ _A_r_e_a_s_ _o_f_ _D_i_s_a_s_t_e_r_s_ _a_n_d
+_a_f_f_e_c_t_e_d_ _b_y_ _n_a_t_u_r_a_l_ _d_i_s_a_s_t_e_r_s           _C_o_n_f_l_i_c_t_s
 
 
-Vaccine Preventable Risks
-Clinical_Updates_| General_Risks_|Vaccine_Preventable_Risks_|Non-Vaccine
-Preventable_Risks
-Back_to_Top
+VVaacccciinnee PPrreevveennttaabbllee RRiisskkss
+_C_l_i_n_i_c_a_l_ _U_p_d_a_t_e_s_ _| _G_e_n_e_r_a_l_ _R_i_s_k_s_ _|_V_a_c_c_i_n_e_ _P_r_e_v_e_n_t_a_b_l_e_ _R_i_s_k_s_ _|_N_o_n_-_V_a_c_c_i_n_e
+_P_r_e_v_e_n_t_a_b_l_e_ _R_i_s_k_s
+_B_a_c_k_ _t_o_ _T_o_p
 Travellers should be up to date with routinely recommended vaccinations
 according to the UK schedule:
-    * NHS_Immunisation_Information
-    * Department_of_Health_Immunisation_Against_Infectious_Disease_(Green_book)
-Yellow Fever
-Vaccine Preventable Risks: Yellow_Fever | Additional_Risks | Back_to_Top
-YELLOW FEVER
+    * _N_H_S_ _I_m_m_u_n_i_s_a_t_i_o_n_ _I_n_f_o_r_m_a_t_i_o_n
+    * _D_e_p_a_r_t_m_e_n_t_ _o_f_ _H_e_a_l_t_h_ _II_mm_mm_uu_nn_ii_ss_aa_tt_ii_oo_nn_ _AA_gg_aa_ii_nn_ss_tt_ _II_nn_ff_ee_cc_tt_ii_oo_uu_ss_ _DD_ii_ss_ee_aa_ss_ee_ _(_G_r_e_e_n_ _b_o_o_k_)
+YYeellllooww FFeevveerr
+VVaacccciinnee PPrreevveennttaabbllee RRiisskkss:: _Y_e_l_l_o_w_ _F_e_v_e_r | _A_d_d_i_t_i_o_n_a_l_ _R_i_s_k_s | _B_a_c_k_ _t_o_ _T_o_p
+YYEELLLLOOWW FFEEVVEERR
 There is no risk of yellow fever in this country and there are no certificate
 requirements under International Health Regulations (2005).
 
-Additional Risks
-Vaccine Preventable Risks: Yellow_Fever | Additional_Risks | Back_to_Top
+AAddddiittiioonnaall RRiisskkss
+VVaacccciinnee PPrreevveennttaabbllee RRiisskkss:: _Y_e_l_l_o_w_ _F_e_v_e_r | _A_d_d_i_t_i_o_n_a_l_ _R_i_s_k_s | _B_a_c_k_ _t_o_ _T_o_p
 The diseases below may be a risk in all or part of the country and are
 presented alphabetically:
 
-Hepatitis_A,
-Hepatitis_B,
-Rabies, Tetanus, Typhoid
-Additional_Risks | Back_to_Top
-*** HEPATITIS A ***
-Hepatitis A is a viral disease that causes inflammation of the liver. A_map
-showing_the_global_areas_at_risk_for_hepatitis_A_can_be_found_here_(102_KB_GIF)
-** Risk assessment **
-    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
+_H_e_p_a_t_i_t_i_s_ _A,
+_H_e_p_a_t_i_t_i_s_ _B,
+_R_a_b_i_e_s, _T_e_t_a_n_u_s, _T_y_p_h_o_i_d
+_A_d_d_i_t_i_o_n_a_l_ _R_i_s_k_s | _B_a_c_k_ _t_o_ _T_o_p
+****** HHEEPPAATTIITTIISS AA ******
+Hepatitis A is a viral disease that causes inflammation of the liver. _A_ _m_a_p
+_s_h_o_w_i_n_g_ _t_h_e_ _g_l_o_b_a_l_ _a_r_e_a_s_ _a_t_ _r_i_s_k_ _f_o_r_ _h_e_p_a_t_i_t_i_s_ _A_ _c_a_n_ _b_e_ _f_o_u_n_d_ _h_e_r_e_ _(_1_0_2_ _K_B_ _G_I_F_)
+**** RRiisskk aasssseessssmmeenntt ****
+    * _E_p_i_d_e_m_i_o_l_o_g_y_I_n_f_o_r_m_a_t_i_o_n_ _o_n_ _t_h_e_ _o_c_c_u_r_r_e_n_c_e_ _o_f_ _d_i_s_e_a_s_e_ _w_i_t_h_i_n_ _t_h_i_s_ _c_o_u_n_t_r_y
       - Hepatitis A is known or presumed to occur in this country.
-    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
-      increase_disease_risk - Hepatitis A is transmitted through contaminated
+    * _E_x_p_o_s_u_r_e_I_n_f_o_r_m_a_t_i_o_n_ _o_n_ _t_h_e_ _m_o_d_e_ _o_f_ _t_r_a_n_s_m_i_s_s_i_o_n_ _a_n_d_ _f_a_c_t_o_r_s_ _t_h_a_t_ _m_a_y
+      _i_n_c_r_e_a_s_e_ _d_i_s_e_a_s_e_ _r_i_s_k - Hepatitis A is transmitted through contaminated
       food and water. Those at higher risk include travellers visiting friends
       and relatives, long stay travellers, and those visiting areas of poor
       sanitation.
-** Risk management **
+**** RRiisskk mmaannaaggeemmeenntt ****
     * Travellers should practice strict food, water and personal hygiene
       precautions.
-    * Vaccine should_be_givenAll_travellers_in_risk_categories_should_receive
-      vaccine to travellers whose planned activities put them at risk (see
+    * Vaccine _s_h_o_u_l_d_ _b_e_ _g_i_v_e_n_A_l_l_ _t_r_a_v_e_l_l_e_r_s_ _i_n_ _r_i_s_k_ _c_a_t_e_g_o_r_i_e_s_ _s_h_o_u_l_d_ _r_e_c_e_i_v_e
+      _v_a_c_c_i_n_e to travellers whose planned activities put them at risk (see
       above).
     * Because hepatitis A vaccine is well tolerated and affords long-lasting
-      protection, it may_be_givenMost_travellers_at_low_risk,_consider_vaccine
-      for_those_in_risk_categories to all previously unvaccinated travellers.
+      protection, it _m_a_y_ _b_e_ _g_i_v_e_n_M_o_s_t_ _t_r_a_v_e_l_l_e_r_s_ _a_t_ _l_o_w_ _r_i_s_k_,_ _c_o_n_s_i_d_e_r_ _v_a_c_c_i_n_e
+      _f_o_r_ _t_h_o_s_e_ _i_n_ _r_i_s_k_ _c_a_t_e_g_o_r_i_e_s to all previously unvaccinated travellers.
     * Vaccine should also be given to those with chronic liver disease or
       haemophilia, men who have sex with men, injecting drug users and those at
       occupational risk.
-** Resources **
-** Health Professionals **                 ** Travellers **
-NaTHNaC_Health_Information_Sheet_on        NaTHNaC_Health_Information_Sheet_on
-Hepatitis_A                                Hepatitis_A
-Department_of_Health:_Immunisation_against NaTHNaC_Health_Information_Sheet_on
-infectious_disease_(Green_Book)_-          Prevention_of_Food_and_Water-Borne
-Hepatitis_A                                Diseases
-NaTHNaC_Health_Information_Sheet_on
-Prevention_of_Food_and_Water-Borne
-Diseases
+**** RReessoouurrcceess ****
+**** HHeeaalltthh PPrrooffeessssiioonnaallss ****                 **** TTrraavveelllleerrss ****
+_N_a_T_H_N_a_C_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_ _o_n        _N_a_T_H_N_a_C_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_ _o_n
+_H_e_p_a_t_i_t_i_s_ _A                                _H_e_p_a_t_i_t_i_s_ _A
+_D_e_p_a_r_t_m_e_n_t_ _o_f_ _H_e_a_l_t_h_:_ _I_m_m_u_n_i_s_a_t_i_o_n_ _a_g_a_i_n_s_t _N_a_T_H_N_a_C_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_ _o_n
+_i_n_f_e_c_t_i_o_u_s_ _d_i_s_e_a_s_e_ _(_G_r_e_e_n_ _B_o_o_k_)_ _-          _P_r_e_v_e_n_t_i_o_n_ _o_f_ _F_o_o_d_ _a_n_d_ _W_a_t_e_r_-_B_o_r_n_e
+_H_e_p_a_t_i_t_i_s_ _A                                _D_i_s_e_a_s_e_s
+_N_a_T_H_N_a_C_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_ _o_n
+_P_r_e_v_e_n_t_i_o_n_ _o_f_ _F_o_o_d_ _a_n_d_ _W_a_t_e_r_-_B_o_r_n_e
+_D_i_s_e_a_s_e_s
 
-Additional_Risks | Back_to_Top
-*** HEPATITIS B ***
+_A_d_d_i_t_i_o_n_a_l_ _R_i_s_k_s | _B_a_c_k_ _t_o_ _T_o_p
+****** HHEEPPAATTIITTIISS BB ******
 Hepatitis B is a viral disease that causes inflammation of the liver and may
 lead to chronic complications.
-** Risk assessment **
-    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
+**** RRiisskk aasssseessssmmeenntt ****
+    * _E_p_i_d_e_m_i_o_l_o_g_y_I_n_f_o_r_m_a_t_i_o_n_ _o_n_ _t_h_e_ _o_c_c_u_r_r_e_n_c_e_ _o_f_ _d_i_s_e_a_s_e_ _w_i_t_h_i_n_ _t_h_i_s_ _c_o_u_n_t_r_y
       - In this country 2% or more of the population are known or presumed to
       be persistently infected with the hepatitis B virus (intermediate/high
       prevalence).
-    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
-      increase_disease_risk - Hepatitis B is transmitted via infected blood or
+    * _E_x_p_o_s_u_r_e_I_n_f_o_r_m_a_t_i_o_n_ _o_n_ _t_h_e_ _m_o_d_e_ _o_f_ _t_r_a_n_s_m_i_s_s_i_o_n_ _a_n_d_ _f_a_c_t_o_r_s_ _t_h_a_t_ _m_a_y
+      _i_n_c_r_e_a_s_e_ _d_i_s_e_a_s_e_ _r_i_s_k - Hepatitis B is transmitted via infected blood or
       bodily fluids.
-** Risk management **
+**** RRiisskk mmaannaaggeemmeenntt ****
     *  Travellers should avoid contact with blood or bodily fluids. Where
       contact is unavoidable, appropriate protective precautions should be
       taken.
@@ -212,37 +212,37 @@ A sterile medical kit should be carried.
 Vaccination should be considered for all adult and child travellers.
 Vaccination is recommended for travellers at higher risk of exposure including
 those who:
-      - may have unprotected sex
-      - may be directly exposed to blood or blood products through their
+      - may have unprotected sex
+      - may be directly exposed to blood or blood products through their
      occupation, such as healthcare professionals
-      - are participating in contact sports
-      - may be exposed to contaminated needles through injecting drug use,
+      - are participating in contact sports
+      - may be exposed to contaminated needles through injecting drug use,
      or as a result of accessing medical or dental care e.g. those with
      pre-existing medical conditions and those travelling for medical care
-      - intend to undergo renal dialysis whilst overseas
-      - are adopting children from the country
-      - long stay travellers.
-** Resources **
-** Health Professionals **                ** Travellers **
-NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
-Hepatitis_B                               Hepatitis_B
-Department_of_Health_Immunisation_Against
-Infectious_Disease_(Green_Book)
+      - intend to undergo renal dialysis whilst overseas
+      - are adopting children from the country
+      - long stay travellers.
+**** RReessoouurrcceess ****
+**** HHeeaalltthh PPrrooffeessssiioonnaallss ****                **** TTrraavveelllleerrss ****
+_N_a_T_H_N_a_C_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_ _o_n       _N_a_T_H_N_a_C_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_ _o_n
+_H_e_p_a_t_i_t_i_s_ _B                               _H_e_p_a_t_i_t_i_s_ _B
+_D_e_p_a_r_t_m_e_n_t_ _o_f_ _H_e_a_l_t_h_ _I_m_m_u_n_i_s_a_t_i_o_n_ _A_g_a_i_n_s_t
+_I_n_f_e_c_t_i_o_u_s_ _D_i_s_e_a_s_e_ _(_G_r_e_e_n_ _B_o_o_k_)
 
-Additional_Risks | Back_to_Top
-*** RABIES ***
-Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
-** Risk assessment **
-    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
+_A_d_d_i_t_i_o_n_a_l_ _R_i_s_k_s | _B_a_c_k_ _t_o_ _T_o_p
+****** RRAABBIIEESS ******
+Rabies is a neurological disease caused by viruses of the LLyyssssaavviirruuss genus.
+**** RRiisskk aasssseessssmmeenntt ****
+    * _E_p_i_d_e_m_i_o_l_o_g_y_I_n_f_o_r_m_a_t_i_o_n_ _o_n_ _t_h_e_ _o_c_c_u_r_r_e_n_c_e_ _o_f_ _d_i_s_e_a_s_e_ _w_i_t_h_i_n_ _t_h_i_s_ _c_o_u_n_t_r_y
       - in this country rabies has only been reported in wild animals;
       therefore most travellers to this country are considered to be at low
       risk for rabies.
     * Bats may carry rabies-like viruses in this country.
-    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
-      increase_disease_risk - transmission may occur following contact with the
+    * _E_x_p_o_s_u_r_e_I_n_f_o_r_m_a_t_i_o_n_ _o_n_ _t_h_e_ _m_o_d_e_ _o_f_ _t_r_a_n_s_m_i_s_s_i_o_n_ _a_n_d_ _f_a_c_t_o_r_s_ _t_h_a_t_ _m_a_y
+      _i_n_c_r_e_a_s_e_ _d_i_s_e_a_s_e_ _r_i_s_k - transmission may occur following contact with the
       saliva from an infected animal, most often via a bite, scratch or lick to
       an open wound or mucous membrane. Rabies transmission may occur following
-      contact with the saliva of an infected bat (via bites or scratches or
+      contact with the saliva of an infected bat (via bites or scratches or
       saliva contact with mucous membranes). Bites from bats are frequently
       unrecognised.
       The risk of exposure to wild animals may be increased for those with
@@ -250,7 +250,7 @@ Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
       trips e.g. camping, wildlife viewing.
       Children are at increased risk as they are less likely to avoid contact
       with animals and to report a bite, scratch or lick.
-** Risk management **
+**** RRiisskk mmaannaaggeemmeenntt ****
     * Travellers should avoid contact with wild animals and bats.
     * Pre-exposure vaccination could be considered for those at increased risk
       (see above).
@@ -258,99 +258,99 @@ Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
       an urgent local medical assessment sought, even if the wound appears
       trivial. Prompt post exposure treatment may be required.
     * Post-exposure management and advice on return to the UK should be in
-      accordance with PHE_guidelines.
+      accordance with _P_H_E_ _g_u_i_d_e_l_i_n_e_s.
 Suitable vaccine and immunoglobulins may be in short supply or unavailable in
 some countries.
-** Resources **
-** Health Professionals **                ** Travellers **
-NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
-Rabies                                    Rabies
-Department_of_Health._Immunisation
-Against_Infectious_Disease_(Green_Book)
-Public_Health_England:_Rabies
-World_Animal_Health_Information_Database_
-(OIE)
+**** RReessoouurrcceess ****
+**** HHeeaalltthh PPrrooffeessssiioonnaallss ****                **** TTrraavveelllleerrss ****
+_N_a_T_H_N_a_C_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_ _o_n       _N_a_T_H_N_a_C_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_ _o_n
+_R_a_b_i_e_s                                    _R_a_b_i_e_s
+_D_e_p_a_r_t_m_e_n_t_ _o_f_ _H_e_a_l_t_h_._ _II_mm_mm_uu_nn_ii_ss_aa_tt_ii_oo_nn
+_AA_gg_aa_ii_nn_ss_tt_ _II_nn_ff_ee_cc_tt_ii_oo_uu_ss_ _DD_ii_ss_ee_aa_ss_ee_ _(_G_r_e_e_n_ _B_o_o_k_)
+_P_u_b_l_i_c_ _H_e_a_l_t_h_ _E_n_g_l_a_n_d_:_ _R_a_b_i_e_s
+_W_o_r_l_d_ _A_n_i_m_a_l_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _D_a_t_a_b_a_s_e_ 
+_(_O_I_E_)
 
-Additional_Risks | Back_to_Top
-*** TETANUS ***
-Tetanus is caused by a toxin released from Clostridium tetani bacteria.
-** Risk assessment **
-    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
+_A_d_d_i_t_i_o_n_a_l_ _R_i_s_k_s | _B_a_c_k_ _t_o_ _T_o_p
+****** TTEETTAANNUUSS ******
+Tetanus is caused by a toxin released from CClloossttrriiddiiuumm tteettaannii bacteria.
+**** RRiisskk aasssseessssmmeenntt ****
+    * _E_p_i_d_e_m_i_o_l_o_g_y_I_n_f_o_r_m_a_t_i_o_n_ _o_n_ _t_h_e_ _o_c_c_u_r_r_e_n_c_e_ _o_f_ _d_i_s_e_a_s_e_ _w_i_t_h_i_n_ _t_h_i_s_ _c_o_u_n_t_r_y
       - Tetanus bacteria are found worldwide.
-    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
-      increase_disease_risk - Tetanus bacteria are present in soil and manure
+    * _E_x_p_o_s_u_r_e_I_n_f_o_r_m_a_t_i_o_n_ _o_n_ _t_h_e_ _m_o_d_e_ _o_f_ _t_r_a_n_s_m_i_s_s_i_o_n_ _a_n_d_ _f_a_c_t_o_r_s_ _t_h_a_t_ _m_a_y
+      _i_n_c_r_e_a_s_e_ _d_i_s_e_a_s_e_ _r_i_s_k - Tetanus bacteria are present in soil and manure
       and may be introduced through open wounds such as a puncture wound, burn
       or scratch.
-** Risk management **
+**** RRiisskk mmaannaaggeemmeenntt ****
     * Travellers should thoroughly clean all wounds and seek appropriate
       medical attention
     * Travellers should have completed a primary vaccination course according
       to the UK schedule.
-    * A booster dose should_be_givenAll_travellers_in_risk_categories_should
-      receive_vaccine to travellers whose last dose of a tetanus-containing
+    * A booster dose _s_h_o_u_l_d_ _b_e_ _g_i_v_e_n_A_l_l_ _t_r_a_v_e_l_l_e_r_s_ _i_n_ _r_i_s_k_ _c_a_t_e_g_o_r_i_e_s_ _s_h_o_u_l_d
+      _r_e_c_e_i_v_e_ _v_a_c_c_i_n_e to travellers whose last dose of a tetanus-containing
       vaccine was given more than 10 years ago, and who will not have ready
       access to medical care; even if they have received five doses previously.
-** Resources **
-** Health Professionals **                ** Travellers **
-NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
-Tetanus                                   Tetanus
-Department_of_Health_Immunisation_Against
-Infectious_Disease_(Green_Book)
+**** RReessoouurrcceess ****
+**** HHeeaalltthh PPrrooffeessssiioonnaallss ****                **** TTrraavveelllleerrss ****
+_N_a_T_H_N_a_C_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_ _o_n       _N_a_T_H_N_a_C_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_ _o_n
+_T_e_t_a_n_u_s                                   _T_e_t_a_n_u_s
+_D_e_p_a_r_t_m_e_n_t_ _o_f_ _H_e_a_l_t_h_ _II_mm_mm_uu_nn_ii_ss_aa_tt_ii_oo_nn_ _AA_gg_aa_ii_nn_ss_tt
+_II_nn_ff_ee_cc_tt_ii_oo_uu_ss_ _DD_ii_ss_ee_aa_ss_ee_ _(_G_r_e_e_n_ _B_o_o_k_)
 
-Additional_Risks | Back_to_Top
-*** TYPHOID ***
-Typhoid fever is a systemic disease caused by Salmonella Typhi bacteria.
-** Risk assessment **
-    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
+_A_d_d_i_t_i_o_n_a_l_ _R_i_s_k_s | _B_a_c_k_ _t_o_ _T_o_p
+****** TTYYPPHHOOIIDD ******
+Typhoid fever is a systemic disease caused by SSaallmmoonneellllaa Typhi bacteria.
+**** RRiisskk aasssseessssmmeenntt ****
+    * _E_p_i_d_e_m_i_o_l_o_g_y_I_n_f_o_r_m_a_t_i_o_n_ _o_n_ _t_h_e_ _o_c_c_u_r_r_e_n_c_e_ _o_f_ _d_i_s_e_a_s_e_ _w_i_t_h_i_n_ _t_h_i_s_ _c_o_u_n_t_r_y
       - Typhoid fever is known or presumed to occur in this country.
-    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
-      increase_disease_risk - Typhoid is transmitted through contaminated food
+    * _E_x_p_o_s_u_r_e_I_n_f_o_r_m_a_t_i_o_n_ _o_n_ _t_h_e_ _m_o_d_e_ _o_f_ _t_r_a_n_s_m_i_s_s_i_o_n_ _a_n_d_ _f_a_c_t_o_r_s_ _t_h_a_t_ _m_a_y
+      _i_n_c_r_e_a_s_e_ _d_i_s_e_a_s_e_ _r_i_s_k - Typhoid is transmitted through contaminated food
       and water. Travellers who will have access to safe food and water are
       likely to be at low risk. Those at higher risk include travellers
       visiting friends and relatives, young children, long-term travellers, and
       those visiting areas of poor sanitation.
-** Risk management **
+**** RRiisskk mmaannaaggeemmeenntt ****
     * Travellers should practice strict food, water and personal hygiene
       precautions even if vaccinated.
     * Most travellers are at low risk and do not need vaccination.
-    * Vaccine may_be_givenMost_travellers_at_low_risk,_consider_vaccine_for
-      those_in_risk_categories to travellers whose planned activities put them
-      at higher risk (see above). Current vaccines against SalmonellaTyphi are
-      only 50-80% protective and do not protect against SalmonellaParatyphi.
+    * Vaccine _m_a_y_ _b_e_ _g_i_v_e_n_M_o_s_t_ _t_r_a_v_e_l_l_e_r_s_ _a_t_ _l_o_w_ _r_i_s_k_,_ _c_o_n_s_i_d_e_r_ _v_a_c_c_i_n_e_ _f_o_r
+      _t_h_o_s_e_ _i_n_ _r_i_s_k_ _c_a_t_e_g_o_r_i_e_s to travellers whose planned activities put them
+      at higher risk (see above). Current vaccines against SSaallmmoonneellllaaTyphi are
+      only 50-80% protective and do not protect against SSaallmmoonneellllaaParatyphi.
       Previous typhoid illness does not confer reliable immunity.
-** Resources **
-** Health Professionals **                ** Travellers **
-NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
-Typhoid_and_Paratyphoid_Fever             Typhoid_and_Paratyphoid_Fever
-NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
-Prevention_of_Food-_and_Water-Borne       Prevention_of_Food-_and_Water-Borne
-Diseases                                  Diseases
-Department_of_Health_Immunisation_Against
-Infectious_Disease_(Green_Book)
+**** RReessoouurrcceess ****
+**** HHeeaalltthh PPrrooffeessssiioonnaallss ****                **** TTrraavveelllleerrss ****
+_N_a_T_H_N_a_C_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_ _o_n       _N_a_T_H_N_a_C_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_ _o_n
+_T_y_p_h_o_i_d_ _a_n_d_ _P_a_r_a_t_y_p_h_o_i_d_ _F_e_v_e_r             _T_y_p_h_o_i_d_ _a_n_d_ _P_a_r_a_t_y_p_h_o_i_d_ _F_e_v_e_r
+_N_a_T_H_N_a_C_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_ _o_n       _N_a_T_H_N_a_C_ _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_ _o_n
+_P_r_e_v_e_n_t_i_o_n_ _o_f_ _F_o_o_d_-_ _a_n_d_ _W_a_t_e_r_-_B_o_r_n_e       _P_r_e_v_e_n_t_i_o_n_ _o_f_ _F_o_o_d_-_ _a_n_d_ _W_a_t_e_r_-_B_o_r_n_e
+_D_i_s_e_a_s_e_s                                  _D_i_s_e_a_s_e_s
+_D_e_p_a_r_t_m_e_n_t_ _o_f_ _H_e_a_l_t_h_ _II_mm_mm_uu_nn_ii_ss_aa_tt_ii_oo_nn_ _AA_gg_aa_ii_nn_ss_tt
+_II_nn_ff_ee_cc_tt_ii_oo_uu_ss_ _DD_ii_ss_ee_aa_ss_ee_ _(_G_r_e_e_n_ _B_o_o_k_)
 
-Non-Vaccine Preventable Risks
-Clinical_Updates_| General_Risks_|Vaccine_Preventable_Risks_|Non-Vaccine
-Preventable_Risks
-Back_to_Top
+NNoonn--VVaacccciinnee PPrreevveennttaabbllee RRiisskkss
+_C_l_i_n_i_c_a_l_ _U_p_d_a_t_e_s_ _| _G_e_n_e_r_a_l_ _R_i_s_k_s_ _|_V_a_c_c_i_n_e_ _P_r_e_v_e_n_t_a_b_l_e_ _R_i_s_k_s_ _|_N_o_n_-_V_a_c_c_i_n_e
+_P_r_e_v_e_n_t_a_b_l_e_ _R_i_s_k_s
+_B_a_c_k_ _t_o_ _T_o_p
 This section details infectious disease risks for which there are no vaccines
 as well as some non-infectious disease risks. This is not an exhaustive list.
 Further information about infectious and non-infectious disease risks can be
 found on the NaTHNaC Health Information Sheets. Travellers should be aware that
 accidents and injuries are a cause of serious illness during travel.
-Malaria
-Non-Vaccine Preventable Risks: Malaria | Additional_Risks | Back_to_Top
-*** MALARIA ***
+MMaallaarriiaa
+NNoonn--VVaacccciinnee PPrreevveennttaabbllee RRiisskkss:: _M_a_l_a_r_i_a | _A_d_d_i_t_i_o_n_a_l_ _R_i_s_k_s | _B_a_c_k_ _t_o_ _T_o_p
+****** MMAALLAARRIIAA ******
 There is no risk of malaria in this country.
-Additional Risks
-Non-Vaccine Preventable Risks: Malaria | Additional_Risks | Back_to_Top
+AAddddiittiioonnaall RRiisskkss
+NNoonn--VVaacccciinnee PPrreevveennttaabbllee RRiisskkss:: _M_a_l_a_r_i_a | _A_d_d_i_t_i_o_n_a_l_ _R_i_s_k_s | _B_a_c_k_ _t_o_ _T_o_p
 Information about infectious disease risks for which there are no vaccines as
 well as non-infectious disease risks that may be present in this country can be
 found on our health information sheets (see below).
-Health_Information_Sheets_for_Health Health_Information_Sheets_for_Travellers
-Professionals
+_H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_s_ _f_o_r_ _H_e_a_l_t_h _H_e_a_l_t_h_ _I_n_f_o_r_m_a_t_i_o_n_ _S_h_e_e_t_s_ _f_o_r_ _T_r_a_v_e_l_l_e_r_s
+_P_r_o_f_e_s_s_i_o_n_a_l_s
 
-Disclaimer
-Back_to_Top
+DDiissccllaaiimmeerr
+_B_a_c_k_ _t_o_ _T_o_p
 The travel health information contained in these pages is intended for health
 professionals who assess a patients travel health needs. This document is not a
 complete medical guide for travellers and as such travellers using this site
@@ -359,11 +359,12 @@ your travel and medical history. While every care has been taken to ensure the
 accuracy and timeliness of the travel health information, NaTHNaC cannot accept
 any liability for injury, loss or damage arising in any respect of any
 statement contained therein.
-For the purpose of these web pages the term "country" covers countries,
-territories and areas. Areas within a country may be shown separately where it
-is felt necessary in order to provide travel health information.
+For the purpose of these web pages the term &quot;country&quot; covers
+countries, territories and areas. Areas within a country may be shown
+separately where it is felt necessary in order to provide travel health
+information.
 
-Disclaimer | Copyright | Privacy | Sitemap | Accessibility
+_D_i_s_c_l_a_i_m_e_r | _C_o_p_y_r_i_g_h_t | _P_r_i_v_a_c_y | _S_i_t_e_m_a_p | _A_c_c_e_s_s_i_b_i_l_i_t_y
 
 
 
