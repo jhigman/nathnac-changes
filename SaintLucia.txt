@@ -96,6 +96,8 @@ Back_to_Top
 Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
+  21 July 2015:
+      Chikungunya_virus:_Caribbean_and_the_Americas
   21 April 2015:
       Chikungunya_virus:_Caribbean_and_the_Americas
 View_a_full_list_of_Clinical_Updates_for_this_country.
