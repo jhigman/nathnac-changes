@@ -346,8 +346,8 @@ Polio is a viral disease involving the gastrointestinal tract and occasionally
 the central nervous system, leading to paralytic poliomyelitis.
 ** Risk assessment **
     * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
-      - Cases of circulating Vaccine Derived Polio Virus (cVDPV) were reported
-      in 2014 [please_see_Clinical_Update_of_7_November_2014].
+      - Cases of circulating Vaccine Derived Polio Virus (cVDPV) have been
+      reported in 2014 and 2015 [Please_see_Disease_Outbreak_Database].
     * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
       increase_disease_risk - Polio virus (including cVDPV) is transmitted
       through contaminated food and water. Those at higher risk of exposure
