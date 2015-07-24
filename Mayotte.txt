@@ -40,19 +40,18 @@ Country Specific
 ****** [Country Information] ******
 
 ***** Locate Country *****
-» World_Map
+>> World_Map
     * North_&_Central_America
     * South_America_&_Antarctica
     * Europe
     * North_Africa_&_Middle_East
     * Africa
     * Asia_&_Oceania
-» Alphabetical_list_of_countries
+>> Alphabetical_list_of_countries
 A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
 U | V | W | X | Y | Z
 ***** Guidance *****
 [guidance]Making_the_most_of_this_resource
- 
 Rationale_for_risk_assessment_and_risk_management
 ***** Outbreak Surveillance *****
 [Outbreak_Surveillance]
@@ -60,7 +59,7 @@ Rationale_for_risk_assessment_and_risk_management
 Search_for_recent_disease_outbreaks
 ***** Clinical Updates *****
 Information that may result in a change in travel advice
-»_All_clinical_updates
+>>_All_clinical_updates
 
 ***** Health Information Sheets *****
 Health_information_sheets_for_health_professionals
@@ -219,16 +218,16 @@ A sterile medical kit should be carried.
 Vaccination should be considered for all adult and child travellers.
 Vaccination is recommended for travellers at higher risk of exposure including
 those who:
-      - may have unprotected sex
-      - may be directly exposed to blood or blood products through their
+     - may have unprotected sex
+     - may be directly exposed to blood or blood products through their
      occupation, such as healthcare professionals
-      - are participating in contact sports
-      - may be exposed to contaminated needles through injecting drug use,
+     - are participating in contact sports
+     - may be exposed to contaminated needles through injecting drug use,
      or as a result of accessing medical or dental care e.g. those with
      pre-existing medical conditions and those travelling for medical care
-      - intend to undergo renal dialysis whilst overseas
-      - are adopting children from the country
-      - long stay travellers.
+     - intend to undergo renal dialysis whilst overseas
+     - are adopting children from the country
+     - long stay travellers.
 ** Resources **
 ** Health Professionals **                ** Travellers **
 NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
@@ -240,7 +239,6 @@ Additional_Risks | Back_to_Top
 *** RABIES ***
 Rabies has not been reported in domestic or wild animals in this country
 however, bats may carry rabies-like viruses.
- 
 ** Risk assessment **
     * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
       increase_disease_risk - Rabies transmission may occur following contact
@@ -258,7 +256,7 @@ however, bats may carry rabies-like viruses.
       medical assessment sought, even if the wound appears trivial. Prompt
       post-exposure treatmentis required, even if pre-exposure vaccine has been
       received.
-    * Post-exposure management and advice on return to the UK should be in 
+    * Post-exposure management and advice on return to the UK should be in
       accordance with PHE_guidelines.
 Suitable vaccine and immunoglobulin may be in short supply or unavailable in
 some countries.
@@ -317,7 +315,7 @@ in_new_window).
 ** Risk management **
     *  The pre-travel visit is an opportunity to ensure that individuals in
       defined risk categories are vaccinated with BCG according to current UK
-      guidance. For further details see the Department of Health Immunisation
+      guidance. For further details see the Department of Health Immunisation
       against infectious disease (The_Green_Book).
 Travellers should avoid close contact with individuals known to have infectious
 pulmonary TB.
@@ -327,7 +325,7 @@ more than 3 months in this country.
 BCG vaccine should be considered for unvaccinated children younger than 6 years
 of age, who are going to live for more than 3 months in this country. These
 children will usually not need a tuberculin skin test prior to vaccination.
-Healthcare workers should take appropriate infection control precautions.  BCG
+Healthcare workers should take appropriate infection control precautions. BCG
 vaccine should be considered for previously unvaccinated, tuberculin skin test
 negative health care workers younger than 35 years of age. This recommendation
 is irrespective of duration of stay.
@@ -346,11 +344,10 @@ Tuberculosis                             Tuberculosis
 Department_of_Health:_Immunisation       National_Institute_of_Clinical
 against_infectious_disease_(Green_Book)  Excellence_(NICE):_tuberculosis
 -_Tuberculosis                           guidelines_information_for_the_public
-National_Institute_of_Clinical            
+National_Institute_of_Clinical
 Excellence_(NICE):_tuberculosis
 guidelines
 World_Health_Organization_TB_report_2013
- 
 
 Additional_Risks | Back_to_Top
 *** TYPHOID ***
@@ -423,8 +420,8 @@ country follows Public Health England, Advisory_Committee_on_Malaria_Prevention
           o Chloroquine resistance is widespread. The recommended
             chemoprophylaxis is mefloquine, doxycycline or atovaquone/
             proguanil.
-    * Diagnosis - Travellers who develop a fever of 38°C [100°F] or higher more
-      than one week after being in a malaria risk area, or who develop any
+    * Diagnosis - Travellers who develop a fever of 38DEGC [100DEGF] or higher
+      more than one week after being in a malaria risk area, or who develop any
       symptoms suggestive of malaria within a year of return should seek
       immediate medical care.
 ** Resources **

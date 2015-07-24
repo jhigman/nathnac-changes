@@ -41,19 +41,18 @@ Country Specific
 ****** [Country Information] ******
 
 ***** Locate Country *****
-» World_Map
+>> World_Map
     * North_&_Central_America
     * South_America_&_Antarctica
     * Europe
     * North_Africa_&_Middle_East
     * Africa
     * Asia_&_Oceania
-» Alphabetical_list_of_countries
+>> Alphabetical_list_of_countries
 A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
 U | V | W | X | Y | Z
 ***** Guidance *****
 [guidance]Making_the_most_of_this_resource
- 
 Rationale_for_risk_assessment_and_risk_management
 ***** Outbreak Surveillance *****
 [Outbreak_Surveillance]
@@ -61,7 +60,7 @@ Rationale_for_risk_assessment_and_risk_management
 Search_for_recent_disease_outbreaks
 ***** Clinical Updates *****
 Information that may result in a change in travel advice
-»_All_clinical_updates
+>>_All_clinical_updates
 
 ***** Health Information Sheets *****
 Health_information_sheets_for_health_professionals
@@ -144,9 +143,9 @@ Yellow fever is a systemic viral disease.
     * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
       - There is a risk of yellow fever transmission in areas below 2,300m.
     * There is a low potential for exposure to yellow fever in the cities of
-      Barranquilla, Cali, Cartagena, and Medellín.
+      Barranquilla, Cali, Cartagena, and Medelli'n.
     * There is no risk of yellow fever transmission in areas above 2,300m, the
-      department of San Andrès y Providencia (these are islands in the
+      department of San Andre`s y Providencia (these are islands in the
       Caribbean Sea) and the capital city of Bogota.
     * View_the_WHO_yellow_fever_vaccine_recommendation_map_for_Americas.
     * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
@@ -157,14 +156,14 @@ Yellow fever is a systemic viral disease.
     * Travellers should take mosquito bite avoidance measures. Aedes mosquitoes
       feed predominantly during daylight hours.
     * Yellow fever vaccine should_be_givenAll_travellers_in_risk_categories
-      should_receive_vaccine  to all travellers 9 months of age and older
+      should_receive_vaccine to all travellers 9 months of age and older
       travelling to areas below 2,300m.
     * Vaccine isgenerally_not_recommendedMost_travellers_at_very_low_risk.
       Consider_vaccine_for_those_with_prolonged,_repetitive_mosquito_exposure.
       for travel only to the cities of Barranquilla, Cali, Cartagena, and
-      Medellín.
+      Medelli'n.
     * Vaccine is not recommended for travel only to areas above 2,300m, the
-      department of San Andrès y Providencia (these are islands in the
+      department of San Andre`s y Providencia (these are islands in the
       Caribbean Sea) and the capital city of Bogota.
     * View_the_WHO_yellow_fever_vaccine_recommendation_map_for_Americas.
     * There are specific contraindications and adverse events associated with
@@ -244,7 +243,7 @@ Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
       increase_disease_risk - transmission may occur following contact with the
       saliva from an infected animal, most often via a bite, scratch or lick to
       an open wound or mucous membrane. Rabies transmission may occur following
-      contact with the saliva of an infected bat (via bites or scratches or
+      contact with the saliva of an infected bat (via bites or scratches or
       saliva contact with mucous membranes). Bites from bats are frequently
       unrecognised.
       The risk of exposure is increased by the type of activity (e.g. running,
@@ -260,8 +259,7 @@ Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
       an urgent local medical assessment sought, even if the wound appears
       trivial. Prompt post exposure treatment may be required.
     * Post-exposure management and advice on return to the UK should be in
-      accordance with PHE_guidelines.
- 
+      accordance with PHE_guidelines.
 Suitable vaccine and immunoglobulins may be in short supply or unavailable in
 some countries.
 ** Resources **
@@ -375,8 +373,8 @@ country follows Public Health England, Advisory_Committee_on_Malaria_Prevention
             chemoprophylaxis for rural areas below 1,600m is mefloquine,
             doxycycline or atovaquone/proguanil.
           o Chemoprophylaxis is not recommended for the rest of Colombia.
-    * Diagnosis - Travellers who develop a fever of 38°C [100°F] or higher more
-      than one week after being in a malaria risk area, or who develop any
+    * Diagnosis - Travellers who develop a fever of 38DEGC [100DEGF] or higher
+      more than one week after being in a malaria risk area, or who develop any
       symptoms suggestive of malaria within a year of return should seek
       immediate medical care.
 ** Resources **

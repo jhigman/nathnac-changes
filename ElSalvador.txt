@@ -41,19 +41,18 @@ Country Specific
 ****** [Country Information] ******
 
 ***** Locate Country *****
-» World_Map
+>> World_Map
     * North_&_Central_America
     * South_America_&_Antarctica
     * Europe
     * North_Africa_&_Middle_East
     * Africa
     * Asia_&_Oceania
-» Alphabetical_list_of_countries
+>> Alphabetical_list_of_countries
 A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
 U | V | W | X | Y | Z
 ***** Guidance *****
 [guidance]Making_the_most_of_this_resource
- 
 Rationale_for_risk_assessment_and_risk_management
 ***** Outbreak Surveillance *****
 [Outbreak_Surveillance]
@@ -61,7 +60,7 @@ Rationale_for_risk_assessment_and_risk_management
 Search_for_recent_disease_outbreaks
 ***** Clinical Updates *****
 Information that may result in a change in travel advice
-»_All_clinical_updates
+>>_All_clinical_updates
 
 ***** Health Information Sheets *****
 Health_information_sheets_for_health_professionals
@@ -102,7 +101,6 @@ Recent Clinical Updates for this country are listed below:
       Chikungunya_virus:_Caribbean_and_the_Americas
   21 April 2015:
       Chikungunya_virus:_Caribbean_and_the_Americas
- 
 Requirements (as from 27 June 2011) for vaccination against measles for
 European travellers to and from El Salvador have been lifted by the Ministry of
 Health, El Salvador.
@@ -220,7 +218,7 @@ Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
       increase_disease_risk - transmission may occur following contact with the
       saliva from an infected animal, most often via a bite, scratch or lick to
       an open wound or mucous membrane. Rabies transmission may occur following
-      contact with the saliva of an infected bat (via bites or scratches or
+      contact with the saliva of an infected bat (via bites or scratches or
       saliva contact with mucous membranes). Bites from bats are frequently
       unrecognised.
       The risk of exposure is increased by the type of activity (e.g. running,
@@ -236,8 +234,7 @@ Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
       an urgent local medical assessment sought, even if the wound appears
       trivial. Prompt post exposure treatment may be required.
     * Post-exposure management and advice on return to the UK should be in
-      accordance with PHE_guidelines.
- 
+      accordance with PHE_guidelines.
 Suitable vaccine and immunoglobulins may be in short supply or unavailable in
 some countries.
 ** Resources **
@@ -327,7 +324,7 @@ country follows Public Health England, Advisory_Committee_on_Malaria_Prevention
     * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
       -
           o There is a low risk of malaria in rural areas of Santa Ana,
-            Ahuachapán and La Unión provinces in western El Salvador.
+            Ahuachapa'n and La Unio'n provinces in western El Salvador.
           o There is low to no risk in the rest of El Salvador.
     * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
       increase_disease_risk - Malaria is transmitted via the bite of an
@@ -347,8 +344,8 @@ country follows Public Health England, Advisory_Committee_on_Malaria_Prevention
       avoidance measures will give substantial protection against malaria.
           o Chemoprophylaxis is not recommended, however travellers should be
             aware of the small risk of malaria.
-    * Diagnosis - Travellers who develop a fever of 38°C [100°F] or higher more
-      than one week after being in a malaria risk area, or who develop any
+    * Diagnosis - Travellers who develop a fever of 38DEGC [100DEGF] or higher
+      more than one week after being in a malaria risk area, or who develop any
       symptoms suggestive of malaria within a year of return should seek
       immediate medical care.
 ** Resources **

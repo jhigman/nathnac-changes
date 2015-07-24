@@ -41,19 +41,18 @@ Country Specific
 ****** [Country Information] ******
 
 ***** Locate Country *****
-» World_Map
+>> World_Map
     * North_&_Central_America
     * South_America_&_Antarctica
     * Europe
     * North_Africa_&_Middle_East
     * Africa
     * Asia_&_Oceania
-» Alphabetical_list_of_countries
+>> Alphabetical_list_of_countries
 A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
 U | V | W | X | Y | Z
 ***** Guidance *****
 [guidance]Making_the_most_of_this_resource
- 
 Rationale_for_risk_assessment_and_risk_management
 ***** Outbreak Surveillance *****
 [Outbreak_Surveillance]
@@ -61,7 +60,7 @@ Rationale_for_risk_assessment_and_risk_management
 Search_for_recent_disease_outbreaks
 ***** Clinical Updates *****
 Information that may result in a change in travel advice
-»_All_clinical_updates
+>>_All_clinical_updates
 
 ***** Health Information Sheets *****
 Health_information_sheets_for_health_professionals
@@ -100,7 +99,7 @@ health advice or practice.
 Recent Clinical Updates for this country are listed below:
   There have been no Clinical Updates about this country in the last 6 months.
 View_a_full_list_of_Clinical_Updates_for_this_country.
-•Diseases_transmitted_by_insects_and_ticks_in_Europe_new
+&#8226;Diseases_transmitted_by_insects_and_ticks_in_Europe_new
 
 
 General Health Risks
@@ -198,16 +197,16 @@ A sterile medical kit should be carried.
 Vaccination should be considered for all adult and child travellers.
 Vaccination is recommended for travellers at higher risk of exposure including
 those who:
-      - may have unprotected sex
-      - may be directly exposed to blood or blood products through their
+     - may have unprotected sex
+     - may be directly exposed to blood or blood products through their
      occupation, such as healthcare professionals
-      - are participating in contact sports
-      - may be exposed to contaminated needles through injecting drug use,
+     - are participating in contact sports
+     - may be exposed to contaminated needles through injecting drug use,
      or as a result of accessing medical or dental care e.g. those with
      pre-existing medical conditions and those travelling for medical care
-      - intend to undergo renal dialysis whilst overseas
-      - are adopting children from the country
-      - long stay travellers.
+     - intend to undergo renal dialysis whilst overseas
+     - are adopting children from the country
+     - long stay travellers.
 ** Resources **
 ** Health Professionals **                ** Travellers **
 NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
@@ -226,7 +225,7 @@ Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
       increase_disease_risk - transmission may occur following contact with the
       saliva from an infected animal, most often via a bite, scratch or lick to
       an open wound or mucous membrane. Rabies transmission may occur following
-      contact with the saliva of an infected bat (via bites or scratches or
+      contact with the saliva of an infected bat (via bites or scratches or
       saliva contact with mucous membranes). Bites from bats are frequently
       unrecognised.
       The risk of exposure is increased by the type of activity (e.g. running,
@@ -242,8 +241,7 @@ Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
       an urgent local medical assessment sought, even if the wound appears
       trivial. Prompt post exposure treatment may be required.
     * Post-exposure management and advice on return to the UK should be in
-      accordance with PHE_guidelines.
- 
+      accordance with PHE_guidelines.
 Suitable vaccine and immunoglobulins may be in short supply or unavailable in
 some countries.
 ** Resources **
@@ -360,8 +358,8 @@ country follows Public Health England, Advisory_Committee_on_Malaria_Prevention
             October is chloroquine. Chemoprophylaxis is not recommended for
             these areas during the rest of the year.
           o Chemoprophylaxis is not recommended for the rest of Turkey.
-    * Diagnosis - Travellers who develop a fever of 38°C [100°F] or higher more
-      than one week after being in a malaria risk area, or who develop any
+    * Diagnosis - Travellers who develop a fever of 38DEGC [100DEGF] or higher
+      more than one week after being in a malaria risk area, or who develop any
       symptoms suggestive of malaria within a year of return should seek
       immediate medical care.
 ** Resources **
@@ -426,10 +424,10 @@ system caused by one of several species of Schistosoma.
       map.
     * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
       increase_disease_risk - Schistosoma larvae are released from infected
-      freshwater snails and penetrate intact skin to establish infection
+      freshwater snails and penetrate intact skin to establish infection
       (schistosomiasis). Travellers may be exposed to schistosoma during
       activities such as wading, swimming, bathing or washing clothes in fresh
-      water streams, rivers or lakes. 
+      water streams, rivers or lakes.
 ** Risk management **
     * Travellers should avoid wading, swimming, or bathing in fresh water.
     * Swimming in chlorinated water or sea water is not a risk for
@@ -439,7 +437,7 @@ system caused by one of several species of Schistosoma.
       reliable in preventing infection.
     * There is no vaccine or tablets to prevent schistosomiasis.
     * Travellers who may have been exposed to schistosomiasis should have a
-      medical assessment.
+      medical assessment.
 ** Resources **
 ** Health Professionals **          ** Travellers **
 NaTHNaC_Health_Information_Sheet_on NaTHNaC_Health_Information_Sheet_on

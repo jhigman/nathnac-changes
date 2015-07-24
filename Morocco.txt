@@ -41,19 +41,18 @@ Country Specific
 ****** [Country Information] ******
 
 ***** Locate Country *****
-» World_Map
+>> World_Map
     * North_&_Central_America
     * South_America_&_Antarctica
     * Europe
     * North_Africa_&_Middle_East
     * Africa
     * Asia_&_Oceania
-» Alphabetical_list_of_countries
+>> Alphabetical_list_of_countries
 A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
 U | V | W | X | Y | Z
 ***** Guidance *****
 [guidance]Making_the_most_of_this_resource
- 
 Rationale_for_risk_assessment_and_risk_management
 ***** Outbreak Surveillance *****
 [Outbreak_Surveillance]
@@ -61,7 +60,7 @@ Rationale_for_risk_assessment_and_risk_management
 Search_for_recent_disease_outbreaks
 ***** Clinical Updates *****
 Information that may result in a change in travel advice
-»_All_clinical_updates
+>>_All_clinical_updates
 
 ***** Health Information Sheets *****
 Health_information_sheets_for_health_professionals
@@ -197,16 +196,16 @@ A sterile medical kit should be carried.
 Vaccination should be considered for all adult and child travellers.
 Vaccination is recommended for travellers at higher risk of exposure including
 those who:
-      - may have unprotected sex
-      - may be directly exposed to blood or blood products through their
+     - may have unprotected sex
+     - may be directly exposed to blood or blood products through their
      occupation, such as healthcare professionals
-      - are participating in contact sports
-      - may be exposed to contaminated needles through injecting drug use,
+     - are participating in contact sports
+     - may be exposed to contaminated needles through injecting drug use,
      or as a result of accessing medical or dental care e.g. those with
      pre-existing medical conditions and those travelling for medical care
-      - intend to undergo renal dialysis whilst overseas
-      - are adopting children from the country
-      - long stay travellers.
+     - intend to undergo renal dialysis whilst overseas
+     - are adopting children from the country
+     - long stay travellers.
 ** Resources **
 ** Health Professionals **                ** Travellers **
 NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
@@ -225,7 +224,7 @@ Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
       increase_disease_risk - transmission may occur following contact with the
       saliva from an infected animal, most often via a bite, scratch or lick to
       an open wound or mucous membrane. Rabies transmission may occur following
-      contact with the saliva of an infected bat (via bites or scratches or
+      contact with the saliva of an infected bat (via bites or scratches or
       saliva contact with mucous membranes). Bites from bats are frequently
       unrecognised.
       The risk of exposure is increased by the type of activity (e.g. running,
@@ -241,8 +240,7 @@ Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
       an urgent local medical assessment sought, even if the wound appears
       trivial. Prompt post exposure treatment may be required.
     * Post-exposure management and advice on return to the UK should be in
-      accordance with PHE_guidelines.
- 
+      accordance with PHE_guidelines.
 Suitable vaccine and immunoglobulins may be in short supply or unavailable in
 some countries.
 ** Resources **
@@ -299,7 +297,7 @@ in_new_window).
 ** Risk management **
     *  The pre-travel visit is an opportunity to ensure that individuals in
       defined risk categories are vaccinated with BCG according to current UK
-      guidance.  For further details see the Department of Health Immunisation
+      guidance. For further details see the Department of Health Immunisation
       against infectious disease (The_Green_Book).
 Travellers should avoid close contact with individuals known to have infectious
 pulmonary TB.
@@ -309,7 +307,7 @@ more than 3 months in this country.
 BCG vaccine should be considered for unvaccinated children younger than 6 years
 of age, who are going to live for more than 3 months in this country. These
 children will usually not need a tuberculin skin test prior to vaccination.
-Healthcare workers should take appropriate infection control precautions.  BCG
+Healthcare workers should take appropriate infection control precautions. BCG
 vaccine should be considered for previously unvaccinated, tuberculin skin test
 negative health care workers younger than 35 years of age. This recommendation
 is irrespective of duration of stay.
@@ -427,10 +425,10 @@ system caused by one of several species of Schistosoma.
       map.
     * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
       increase_disease_risk - Schistosoma larvae are released from infected
-      freshwater snails and penetrate intact skin to establish infection
+      freshwater snails and penetrate intact skin to establish infection
       (schistosomiasis). Travellers may be exposed to schistosoma during
       activities such as wading, swimming, bathing or washing clothes in fresh
-      water streams, rivers or lakes. 
+      water streams, rivers or lakes.
 ** Risk management **
     * Travellers should avoid wading, swimming, or bathing in fresh water.
     * Swimming in chlorinated water or sea water is not a risk for
@@ -440,7 +438,7 @@ system caused by one of several species of Schistosoma.
       reliable in preventing infection.
     * There is no vaccine or tablets to prevent schistosomiasis.
     * Travellers who may have been exposed to schistosomiasis should have a
-      medical assessment.
+      medical assessment.
 ** Resources **
 ** Health Professionals **          ** Travellers **
 NaTHNaC_Health_Information_Sheet_on NaTHNaC_Health_Information_Sheet_on

@@ -40,19 +40,18 @@ Country Specific
 ****** [Country Information] ******
 
 ***** Locate Country *****
-» World_Map
+>> World_Map
     * North_&_Central_America
     * South_America_&_Antarctica
     * Europe
     * North_Africa_&_Middle_East
     * Africa
     * Asia_&_Oceania
-» Alphabetical_list_of_countries
+>> Alphabetical_list_of_countries
 A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
 U | V | W | X | Y | Z
 ***** Guidance *****
 [guidance]Making_the_most_of_this_resource
- 
 Rationale_for_risk_assessment_and_risk_management
 ***** Outbreak Surveillance *****
 [Outbreak_Surveillance]
@@ -60,7 +59,7 @@ Rationale_for_risk_assessment_and_risk_management
 Search_for_recent_disease_outbreaks
 ***** Clinical Updates *****
 Information that may result in a change in travel advice
-»_All_clinical_updates
+>>_All_clinical_updates
 
 ***** Health Information Sheets *****
 Health_information_sheets_for_health_professionals
@@ -201,16 +200,16 @@ A sterile medical kit should be carried.
 Vaccination should be considered for all adult and child travellers.
 Vaccination is recommended for travellers at higher risk of exposure including
 those who:
-      - may have unprotected sex
-      - may be directly exposed to blood or blood products through their
+     - may have unprotected sex
+     - may be directly exposed to blood or blood products through their
      occupation, such as healthcare professionals
-      - are participating in contact sports
-      - may be exposed to contaminated needles through injecting drug use,
+     - are participating in contact sports
+     - may be exposed to contaminated needles through injecting drug use,
      or as a result of accessing medical or dental care e.g. those with
      pre-existing medical conditions and those travelling for medical care
-      - intend to undergo renal dialysis whilst overseas
-      - are adopting children from the country
-      - long stay travellers.
+     - intend to undergo renal dialysis whilst overseas
+     - are adopting children from the country
+     - long stay travellers.
 ** Resources **
 ** Health Professionals **                ** Travellers **
 NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
@@ -226,7 +225,7 @@ the central nervous system, leading to paralytic poliomyelitis.
     * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
       - No cases of wild type polio virus (WPV) have been reported in this
       country since 1992. However, WPV has been detected in environmental
-      samples in the West Bank and Gaza in 2013 and 2014.
+      samples in the West Bank and Gaza in 2013 and 2014.
     * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
       increase_disease_risk - Polio is transmitted through contaminated food
       and water. Those at higher risk of exposure include travellers visiting
@@ -249,7 +248,6 @@ Department_of_Health_Immunisation_agaianst NaTHNaC_Health_Information_Sheet_on
 infectious_disease_(Green_Book)_-          Prevention_of_Food_and_Water-Borne
 Poliomyelitis.                             Diseases
 Global_Polio_Eradication_Initiative
- 
 
 Additional_Risks | Back_to_Top
 *** RABIES ***
@@ -262,7 +260,7 @@ Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
       increase_disease_risk - transmission may occur following contact with the
       saliva from an infected animal, most often via a bite, scratch or lick to
       an open wound or mucous membrane. Rabies transmission may occur following
-      contact with the saliva of an infected bat (via bites or scratches or
+      contact with the saliva of an infected bat (via bites or scratches or
       saliva contact with mucous membranes). Bites from bats are frequently
       unrecognised.
       The risk of exposure is increased by the type of activity (e.g. running,
@@ -278,8 +276,7 @@ Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
       an urgent local medical assessment sought, even if the wound appears
       trivial. Prompt post exposure treatment may be required.
     * Post-exposure management and advice on return to the UK should be in
-      accordance with PHE_guidelines.
- 
+      accordance with PHE_guidelines.
 Suitable vaccine and immunoglobulins may be in short supply or unavailable in
 some countries.
 ** Resources **

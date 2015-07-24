@@ -40,19 +40,18 @@ Country Specific
 ****** [Country Information] ******
 
 ***** Locate Country *****
-» World_Map
+>> World_Map
     * North_&_Central_America
     * South_America_&_Antarctica
     * Europe
     * North_Africa_&_Middle_East
     * Africa
     * Asia_&_Oceania
-» Alphabetical_list_of_countries
+>> Alphabetical_list_of_countries
 A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
 U | V | W | X | Y | Z
 ***** Guidance *****
 [guidance]Making_the_most_of_this_resource
- 
 Rationale_for_risk_assessment_and_risk_management
 ***** Outbreak Surveillance *****
 [Outbreak_Surveillance]
@@ -60,7 +59,7 @@ Rationale_for_risk_assessment_and_risk_management
 Search_for_recent_disease_outbreaks
 ***** Clinical Updates *****
 Information that may result in a change in travel advice
-»_All_clinical_updates
+>>_All_clinical_updates
 
 ***** Health Information Sheets *****
 Health_information_sheets_for_health_professionals
@@ -99,7 +98,7 @@ health advice or practice.
 Recent Clinical Updates for this country are listed below:
   There have been no Clinical Updates about this country in the last 6 months.
 View_a_full_list_of_Clinical_Updates_for_this_country.
-•Diseases_transmitted_by_insects_and_ticks_in_Europe_new
+&#8226;Diseases_transmitted_by_insects_and_ticks_in_Europe_new
 
 
 General Health Risks
@@ -168,28 +167,20 @@ showing_the_global_areas_at_risk_for_hepatitis_A_can_be_found_here_(102_KB_GIF)
       haemophilia, men who have sex with men, injecting drug users and those at
       occupational risk.
 ** Resources **
-** Health Professionals **                                                     **
-NaTHNaC_health_information_sheet_on_hepatitis_A                                Travellers
-Department_of_Health:_Immunisation_against_infectious_disease_(Green_Book) _- **
-Hepatitis_A                                                                    NaTHNaC
-NaTHNaC_Health_Information_Sheet_on_Prevention_of_Food_and_Water-Borne         health
-Diseases                                                                       Information
-                                                                               Sheet_on
-                                                                               Hepatitis_A
-                                                                               NaTHNaC
-                                                                               Health
-                                                                               Information
-                                                                               Sheet_on
-                                                                               Prevention
-                                                                               of_Food_and
-                                                                               Water-Borne
-                                                                               Diseases
+** Health Professionals **                 ** Travellers **
+NaTHNaC_health_information_sheet_on        NaTHNaC_health_Information_Sheet_on
+hepatitis_A                                Hepatitis_A
+Department_of_Health:_Immunisation_against NaTHNaC_Health_Information_Sheet_on
+infectious_disease_(Green_Book)_-          Prevention_of_Food_and_Water-Borne
+Hepatitis_A                                Diseases
+NaTHNaC_Health_Information_Sheet_on
+Prevention_of_Food_and_Water-Borne
+Diseases
 
 Additional_Risks | Back_to_Top
 *** RABIES ***
 Rabies has not been reported in domestic or wild animals in this country
 however, bats may carry rabies-like viruses.
- 
 ** Risk assessment **
     * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
       increase_disease_risk - Rabies transmission may occur following contact
@@ -207,7 +198,7 @@ however, bats may carry rabies-like viruses.
       medical assessment sought, even if the wound appears trivial. Prompt
       post-exposure treatmentis required, even if pre-exposure vaccine has been
       received.
-    * Post-exposure management and advice on return to the UK should be in 
+    * Post-exposure management and advice on return to the UK should be in
       accordance with PHE_guidelines.
 Suitable vaccine and immunoglobulin may be in short supply or unavailable in
 some countries.
@@ -255,10 +246,10 @@ system.
 ** Risk assessment **
     * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
       - There is a risk of TBE in some areas of the country below 1,400m. The
-      areas mainly affected are the states of Baden-Württemberg, Bayern
-      (Bavaria), Hessen and Thüringen. The transmission season varies, however,
-      ticks are most active during early spring to late autumn (March to
-      November).
+      areas mainly affected are the states of Baden-Wu"rttemberg, Bayern
+      (Bavaria), Hessen and Thu"ringen. The transmission season varies,
+      however, ticks are most active during early spring to late autumn (March
+      to November).
     * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
       increase_disease_risk - TBE is transmitted to humans via the bite of an
       infected Ixodes tick. Travellers are at risk via exposure to ticks during
