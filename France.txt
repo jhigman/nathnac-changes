@@ -96,6 +96,9 @@ Back_to_Top
 Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
+  5 June 2015:
+      Middle_Eastrespiratory_syndrome_coronavirus_(MERS-CoV)_update:_Republic
+      of_Korea_and_China
   27 May 2015:
       Imported_Canine_Rabies:_Le_Chambon_Feugerolles,_Loire,_Rho^ne-Alpes,
       France

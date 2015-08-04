@@ -97,6 +97,8 @@ Back_to_Top
 Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
+  3 August 2015:
+      Group_B_streptococcal_infections:_Singapore
   22 May 2015:
       Hand,_foot_and_mouth_disease_in_the_Western_Pacific_region
 View_a_full_list_of_Clinical_Updates_for_this_country.

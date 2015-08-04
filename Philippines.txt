@@ -111,7 +111,9 @@ Back_to_Top
 Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
-  There have been no Clinical Updates about this country in the last 6 months.
+  5 June 2015:
+      Middle_Eastrespiratory_syndrome_coronavirus_(MERS-CoV)_update:_Republic
+      of_Korea_and_China
 PHE:_International_Event_Response_(including_information_for_health
 professionals_advising_travellers_returning_from_Philippines)
 View_a_full_list_of_Clinical_Updates_for_this_country.
