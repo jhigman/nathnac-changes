@@ -96,6 +96,8 @@ Back_to_Top
 Clinical Updates provide information which may result in a change in travel
 health advice or practice.
 Recent Clinical Updates for this country are listed below:
+  13 August 2015:
+      Plague_in_Yoesmite_National_Park,_California,_USA
   11 August 2015:
       Legionnaires'_disease:_South_Bronx,_New_York
   21 July 2015:
@@ -103,9 +105,6 @@ Recent Clinical Updates for this country are listed below:
   25 June 2015:
       Invasive_meningococcal_disease_(meningitis)_outbreak_in_men_who_have_sex
       with_men:_United_States
-  5 June 2015:
-      Middle_Eastrespiratory_syndrome_coronavirus_(MERS-CoV)_update:_Republic
-      of_Korea_and_China
 View_a_full_list_of_Clinical_Updates_for_this_country.
 &#8226;Risk_of_mosquito_and_tick_borne_diseases:_Advice_for_travellers_to_the
 United_States_new
