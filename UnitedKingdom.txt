@@ -1,2 +1,91 @@
-****** Object Moved ******
-This document may be found here
+
+
+
+
+
+
+
+Search :
+[Search NaTHNaC      ] [Submit /images/country_go_but.gif]
+[NaTHNaC_Logo]
+Health Professional
+    * Home
+    * Health_Professionals
+    * About_Us
+    * News
+    * Clinical_Updates
+    * Health_Information
+    * Yellow_Fever_Centres
+    * Links
+    * Contact_Us
+    * Country_Information
+Travellers
+    * Home
+    * Travellers
+    * About_us
+    * News
+    * Health_Information
+    * Yellow_Fever_Centres
+    * Links
+    * Contact_Us
+    * Country_Information
+Country Specific
+    * Home
+    * Health_Professionals
+    * Travellers
+    * Yellow_Fever_Centres
+    * Outbreak_Surveillance
+    * Clinical_Updates
+    * Contact_Us
+****** [Country Information] ******
+
+***** Locate Country *****
+>> World_Map
+    * North_&_Central_America
+    * South_America_&_Antarctica
+    * Europe
+    * North_Africa_&_Middle_East
+    * Africa
+    * Asia_&_Oceania
+>> Alphabetical_list_of_countries
+A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
+U | V | W | X | Y | Z
+***** Guidance *****
+[guidance]Making_the_most_of_this_resource
+Rationale_for_risk_assessment_and_risk_management
+***** Outbreak Surveillance *****
+[Outbreak_Surveillance]
+
+Search_for_recent_disease_outbreaks
+***** Clinical Updates *****
+Information that may result in a change in travel advice
+>>_All_clinical_updates
+
+***** Health Information Sheets *****
+Health_information_sheets_for_health_professionals
+Health_information_sheets_for_travellers
+
+***** Foreign and Commonwealth Office *****
+[The_Foreign_and_Commonweath_office]
+
+Country-specific_Travel_Advice_notices_for_safety_and_security,_entry
+requirements_and_other_relevant_information
+
+***** United Kingdom *****
+There are no vaccination requirements for visitors to the UK.
+NaTHNaC provides information for health professionals advising UK residents
+travelling overseas. If you reside outside of the UK and intend to travel to
+the UK or are advising travellers who will be travelling to the UK, please
+check resources in your own country for health information for travel.
+For general advice about your trip to the United Kingdom, see the i-UK_website.
+For health protection information, visit Public_Health_England_(PHE).
+
+Disclaimer | Copyright | Privacy | Sitemap | Accessibility
+
+
+
+
+-->
+
+
+

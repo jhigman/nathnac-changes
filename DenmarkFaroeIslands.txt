@@ -1,2 +1,283 @@
-****** Object Moved ******
-This document may be found here
+
+
+
+
+
+
+
+Search :
+[Search NaTHNaC      ] [Submit /images/country_go_but.gif]
+[NaTHNaC_Logo]
+Health Professional
+    * Home
+    * Health_Professionals
+    * About_Us
+    * News
+    * Clinical_Updates
+    * Health_Information
+    * Yellow_Fever_Centres
+    * Links
+    * Contact_Us
+    * Country_Information
+Travellers
+    * Home
+    * Travellers
+    * About_us
+    * News
+    * Health_Information
+    * Yellow_Fever_Centres
+    * Links
+    * Contact_Us
+    * Country_Information
+Country Specific
+    * Home
+    * Health_Professionals
+    * Travellers
+    * Yellow_Fever_Centres
+    * Outbreak_Surveillance
+    * Clinical_Updates
+    * Contact_Us
+****** [Country Information] ******
+
+***** Locate Country *****
+>> World_Map
+    * North_&_Central_America
+    * South_America_&_Antarctica
+    * Europe
+    * North_Africa_&_Middle_East
+    * Africa
+    * Asia_&_Oceania
+>> Alphabetical_list_of_countries
+A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
+U | V | W | X | Y | Z
+***** Guidance *****
+[guidance]Making_the_most_of_this_resource
+Rationale_for_risk_assessment_and_risk_management
+***** Outbreak Surveillance *****
+[Outbreak_Surveillance]
+
+Search_for_recent_disease_outbreaks
+***** Clinical Updates *****
+Information that may result in a change in travel advice
+>>_All_clinical_updates
+
+***** Health Information Sheets *****
+Health_information_sheets_for_health_professionals
+Health_information_sheets_for_travellers
+
+***** Foreign and Commonwealth Office *****
+[The_Foreign_and_Commonweath_office]
+
+Country-specific_Travel_Advice_notices_for_safety_and_security,_entry
+requirements_and_other_relevant_information
+
+***** Faroe Islands (Denmark) *****
+[Map of Faroe Islands (Denmark)]
+**** See also: ****
+    * Denmark
+Welcome to the NaTHNaC Country Information page.
+The information on this page should be used as part of a comprehensive pre-
+travel health consultation. Ideally this should be scheduled at least six weeks
+prior to travel. All travellers should have adequate travel health insurance.
+**** Contents ****
+On this page:
+    * Recent_Clinical_Updates
+    * General_Health_Risks
+    * Vaccine_Preventable_Risks
+    * Non-Vaccine_Preventable_Risks
+Country Specific Links:
+    * NaTHNaC_Outbreak_Surveillance
+    * Foreign_and_Commonwealth_Office_(including_information_on_security,
+      safety_and_natural_disasters)
+View_Disclaimer
+
+Recent Clinical Updates
+Clinical_Updates_| General_Risks_|Vaccine_Preventable_Risks_|Non-Vaccine
+Preventable_Risks
+Back_to_Top
+Clinical Updates provide information which may result in a change in travel
+health advice or practice.
+Recent Clinical Updates for this country are listed below:
+  There have been no Clinical Updates about this country in the last 6 months.
+View_a_full_list_of_Clinical_Updates_for_this_country.
+&#8226;Diseases_transmitted_by_insects_and_ticks_in_Europe_new
+
+
+General Health Risks
+Clinical_Updates | General_Risks | Vaccine_Preventable_Risks | Non-Vaccine
+Preventable_Risks | Back_to_Top
+Some health risks apply to travellers to all countries. Please see below for a
+list of important health information sheets. A full list of information sheets
+is available through the Health Information Sheets link on the left hand side
+of the page.
+** Health Professionals **              ** Travellers **
+Food_and_Water-Borne_Diseases           Food_and_Water-Borne_Diseases
+Insect_Bite_Avoidance                   Insect_Bite_Avoidance
+Personal_Safety_During_Travel           Personal_Safety_During_Travel
+Sun_Protection                          Sun_Protection
+HIV_and_sexually_transmitted_infections Sexually_transmitted_infections_and
+Natural_Disasters_-_Advice_for_relief   travel
+workers_and_other_travellers_to_areas   Travel_to_Areas_of_Disasters_and
+affected_by_natural_disasters           Conflicts
+
+
+Vaccine Preventable Risks
+Clinical_Updates_| General_Risks_|Vaccine_Preventable_Risks_|Non-Vaccine
+Preventable_Risks
+Back_to_Top
+Travellers should be up to date with routinely recommended vaccinations
+according to the UK schedule:
+    * NHS_Immunisation_Information
+    * Department_of_Health_Immunisation_Against_Infectious_Disease_(Green_book)
+Yellow Fever
+Vaccine Preventable Risks: Yellow_Fever | Additional_Risks | Back_to_Top
+YELLOW FEVER
+There is no risk of yellow fever in this country and there are no certificate
+requirements under International Health Regulations (2005).
+
+Additional Risks
+Vaccine Preventable Risks: Yellow_Fever | Additional_Risks | Back_to_Top
+The diseases below may be a risk in all or part of the country and are
+presented alphabetically:
+
+Hepatitis_A,
+Rabies, Tetanus
+Additional_Risks | Back_to_Top
+*** HEPATITIS A ***
+Hepatitis A is a viral disease that causes inflammation of the liver.A_map
+showing_the_global_areas_at_risk_for_hepatitis_A_can_be_found_here_(102_KB_GIF)
+** Risk assessment **
+    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
+      - Hepatitis A is known to occur in this country although the risk to most
+      travellers is considered to be low.
+    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
+      increase_disease_risk - Hepatitis A is transmitted through contaminated
+      food and water. Travellers who will have access to safe food and water
+      are at low risk. Those at higher risk include travellers visiting friends
+      and relatives, long stay travellers, and those visiting areas of poor
+      sanitation.
+** Risk management **
+    * Travellers should practice strict food, water and personal hygiene
+      precautions.
+    * Vaccine may_be_givenMost_travellers_at_low_risk,_consider_vaccine_for
+      those_in_risk_categories to travellers whose planned activities put them
+      at higher risk of exposure (see above).
+    * Because hepatitis A vaccine is well tolerated and affords long-lasting
+      protection, it may_be_givenMost_travellers_at_low_risk,_consider_vaccine
+      for_those_in_risk_categories to all previously unvaccinated travellers.
+    * Vaccine should also be given to those with chronic liver disease or
+      haemophilia, men who have sex with men, injecting drug users and those at
+      occupational risk.
+** Resources **
+** Health Professionals **                 ** Travellers **
+NaTHNaC_health_information_sheet_on        NaTHNaC_health_Information_Sheet_on
+hepatitis_A                                Hepatitis_A
+Department_of_Health:_Immunisation_against NaTHNaC_Health_Information_Sheet_on
+infectious_disease_(Green_Book)_-          Prevention_of_Food_and_Water-Borne
+Hepatitis_A                                Diseases
+NaTHNaC_Health_Information_Sheet_on
+Prevention_of_Food_and_Water-Borne
+Diseases
+
+Additional_Risks | Back_to_Top
+*** RABIES ***
+Rabies has not been reported in domestic or wild animals in this country
+however, bats may carry rabies-like viruses.
+** Risk assessment **
+    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
+      increase_disease_risk - Rabies transmission may occur following contact
+      with the saliva of an infected bat (via bites, scratches or saliva
+      contact with mucous membranes). Bites from bats are frequently
+      unrecognised. The risk of exposure to bats may be increased for certain
+      occupations e.g. veterinarians.
+      Children are at increased risk as they are less likely to avoid contact
+      with animals and to report a bite or lick.
+** Risk management **
+    * Travellers should avoid contact with bats.
+    * Pre-exposure vaccination should be considered for adults and children who
+      are at increased risk (see above).
+    * Following a bite, wounds should be thoroughly cleansed and an urgent
+      medical assessment sought, even if the wound appears trivial. Prompt
+      post-exposure treatmentis required, even if pre-exposure vaccine has been
+      received.
+    * Post-exposure management and advice on return to the UK should be in
+      accordance with PHE_guidelines.
+Suitable vaccine and immunoglobulin may be in short supply or unavailable in
+some countries.
+** Resources **
+** Health Professionals **                ** Travellers **
+NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
+Rabies                                    Rabies
+Department_of_Health._Immunisation
+Against_Infectious_Disease_(Green_Book)
+Public_Health_England:_Rabies
+
+Wolrd_Animal_Health_Information_Database_
+(OIE)
+
+Additional_Risks | Back_to_Top
+*** TETANUS ***
+Tetanus is caused by a toxin released from Clostridium tetani bacteria.
+** Risk assessment **
+    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
+      - Tetanus bacteria are found worldwide.
+    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
+      increase_disease_risk - Tetanus bacteria are present in soil and manure
+      and may be introduced through open wounds such as a puncture wound, burn
+      or scratch.
+** Risk management **
+    * Travellers should thoroughly clean all wounds and seek appropriate
+      medical attention
+    * Travellers should have completed a primary vaccination course according
+      to the UK schedule.
+    * A booster dose should_be_givenAll_travellers_in_risk_categories_should
+      receive_vaccine to travellers whose last dose of a tetanus-containing
+      vaccine was given more than 10 years ago, and who will not have ready
+      access to medical care; even if they have received five doses previously.
+** Resources **
+** Health Professionals **                ** Travellers **
+NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
+Tetanus                                   Tetanus
+Department_of_Health_Immunisation_Against
+Infectious_Disease_(Green_Book)
+
+Non-Vaccine Preventable Risks
+Clinical_Updates_| General_Risks_|Vaccine_Preventable_Risks_|Non-Vaccine
+Preventable_Risks
+Back_to_Top
+This section details infectious disease risks for which there are no vaccines
+as well as some non-infectious disease risks. This is not an exhaustive list.
+Further information about infectious and non-infectious disease risks can be
+found on the NaTHNaC Health Information Sheets. Travellers should be aware that
+accidents and injuries are a cause of serious illness during travel.
+Malaria
+Non-Vaccine Preventable Risks: Malaria | Additional_Risks | Back_to_Top
+*** MALARIA ***
+There is no risk of malaria in this country.
+Additional Risks
+Non-Vaccine Preventable Risks: Malaria | Additional_Risks | Back_to_Top
+Information about infectious disease risks for which there are no vaccines as
+well as non-infectious disease risks that may be present in this country can be
+found on our health information sheets (see below).
+Health_Information_Sheets_for_Health Health_Information_Sheets_for_Travellers
+Professionals
+
+Disclaimer
+Back_to_Top
+The travel health information contained in these pages is intended for health
+professionals who assess a patients travel health needs. This document is not a
+complete medical guide for travellers and as such travellers using this site
+should consult with a health professional for specific information related to
+your travel and medical history. While every care has been taken to ensure the
+accuracy and timeliness of the travel health information, NaTHNaC cannot accept
+any liability for injury, loss or damage arising in any respect of any
+statement contained therein.
+For the purpose of these web pages the term "country" covers countries,
+territories and areas. Areas within a country may be shown separately where it
+is felt necessary in order to provide travel health information.
+
+Disclaimer | Copyright | Privacy | Sitemap | Accessibility
+
+
+
+
