@@ -414,7 +414,7 @@ Map
 View_Map
 Weather
 Marshall Islands
-28C
+29C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

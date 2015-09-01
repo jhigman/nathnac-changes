@@ -380,7 +380,7 @@ Map
 View_Map
 Weather
 American Samoa
-26C
+27C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud
