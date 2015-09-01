@@ -5,372 +5,407 @@
 
 
 
-Search :
-[Search NaTHNaC      ] [Submit /images/country_go_but.gif]
-[NaTHNaC_Logo]
-Health Professional
-    * Home
-    * Health_Professionals
-    * About_Us
-    * News
-    * Clinical_Updates
-    * Health_Information
-    * Yellow_Fever_Centres
-    * Links
-    * Contact_Us
-    * Country_Information
-Travellers
-    * Home
-    * Travellers
-    * About_us
-    * News
-    * Health_Information
-    * Yellow_Fever_Centres
-    * Links
-    * Contact_Us
-    * Country_Information
-Country Specific
-    * Home
-    * Health_Professionals
-    * Travellers
-    * Yellow_Fever_Centres
-    * Outbreak_Surveillance
-    * Clinical_Updates
-    * Contact_Us
-****** [Country Information] ******
-
-***** Locate Country *****
->> World_Map
-    * North_&_Central_America
-    * South_America_&_Antarctica
-    * Europe
-    * North_Africa_&_Middle_East
-    * Africa
-    * Asia_&_Oceania
->> Alphabetical_list_of_countries
-A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
-U | V | W | X | Y | Z
-***** Guidance *****
-[guidance]Making_the_most_of_this_resource
-Rationale_for_risk_assessment_and_risk_management
-***** Outbreak Surveillance *****
-[Outbreak_Surveillance]
-
-Search_for_recent_disease_outbreaks
-***** Clinical Updates *****
-Information that may result in a change in travel advice
->>_All_clinical_updates
-
-***** Health Information Sheets *****
-Health_information_sheets_for_health_professionals
-Health_information_sheets_for_travellers
-
-***** Foreign and Commonwealth Office *****
-[The_Foreign_and_Commonweath_office]
-
-Country-specific_Travel_Advice_notices_for_safety_and_security,_entry
-requirements_and_other_relevant_information
-
-***** Tokelau *****
-[Map of Tokelau]
-Welcome to the NaTHNaC Country Information page.
-The information on this page should be used as part of a comprehensive pre-
-travel health consultation. Ideally this should be scheduled at least six weeks
-prior to travel. All travellers should have adequate travel health insurance.
-**** Contents ****
-On this page:
-    * Recent_Clinical_Updates
-    * General_Health_Risks
-    * Vaccine_Preventable_Risks
-    * Non-Vaccine_Preventable_Risks
-Country Specific Links:
-    * NaTHNaC_Outbreak_Surveillance
-    * Foreign_and_Commonwealth_Office_(including_information_on_security,
-      safety_and_natural_disasters)
-View_Disclaimer
-
-Recent Clinical Updates
-Clinical_Updates_| General_Risks_|Vaccine_Preventable_Risks_|Non-Vaccine
-Preventable_Risks
-Back_to_Top
-Clinical Updates provide information which may result in a change in travel
-health advice or practice.
-Recent Clinical Updates for this country are listed below:
-  21 July 2015:
-      Chikungunya_virus:_Pacific_Islands_and_Oceania
-  21 April 2015:
-      Chikungunya_virus:_Pacific_islands_and_Oceania
-View_a_full_list_of_Clinical_Updates_for_this_country.
 
 
-General Health Risks
-Clinical_Updates | General_Risks | Vaccine_Preventable_Risks | Non-Vaccine
-Preventable_Risks | Back_to_Top
-Some health risks apply to travellers to all countries. Please see below for a
-list of important health information sheets. A full list of information sheets
-is available through the Health Information Sheets link on the left hand side
-of the page.
-** Health Professionals **              ** Travellers **
-Food_and_Water-Borne_Diseases           Food_and_Water-Borne_Diseases
-Insect_Bite_Avoidance                   Insect_Bite_Avoidance
-Personal_Safety_During_Travel           Personal_Safety_During_Travel
-Sun_Protection                          Sun_Protection
-HIV_and_sexually_transmitted_infections Sexually_transmitted_infections_and
-Natural_Disasters_-_Advice_for_relief   travel
-workers_and_other_travellers_to_areas   Travel_to_Areas_of_Disasters_and
-affected_by_natural_disasters           Conflicts
 
 
-Vaccine Preventable Risks
-Clinical_Updates_| General_Risks_|Vaccine_Preventable_Risks_|Non-Vaccine
-Preventable_Risks
-Back_to_Top
-Travellers should be up to date with routinely recommended vaccinations
-according to the UK schedule:
-    * NHS_Immunisation_Information
-    * Department_of_Health_Immunisation_Against_Infectious_Disease_(Green_book)
-Yellow Fever
-Vaccine Preventable Risks: Yellow_Fever | Additional_Risks | Back_to_Top
-YELLOW FEVER
-There is no risk of yellow fever in this country and there are no certificate
-requirements under International Health Regulations (2005).
-
-Additional Risks
-Vaccine Preventable Risks: Yellow_Fever | Additional_Risks | Back_to_Top
-The diseases below may be a risk in all or part of the country and are
-presented alphabetically:
-
-Hepatitis_A,
-Hepatitis_B,
-Rabies, Tetanus, Typhoid
-Additional_Risks | Back_to_Top
-*** HEPATITIS A ***
-Hepatitis A is a viral disease that causes inflammation of the liver. A_map
-showing_the_global_areas_at_risk_for_hepatitis_A_can_be_found_here_(102_KB_GIF)
-** Risk assessment **
-    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
-      - Hepatitis A is known or presumed to occur in this country.
-    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
-      increase_disease_risk - Hepatitis A is transmitted through contaminated
-      food and water. Those at higher risk include travellers visiting friends
-      and relatives, long stay travellers, and those visiting areas of poor
-      sanitation.
-** Risk management **
-    * Travellers should practice strict food, water and personal hygiene
-      precautions.
-    * Vaccine should_be_givenAll_travellers_in_risk_categories_should_receive
-      vaccine to travellers whose planned activities put them at risk (see
-      above).
-    * Because hepatitis A vaccine is well tolerated and affords long-lasting
-      protection, it may_be_givenMost_travellers_at_low_risk,_consider_vaccine
-      for_those_in_risk_categories to all previously unvaccinated travellers.
-    * Vaccine should also be given to those with chronic liver disease or
-      haemophilia, men who have sex with men, injecting drug users and those at
-      occupational risk.
-** Resources **
-** Health Professionals **                 ** Travellers **
-NaTHNaC_Health_Information_Sheet_on        NaTHNaC_Health_Information_Sheet_on
-Hepatitis_A                                Hepatitis_A
-Department_of_Health:_Immunisation_against NaTHNaC_Health_Information_Sheet_on
-infectious_disease_(Green_Book)_-          Prevention_of_Food_and_Water-Borne
-Hepatitis_A                                Diseases
-NaTHNaC_Health_Information_Sheet_on
-Prevention_of_Food_and_Water-Borne
-Diseases
-
-Additional_Risks | Back_to_Top
-*** HEPATITIS B ***
-Hepatitis B is a viral disease that causes inflammation of the liver and may
-lead to chronic complications.
-** Risk assessment **
-    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
-      - In this country 2% or more of the population are known or presumed to
-      be persistently infected with the hepatitis B virus (intermediate/high
-      prevalence).
-    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
-      increase_disease_risk - Hepatitis B is transmitted via infected blood or
-      bodily fluids.
-** Risk management **
-    *  Travellers should avoid contact with blood or bodily fluids. Where
-      contact is unavoidable, appropriate protective precautions should be
-      taken.
-A sterile medical kit should be carried.
-Vaccination should be considered for all adult and child travellers.
-Vaccination is recommended for travellers at higher risk of exposure including
-those who:
-     - may have unprotected sex
-     - may be directly exposed to blood or blood products through their
-     occupation, such as healthcare professionals
-     - are participating in contact sports
-     - may be exposed to contaminated needles through injecting drug use,
-     or as a result of accessing medical or dental care e.g. those with
-     pre-existing medical conditions and those travelling for medical care
-     - intend to undergo renal dialysis whilst overseas
-     - are adopting children from the country
-     - long stay travellers.
-** Resources **
-** Health Professionals **                ** Travellers **
-NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
-Hepatitis_B                               Hepatitis_B
-Department_of_Health_Immunisation_Against
-Infectious_Disease_(Green_Book)
-
-Additional_Risks | Back_to_Top
-*** RABIES ***
-Rabies has not been reported in domestic or wild animals in this country
-however, bats may carry rabies-like viruses.
-** Risk assessment **
-    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
-      increase_disease_risk - Rabies transmission may occur following contact
-      with the saliva of an infected bat (via bites, scratches or saliva
-      contact with mucous membranes). Bites from bats are frequently
-      unrecognised. The risk of exposure to bats may be increased for certain
-      occupations e.g. veterinarians.
-      Children are at increased risk as they are less likely to avoid contact
-      with animals and to report a bite or lick.
-** Risk management **
-    * Travellers should avoid contact with bats.
-    * Pre-exposure vaccination should be considered for adults and children who
-      are at increased risk (see above).
-    * Following a bite, wounds should be thoroughly cleansed and an urgent
-      medical assessment sought, even if the wound appears trivial. Prompt
-      post-exposure treatmentis required, even if pre-exposure vaccine has been
-      received.
-    * Post-exposure management and advice on return to the UK should be in
-      accordance with PHE_guidelines.
-Suitable vaccine and immunoglobulin may be in short supply or unavailable in
-some countries.
-** Resources **
-** Health Professionals **                ** Travellers **
-NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
-Rabies                                    Rabies
-Department_of_Health._Immunisation
-Against_Infectious_Disease_(Green_Book)
-Public_Health_England:_Rabies
-
-Wolrd_Animal_Health_Information_Database_
-(OIE)
-
-Additional_Risks | Back_to_Top
-*** TETANUS ***
-Tetanus is caused by a toxin released from Clostridium tetani bacteria.
-** Risk assessment **
-    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
-      - Tetanus bacteria are found worldwide.
-    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
-      increase_disease_risk - Tetanus bacteria are present in soil and manure
-      and may be introduced through open wounds such as a puncture wound, burn
-      or scratch.
-** Risk management **
-    * Travellers should thoroughly clean all wounds and seek appropriate
-      medical attention
-    * Travellers should have completed a primary vaccination course according
-      to the UK schedule.
-    * A booster dose should_be_givenAll_travellers_in_risk_categories_should
-      receive_vaccine to travellers whose last dose of a tetanus-containing
-      vaccine was given more than 10 years ago, and who will not have ready
-      access to medical care; even if they have received five doses previously.
-** Resources **
-** Health Professionals **                ** Travellers **
-NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
-Tetanus                                   Tetanus
-Department_of_Health_Immunisation_Against
-Infectious_Disease_(Green_Book)
-
-Additional_Risks | Back_to_Top
-*** TYPHOID ***
-Typhoid fever is a systemic disease caused by Salmonella Typhi bacteria.
-** Risk assessment **
-    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
-      - Typhoid fever is known or presumed to occur in this country.
-    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
-      increase_disease_risk - Typhoid is transmitted through contaminated food
-      and water. Travellers who will have access to safe food and water are
-      likely to be at low risk. Those at higher risk include travellers
-      visiting friends and relatives, young children, long-term travellers, and
-      those visiting areas of poor sanitation.
-** Risk management **
-    * Travellers should practice strict food, water and personal hygiene
-      precautions even if vaccinated.
-    * Most travellers are at low risk and do not need vaccination.
-    * Vaccine may_be_givenMost_travellers_at_low_risk,_consider_vaccine_for
-      those_in_risk_categories to travellers whose planned activities put them
-      at higher risk (see above). Current vaccines against SalmonellaTyphi are
-      only 50-80% protective and do not protect against SalmonellaParatyphi.
-      Previous typhoid illness does not confer reliable immunity.
-** Resources **
-** Health Professionals **                ** Travellers **
-NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
-Typhoid_and_Paratyphoid_Fever             Typhoid_and_Paratyphoid_Fever
-NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
-Prevention_of_Food-_and_Water-Borne       Prevention_of_Food-_and_Water-Borne
-Diseases                                  Diseases
-Department_of_Health_Immunisation_Against
-Infectious_Disease_(Green_Book)
-
-Non-Vaccine Preventable Risks
-Clinical_Updates_| General_Risks_|Vaccine_Preventable_Risks_|Non-Vaccine
-Preventable_Risks
-Back_to_Top
-This section details infectious disease risks for which there are no vaccines
-as well as some non-infectious disease risks. This is not an exhaustive list.
-Further information about infectious and non-infectious disease risks can be
-found on the NaTHNaC Health Information Sheets. Travellers should be aware that
-accidents and injuries are a cause of serious illness during travel.
-Malaria
-Non-Vaccine Preventable Risks: Malaria | Additional_Risks | Back_to_Top
-*** MALARIA ***
-There is no risk of malaria in this country.
-Additional Risks
-Non-Vaccine Preventable Risks: Malaria | Additional_Risks | Back_to_Top
-The risks below may be a risk in all or part of the country and are presented
-alphabetically:
-
-Dengue_fever
-Additional_Risks | Back_to_Top
-*** DENGUE FEVER ***
-Dengue is a systemic viral disease. A_map_showing_the_global_areas_at_risk_for
-dengue_can_be_found_here_(85_KB_GIF)
-** Risk assessment **
-    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
-      - Dengue is known or has the potential to occur in this country.
-    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
-      increase_disease_risk - Dengue is transmitted via the bite of an infected
-      Aedes aegypti mosquito. Aedes aegypti mosquitoes feed predominantly
-      during daylight hours and are most abundant in urban or peri-urban
-      settings. All travellers to dengue areas are at risk.
-** Risk management **
-    * Travellers should take mosquito bite avoidance measures. Aedes mosquitoes
-      feed predominantly during daylight hours.
-    * There is no vaccination or medication to prevent dengue.
-    * A previous dengue illness with one of the four dengue virus serotypes
-      does not confer immunity to other virus serotypes.
-    * Infection with a second dengue serotype may be a risk factor for the
-      development of dengue haemorrhagic fever.
-** Resources **
-** Health Professionals **             ** Travellers **
-NaTHNaC_Health_Information_Sheet_on    NaTHNaC_Health_Information_Sheet_on
-Dengue_Fever                           Dengue_Fever
-NaTHNaC_Health_Information_Sheet_on    NaTHNaC_Health_Information_Sheet_on
-Insect_Bite_Avoidance                  Insect_Bite_Avoidance
-NaTHNaC_Outbreak_Survellience_Database
 
 
-Disclaimer
-Back_to_Top
-The travel health information contained in these pages is intended for health
-professionals who assess a patients travel health needs. This document is not a
-complete medical guide for travellers and as such travellers using this site
-should consult with a health professional for specific information related to
-your travel and medical history. While every care has been taken to ensure the
-accuracy and timeliness of the travel health information, NaTHNaC cannot accept
-any liability for injury, loss or damage arising in any respect of any
-statement contained therein.
-For the purpose of these web pages the term "country" covers countries,
-territories and areas. Areas within a country may be shown separately where it
-is felt necessary in order to provide travel health information.
 
-Disclaimer | Copyright | Privacy | Sitemap | Accessibility
+
+
+
+
+
+
+
+* About_Us
+* Press
+* Contact_Us
+
+ [s                   ] [Submit]
+
+
+* Country_Information
+* Latest_News
+* outbreak_surveillance
+* DiseasesIN_BRIEF
+* FactsheetsFROM_A-Z
+* World_Overview
+
+
+* About_Us
+* Press
+* Contact_Us
+
+
+* Country_Information
+* Latest_News
+* outbreak_surveillance
+* DiseasesIN_BRIEF
+* FactsheetsFROM_A-Z
+* World_Overview
+
+
+City Name: [                    ] Find
+
+Tokelau
+
+-------------------------------------------------------------------------------
+
+* General_information
+* Vaccine_recommendations
+* Other_risks
+* Important_news
+* Outbreaks
+
+An Introduction to Tokelau
+
+* Capital City: Atafu
+* Official Languages: Tokelauan
+* Monetary Unit: New Zealand dollar
+
+ Tokelau
+
+
+
+* Home
+* Country_Information
+* Tokelau
+
+
+General information
+
+The information on these pages should be used to research health risks and to
+inform the pre-travel consultation. For advice regarding safety and security
+please check the UK Foreign and Commonwealth Office (FCO) website.
+Travellers should ideally arrange an appointment with their health professional
+at least four to six weeks before travel. However, even if time is short, an
+appointment is still worthwhile. This appointment provides an opportunity to
+assess health risks taking into account a number of factors including
+destination, medical history, and planned activities. For those with pre-
+existing health problems, an earlier appointment is recommended.
+While most travellers have a healthy and safe trip, there are some risks that
+are relevant to travellers regardless of destination. These may for example
+include road traffic and other accidents, diseases transmitted by insects or
+ticks, diseases transmitted by contaminated food and water, sexually
+transmitted infections, or health issues related to the heat or cold.
+All travellers should ensure they have adequate_travel_health_insurance.
+A list of useful resources including advice on how to reduce the risk of
+certain health problems is available below.
+
+Resources
+
+
+* Food_and_water_hygiene
+* Insect_and_tick_bite_avoidance
+* Personal_safety
+* Sexually_transmitted_infections
+* Sun_protection
+
+
+* Home
+* Country_Information
+* Tokelau
+
+
+Vaccine recommendations
+
+Details of vaccination recommendations and requirements are provided below.
+
+All Travellers
+
+Travellers should be up to date with routine vaccination courses and boosters
+as recommended_in_the_UK. These vaccinations include for example measles-mumps-
+rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
+Those who may be at increased risk of an infectious disease due to their work,
+lifestyle choice, or certain underlying health problems should be up to date
+with additional recommended vaccines. See the individual chapters of the ‘Green
+Book’ Immunisation_against_infectious_disease for further details.
+
+Certificate Requirements
+
+There are no certificate requirements under International Health Regulations
+(2005).
+
+Most Travellers
+
+The vaccines in this section are recommended for most travellers visiting this
+country. Information on these vaccines can be found by clicking on the blue
+arrow. Vaccines are listed alphabetically.
+Hepatitis A
+Hepatitis A is a viral infection transmitted through contaminated food and
+water or by direct contact with an infectious person. Symptoms are often mild
+or absent in young children, but the disease becomes more serious with
+advancing age. Recovery can vary from weeks to months. Following hepatitis A
+illness immunity is lifelong.
+Those at increased risk include travellers visiting friends and relatives,
+long-stay travellers, and those visiting areas of poor sanitation.
+
+Prevention
+
+All travellers should take care with personal, food and water hygiene.
+
+Hepatitis A vaccination
+
+As hepatitis A vaccine is well tolerated and affords long-lasting protection,
+it is recommended for all previously unvaccinated travellers.
+Hepatitis_A_in_brief
+Tetanus
+Tetanus is caused by a toxin released from Clostridium tetani and occurs
+worldwide.  Tetanus bacteria are present in soil and manure and may be
+introduced through open wounds such as a puncture wound, burn or scratch.
+
+Prevention
+
+Travellers should thoroughly clean all wounds and seek appropriate medical
+attention.
+
+Tetanus vaccination
+
+
+* Travellers should have completed a primary vaccination course according to
+  the UK schedule.
+* If travelling to a country where medical facilities may be limited, a booster
+  dose of a tetanus-containing vaccine is recommended if the last dose was more
+  than ten years ago even if five doses of vaccine have been given previously.
+
+Tetanus_in_brief
+
+Soem Travellers
+
+The vaccines in this section are recommended for some travellers visiting this
+country. Information on when these vaccines should be considered can be found
+by clicking on the arrow. Vaccines are listed alphabetically.
+Hepatitis B
+Hepatitis B is a viral infection; it is transmitted by exposure to infected
+blood or body fluids. This mostly occurs during sexual contact or as a result
+of blood-to-blood contact (for example from contaminated equipment during
+medical and dental procedures, tattooing or body piercing procedures, and
+sharing of intravenous needles). Mothers with the virus can also transmit the
+infection to their baby during childbirth.
+
+Hepatitis B in Tokelau
+
+2% or more of the population are known or thought to be persistently infected
+with the hepatitis B virus (intermediate/high prevalence).
+
+Prevention
+
+Travellers should avoid contact with blood or body fluids. This includes:
+
+* avoiding unprotected sexual intercourse
+* avoiding tattooing, piercing, public shaving, and acupuncture (unless sterile
+  equipment is used)
+* not sharing needles or other injection equipment
+* following universal precautions if working in a medical/dental/high risk
+  setting
+
+A sterile medical equipment kit may be helpful when travelling to resource poor
+areas.
+
+Hepatitis B vaccination
+
+Vaccination could be considered for all travellers, and is recommended for
+those whose activities or medical history put them at increased risk including:
+
+* those who may have unprotected sex
+* those who may be exposed to contaminated needles through injecting drug use
+* those who may be exposed to blood or body fluids through their work (e.g.
+  health workers)
+* those who may be exposed to contaminated needles as a result of having
+  medical or dental care e.g. those with pre-existing medical conditions and
+  those travelling for medical care abroad including those intending to receive
+  renal dialysis overseas
+* long-stay travellers
+* those who are participating in contact sports
+* families adopting children from this country
+
+Hepatitis_B_in_brief
+Rabies (Bat Lyssavirus)
+Although rare, bat lyssaviruses (bat rabies) can be transmitted to humans or
+other animals following contact with the saliva of an infected bat most often
+by a bite. The disease can also be transmitted if the saliva of an infected bat
+gets into open wounds or mucous membranes (such as on the eye, nose or mouth).
+Bat lyssaviruses can cause disease in humans that is indistinguishable from
+rabies.
+Symptoms can take some time to develop, but when they do the condition is
+almost always fatal.
+
+Bat Lyssavirus in Tokelau
+
+Rabies has not been reported in domestic or wild animals in this country;
+therefore most travellers are considered to be at low risk. However, bats may
+carry bat lyssavirus (bat rabies).
+
+Prevention
+
+Travellers should avoid contact with bats. Bites from bats are frequently
+unrecognised. Bat lyssaviruses are preventable with prompt post-exposure rabies
+treatment.
+Following a possible exposure, wounds should be thoroughly cleansed and an
+urgent local medical assessment sought, even if the wound appears trivial.
+Although rabies has not been reported in other animals in this country, it is
+sensible to seek prompt medical advice if bitten or scratched. It is possible,
+although very rare for bats to pass rabies like viruses to other animals
+including pets.
+Post-exposure treatment and advice should be in accordance with national
+guidelines.
+
+Rabies vaccination
+
+
+* Pre-exposure rabies vaccinations are recommended for those who are at
+  increased risk due to their work (e.g. laboratory staff working with the
+  virus and those working with bats).
+* Pre exposure vaccines could be considered for those whose activities put them
+  at increased risk of exposure to bats.
+
+Rabies_in_brief
+Typhoid
+Typhoid is a bacterial infection transmitted through contaminated food and
+water.  Previous typhoid illness may only partially protect against re-
+infection.
+Travellers who will have access to safe food and water are likely to be at low
+risk. Those at increased risk include travellers visiting friends and
+relatives, frequent or long-stay travellers to areas where sanitation and food
+hygiene are likely to be poor.
+
+Typhoid in Tolelau
+
+Typhoid fever is known or presumed to occur in this country.
+
+Prevention
+
+All travellers should take care with personal, food and water hygiene.
+
+Typhoid vaccination
+
+
+* Both oral and injectable typhoid vaccinations are available, and vaccination
+  is recommended for laboratory personnel who may handle the bacteria for their
+  work.
+* Vaccination could be considered for those whose activities put them at
+  increased risk (see above).
+
+Typhoid_in_brief
+
+
+* Home
+* Country_Information
+* Tokelau
+
+
+Other risks
+
+The risk below may be present in all or part of the country.
+
+Dengue Fever
+
+Dengue fever is a viral infection transmitted by mosquitoes which predominantly
+feed between dawn and dusk.  It causes a flu-like illness, which can
+occasionally develop into a more serious life-threatening form of the disease.
+Severe dengue fever is rare in travellers.
+The mosquitoes that transmit dengue fever are most abundant in towns, cities
+and surrounding areas. All travellers to dengue areas are at risk.
+
+Dengue fever in Tokelau 
+
+Dengue is known or has the potential to occur in this country.
+
+Prevention
+
+
+* All travellers should avoid mosquito bites particularly between dawn and
+  dusk.
+* There is no vaccination or medication to prevent dengue fever.
+
+Dengue_fever_in_brief
+
+
+* Home
+* Country_Information
+* Tokelau
+
+
+Important News
+
+_Mosquito_
+21 Jul 2015
+
+Chikungunya_virus:_Pacific_Islands_and_Oceania
+
+Locally acquired transmission of chikungunya virus in Pacific Islands and
+Oceania read_more
+All_News
+
+* RSS
+* Share
+
+
+* Home
+* Country_Information
+* Tokelau
+
+
+outbreaks
+
+More
+
+* RSS
+* Share
+
+Map
+View_Map
+Weather
+Tokelau
+26C
+Foreign travel advice
+_common-wealth-office_
+Tag Cloud
+Cavu_River Chikungunya Corsica Cyclospora Dengue Ebola_Virus_Disease Malaria
+MERS-Cov Plague Polio Rabies VFR West_Nile_virus Yellow_Fever
+
+
+About
+
+* About_Us
+* Press
+* Contact_Us
+
+Content
+
+* Country_Information
+* Latest_News
+* Outbreak_Surveillance
+* Diseases_in_Brief
+* Factsheets_From_A-Z
+* World_Overview
+
+disease
+
+* Yellow_fever
+* Dengue_fever
+* Cholera
+* Malaria
+
+Quicklinks
+
+* Clinic_Resources
+* Educational_Events
+* The_Green_Book
+* Malaria_Guidelines
+* Order_ICVPs
+* Useful_Sites
+
+
+*  [s                   ] [Submit]
+
+follow us
+
+* ©_Crown_Copyright
+* Disclaimer
+* Terms_of_Use
 
 
 

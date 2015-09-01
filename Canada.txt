@@ -5,313 +5,541 @@
 
 
 
-Search :
-[Search NaTHNaC      ] [Submit /images/country_go_but.gif]
-[NaTHNaC_Logo]
-Health Professional
-    * Home
-    * Health_Professionals
-    * About_Us
-    * News
-    * Clinical_Updates
-    * Health_Information
-    * Yellow_Fever_Centres
-    * Links
-    * Contact_Us
-    * Country_Information
-Travellers
-    * Home
-    * Travellers
-    * About_us
-    * News
-    * Health_Information
-    * Yellow_Fever_Centres
-    * Links
-    * Contact_Us
-    * Country_Information
-Country Specific
-    * Home
-    * Health_Professionals
-    * Travellers
-    * Yellow_Fever_Centres
-    * Outbreak_Surveillance
-    * Clinical_Updates
-    * Contact_Us
-****** [Country Information] ******
-
-***** Locate Country *****
->> World_Map
-    * North_&_Central_America
-    * South_America_&_Antarctica
-    * Europe
-    * North_Africa_&_Middle_East
-    * Africa
-    * Asia_&_Oceania
->> Alphabetical_list_of_countries
-A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T |
-U | V | W | X | Y | Z
-***** Guidance *****
-[guidance]Making_the_most_of_this_resource
-Rationale_for_risk_assessment_and_risk_management
-***** Outbreak Surveillance *****
-[Outbreak_Surveillance]
-
-Search_for_recent_disease_outbreaks
-***** Clinical Updates *****
-Information that may result in a change in travel advice
->>_All_clinical_updates
-
-***** Health Information Sheets *****
-Health_information_sheets_for_health_professionals
-Health_information_sheets_for_travellers
-
-***** Foreign and Commonwealth Office *****
-[The_Foreign_and_Commonweath_office]
-
-Country-specific_Travel_Advice_notices_for_safety_and_security,_entry
-requirements_and_other_relevant_information
-
-***** Canada *****
-[Map of Canada]
-Welcome to the NaTHNaC Country Information page.
-The information on this page should be used as part of a comprehensive pre-
-travel health consultation. Ideally this should be scheduled at least six weeks
-prior to travel. All travellers should have adequate travel health insurance.
-**** Contents ****
-On this page:
-    * Recent_Clinical_Updates
-    * General_Health_Risks
-    * Vaccine_Preventable_Risks
-    * Non-Vaccine_Preventable_Risks
-Country Specific Links:
-    * NaTHNaC_Outbreak_Surveillance
-    * Foreign_and_Commonwealth_Office_(including_information_on_security,
-      safety_and_natural_disasters)
-View_Disclaimer
-
-Recent Clinical Updates
-Clinical_Updates_| General_Risks_|Vaccine_Preventable_Risks_|Non-Vaccine
-Preventable_Risks
-Back_to_Top
-Clinical Updates provide information which may result in a change in travel
-health advice or practice.
-Recent Clinical Updates for this country are listed below:
-  6 May 2015:
-      Novel_highly_pathogenic_avian_influenza_(HPAI)_viruses:_Canada_and_USA
-View_a_full_list_of_Clinical_Updates_for_this_country.
 
 
-General Health Risks
-Clinical_Updates | General_Risks | Vaccine_Preventable_Risks | Non-Vaccine
-Preventable_Risks | Back_to_Top
-Some health risks apply to travellers to all countries. Please see below for a
-list of important health information sheets. A full list of information sheets
-is available through the Health Information Sheets link on the left hand side
-of the page.
-** Health Professionals **              ** Travellers **
-Food_and_Water-Borne_Diseases           Food_and_Water-Borne_Diseases
-Insect_Bite_Avoidance                   Insect_Bite_Avoidance
-Personal_Safety_During_Travel           Personal_Safety_During_Travel
-Sun_Protection                          Sun_Protection
-HIV_and_sexually_transmitted_infections Sexually_transmitted_infections_and
-Natural_Disasters_-_Advice_for_relief   travel
-workers_and_other_travellers_to_areas   Travel_to_Areas_of_Disasters_and
-affected_by_natural_disasters           Conflicts
 
 
-Vaccine Preventable Risks
-Clinical_Updates_| General_Risks_|Vaccine_Preventable_Risks_|Non-Vaccine
-Preventable_Risks
-Back_to_Top
-Travellers should be up to date with routinely recommended vaccinations
-according to the UK schedule:
-    * NHS_Immunisation_Information
-    * Department_of_Health_Immunisation_Against_Infectious_Disease_(Green_book)
-Yellow Fever
-Vaccine Preventable Risks: Yellow_Fever | Additional_Risks | Back_to_Top
-YELLOW FEVER
-There is no risk of yellow fever in this country and there are no certificate
-requirements under International Health Regulations (2005).
 
-Additional Risks
-Vaccine Preventable Risks: Yellow_Fever | Additional_Risks | Back_to_Top
-The diseases below may be a risk in all or part of the country and are
-presented alphabetically:
 
-Hepatitis_A,
-Rabies, Tetanus
-Additional_Risks | Back_to_Top
-*** HEPATITIS A ***
-Hepatitis A is a viral disease that causes inflammation of the liver.A_map
-showing_the_global_areas_at_risk_for_hepatitis_A_can_be_found_here_(102_KB_GIF)
-** Risk assessment **
-    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
-      - Hepatitis A is known to occur in this country although the risk to most
-      travellers is considered to be low.
-    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
-      increase_disease_risk - Hepatitis A is transmitted through contaminated
-      food and water. Travellers who will have access to safe food and water
-      are at low risk. Those at higher risk include travellers visiting friends
-      and relatives, long stay travellers, and those visiting areas of poor
-      sanitation.
-** Risk management **
-    * Travellers should practice strict food, water and personal hygiene
-      precautions.
-    * Vaccine may_be_givenMost_travellers_at_low_risk,_consider_vaccine_for
-      those_in_risk_categories to travellers whose planned activities put them
-      at higher risk of exposure (see above).
-    * Because hepatitis A vaccine is well tolerated and affords long-lasting
-      protection, it may_be_givenMost_travellers_at_low_risk,_consider_vaccine
-      for_those_in_risk_categories to all previously unvaccinated travellers.
-    * Vaccine should also be given to those with chronic liver disease or
-      haemophilia, men who have sex with men, injecting drug users and those at
-      occupational risk.
-** Resources **
-** Health Professionals **                 ** Travellers **
-NaTHNaC_health_information_sheet_on        NaTHNaC_health_Information_Sheet_on
-hepatitis_A                                Hepatitis_A
-Department_of_Health:_Immunisation_against NaTHNaC_Health_Information_Sheet_on
-infectious_disease_(Green_Book)_-          Prevention_of_Food_and_Water-Borne
-Hepatitis_A                                Diseases
-NaTHNaC_Health_Information_Sheet_on
-Prevention_of_Food_and_Water-Borne
-Diseases
 
-Additional_Risks | Back_to_Top
-*** RABIES ***
-Rabies is a neurological disease caused by viruses of the Lyssavirus genus.
-** Risk assessment **
-    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
-      - in this country rabies has only been reported in wild animals;
-      therefore most travellers to this country are considered to be at low
-      risk for rabies.
-    * Bats may carry rabies-like viruses in this country.
-    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
-      increase_disease_risk - transmission may occur following contact with the
-      saliva from an infected animal, most often via a bite, scratch or lick to
-      an open wound or mucous membrane. Rabies transmission may occur following
-      contact with the saliva of an infected bat (via bites or scratches or
-      saliva contact with mucous membranes). Bites from bats are frequently
-      unrecognised.
-      The risk of exposure to wild animals may be increased for those with
-      certain occupations e.g. veterinarians and those undertaking certain
-      trips e.g. camping, wildlife viewing.
-      Children are at increased risk as they are less likely to avoid contact
-      with animals and to report a bite, scratch or lick.
-** Risk management **
-    * Travellers should avoid contact with wild animals and bats.
-    * Pre-exposure vaccination could be considered for those at increased risk
-      (see above).
-    * Following a possible exposure, wounds should be thoroughly cleansed and
-      an urgent local medical assessment sought, even if the wound appears
-      trivial. Prompt post exposure treatment may be required.
-    * Post-exposure management and advice on return to the UK should be in
-      accordance with PHE_guidelines.
-Suitable vaccine and immunoglobulins may be in short supply or unavailable in
-some countries.
-** Resources **
-** Health Professionals **                ** Travellers **
-NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
-Rabies                                    Rabies
-Department_of_Health._Immunisation
-Against_Infectious_Disease_(Green_Book)
-Public_Health_England:_Rabies
-World_Animal_Health_Information_Database_
-(OIE)
 
-Additional_Risks | Back_to_Top
-*** TETANUS ***
-Tetanus is caused by a toxin released from Clostridium tetani bacteria.
-** Risk assessment **
-    * EpidemiologyInformation_on_the_occurrence_of_disease_within_this_country
-      - Tetanus bacteria are found worldwide.
-    * ExposureInformation_on_the_mode_of_transmission_and_factors_that_may
-      increase_disease_risk - Tetanus bacteria are present in soil and manure
-      and may be introduced through open wounds such as a puncture wound, burn
-      or scratch.
-** Risk management **
-    * Travellers should thoroughly clean all wounds and seek appropriate
-      medical attention
-    * Travellers should have completed a primary vaccination course according
-      to the UK schedule.
-    * A booster dose should_be_givenAll_travellers_in_risk_categories_should
-      receive_vaccine to travellers whose last dose of a tetanus-containing
-      vaccine was given more than 10 years ago, and who will not have ready
-      access to medical care; even if they have received five doses previously.
-** Resources **
-** Health Professionals **                ** Travellers **
-NaTHNaC_Health_Information_Sheet_on       NaTHNaC_Health_Information_Sheet_on
-Tetanus                                   Tetanus
-Department_of_Health_Immunisation_Against
-Infectious_Disease_(Green_Book)
 
-Non-Vaccine Preventable Risks
-Clinical_Updates_| General_Risks_|Vaccine_Preventable_Risks_|Non-Vaccine
-Preventable_Risks
-Back_to_Top
-This section details infectious disease risks for which there are no vaccines
-as well as some non-infectious disease risks. This is not an exhaustive list.
-Further information about infectious and non-infectious disease risks can be
-found on the NaTHNaC Health Information Sheets. Travellers should be aware that
-accidents and injuries are a cause of serious illness during travel.
-Malaria
-Non-Vaccine Preventable Risks: Malaria | Additional_Risks | Back_to_Top
-*** MALARIA ***
-There is no risk of malaria in this country.
-Additional Risks
-Non-Vaccine Preventable Risks: Malaria | Additional_Risks | Back_to_Top
-The risks below may be a risk in all or part of the country and are presented
-alphabetically:
+
+
+
+
+
+* About_Us
+* Press
+* Contact_Us
+
+ [s                   ] [Submit]
+
+
+* Country_Information
+* Latest_News
+* outbreak_surveillance
+* DiseasesIN_BRIEF
+* FactsheetsFROM_A-Z
+* World_Overview
+
+
+* About_Us
+* Press
+* Contact_Us
+
+
+* Country_Information
+* Latest_News
+* outbreak_surveillance
+* DiseasesIN_BRIEF
+* FactsheetsFROM_A-Z
+* World_Overview
+
+
+City Name: [                    ] Find
+
+Canada
+
+-------------------------------------------------------------------------------
+
+* General_information
+* Vaccine_recommendations
+* Other_risks
+* Important_news
+* Outbreaks
+
+An Introduction to Canada
+
+* Capital City: Ottawa
+* Official Languages: English; French
+* Monetary Unit: Canadian dollar (Can$)
+
+ Canada
+
+
+
+* Home
+* Country_Information
+* Canada
+
+
+General information
+
+The information on these pages should be used to research health risks and to
+inform the pre-travel consultation. For advice regarding safety and security
+please check the UK Foreign and Commonwealth Office (FCO) website.
+Travellers should ideally arrange an appointment with their health professional
+at least four to six weeks before travel. However, even if time is short, an
+appointment is still worthwhile. This appointment provides an opportunity to
+assess health risks taking into account a number of factors including
+destination, medical history, and planned activities. For those with pre-
+existing health problems, an earlier appointment is recommended.
+While most travellers have a healthy and safe trip, there are some risks that
+are relevant to travellers regardless of destination. These may for example
+include road traffic and other accidents, diseases transmitted by insects or
+ticks, diseases transmitted by contaminated food and water, sexually
+transmitted infections, or health issues related to the heat or cold.
+All travellers should ensure they have adequate_travel_health_insurance.
+A list of useful resources including advice on how to reduce the risk of
+certain health problems is available below.
+
+Resources
+
+
+* Food_and_Water-Borne_Diseases
+* Insect_Bite_Avoidance
+* Personal_Safety_During_Travel
+* Sexually_Transmitted_Infections
+* Sun_Protection
+
+
+* Home
+* Country_Information
+* Canada
+
+
+Vaccine recommendations
+
+Details of vaccination recommendations and requirements are provided below.
+
+All Travellers
+
+Travellers should be up to date with routine vaccination courses and boosters
+as recommended_in_the_UK. These vaccinations include for example measles-mumps-
+rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
+Those who may be at increased risk of an infectious disease due to their work,
+lifestyle choice, or certain underlying health problems should be up to date
+with additional recommended vaccines. See the individual chapters of the ‘Green
+Book’ Immunisation_against_infectious_disease for further details.
+
+Certificate Requirement
+
+There are no certificate requirements under International Health Regulations
+(2005).
+
+Most Travellers
+
+The vaccines in this section are recommended for most travellers visiting this
+country. Information on these vaccines can be found by clicking on the blue
+arrow. Vaccines are listed alphabetically.
+Tetanus
+Tetanus is caused by a toxin released from Clostridium tetani and occurs
+worldwide. Tetanus bacteria are present in soil and manure and may be
+introduced through open wounds such as a puncture wound, burn or scratch.
+
+Prevention
+
+Travellers should thoroughly clean all wounds and seek appropriate medical
+attention.
+
+Tetanus vaccination
+
+
+* Travellers should have completed a primary vaccination course according to
+  the UK schedule.
+* If travelling to a country where medical facilities may be limited, a booster
+  dose of a tetanus-containing vaccine is recommended if the last dose was more
+  than ten years ago even if five doses of vaccine have been given previously.
+
+Country specific information on medical facilities may be found in the ‘health’
+section of the FCO_foreign_travel_advice website.
+Tetanus_in_brief
+
+Some Travellers
+
+The vaccines in this section are recommended for some travellers visiting this
+country. Information on when these vaccines should be considered can be found
+by clicking on the arrow. Vaccines are listed alphabetically.
+Rabies
+Rabies is a viral infection which is usually transmitted following contact with
+the saliva of an infected animal most often via a bite, scratch or lick to an
+open wound or mucous membrane (such as on the eye, nose or mouth). Although
+many different animals can transmit the virus, worldwide most cases follow a
+bite or scratch from an infected dog. Bats are also an important source of
+infection in some countries.
+Rabies symptoms can take some time to develop, but when they do the condition
+is almost always fatal.
+The risk of exposure is increased by certain activities and length of stay (see
+below). Children are at increased risk as they are less likely to avoid contact
+with animals and to report a bite, scratch or lick.
+
+Rabies in Canada
+
+Rabies has only been reported in wild animals in this country; therefore most
+travellers are considered to be at low risk for rabies. Bats may also carry
+rabies-like viruses in this country.
+
+Prevention
+
+
+* Travellers should avoid contact with wild animals.  Rabies is preventable
+  with prompt post-exposure treatment.
+* Following a possible exposure, wounds should be thoroughly cleansed and an
+  urgent local medical assessment sought, even if the wound appears trivial.
+  Although rabies has not been reported in domestic animals, it is still
+  sensible to seek prompt medical advice if bitten or scratched by all animals.
+* Post-exposure treatment and advice should be in accordance with national
+  guidelines.
+
+
+Rabies vaccination
+
+
+* Pre-exposure vaccines are recommended for those who are at increased risk due
+  to their work (e.g. laboratory staff working with the virus, those working
+  with animals or health care workers who may be caring for infected patients).
+* Pre-exposure vaccines could be considered for those who are at increased risk
+  of exposure to wild animals.
+
+Rabies_in_brief
+
+
+* Home
+* Country_Information
+* Canada
+
+
+Other risks
+
+The risk below may be present in all or part of the country.
 
 Altitude
-Additional_Risks | Back_to_Top
-*** ALTITUDE ***
-There is a point of elevation in this country higher than 2,500 metres (m).
-** Risk assessment **
-    * Travel to destinations of 2,500-3,500 m (8,200-11,500 feet) or higher
-      carries the risk of altitude illness. Important risk factors for altitude
-      illness are the altitude gained, rate of ascent and sleeping altitude.
-      Rapid ascent without a period of acclimatisation puts a traveller at
-      higher risk.
-** Risk management **
-    * The most important prevention measure is adequate acclimatisation.
-    * Travellers should spend a few days at an intermediate altitude below
-      3,000 m.
-    * Ascent above 3,000 m should be gradual with no more than a 300 - 500 m
-      increase in sleeping altitude per day, with a rest day every three days.
-    * Acetazolamide is recognised for use in the prevention of altitude
-      illness. It should not replace acclimatisation and gradual ascent.
-    * Travellers who develop symptoms of altitude illness (headache, fatigue,
-      loss of appetite, nausea and sleep disturbance) should avoid further
-      ascent. In the absence of improvement or with progression of symptoms the
-      first response should be to descend.
-    * Development of more severe forms of altitude illness, high-altitude
-      cerebral oedema (HACE) (confusion, difficulty with balance and
-      coordination) or high-altitude pulmonary oedema (HAPE) (shortness of
-      breath at rest, cough and chest tightness), require immediate descent and
-      emergency medical treatment.
-** Resources **
-** Health Professionals **           ** Travellers **
-NaTHNaC_Health_Information_Sheet_on  NaTHNaC_Health_Information_Sheet_on
-Altitude_Illness                     Altitude_Illness
-British_Mountaineering_Council_(BMC) British_Mountaineering_Council_(BMC)
-Mountain_Medicine_website            Mountain_Medicine_website
 
-Disclaimer
-Back_to_Top
-The travel health information contained in these pages is intended for health
-professionals who assess a patients travel health needs. This document is not a
-complete medical guide for travellers and as such travellers using this site
-should consult with a health professional for specific information related to
-your travel and medical history. While every care has been taken to ensure the
-accuracy and timeliness of the travel health information, NaTHNaC cannot accept
-any liability for injury, loss or damage arising in any respect of any
-statement contained therein.
-For the purpose of these web pages the term "country" covers countries,
-territories and areas. Areas within a country may be shown separately where it
-is felt necessary in order to provide travel health information.
+There is a risk of altitude illness when travelling to destinations of 2,500
+metres (8,200 feet) or higher. Important risk factors are the altitude gained,
+rate of ascent and sleeping altitude. Rapid ascent without a period of
+acclimatisation puts a traveller at higher risk.
+There are three syndromes; acute mountain sickness (AMS), high-altitude
+cerebral oedema (HACE) and high-altitude pulmonary oedema (HAPE). HACE and HAPE
+require immediate descent and medical treatment.
 
-Disclaimer | Copyright | Privacy | Sitemap | Accessibility
+Altitude illness in Canada
+
+ There is a point of elevation in this country higher than 2,500 metres. An
+example place of interest, Mt Logan 5,950m.
+
+Prevention
+
+
+* Travellers should spend a few days at an altitude below 3,000m.
+* Where possible travellers should avoid travel from altitudes less than 1,200m
+  to altitudes greater than 3,500m in a single day.
+* Ascent above 3,000m should be gradual. Travellers should avoid increasing
+  sleeping elevation by more than 500m per day and ensure a rest day (at the
+  same altitude) every three or four days.
+* Acetazolamide can be used to assist with acclimatisation, but should not
+  replace gradual ascent.
+* Travellers who develop symptoms of AMS (headache, fatigue, loss of appetite,
+  nausea and sleep disturbance) should avoid further ascent. In the absence of
+  improvement or with progression of symptoms the first response should be to
+  descend.
+* Development of HACE or HAPE symptoms requires immediate descent and emergency
+  medical treatment.
+
+Altitude_illness_in_brief
+
+
+* Home
+* Country_Information
+* Canada
+
+
+Important News
+
+11 May 2015
+
+Measles:_worldwide
+
+A measles reminder for health professionals and travellers read_more
+06 May 2015
+
+HPAI_viruses:_Canada_and_the_United_States_of_America
+
+Novel highly pathogenic avian influenza (HPAI) viruses: Canada and the United
+States of America read_more
+10 Feb 2015
+
+Imported_avian_influenza_A_(H7N9):_Canada
+
+First cases of influenza A (H7N9) infection in humans in North America read
+more
+03 Dec 2014
+
+Enterovirus_D68:_North_America_and_Europe
+
+USA has reported cases and clusters of severe respiratory illness associated
+with Enterovirus D68 (EV-D68) read_more
+All_News
+
+* RSS
+* Share
+
+
+* Home
+* Country_Information
+* Canada
+
+
+outbreaks
+
+
+Legionnaires’_disease_in_Canada
+
+27 Aug 2015 Canada
+Since 20 Aug 2015, 16 cases of Legionnaires' disease were reported in
+Berthierville. One person has died. The source of the outbreak is unknown.
+Human
+Air-borne
+New Post
+Media_-_Read_more
+
+E.coli_in_Canada
+
+26 Aug 2015 Canada
+As of 24 Aug 2015, the Public Health Agency of Canada is investigating an
+outbreak of 24 E.coli cases in Alberta, Nova Scotia, Ontario and Quebec.
+Individuals became ill between 12 July and 8 Aug 2015. Five people have been
+hospitalised, but all are recovering. A specific source or product has not yet
+been identified.
+Human
+Food and Water-borne
+New Post
+Verified
+State_-_Read_more
+
+Vibrio_parahaemolyticus_in_Canada
+
+20 Aug 2015 View Regions  +  Alberta
+BritishColumbia
+Canada
+As of 19 Aug 2015, a total of 72 Canadian cases of Vibrio parahaemolyticus
+infections linked to raw shellfish have now been reported. The majority of
+cases have been linked to eating raw oysters.
+Human
+Update 1
+Verified
+State_-_Read_more
+
+Cyclosporiasis_in_Canada
+
+11 Aug 2015 Canada
+A total of 83 Cyclospora infections have been reported from four Canadian
+provinces: Ontario, British Columbia, Alberta and Quebec. The source of this
+outbreak is not yet known.
+Human
+Food and Water-borne
+New Post
+Verified
+State_-_Read_more
+
+Tick-borne_encephalitis_in_Canada
+
+16 Jul 2015 Prince Edward Island. Canada
+As of 10 July 2015 a suspected case of tick borne encephalitis has been
+reported and is being investigated.
+Human
+Vector-born
+New Post
+Verified
+Pro_Med_-_Read_more
+
+Salmonellosis_in_Canada
+
+06 Jul 2015 View Regions  +  Alberta
+BritishColumbia
+Manitoba
+Northwest Territories
+Saskatchewan
+Canada
+As of 3 Jul 2015, 60 cases of Salmonella illness have been reported in four
+provinces and one territory: Alberta (34); British Columbia (19); Saskatchewan
+(five); Manitoba (one); and the Northwest Territories (one). Illness onset
+dates ranged from 5 Apr and 17 Jun 2015; and all have reported contact with
+live baby poultry.
+Human
+Food and Water-borne
+New Post
+Verified
+State_-_Read_more
+
+Tetanus_in_Canada
+
+03 Jun 2015 Canada
+On 1 June 2015 a case of tetanus was reported in a 6 yr old boy. He is
+receiving treatment.
+Human
+Miscellaneous
+New Post
+ProMED_-_Read_more
+
+Influenza_A_(H5)_in_Canada
+
+05 May 2015 BritishColumbia. Canada
+As of 1 May 2015; a case of highly pathogenic avian influenza H5N8 HPAI has
+been confirmed in a wild bird collected in Feb 2015 as part of enhanced
+surveillance. This is the first H5N8 HPAI virus detection in Canada.
+Animal
+Air-borne
+New Post
+Verified
+World_Organisation_for_animal_health_-_Read_more
+
+Influenza_A_(H5N2)_in_Canada
+
+23 Apr 2015 BritishColumbia. Canada
+As of 21 Apr 2015; highly pathogenic H5N2 avian influenza virus has been
+reported in province of British Columbia and unrelatedoutbreaks of HPAI A
+(H5N2) were recently detected in birdsin the province of Ontario. These are the
+first outbreaks due to HPAI H5 influenza reassortants of Eurasian origin
+registered in North America.
+Animal
+Air-borne
+Update 1
+Verified
+WHO_regional_-_Read_more
+
+E.coli_in_Canada
+
+16 Apr 2015 View Regions  +  Alberta
+Saskatchewan
+Canada
+The Public Health Agency of Canadahas reported twelve cases of E.coli
+infections; with a possible link to leafy greens. A specific product has not
+been identified yet; and the investigation is ongoing. Cases have been reported
+in Alberta; Saskatchewan; Ontario; Newfoundland and Labrador.
+Human
+Food and Water-borne
+New Post
+Verified
+State_-_Read_more
+
+Measles_in_Canada
+
+10 Apr 2015 Canada
+A total of 180 cases of measles have been reported in Canada in 2015. Three
+provinces (Ontario; Quebec and British Columbia) have reported recent measles
+activity. One case from Ontario had a history of travel to Pakistan and two
+cases from British Columbia were linked with travel history to China.
+Human
+Close association
+Update 1
+Verified
+State_-_Read_more
+
+Measles_in_Canada
+
+09 Apr 2015 BritishColumbia. Canada
+Two measles cases have been reported; linked with a recent flight from China to
+Vancouver. The patients were either on the flight; or were in contact with
+someone on the plane.
+Human
+Close association
+New Post
+Verified
+State_-_Read_more
+
+Influenza_A_(H7N9)_in_Canada
+
+02 Feb 2015 BritishColumbia. Canada
+A second case has now tested positive for the H7N9 avian influenza virus on 29
+Jan 2015. The patient recently returned to Canada after travelling to China
+with the index case (female); who is his wife. Since both cases became
+symptomatic one day apart; it is likely they were exposed to a common source.
+Human
+Air-borne
+Update 1
+Verified
+State_-_Read_more
+
+Salmonellosis_in_Canada_ex_USA
+
+15 Jan 2015 Canada
+Of the two recently reported cases; only one case has been shown to be related
+to the US outbreak of Listeria related to the consumption of caramel apples.
+Human
+Imported
+Food and Water-borne
+Update 1
+Verified
+Health_Canada_-_Read_more
+
+Pertussis_in_Canada
+
+05 Dec 2014 Alberta. Canada
+Health authorities in Alberta has reported an outbreak of pertussis with 107
+confirmed cases in the Central Zone.
+Human
+Close association
+New Post
+Verified
+State_-_Read_more
+More
+
+* RSS
+* Share
+
+Map
+View_Map
+Weather
+Canada
+18C
+Foreign travel advice
+_common-wealth-office_
+Tag Cloud
+Cavu_River Chikungunya Corsica Cyclospora Dengue Ebola_Virus_Disease Malaria
+MERS-Cov Plague Polio Rabies VFR West_Nile_virus Yellow_Fever
+
+
+About
+
+* About_Us
+* Press
+* Contact_Us
+
+Content
+
+* Country_Information
+* Latest_News
+* Outbreak_Surveillance
+* Diseases_in_Brief
+* Factsheets_From_A-Z
+* World_Overview
+
+disease
+
+* Yellow_fever
+* Dengue_fever
+* Cholera
+* Malaria
+
+Quicklinks
+
+* Clinic_Resources
+* Educational_Events
+* The_Green_Book
+* Malaria_Guidelines
+* Order_ICVPs
+* Useful_Sites
+
+
+*  [s                   ] [Submit]
+
+follow us
+
+* ©_Crown_Copyright
+* Disclaimer
+* Terms_of_Use
 
 
 
