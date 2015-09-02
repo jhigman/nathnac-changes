@@ -641,7 +641,7 @@ Map
 View_Map
 Weather
 Burundi
-25C
+23C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

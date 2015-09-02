@@ -568,7 +568,7 @@ Map
 View_Map
 Weather
 Mozambique
-26C
+21C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -618,7 +618,7 @@ Map
 View_Map
 Weather
 Togo
-28C
+23C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

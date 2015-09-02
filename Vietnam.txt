@@ -650,7 +650,7 @@ Map
 View_Map
 Weather
 Vietnam
-27C
+33C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

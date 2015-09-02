@@ -754,7 +754,7 @@ Map
 View_Map
 Weather
 Nigeria
-24C
+23C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

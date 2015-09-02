@@ -259,7 +259,7 @@ Map
 View_Map
 Weather
 Belgium
-13C
+11C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

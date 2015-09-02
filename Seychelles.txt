@@ -378,7 +378,7 @@ Map
 View_Map
 Weather
 Seychelles
-27C
+29C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

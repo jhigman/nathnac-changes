@@ -639,7 +639,7 @@ Map
 View_Map
 Weather
 Benin
-28C
+23C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

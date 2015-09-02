@@ -322,7 +322,7 @@ Map
 View_Map
 Weather
 Bahrain
-36C
+37C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

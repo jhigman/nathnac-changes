@@ -674,7 +674,7 @@ Map
 View_Map
 Weather
 Tanzania (Including Zanzibar)
-21C
+17C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

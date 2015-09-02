@@ -650,7 +650,7 @@ Map
 View_Map
 Weather
 Peru
-30C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

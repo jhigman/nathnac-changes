@@ -407,7 +407,7 @@ Map
 View_Map
 Weather
 Kiribati
-24C
+28C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

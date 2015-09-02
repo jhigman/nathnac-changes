@@ -635,7 +635,7 @@ Map
 View_Map
 Weather
 Bolivia
-25C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

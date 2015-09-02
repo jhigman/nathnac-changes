@@ -273,7 +273,7 @@ Map
 View_Map
 Weather
 Falkland Islands
-6C
+5C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

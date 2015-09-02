@@ -726,7 +726,7 @@ Map
 View_Map
 Weather
 Pakistan
-30C
+31C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

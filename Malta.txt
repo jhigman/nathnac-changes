@@ -255,7 +255,7 @@ Map
 View_Map
 Weather
 Malta
-23C
+20C
 Foreign travel advice
  common-wealth-office
 Tag Cloud

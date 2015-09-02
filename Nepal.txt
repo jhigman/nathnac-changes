@@ -654,7 +654,7 @@ Map
 View_Map
 Weather
 Nepal
-21C
+27C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

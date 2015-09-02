@@ -665,7 +665,7 @@ Map
 View_Map
 Weather
 Ivory Coast
-30C
+23C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

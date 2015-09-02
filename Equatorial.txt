@@ -664,7 +664,7 @@ Map
 View_Map
 Weather
 Equatorial Guinea
-26C
+23C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

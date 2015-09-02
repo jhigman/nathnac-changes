@@ -554,7 +554,7 @@ Map
 View_Map
 Weather
 Botswana
-26C
+17C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

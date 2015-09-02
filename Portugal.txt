@@ -268,7 +268,7 @@ Map
 View_Map
 Weather
 Portugal
-24C
+22C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

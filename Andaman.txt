@@ -527,7 +527,7 @@ Map
 View_Map
 Weather
 Andaman &amp; Nicobar Islands (India)
-27C
+28C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

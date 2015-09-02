@@ -365,7 +365,7 @@ Map
 View_Map
 Weather
 Martinique
-31C
+27C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

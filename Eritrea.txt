@@ -634,7 +634,7 @@ Map
 View_Map
 Weather
 Eritrea
-34C
+35C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

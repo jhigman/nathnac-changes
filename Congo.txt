@@ -622,7 +622,7 @@ Map
 View_Map
 Weather
 Congo
-28C
+21C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -357,7 +357,7 @@ Map
 View_Map
 Weather
 Cuba
-32C
+25C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

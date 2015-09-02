@@ -387,7 +387,7 @@ Map
 View_Map
 Weather
 Chile
-20C
+11C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

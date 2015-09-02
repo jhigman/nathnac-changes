@@ -526,7 +526,7 @@ Map
 View_Map
 Weather
 Haiti
-33C
+29C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -603,7 +603,7 @@ Map
 View_Map
 Weather
 Zambia
-C
+16C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

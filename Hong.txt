@@ -547,7 +547,7 @@ Map
 View_Map
 Weather
 China (Hong Kong)
-26C
+27C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

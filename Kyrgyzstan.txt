@@ -498,7 +498,7 @@ Map
 View_Map
 Weather
 Kyrgyzstan
-12C
+13C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

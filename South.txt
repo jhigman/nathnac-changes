@@ -791,7 +791,7 @@ Map
 View_Map
 Weather
 South Sudan
-37C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

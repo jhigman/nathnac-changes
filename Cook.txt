@@ -372,7 +372,7 @@ Map
 View_Map
 Weather
 Cook Islands
-21C
+20C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -531,7 +531,7 @@ Map
 View_Map
 Weather
 France
-15C
+13C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

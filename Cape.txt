@@ -497,7 +497,7 @@ Map
 View_Map
 Weather
 Cape Verde
-26C
+25C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

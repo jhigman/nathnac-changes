@@ -238,7 +238,7 @@ Map
 View_Map
 Weather
 Monaco
-25C
+21C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

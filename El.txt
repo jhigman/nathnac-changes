@@ -422,7 +422,7 @@ Map
 View_Map
 Weather
 El Salvador
-32C
+22C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

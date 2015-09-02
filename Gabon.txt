@@ -588,7 +588,7 @@ Map
 View_Map
 Weather
 Gabon
-28C
+21C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

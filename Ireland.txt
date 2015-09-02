@@ -245,7 +245,7 @@ Map
 View_Map
 Weather
 Ireland
-12C
+9C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

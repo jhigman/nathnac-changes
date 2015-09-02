@@ -473,7 +473,7 @@ Map
 View_Map
 Weather
 Azerbaijan
-23C
+19C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

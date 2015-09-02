@@ -292,7 +292,7 @@ Map
 View_Map
 Weather
 Bermuda
-28C
+27C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -623,7 +623,7 @@ Map
 View_Map
 Weather
 Cambodia
-26C
+33C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -302,7 +302,7 @@ Map
 View_Map
 Weather
 Turks and Caicos Islands
-37C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

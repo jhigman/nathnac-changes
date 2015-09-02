@@ -569,7 +569,7 @@ Map
 View_Map
 Weather
 Argentina
-8C
+7C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

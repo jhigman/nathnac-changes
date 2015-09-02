@@ -374,7 +374,7 @@ Map
 View_Map
 Weather
 Palestinian Territories
-37C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

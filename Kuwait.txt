@@ -349,7 +349,7 @@ Map
 View_Map
 Weather
 Kuwait
-33C
+35C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -528,7 +528,7 @@ Map
 View_Map
 Weather
 Iran
-31C
+25C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

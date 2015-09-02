@@ -350,7 +350,7 @@ Map
 View_Map
 Weather
 Hungary
-25C
+21C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

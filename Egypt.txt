@@ -483,7 +483,7 @@ Map
 View_Map
 Weather
 Egypt
-29C
+24C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

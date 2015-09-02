@@ -410,7 +410,7 @@ Map
 View_Map
 Weather
 Palau
-26C
+31C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

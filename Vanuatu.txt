@@ -501,7 +501,7 @@ Map
 View_Map
 Weather
 Vanuatu
-18C
+26C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

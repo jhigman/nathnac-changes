@@ -469,7 +469,7 @@ Map
 View_Map
 Weather
 Guatemala
-22C
+17C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

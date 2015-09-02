@@ -342,7 +342,7 @@ Map
 View_Map
 Weather
 Switzerland
-15C
+14C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

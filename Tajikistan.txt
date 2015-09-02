@@ -534,7 +534,7 @@ Map
 View_Map
 Weather
 Tajikistan
-22C
+28C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

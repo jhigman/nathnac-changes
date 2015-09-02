@@ -288,7 +288,7 @@ Map
 View_Map
 Weather
 San Marino
-27C
+18C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

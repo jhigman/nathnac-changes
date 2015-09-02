@@ -471,7 +471,7 @@ Map
 View_Map
 Weather
 Georgia
-32C
+23C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

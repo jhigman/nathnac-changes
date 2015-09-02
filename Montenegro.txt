@@ -365,7 +365,7 @@ Map
 View_Map
 Weather
 Montenegro
-16C
+14C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

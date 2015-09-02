@@ -725,7 +725,7 @@ Map
 View_Map
 Weather
 Malaysia
-25C
+32C
 Foreign travel advice
  common-wealth-office
 Tag Cloud

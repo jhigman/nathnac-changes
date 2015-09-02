@@ -345,7 +345,7 @@ Map
 View_Map
 Weather
 Poland
-25C
+19C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

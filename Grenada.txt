@@ -335,7 +335,7 @@ Map
 View_Map
 Weather
 Grenada
-31C
+28C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

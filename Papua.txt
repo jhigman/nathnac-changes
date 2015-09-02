@@ -561,7 +561,7 @@ Map
 View_Map
 Weather
 Papua New Guinea
-24C
+29C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

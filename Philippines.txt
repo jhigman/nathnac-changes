@@ -712,7 +712,7 @@ Map
 View_Map
 Weather
 Philippines
-25C
+30C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

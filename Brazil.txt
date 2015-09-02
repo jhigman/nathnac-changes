@@ -851,7 +851,7 @@ Map
 View_Map
 Weather
 Brazil
-37C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

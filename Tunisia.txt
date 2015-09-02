@@ -367,7 +367,7 @@ Map
 View_Map
 Weather
 Tunisia
-28C
+22C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -668,7 +668,7 @@ Map
 View_Map
 Weather
 Kenya
-18C
+16C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

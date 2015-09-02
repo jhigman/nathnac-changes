@@ -574,7 +574,7 @@ Map
 View_Map
 Weather
 Malawi
-25C
+19C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

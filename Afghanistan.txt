@@ -585,7 +585,7 @@ Map
 View_Map
 Weather
 Afghanistan
-18C
+26C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

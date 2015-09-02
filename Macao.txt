@@ -423,7 +423,7 @@ Map
 View_Map
 Weather
 China (Macao)
-27C
+25C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

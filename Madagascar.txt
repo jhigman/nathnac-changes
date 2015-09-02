@@ -601,7 +601,7 @@ Map
 View_Map
 Weather
 Madagascar
-13C
+15C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

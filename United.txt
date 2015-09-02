@@ -907,7 +907,7 @@ Map
 View_Map
 Weather
 United States
-30C
+22C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

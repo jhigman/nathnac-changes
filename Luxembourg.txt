@@ -253,7 +253,7 @@ Map
 View_Map
 Weather
 Luxembourg
-13C
+10C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

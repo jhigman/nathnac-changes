@@ -413,7 +413,7 @@ Map
 View_Map
 Weather
 Bulgaria
-26C
+19C
 Foreign travel advice
  common-wealth-office
 Tag Cloud

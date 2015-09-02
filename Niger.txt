@@ -712,7 +712,7 @@ Map
 View_Map
 Weather
 Niger
-29C
+26C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

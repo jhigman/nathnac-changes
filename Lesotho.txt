@@ -417,7 +417,7 @@ Map
 View_Map
 Weather
 Lesotho
-11C
+2C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

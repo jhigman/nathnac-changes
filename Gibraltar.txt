@@ -245,7 +245,7 @@ Map
 View_Map
 Weather
 Gibraltar
-23C
+20C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

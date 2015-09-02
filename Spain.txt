@@ -366,7 +366,7 @@ Map
 View_Map
 Weather
 Spain
-26C
+18C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

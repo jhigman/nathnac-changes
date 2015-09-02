@@ -511,7 +511,7 @@ Map
 View_Map
 Weather
 Belize
-34C
+24C
 Foreign travel advice
  common-wealth-office
 Tag Cloud

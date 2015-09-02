@@ -360,7 +360,7 @@ Map
 View_Map
 Weather
 Czech Republic
-23C
+13C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

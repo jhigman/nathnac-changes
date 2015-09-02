@@ -415,7 +415,7 @@ Map
 View_Map
 Weather
 Bosnia and Herzegovina
-19C
+13C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

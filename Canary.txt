@@ -301,7 +301,7 @@ Map
 View_Map
 Weather
 Canary Islands (Spain)
-25C
+23C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

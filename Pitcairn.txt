@@ -308,7 +308,7 @@ Map
 View_Map
 Weather
 Pitcairn Islands
-37C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -667,7 +667,7 @@ Map
 View_Map
 Weather
 Somalia
-22C
+19C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

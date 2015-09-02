@@ -370,7 +370,7 @@ Map
 View_Map
 Weather
 Micronesia
-23C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -392,7 +392,7 @@ Map
 View_Map
 Weather
 Albania
-31C
+24C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

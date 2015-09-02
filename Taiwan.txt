@@ -572,7 +572,7 @@ Map
 View_Map
 Weather
 Taiwan
-34C
+19C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

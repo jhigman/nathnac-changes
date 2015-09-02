@@ -323,7 +323,7 @@ Map
 View_Map
 Weather
 Liechtenstein
-16C
+14C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -673,7 +673,7 @@ Map
 View_Map
 Weather
 Senegal
-27C
+25C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -605,7 +605,7 @@ Map
 View_Map
 Weather
 Myanmar (Burma)
-C
+33C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

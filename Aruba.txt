@@ -339,7 +339,7 @@ Map
 View_Map
 Weather
 Caribbean Islands (Netherlands)
-16C
+10C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

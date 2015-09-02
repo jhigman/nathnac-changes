@@ -410,7 +410,7 @@ Map
 View_Map
 Weather
 French Polynesia (Including Tahiti)
-26C
+23C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

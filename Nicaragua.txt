@@ -444,7 +444,7 @@ Map
 View_Map
 Weather
 Nicaragua
-27C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

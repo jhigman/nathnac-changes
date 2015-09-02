@@ -488,7 +488,7 @@ Map
 View_Map
 Weather
 Brunei
-25C
+32C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

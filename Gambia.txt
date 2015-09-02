@@ -596,7 +596,7 @@ Map
 View_Map
 Weather
 Gambia
-27C
+26C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

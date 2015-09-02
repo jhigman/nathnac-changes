@@ -645,7 +645,7 @@ Map
 View_Map
 Weather
 Indonesia (including Bali)
-26C
+32C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

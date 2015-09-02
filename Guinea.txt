@@ -684,7 +684,7 @@ Map
 View_Map
 Weather
 Guinea
-27C
+21C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

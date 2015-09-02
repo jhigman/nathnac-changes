@@ -327,7 +327,7 @@ Map
 View_Map
 Weather
 Norway
-7C
+3C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -381,7 +381,7 @@ Map
 View_Map
 Weather
 Puerto Rico
-29C
+26C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -830,7 +830,7 @@ Map
 View_Map
 Weather
 India
-30C
+32C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

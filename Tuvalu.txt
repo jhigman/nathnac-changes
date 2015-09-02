@@ -402,7 +402,7 @@ Map
 View_Map
 Weather
 Tuvalu
-28C
+31C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

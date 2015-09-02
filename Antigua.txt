@@ -398,7 +398,7 @@ Map
 View_Map
 Weather
 Antigua and Barbuda
-30C
+28C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

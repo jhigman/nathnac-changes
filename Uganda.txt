@@ -740,7 +740,7 @@ Map
 View_Map
 Weather
 Uganda
-23C
+20C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

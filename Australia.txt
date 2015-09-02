@@ -523,7 +523,7 @@ Map
 View_Map
 Weather
 Australia
-8C
+14C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -444,7 +444,7 @@ Map
 View_Map
 Weather
 Costa Rica
-27C
+21C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

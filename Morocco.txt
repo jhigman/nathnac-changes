@@ -445,7 +445,7 @@ Map
 View_Map
 Weather
 Morocco
-30C
+23C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

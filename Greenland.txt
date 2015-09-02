@@ -318,7 +318,7 @@ Map
 View_Map
 Weather
 Greenland
-4C
+2C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

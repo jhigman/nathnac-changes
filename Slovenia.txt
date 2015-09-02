@@ -412,7 +412,7 @@ Map
 View_Map
 Weather
 Slovenia
-24C
+18C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

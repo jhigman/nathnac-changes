@@ -683,7 +683,7 @@ Map
 View_Map
 Weather
 Thailand
-28C
+32C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -588,7 +588,7 @@ Map
 View_Map
 Weather
 Suriname
-30C
+25C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

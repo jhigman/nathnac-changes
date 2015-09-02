@@ -325,7 +325,7 @@ Map
 View_Map
 Weather
 Dominica
-33C
+28C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

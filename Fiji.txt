@@ -392,7 +392,7 @@ Map
 View_Map
 Weather
 Fiji
-22C
+26C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

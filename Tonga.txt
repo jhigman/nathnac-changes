@@ -364,7 +364,7 @@ Map
 View_Map
 Weather
 Tonga
-33C
+22C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -410,7 +410,7 @@ Map
 View_Map
 Weather
 Nauru
-28C
+31C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -395,7 +395,7 @@ Map
 View_Map
 Weather
 Northern Mariana Islands
-37C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

@@ -569,7 +569,7 @@ Map
 View_Map
 Weather
 Bhutan
-C
+17C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

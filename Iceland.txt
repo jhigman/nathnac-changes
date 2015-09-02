@@ -245,7 +245,7 @@ Map
 View_Map
 Weather
 Iceland
-10C
+4C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

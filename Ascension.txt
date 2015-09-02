@@ -318,7 +318,7 @@ Map
 View_Map
 Weather
 Ascension Island (St Helena, Tristan da Cunha)
-23C
+22C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

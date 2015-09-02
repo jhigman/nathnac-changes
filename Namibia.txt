@@ -600,7 +600,7 @@ Map
 View_Map
 Weather
 Namibia
-18C
+8C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

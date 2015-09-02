@@ -449,7 +449,7 @@ Map
 View_Map
 Weather
 Germany
-14C
+12C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

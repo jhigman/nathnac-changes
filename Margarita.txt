@@ -576,7 +576,7 @@ Map
 View_Map
 Weather
 Venezuela
-26C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

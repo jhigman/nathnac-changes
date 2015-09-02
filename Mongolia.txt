@@ -463,7 +463,7 @@ Map
 View_Map
 Weather
 Mongolia
-8C
+21C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

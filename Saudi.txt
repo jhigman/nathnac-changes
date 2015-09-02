@@ -580,7 +580,7 @@ Map
 View_Map
 Weather
 Saudi Arabia
-36C
+32C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

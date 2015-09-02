@@ -348,7 +348,7 @@ Map
 View_Map
 Weather
 Virgin Islands (British)
-37C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

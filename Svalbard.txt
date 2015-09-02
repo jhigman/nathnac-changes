@@ -250,7 +250,7 @@ Map
 View_Map
 Weather
 Norway (Svalbard and Jan Mayen)
-37C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

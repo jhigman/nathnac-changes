@@ -360,7 +360,7 @@ Map
 View_Map
 Weather
 St Vincent and the Grenadines
-37C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

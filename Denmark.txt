@@ -276,7 +276,7 @@ Map
 View_Map
 Weather
 Denmark
-15C
+13C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

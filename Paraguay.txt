@@ -504,7 +504,7 @@ Map
 View_Map
 Weather
 Paraguay
-35C
+30C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

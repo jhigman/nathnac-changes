@@ -420,7 +420,7 @@ Map
 View_Map
 Weather
 Serbia
-29C
+17C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

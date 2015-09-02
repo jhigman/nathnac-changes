@@ -542,7 +542,7 @@ Map
 View_Map
 Weather
 Panama
-31C
+21C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

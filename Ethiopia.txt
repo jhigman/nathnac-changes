@@ -698,7 +698,7 @@ Map
 View_Map
 Weather
 Ethiopia
-C
+33C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

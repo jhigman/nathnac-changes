@@ -349,7 +349,7 @@ Map
 View_Map
 Weather
 New Zealand
-11C
+13C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

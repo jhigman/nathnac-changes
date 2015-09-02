@@ -547,7 +547,7 @@ Map
 View_Map
 Weather
 Sri Lanka
-29C
+31C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

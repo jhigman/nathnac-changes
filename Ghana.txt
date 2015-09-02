@@ -647,7 +647,7 @@ Map
 View_Map
 Weather
 Ghana
-27C
+23C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

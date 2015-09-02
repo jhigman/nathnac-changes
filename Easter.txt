@@ -341,7 +341,7 @@ Map
 View_Map
 Weather
 Chile (Easter Island)
-18C
+16C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud

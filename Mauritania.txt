@@ -634,7 +634,7 @@ Map
 View_Map
 Weather
 Mauritania
-36C
+C
 Foreign travel advice
 _common-wealth-office_
 Tag Cloud
