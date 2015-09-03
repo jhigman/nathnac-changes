@@ -310,29 +310,18 @@ All_News
 outbreaks
 
 
-Middle_East_respiratory_syndrome_coronavirus_in_Jordan
-
-28 Aug 2015 Jordan
-As of 26 Aug 2015, Jordan reported a new travel-related MERS-CoV case in a 38
-years old Jordanian male, who has entered Jordan from abroad.
-Human
-Air-borne
-Imported
-New Post
-Verified
-State_-_Read_more
-
 Middle_East_respiratory_syndrome_coronavirus_in_Jordan_ex_Saudi_Arabia
 
-27 Aug 2015 Jordan
-A new imported Middle East respiratory syndrome coronavirus (MERS-CoV) case has
-been reported in a man who has recently returned from Saudi Arabia.
+02 Sep 2015 View Countries  +  Jordan
+Saudi Arabia
+
+According to media reports, two additional cases have been reported in Jordan
+on Aug 30 and Aug 31 2015.
 Human
 Air-borne
 Imported
-New Post
-Verified
-State_-_Read_more
+Update 2
+Media_-_Read_more
 
 Middle_East_respiratory_syndrome_coronavirus_in_Jordan
 

@@ -258,7 +258,9 @@ outbreaks
 
 Ebola_virus_disease_in_Italy_ex_Sierra_Leone
 
-24 Jul 2015 Italy
+24 Jul 2015 View Countries  +  Italy
+Sierra Leone
+
 On 20 Jul 2015, Italy was declared free of Ebola Virus Disease (EVD)
 transmission after the completion of 42 days without a case since the country`s
 first and only case of EVD to date was confirmed EVD-negative and discharged
@@ -271,7 +273,9 @@ WHO_Regional_-_Read_more
 
 Zika_virus_in_Italy_ex_Brazil
 
-12 Jun 2015 Italy
+12 Jun 2015 View Countries  +  Brazil
+Italy
+
 A case of Zika virus infection has been reported in an Italian traveller
 following his trip to Salvador de Bahia, Brazil at the end of Mar 2015.
 Human

@@ -605,6 +605,19 @@ Human
 Update 2
 Verified
 WHO_Regional_-_Read_more
+
+Ebola_virus_disease_in_Mali_ex_Guinea
+
+19 Jan 2015 View Countries  +  Guinea
+Mali
+
+On 18 Jan 2015, the Government of Mali and WHO have declared the country Ebola
+free (42 days after the last patient tested negative on 6 Dec 2014).
+Human
+Imported
+Update 6
+Verified
+WHO_regional_-_Read_more
 More
 
 * RSS

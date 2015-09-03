@@ -306,6 +306,20 @@ Update 1
 Verified
 State_-_Read_more
 
+Ross_River_virus_in_Netherlands_ex_Australia
+
+07 Aug 2015 View Countries  +  Australia
+Netherlands
+
+Two cases of Ross River virus (RRV) infection have been repoted in Dutch
+travellers who visited Australia during Feb-Apr 2015.
+Human
+Imported
+Vector-born
+New Post
+Verified
+Eurosurveillance_-_Read_more
+
 Ross_river_virus_in_Australia
 
 02 Jun 2015 Queensland. Australia
@@ -397,7 +411,9 @@ Media_-_Read_more
 
 Japanese_encephalitis_in_Australia_ex_Indonesia
 
-11 Feb 2015 Victoria. Australia
+11 Feb 2015 View Countries  +  Australia
+Indonesia (including Bali)
+
 As of 10 Feb 2015; a 45-year-old male resident of Victoria; mainland Australia;
 has been diagnosed with Japanese encephalitis (JE) after travel to Bali;
 Indonesia. This is the first notified case of JE in Victoria.

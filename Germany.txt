@@ -271,7 +271,11 @@ outbreaks
 
 Louse-borne_relapsing_fever_in_Germany_ex_Multiple_countries
 
-24 Aug 2015 Germany
+24 Aug 2015 View Countries  +  Eritrea
+Ethiopia
+Germany
+Somalia
+
 As of 17 Aug 2015, three cases of louse-borne relapsing fever (Borrelia
 recurrentis) have been reported in patients who came from various countries of
 the Horn of Africa (Eritrea, Ethiopia and Somalia).
@@ -284,7 +288,9 @@ State_-_Read_more
 
 Measles_in_Germany_ex_Peru
 
-29 Jun 2015 Germany
+29 Jun 2015 View Countries  +  Germany
+Peru
+
 Three suspected cases of measles have been reported in German nationals who
 visited Peru. Two of them belonging to a group of volunteers. The Ministry of
 Health in Peru will carry out a vaccination campaign between Jun - Jul 2015
@@ -299,7 +305,9 @@ ECDC_-_Read_more
 
 Zika_virus_in_Germany_ex_Malaysia_(Borneo)
 
-18 May 2015 Germany
+18 May 2015 View Countries  +  Germany
+Malaysia (Borneo)
+
 The first human case of Zika virus infection acquired in Malaysia has been
 reported in a German traveller. During the journey in Sep 2014 the patient
 visited several cities and villages in Sabah, Malaysian Borneo.
@@ -309,6 +317,19 @@ Vector-born
 New Post
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
+
+Measles_in_Norway_ex_Germany
+
+28 Apr 2015 View Countries  +  Germany
+Norway
+
+According to media report a person from Oslo has contracted measles after a
+trip to Berlin. The infected arrived to Oslo by plane.
+Human
+Imported
+Close association
+New Post
+Media_-_Read_more
 
 Measles_in_Germany
 
@@ -321,6 +342,21 @@ Close association
 Update 1
 Verified
 State_-_Read_more
+
+Measles_in_Sweden_ex_Germany
+
+31 Mar 2015 View Countries  +  Germany
+Sweden
+
+Sweden has reported its first case of measles linked to the outbreaks in
+Germany at the end of Feb 2015 in an unvaccinated child who returned from a
+trip to Germany.
+Human
+Imported
+Close association
+New Post
+Verified
+ECDC_report_-_Read_more
 
 Measles_in_Multiple_countries
 
@@ -347,7 +383,9 @@ WHO_regional_-_Read_more
 
 Middle_East_respiratory_syndrome_coronavirus_in_Germany_ex_UAE
 
-09 Mar 2015 Lower Saxony. Germany
+09 Mar 2015 View Countries  +  Germany
+United Arab Emirates
+
 As of 7 Mar 2015, Germany has reported a confirmed case of MERS-CoV in a 65-
 year-old German male who came back from a holiday in Abu Dhabi, United Arab
 Emirates. This is the third imported case of MERS-CoV reported in Germany.

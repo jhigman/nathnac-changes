@@ -300,7 +300,9 @@ outbreaks
 
 Measles_in_Chile_ex_China
 
-12 Jun 2015 Santiago Metropolitan Region. Chile
+12 Jun 2015 View Countries  +  Chile
+China
+
 As of 10 June 2015, Chile has confirmed a total of five measles cases. Initial
 case has been linked to travel to China.
 Human

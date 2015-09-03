@@ -305,6 +305,14 @@ Resources
 Important News
 
 _iStock_000011986056_Large_
+02 Sep 2015
+
+MERS-CoV_update:_Middle_East_in_particular_Saudi_Arabia_and_South_Korea
+
+Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
+in the Middle East in particular Saudi Arabia and recent outbreak in R read
+more
+_iStock_000011986056_Large_
 22 Jun 2015
 
 MERS-CoV_update:_Republic_of_Korea_and_China
@@ -352,6 +360,26 @@ Human
 Vector-born
 New Post
 ProMED_-_Read_more
+
+Middle_East_respiratory_syndrome_coronavirus_in_China_ex_South_Korea
+
+01 Jun 2015 View Countries  +  China
+China (Hong Kong)
+Korea (South)
+
+On 29 May 2015, the National Health and Family Planning Commission of China
+notified WHO of one confirmed case of Middle East Respiratory Syndrome
+Coronavirus (MERS-CoV).The case is a 44 year-old male from the Republic of
+Korea. He is a close relative of MERS-CoV cases reported in South Korea in May
+2015. He flew to Hong Kong Special Administrative Region on 26 May and
+subsequently travelled to Huizhou via Shenzhen City, Guangdong Province. He
+tested positive for MERS-CoV on 29 May.
+Human
+Air-borne
+Imported
+New Post
+Verified
+WHO_Disease_Outbreak_News_-_Read_more
 More
 
 * RSS

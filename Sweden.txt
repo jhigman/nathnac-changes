@@ -213,7 +213,9 @@ outbreaks
 
 Meningococcal_disease_in_Sweden_ex_Japan
 
-18 Aug 2015 Sweden
+18 Aug 2015 View Countries  +  Japan
+Sweden
+
 As of 17 Aug 2015, a confirmed case of meningococcal disease has been reported
 in a scout from Sweden who attended an international scout event in Japan. Two
 further suspected cases are under investigation.
@@ -246,6 +248,7 @@ As of 21 Jul 2015, Sweden has reported two cases of cutaneous diphtheria in
 asylum seekers. In recent years, the only case of diphtheria has occurred in a
 person who travelled to Asia and Africa.
 Human
+Imported
 Miscellaneous
 New Post
 Verified
@@ -253,7 +256,9 @@ State_-_Read_more
 
 Measles_in_Sweden_ex_Germany
 
-31 Mar 2015 Sweden
+31 Mar 2015 View Countries  +  Germany
+Sweden
+
 Sweden has reported its first case of measles linked to the outbreaks in
 Germany at the end of Feb 2015 in an unvaccinated child who returned from a
 trip to Germany.

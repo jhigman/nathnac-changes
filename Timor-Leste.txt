@@ -2,7 +2,7 @@
 
 * Home
 * Country_Information
-* East Timor (Timor-Leste)
+* East Timor
 
 
 General Information
@@ -37,7 +37,7 @@ Resources
 
 * Home
 * Country_Information
-* East Timor (Timor-Leste)
+* East Timor
 
 
 Vaccine recommendations
@@ -307,7 +307,7 @@ Tuberculosis_in_brief
 
 * Home
 * Country_Information
-* East Timor (Timor-Leste)
+* East Timor
 
 
 Malaria
@@ -396,7 +396,7 @@ Resources
 
 * Home
 * Country_Information
-* East Timor (Timor-Leste)
+* East Timor
 
 
 Other risks
@@ -463,7 +463,7 @@ Dengue_fever_in_brief
 
 * Home
 * Country_Information
-* East Timor (Timor-Leste)
+* East Timor
 
 
 Important News
@@ -476,7 +476,7 @@ All_News
 
 * Home
 * Country_Information
-* East Timor (Timor-Leste)
+* East Timor
 
 
 outbreaks

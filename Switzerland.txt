@@ -252,7 +252,9 @@ outbreaks
 
 Louse-borne_relapsing_fever_in_Switzerland_ex_Eritrea
 
-14 Aug 2015 Switzerland
+14 Aug 2015 View Countries  +  Eritrea
+Switzerland
+
 An imported case of louse-borne relapsing fever has been diagnosed in a young
 adult from Eritrea. The person presented with fever shortly after arriving in
 Switzerland in Aug 2015. After leaving Eritrea about two months earlier with

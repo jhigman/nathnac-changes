@@ -295,6 +295,17 @@ All_News
 outbreaks
 
 
+Eastern_equine_encephalitis_in_USA
+
+02 Sep 2015 New York. United States
+A patient has been diagnosed with eastern equine encephalitis [EEE] in the
+Onondaga County.
+Human
+Vector-born
+New Post
+Verified
+State_-_Read_more
+
 Influenza_A_in_USA
 
 01 Sep 2015 United States
@@ -560,7 +571,9 @@ Centers_for_Disease_Control_and_Prevention_-_Read_more
 
 Lassa_fever_in_USA_ex_Liberia
 
-26 May 2015 United States
+26 May 2015 View Countries  +  Liberia
+United States
+
 Health authorities in New Jersey have confirmed a death from Lassa fever in a
 person returning to the United States from Liberia.
 Human
@@ -598,7 +611,9 @@ State_-_Read_more
 
 Hepatitis_A_in_USA_ex_Mexico
 
-05 May 2015 United States
+05 May 2015 View Countries  +  Mexico
+United States
+
 As of 1 May 2015 a total of 27 cases of hepatitis A have been reported in US
 travellers who went to Tulum, Mexico between 15 Feb 2015 and 20 Mar 2015.
 Human
@@ -702,7 +717,9 @@ World_Organisation_for_animal_health_-_Read_more
 
 Ebola_virus_disease_in_USA_ex_Sierra_Leone
 
-16 Mar 2015 United States
+16 Mar 2015 View Countries  +  Sierra Leone
+United States
+
 As of 13 Mar 2015; an American volunteer healthcare worker in Sierra Leone who
 tested positive for Ebola virus returned to the US and was admitted to hospital
 for care and treatment.
@@ -792,6 +809,20 @@ Air-borne
 New Post
 Verified
 State_-_Read_more
+
+Listeriosis_in_Canada_ex_USA
+
+15 Jan 2015 View Countries  +  Canada
+United States
+
+Of the two recently reported cases; only one case has been shown to be related
+to the US outbreak of Listeria related to the consumption of caramel apples.
+Human
+Imported
+Food and Water-borne
+Update 1
+Verified
+Health_Canada_-_Read_more
 
 Undiagnosed_illness_in_USA
 

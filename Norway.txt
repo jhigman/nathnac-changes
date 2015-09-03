@@ -217,7 +217,9 @@ outbreaks
 
 Measles_in_Norway_ex_Germany
 
-28 Apr 2015 Oslo. Norway
+28 Apr 2015 View Countries  +  Germany
+Norway
+
 According to media report a person from Oslo has contracted measles after a
 trip to Berlin. The infected arrived to Oslo by plane.
 Human

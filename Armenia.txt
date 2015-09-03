@@ -343,11 +343,14 @@ outbreaks
 
 Anthrax_in_Armenia_ex_Georgia
 
-06 Aug 2015 Armavir. Armenia
+06 Aug 2015 View Countries  +  Armenia
+Georgia
+
 According to Ministry of Health of Armenia two residents from the Artamed
-village have been diagnosed with cutaneous anthrax (Siberian ulcer). Both
-patients have visited Ninocminda region, Georgia where they bought some meat on
-24 Jul 2015. After handling the meat they developed wounds on their hands.
+village  (Armavir province) have been diagnosed with cutaneous anthrax
+(Siberian ulcer). Both patients have visited Ninocminda region, Georgia where
+they bought some meat on 24 Jul 2015. After handling the meat they developed
+wounds on their hands.
 Human
 Imported
 Close association

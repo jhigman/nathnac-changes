@@ -372,7 +372,9 @@ WHO_Regional_-_Read_more
 
 Measles_in_Japan_ex_Mongolia
 
-24 Aug 2015 Japan
+24 Aug 2015 View Countries  +  Japan
+Mongolia
+
 As of 19 Aug 2015, a measles case has been reported in a Japanese patient who
 returned from Mongolia. The World Health Organisation (WHO) certified that
 Mongolia was measles free in Jun 2014.
@@ -382,6 +384,51 @@ Close association
 New Post
 Verified
 Pro_Med_-_Read_more
+
+Meningococcal_disease_United_Kingdom_ex_Japan
+
+24 Aug 2015 View Countries  +  Japan
+United Kingdom
+
+As of 18 Aug 2015, a secondary case of meningococcal disease was reported in a
+household contact of a scout, bringing the total cases in Scotland to four. The
+meningococcal serogroup W strain has been identified as the causative agent in
+two of the cases in the UK.
+Human
+Imported
+Close association
+New Post
+Verified
+ECDC_-_Read_more
+
+Meningococcal_disease_in_Sweden_ex_Japan
+
+18 Aug 2015 View Countries  +  Japan
+Sweden
+
+As of 17 Aug 2015, a confirmed case of meningococcal disease has been reported
+in a scout from Sweden who attended an international scout event in Japan. Two
+further suspected cases are under investigation.
+Human
+Imported
+Close association
+New Post
+Verified
+State_-_Read_more
+
+Meningococcal_disease_in_UK_ex_Japan
+
+17 Aug 2015 View Countries  +  Japan
+United Kingdom
+
+As of 14 Aug 2015, three cases of meningococcal disease have been reported in
+scouts from Scotland who returned from international scout event in Japan.
+Human
+Imported
+Close association
+New Post
+Verified
+State_-_Read_more
 
 Acute_fever_and_rash_syndrome_in_Japan
 

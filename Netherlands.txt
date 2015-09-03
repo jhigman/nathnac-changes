@@ -194,7 +194,9 @@ outbreaks
 
 Ross_River_virus_in_Netherlands_ex_Australia
 
-07 Aug 2015 Netherlands
+07 Aug 2015 View Countries  +  Australia
+Netherlands
+
 Two cases of Ross River virus (RRV) infection have been repoted in Dutch
 travellers who visited Australia during Feb-Apr 2015.
 Human
@@ -206,7 +208,9 @@ Eurosurveillance_-_Read_more
 
 Louse-borne_relapsing_fever_in_Netherlands_ex_Eritrea
 
-31 Jul 2015 Netherlands
+31 Jul 2015 View Countries  +  Eritrea
+Netherlands
+
 Two patients who had recently arrived from Eritrea; have been diagnosed with
 louse-borne relapsing fever caused by Borrelia recurrentis.
 Human
