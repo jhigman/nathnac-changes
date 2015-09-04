@@ -47,8 +47,8 @@ Details of vaccination recommendations and requirements are provided below.
 All Travellers
 
 Travellers should be up to date with routine vaccination courses and boosters
-as recommended_in_the_UK.  These vaccinations include for example measles-
-mumps-rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
+as recommended_in_the_UK. These vaccinations include for example measles-mumps-
+rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
 Those who may be at increased risk of an infectious disease due to their work,
 lifestyle choice, or certain underlying health problems should be up to date
 with additional recommended vaccines. See the individual chapters of the ‘Green
@@ -61,9 +61,9 @@ be relevant to certain travellers only.  For travellers further details, if
 required, should be sought from their healthcare professional.
 
 * There is a risk of yellow fever transmission in all areas of this country
-  (see see ‘Most Travellers’ section below).
+  (see ‘Most Travellers’ section below).
 * Under International Health Regulations (2005), a  yellow fever vaccination
-  certificate is required from all travellers over 1 year of age.
+  certificate is required from travellers over 1 year of age.
 * For this country, the yellow fever vaccination certificate is assumed to be
   valid for 10 years until further notice.
 
@@ -76,19 +76,23 @@ advice if necessary.
 Most Travellers
 
 The vaccines in this section are recommended for most travellers visiting this
-country.  Information on these vaccines can be found by clicking on the blue
-arrow.  Vaccines are listed alphabetically.
+country. Information on these vaccines can be found by clicking on the blue
+arrow. Vaccines are listed alphabetically.
 Hepatitis A
 Hepatitis A is a viral infection transmitted through contaminated food and
 water or by direct contact with an infectious person. Symptoms are often mild
 or absent in young children, but the disease becomes more serious with
-advancing age.  Recovery can vary from weeks to months. Following hepatitis A
+advancing age. Recovery can vary from weeks to months. Following hepatitis A
 illness immunity is lifelong.
 Those at increased risk include travellers visiting friends and relatives,
 long-stay travellers, and those visiting areas of poor sanitation.
+
 Prevention
+
 All travellers should take care with personal, food and water hygiene.
+
 Hepatitis A vaccination
+
 As hepatitis A vaccine is well tolerated and affords long-lasting protection,
 it is recommended for all previously unvaccinated travellers.
 Hepatitis_A_in_brief
@@ -99,7 +103,9 @@ does not protect against other types of the virus.
 Those at increased risk include travellers visiting friends and relatives,
 those in direct contact with an infected person, long-stay travellers, and
 those visiting areas of poor sanitation.
+
 Polio in Gabon
+
 Case/s of wild type polio virus were last reported in 2011.
 Prevention
 All travellers should take care with personal, food and water hygiene.
@@ -117,7 +123,9 @@ Tetanus
 Tetanus is caused by a toxin released from Clostridium tetani and occurs
 worldwide. Tetanus bacteria are present in soil and manure and may be
 introduced through open wounds such as a puncture wound, burn or scratch.
+
 Prevention
+
 Travellers should thoroughly clean all wounds and seek appropriate medical
 attention.
 
@@ -140,7 +148,9 @@ infection.
 Those at increased risk include travellers visiting friends and relatives,
 those in contact with an infected person, young children, long-stay travellers,
 and those visiting areas of poor sanitation.
+
 Prevention
+
 All travellers should take care with personal, food and water hygiene.
 
 Typhoid vaccination
@@ -156,9 +166,13 @@ Yellow fever is a viral infection transmitted by mosquitoes which predominantly
 feed between dawn and dusk, but may also bite at night, especially in the
 jungle environment. Symptoms may be absent or mild, but in severe cases it can
 cause internal bleeding, organ failure and death.
+
 Yellow Fever in Gabon
+
 There is a risk of yellow fever transmission throughout this country
+
 Prevention
+
 Travellers should avoid mosquito bites at all times.
 
 Yellow fever vaccination
@@ -205,9 +219,13 @@ Cholera
 Cholera is a bacterial infection transmitted by contaminated food and water.
 Cholera can cause severe watery diarrhoea although mild infections are common.
 Most travellers are at low risk.
+
 Prevention
+
 All travellers should take care with personal, food and water hygiene.
+
 Cholera vaccination
+
 This oral vaccine is recommended for those whose activities or medical history
 put them at increased risk.  This includes:
 
@@ -222,12 +240,16 @@ Hepatitis B is a viral infection; it is transmitted by exposure to infected
 blood or body fluids. This mostly occurs during sexual contact or as a result
 of blood-to-blood contact (for example from contaminated equipment during
 medical and dental procedures, tattooing or body piercing procedures, and
-sharing of intravenous needles).   Mothers with the virus can also transmit the
+sharing of intravenous needles). Mothers with the virus can also transmit the
 infection to their baby during childbirth.
+
 Hepatitis B in Gabon
+
 2% or more of the population are known or thought to be persistently infected
 with the hepatitis B virus (intermediate/high prevalence).
+
 Prevention
+
 Travellers should avoid contact with blood or body fluids. This includes:
 
 * avoiding unprotected sexual intercourse
@@ -239,7 +261,9 @@ Travellers should avoid contact with blood or body fluids. This includes:
 
 A sterile medical equipment kit may be helpful when travelling to resource poor
 areas.
+
 Hepatitis B vaccination
+
 Vaccination could be considered for all travellers, and is recommended for
 those whose activities or medical history put them at increased risk including:
 
@@ -268,7 +292,9 @@ is almost always fatal.
 The risk of exposure is increased by certain activities and length of stay (see
 below). Children are at increased risk as they are less likely to avoid contact
 with animals and to report a bite, scratch or lick.
+
 Rabies in Gabon
+
 Rabies has been reported in domestic and wild animals in this country. Bats may
 also carry rabies-like viruses.
 
@@ -282,7 +308,9 @@ Prevention
 * Post-exposure treatment and advice should be in accordance with national
   guidelines.
 
+
 Rabies vaccination
+
 Pre-exposure vaccinations are recommended for travellers whose activities put
 them at increased risk including:
 
@@ -299,15 +327,21 @@ Tuberculosis (TB)
 TB is a bacterial infection transmitted most commonly by inhaling respiratory
 droplets from an infectious person. This is usually following prolonged or
 frequent close contact.
-TB in Gabon
+
+Tuberculosis in Gabon
+
 The average annual incidence of TB from 2010 to 2012 was greater than or equal
 to 40 cases per 100,000 population.
+
 Prevention
+
 Travellers should avoid close contact with individuals known to have infectious
 pulmonary (lung) TB.
 Those at risk during their work (such as healthcare workers) should take
 appropriate infection control precautions.
+
 Tuberculosis (BCG) vaccination
+
 According to current national guidance, BCG vaccine should be recommended for
 those at increased risk of developing severe disease and/or of exposure to TB
 infection. See Public Health England’s Immunisation against infectious disease,
@@ -331,7 +365,7 @@ same limb for 3 months.
 The BCG vaccine is given once only, booster doses are not recommended.
 Following administration, no further vaccines should be administered in the
 same limb for 3 months.
-TB_in_brief
+Tuberculosis_in_brief
 
 * Home
 * Country_Information
@@ -378,7 +412,7 @@ Areas of Risk
 
 Antimalarial Recommendations
 
-The recommended antimalarials are listed below.  If these are not suitable
+The recommended antimalarials are listed below. If these are not suitable
 please seek further specialist advice.
 Please note, the advice for children is different, the dose is based on body
 weight and some antimalarials are not suitable.
@@ -454,7 +488,7 @@ Prevention
 
 Dengue_fever_in_brief
 
-Scistosomiasis
+Schistosomiasis
 
 Schistosomiasis is a parasitic infection. Schistosoma larvae are released from
 infected freshwater snails and can penetrate intact human skin following
