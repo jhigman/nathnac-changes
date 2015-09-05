@@ -500,27 +500,27 @@ Prevention
 
 Altitude_illness_in_brief
 
-Dengue Fever
+Dengue
 
-Dengue fever is a viral infection transmitted by mosquitoes which predominantly
-feed between dawn and dusk.  It causes a flu-like illness, which can
-occasionally develop into a more serious life-threatening form of the disease.
-Severe dengue fever is rare in travellers.
-The mosquitoes that transmit dengue fever are most abundant in towns, cities
-and surrounding areas. All travellers to dengue areas are at risk.
+Dengue is a viral infection transmitted by mosquitoes which predominantly feed
+between dawn and dusk.  It causes a flu-like illness, which can occasionally
+develop into a more serious life-threatening form of the disease. Severe dengue
+is rare in travellers.
+The mosquitoes that transmit dengue are most abundant in towns, cities and
+surrounding areas. All travellers to dengue areas are at risk.
 
-Dengue fever in Kenya
+Dengue in Kenya
 
-Dengue fever is known or has the potential to occur in this country. 
+Dengue is known or has the potential to occur in this country. 
 
 Prevention
 
 
 * All travellers should avoid mosquito bites particularly between dawn and
   dusk.
-* There is no vaccination or medication to prevent dengue fever.
+* There is no vaccination or medication to prevent dengue.
 
-Dengue_fever_in_brief
+Dengue_in_brief
 
 Schistosomiasis
 
@@ -578,12 +578,12 @@ outbreaks
 
 Cholera_in_Kenya
 
-28 Jul 2015 Nairobi Municipality. Kenya
+28 Jul 2015 Kenya
 A total of 17 counties have been affected by cholera outbreaks since 26 Dec
 2014 with a total of 5,049 cases and 98 deaths. As of 21 Jul 2015, the outbreak
 is still ongoing in the counties: Nairobi; Migori; Mombasa; Nakuru; Muranga;
-Kirinyaga; Baringo; Narok; Kilifi and Kisumu. Kirinyaga and Baringo counties
-have reported a confirmed new wave of the outbreak.
+Kirinyaga; Baringo; Narok; KilifiandKisumu. Kirinyaga and Baringo counties have
+reported a confirmed new wave of the outbreak.
 Human
 Food and Water-borne
 Update 5

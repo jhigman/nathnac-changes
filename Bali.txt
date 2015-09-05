@@ -458,27 +458,27 @@ Prevention
 
 Altitude_illness_in_brief
 
-Dengue Fever
+Dengue
 
-Dengue fever is a viral infection transmitted by mosquitoes which predominantly
-feed between dawn and dusk.  It causes a flu-like illness, which can
-occasionally develop into a more serious life-threatening form of the disease.
-Severe dengue fever is rare in travellers.
-The mosquitoes that transmit dengue fever are most abundant in towns, cities
-and surrounding areas. All travellers to dengue areas are at risk.
+Dengue is a viral infection transmitted by mosquitoes which predominantly feed
+between dawn and dusk.  It causes a flu-like illness, which can occasionally
+develop into a more serious life-threatening form of the disease. Severe dengue
+is rare in travellers.
+The mosquitoes that transmit dengue are most abundant in towns, cities and
+surrounding areas. All travellers to dengue areas are at risk.
 
-Dengue fever in Indonesia
+Dengue in Indonesia
 
-Dengue fever is known or has the potential to occur in this country.
+Dengue is known or has the potential to occur in this country.
 
 Prevention
 
 
 * All travellers should avoid mosquito bites particularly between dawn and
   dusk.
-* There is no vaccination or medication to prevent dengue fever.
+* There is no vaccination or medication to prevent dengue.
 
-Dengue_fever_in_brief
+Dengue_in_brief
 
 Schistosomiasis
 
@@ -569,14 +569,13 @@ New Post
 Verified
 State_-_Read_more
 
-Dengue_fever_in_Indonesia
+Dengue_in_Indonesia
 
 03 Feb 2015 South Kalimantan. Indonesia (including Bali)
-An outbreak of dengue fever has been reported in North Sulawesi; affecting 15
+An outbreak of dengue has been reported in North Sulawesi; affecting 15
 regencies and cities. According to report; there was a two fold increase in the
 number of new cases in Jan 2015 compared to Jan 2014. The number of dengue
-fever cases has also risen in South Kalimantan; West Kalimantan and West
-Sumatra
+cases has also risen in South Kalimantan; West Kalimantan and West Sumatra
 Human
 Vector-born
 New Post

@@ -480,27 +480,27 @@ Prevention
 
 Altitude_illness_in_brief
 
-Dengue Fever
+Dengue
 
-Dengue fever is a viral infection transmitted by mosquitoes which predominantly
-feed between dawn and dusk.  It causes a flu-like illness, which can
-occasionally develop into a more serious life-threatening form of the disease.
-Severe dengue fever is rare in travellers.
-The mosquitoes that transmit dengue fever are most abundant in towns, cities
-and surrounding areas. All travellers to dengue areas are at risk.
+Dengue is a viral infection transmitted by mosquitoes which predominantly feed
+between dawn and dusk.  It causes a flu-like illness, which can occasionally
+develop into a more serious life-threatening form of the disease. Severe dengue
+is rare in travellers.
+The mosquitoes that transmit dengue are most abundant in towns, cities and
+surrounding areas. All travellers to dengue areas are at risk.
 
-Dengue fever in Eritrea 
+Dengue in Eritrea 
 
-Dengue fever is known or has the potential to occur in this country.
+Dengue is known or has the potential to occur in this country.
 
 Prevention
 
 
 * All travellers should avoid mosquito bites particularly between dawn and
   dusk.
-* There is no vaccination or medication to prevent dengue fever.
+* There is no vaccination or medication to prevent dengue.
 
-Dengue_fever_in_brief
+Dengue_in_brief
 
 Schistosomaisis
 
@@ -558,20 +558,22 @@ outbreaks
 
 Louse-borne_relapsing_fever_in_Germany_ex_Multiple_countries
 
-24 Aug 2015 View Countries  +  Eritrea
+04 Sep 2015 View Countries  +  Eritrea
 Ethiopia
 Germany
 Somalia
 
-As of 17 Aug 2015, three cases of louse-borne relapsing fever (Borrelia
-recurrentis) have been reported in patients who came from various countries of
-the Horn of Africa (Eritrea, Ethiopia and Somalia).
+Since Jul 2015, seven patients from Eastern Africa presenting with febrile
+disease to various health care facilities in Munich, Germany; five of these
+patients have been tested positive for Borrelia recurrentis. The exact focus
+and place of transmission is not clear since most of the patients had complex
+travel histories (including Ethiopia, Somalia, Eritrea, and Sudan).
 Human
 Imported
 Vector-born
-New Post
+Update 1
 Verified
-State_-_Read_more
+Pro_Med_-_Read_more
 
 Louse-borne_relapsing_fever_in_Switzerland_ex_Eritrea
 

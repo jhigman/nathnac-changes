@@ -457,27 +457,27 @@ There is a point of elevation in this country higher than 2,500 metres.
 
 Altitude_illness_in_brief
 
-Dengue Fever
+Dengue
 
-Dengue fever is a viral infection transmitted by mosquitoes which predominantly
-feed between dawn and dusk.  It causes a flu-like illness, which can
-occasionally develop into a more serious life-threatening form of the disease.
-Severe dengue fever is rare in travellers.
-The mosquitoes that transmit dengue fever are most abundant in towns, cities
-and surrounding areas. All travellers to dengue areas are at risk.
+Dengue is a viral infection transmitted by mosquitoes which predominantly feed
+between dawn and dusk.  It causes a flu-like illness, which can occasionally
+develop into a more serious life-threatening form of the disease. Severe dengue
+is rare in travellers.
+The mosquitoes that transmit dengue are most abundant in towns, cities and
+surrounding areas. All travellers to dengue areas are at risk.
 
-Dengue fever in Thailand
+Dengue in Thailand
 
-Dengue fever is known or has the potential to occur in this country.
+Dengue is known or has the potential to occur in this country.
 
 Prevention
 
 
 * All travellers should avoid mosquito bites particularly between dawn and
   dusk.
-* There is no vaccination or medication to prevent dengue fever.
+* There is no vaccination or medication to prevent dengue.
 
- Dengue_fever_in_brief
+ Dengue_in_brief
 
 Schistosomiasis
 
@@ -541,7 +541,7 @@ All_News
 outbreaks
 
 
-Dengue_fever_in_Thailand
+Dengue_in_Thailand
 
 25 Aug 2015 Thailand
 As of 18 Aug 2015, a total of 51, 500 cases have been reported; a double the
@@ -553,15 +553,14 @@ Vector-born
 New Post
 Pro_Med_-_Read_more
 
-Dengue_fever_in_Thailand
+Dengue_in_Thailand
 
 24 Jun 2015 View Regions  +  Krabi
 Phuket
 Thailand
-According to media reports, dengue fever is spreading in coastal east provinces
-Krabi and Phuket. More than 400 people have been diagnosed with dengue fever in
-Krabi and 160 in Phuket, since Jan 2015. One person has died in Krabi so far
-this year.
+According to media reports, dengue is spreading in coastal east provinces Krabi
+and Phuket. More than 400 people have been diagnosed with dengue in Krabi and
+160 in Phuket, since Jan 2015. One person has died in Krabi so far this year.
 Human
 Vector-born
 New Post

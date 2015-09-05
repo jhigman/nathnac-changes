@@ -244,28 +244,28 @@ Other risks
 
 The risk below may be present in all or part of the country.
 
-Dengue Fever
+Dengue
 
-Dengue fever is a viral infection transmitted by mosquitoes which predominantly
-feed between dawn and dusk.  It causes a flu-like illness, which can
-occasionally develop into a more serious life-threatening form of the disease.
-Severe dengue fever is rare in travellers.
-The mosquitoes that transmit dengue fever are most abundant in towns, cities
-and surrounding areas. All travellers to dengue areas are at risk.
+Dengue is a viral infection transmitted by mosquitoes which predominantly feed
+between dawn and dusk.  It causes a flu-like illness, which can occasionally
+develop into a more serious life-threatening form of the disease. Severe dengue
+is rare in travellers.
+The mosquitoes that transmit dengue are most abundant in towns, cities and
+surrounding areas. All travellers to dengue areas are at risk.
 
-Dengue fever in Australia
+Dengue in Australia
 
-There is a risk of dengue_fever_in_the_state_of_Queensland. At present the risk
-of dengue fever in other parts of Australia is minimal.
+There is a risk of dengue_in_the_state_of_Queensland. At present the risk of
+dengue in other parts of Australia is minimal.
 
 Prevention
 
 
 * All travellers should avoid mosquito bites particularly between dawn and
   dusk.
-* There is no vaccination or medication to prevent dengue fever.
+* There is no vaccination or medication to prevent dengue.
 
-Dengue_fever_in_brief
+Dengue_in_brief
 
 
 * Home
@@ -296,7 +296,7 @@ outbreaks
 
 Pertussis_in_Australia
 
-28 Aug 2015 Australian Capital Territory. Australia
+28 Aug 2015 Australia
 An increased number of pertussis cases continue to be reported in Australian
 Capital Territory, with a large number of cases occurring amongst school aged
 children. A similar increase has been observed in New South Wales.
@@ -355,7 +355,7 @@ New Post
 Verified
 State_-_Read_more
 
-Dengue_fever_in_Australia
+Dengue_in_Australia
 
 30 Mar 2015 Australia
 As of 28 Feb 2015; the cumulative number of dengue cases reported in Australia

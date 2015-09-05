@@ -392,28 +392,28 @@ Prevention
 
 Altitude_illness_in_brief
 
-Dengue Fever
+Dengue
 
-Dengue fever is a viral infection transmitted by mosquitoes which predominantly
-feed between dawn and dusk.  It causes a flu-like illness, which can
-occasionally develop into a more serious life-threatening form of the disease.
-Severe dengue fever is rare in travellers.
-The mosquitoes that transmit dengue fever are most abundant in towns, cities
-and surrounding areas. All travellers to dengue areas are at risk.
+Dengue is a viral infection transmitted by mosquitoes which predominantly feed
+between dawn and dusk.  It causes a flu-like illness, which can occasionally
+develop into a more serious life-threatening form of the disease. Severe dengue
+is rare in travellers.
+The mosquitoes that transmit dengue are most abundant in towns, cities and
+surrounding areas. All travellers to dengue areas are at risk.
 
-Dengue fever in Saudi Arabia
+Dengue in Saudi Arabia
 
-There is a risk of dengue fever in the provinces of: Al Madinah, Jizan and
-Makkah (including the cities of Mecca and Jeddah).
+There is a risk of dengue in the provinces of: Al Madinah, Jizan and Makkah
+(including the cities of Mecca and Jeddah).
 
 Prevention
 
 
 * All travellers should avoid mosquito bites particularly between dawn and
   dusk.
-* There is no vaccination or medication to prevent dengue fever.
+* There is no vaccination or medication to prevent dengue.
 
-Dengue_fever_in_brief
+Dengue_in_brief
 
 Schistosomiasis
 
@@ -496,6 +496,19 @@ All_News
 outbreaks
 
 
+Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
+
+04 Sep 2015 Saudi Arabia
+As of 3 Sep 2015, there have been a total of 1,199 laboratory confirmed cases
+of MERS-CoV including 512 deaths. The most recent increase in the number of
+MERS-CoV cases in Saudi Arabia is mainly explained by a large, ongoing,
+nosocomial outbreak in Riyadh linked to one healthcare facility.
+Human
+Air-borne
+Update 5
+Verified
+State_-_Read_more
+
 Middle_East_respiratory_syndrome_coronavirus_in_Jordan_ex_Saudi_Arabia
 
 02 Sep 2015 View Countries  +  Jordan
@@ -508,20 +521,6 @@ Air-borne
 Imported
 Update 2
 Media_-_Read_more
-
-Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
-
-28 Aug 2015 Saudi Arabia
-Since 31 Jul 2015, Saudi Arabia reported 80 MERS-CoV cases. Among them 75 (94
-per cent) were reported in Riyadh city. According to the Ministry of Health;
-most of these cases are linked to an outbreak occurring in King Abdul-Aziz
-Medical City. Cases are also occurring in other health facilities, including
-private ones.
-Human
-Air-borne
-Update 4
-Verified
-ECDC_-_Read_more
 
 Middle_East_respiratory_syndrome_coronavirus_in_Philippines_ex_Saudi_Arabia
 

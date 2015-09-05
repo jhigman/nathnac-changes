@@ -182,28 +182,28 @@ Prevention
 
 Altitude_illness_in_brief
 
-Dengue Fever
+Dengue
 
-Dengue fever is a viral infection transmitted by mosquitoes which predominantly
-feed between dawn and dusk.  It causes a flu-like illness, which can
-occasionally develop into a more serious life-threatening form of the disease.
-Severe dengue fever is rare in travellers.
-The mosquitoes that transmit dengue fever are most abundant in towns, cities
-and surrounding areas. All travellers to dengue areas are at risk.
+Dengue is a viral infection transmitted by mosquitoes which predominantly feed
+between dawn and dusk.  It causes a flu-like illness, which can occasionally
+develop into a more serious life-threatening form of the disease. Severe dengue
+is rare in travellers.
+The mosquitoes that transmit dengue are most abundant in towns, cities and
+surrounding areas. All travellers to dengue areas are at risk.
 
-Dengue fever in USA
+Dengue in USA
 
-There is a risk of dengue fever in the states of Florida (specifically Key West
-in Monroe County), and Texas (along the border with Mexico in Cameron County).
+There is a risk of dengue in the states of Florida (specifically Key West in
+Monroe County), and Texas (along the border with Mexico in Cameron County).
 
 Prevention
 
 
 * All travellers should avoid mosquito bites particularly between dawn and
   dusk.
-* There is no vaccination or medication to prevent dengue fever.
+* There is no vaccination or medication to prevent dengue.
 
-Dengue_fever_in_brief
+Dengue_in_brief
 
 
 * Home
@@ -346,7 +346,7 @@ Centers_for_Disease_Control_and_Prevention_-_Read_more
 
 Tularaemia_in_USA
 
-25 Aug 2015 Alaska. United States
+25 Aug 2015 United States
 A total of eleven people have been diagnosed with tularaemia in Wyoming in
 2015, including one death.
 Human

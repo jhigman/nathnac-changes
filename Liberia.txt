@@ -440,21 +440,21 @@ alphabetically.
 
 Dengue
 
-Dengue fever is a viral infection transmitted by mosquitoes which predominantly
-feed between dawn and dusk.  It causes a flu-like illness, which can
-occasionally develop into a more serious life-threatening form of the disease.
-Severe dengue fever is rare in travellers.
-The mosquitoes that transmit dengue fever are most abundant in towns, cities
-and surrounding areas. All travellers to dengue areas are at risk.
+Dengue is a viral infection transmitted by mosquitoes which predominantly feed
+between dawn and dusk.  It causes a flu-like illness, which can occasionally
+develop into a more serious life-threatening form of the disease. Severe dengue
+is rare in travellers.
+The mosquitoes that transmit dengue are most abundant in towns, cities and
+surrounding areas. All travellers to dengue areas are at risk.
 
-Dengue fever in Liberia
+Dengue in Liberia
 
-Dengue fever is known or has the potential to occur in this country.
+Dengue is known or has the potential to occur in this country.
 
 Prevention
 
 All travellers should avoid mosquito bites particularly between dawn and dusk.
-There is no vaccination or medication to prevent dengue fever.
+There is no vaccination or medication to prevent dengue.
 Dengue_in_brief
 
 Schistosomiasis
@@ -534,15 +534,17 @@ All_News
 outbreaks
 
 
-Ebola_virus_in_Liberia
+Ebola_virus_disease_in_Liberia
 
-17 Jul 2015 Margibi. Liberia
-As of 12 July 2015 the cumulative number of confirmed cases of EVD in Liberia
-since 29 June 2015 is six including two deaths.
+04 Sep 2015 Liberia
+The World Health Organization (WHO) has declared Liberia free of Ebola virus
+transmission for a second time; 42 days have passed since the the last
+laboratory-confirmed case. Liberia now enters a 90-day period of heightened
+surveillance.
 Human
-Update 5
+Update 6
 Verified
-WHO_Regional_-_Read_more
+WHO_Other_-_Read_more
 
 Measles_in_Liberia
 
@@ -600,12 +602,7 @@ WHO_Regional_-_Read_more
 
 Ebola_virus_disease_in_Liberia
 
-11 May 2015 View Regions  +  Bong
-Grand Cape Mount
-Lofa
-Margibi
-Montserrado
-Liberia
+11 May 2015 Liberia
 The World Health Organization (WHO) has declared Liberia free of Ebola virus
 transmission. Forty-two days have passed since the last laboratory-confirmed
 case of ebola virus disease (EVD) was buried on 28 Mar 2015.
