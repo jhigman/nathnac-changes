@@ -89,10 +89,14 @@ does not protect against other types of the virus.
 Those at increased risk include travellers visiting friends and relatives,
 those in direct contact with an infected person, long-stay travellers, and
 those visiting areas of poor sanitation.
+
 Polio in Ukraine
+
 Travellers should be aware that cases of circulating Vaccine Derived Polio
 Virus (cVDPV) have been reported [Please_see_Outbreak_Surveillance_Section].
+
 Polio vaccination
+
 
 * All travellers should have completed a polio vaccination course according to
   the UK schedule.

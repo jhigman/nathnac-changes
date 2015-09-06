@@ -533,14 +533,15 @@ All_News
 
 outbreaks
 
+_ebola-who_
 
 Ebola_virus_disease_in_Liberia
 
 04 Sep 2015 Liberia
 The World Health Organization (WHO) has declared Liberia free of Ebola virus
-transmission for a second time; 42 days have passed since the the last
-laboratory-confirmed case. Liberia now enters a 90-day period of heightened
-surveillance.
+transmission for a second time.  42 days have passed since the last lab
+confirmed case.
+Liberia now enters a 90-day period of heightened surveillance.
 Human
 Update 6
 Verified
