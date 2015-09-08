@@ -93,15 +93,19 @@ those visiting areas of poor sanitation.
 Polio in Ukraine
 
 Travellers should be aware that cases of circulating Vaccine Derived Polio
-Virus (cVDPV) have been reported [Please_see_Outbreak_Surveillance_Section].
+Virus (cVDPV) occurred in June and July 2015 [Please_see_Outbreak_Surveillance
+Section].
 
 Polio vaccination
 
 
 * All travellers should have completed a polio vaccination course according to
   the UK schedule.
-* FURTHER ADVICE ON POLIO VACCINATION RECOMMENDATIONS FOR UKRAINE WILL BE
-  POSTED HERE AS SOON AS AVAILABLE
+* All travellers to Ukraine should make sure they have had a polio-containing
+  vaccine in the past 10 years and that children have had an age appropriate
+  course of vaccine; if expecting to stay in Ukraine for more than 6 months
+  then those who are fully vaccinated should receive an additional dose of
+  polio vaccine if not received a dose in the previous 12 months.
 
 Polio_in_brief
 Tetanus
@@ -308,6 +312,14 @@ Tuberculosis_in_brief
 
 Important News
 
+_polio-vaccine-pakistan_
+07 Sep 2015
+
+Circulating_vaccine_derived_polio_virus_(cVDPV):_Ukraine
+
+An outbreak of Vaccine Derived Polio Virus is reported from Zakarpatskaya
+Oblast, in south-western Ukraine, bordering Romania, Hungary, Slovakia and P
+read_more
 _ticks_
 11 Dec 2014
 
