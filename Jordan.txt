@@ -312,16 +312,19 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Jordan_ex_Saudi_Arabia
 
-02 Sep 2015 View Countries  +  Jordan
+08 Sep 2015 View Countries  +  Jordan
 Saudi Arabia
 
-According to media reports, two additional cases have been reported in Jordan
-on Aug 30 and Aug 31 2015.
+Two previously reported cases of MERS-CoV, involving a 73-year-old female and a
+56-year-old male, have been confirmed by the World Health Organization. Both
+cases are associated with a MERS-CoV outbreak currently occurring in a hospital
+in Amman city.
 Human
 Air-borne
 Imported
-Update 2
-Media_-_Read_more
+Update 3
+Verified
+WHO_Disease_Outbreak_News_-_Read_more
 
 Middle_East_respiratory_syndrome_coronavirus_in_Jordan
 

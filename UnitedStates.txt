@@ -295,6 +295,19 @@ All_News
 outbreaks
 
 
+Influenza_A_in_USA
+
+08 Sep 2015 United States
+One human infection with a novel influenza A virus (H3N2) variant (H3N2v) has
+been reported in Michigan. An investigation into the case found no human-to-
+human spread of the virus. The patient had close contact with pigs in the week
+before illness onset.
+Human
+Air-borne
+Update 4
+Verified
+Centers_for_Disease_Control_and_Prevention_-_Read_more
+
 Salmonella_in_USA
 
 07 Sep 2015 United States
@@ -487,17 +500,6 @@ Human
 Vector-born
 New Post
 Media_-_Read_more
-
-Influenza_A_in_USA
-
-27 Jul 2015 United States
-One human infection with a novel influenza A virus was reported in Minnesota.
-The person was infected with an influenza A (H3N2) variant (H3N2v) virus.
-Human
-Air-borne
-Update 3
-Verified
-State_-_Read_more
 
 Salmonellosis_in_USA
 

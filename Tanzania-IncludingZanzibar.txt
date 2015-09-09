@@ -563,28 +563,29 @@ outbreaks
 
 Cholera_in_Tanzania
 
-02 Sep 2015 Tanzania (Including Zanzibar)
-A cholera outbreak in Tanzania has affected the areas of Dar es Salaam,
-Morogoro, Iringa and Pwani. As of 30 Aug 2015, there have been 459 cases and
-nine deaths in Dar es Salaam, 69 cases and five deaths in Morogoro, two cases
-in Iringa and 16 cases and one death in Pwani.
+08 Sep 2015 Kigoma. Tanzania (Including Zanzibar)
+The Kigoma area outbreak has ended; no cholera cases have been reported in the
+last three weeks. From May 2015 to 26 Aug 2015, cumulative suspected /
+confirmed cases reported in Kigoma are 4,833 including 40 deaths. This figure
+includes 4,528 cases within Burundian asylum seekers and 305 cases from the
+host communities.
 Human
 Food and Water-borne
-New Post
+Update 4
 Verified
 Relief_Web_-_Read_more
 
 Cholera_in_Tanzania
 
-18 Jun 2015 Kigoma. Tanzania (Including Zanzibar)
-As of 18 Jun 2015, the outbreak affecting Burundian refugees continues. A total
-of 4, 662 suspected or confirmed cases, with 34 deaths have now been reported.
-This includes 129 cases, with three deaths, confirmed in Tanzanians. Prevention
-and control interventions are ongoing.
+08 Sep 2015 Tanzania (Including Zanzibar)
+The cholera outbreak in Dar es Salaam, Pwani (Coast), Iringa and Morogoro is
+continuing. As of 4 Sep 2015, the cumulative number of cholera cases in the
+affected areas is 857 cases including 13 deaths.
 Human
 Food and Water-borne
-Update 3
-WHO_Regional_-_Read_more
+Update 1
+Verified
+Relief_Web_-_Read_more
 
 Acute_watery_diarrhoeal_syndrome_in_Tanzania
 
