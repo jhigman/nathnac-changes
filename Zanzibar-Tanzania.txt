@@ -580,7 +580,8 @@ Cholera_in_Tanzania
 08 Sep 2015 Tanzania (Including Zanzibar)
 The cholera outbreak in Dar es Salaam, Pwani (Coast), Iringa and Morogoro is
 continuing. As of 4 Sep 2015, the cumulative number of cholera cases in the
-affected areas is 857 cases including 13 deaths.
+affected areas is 857 cases including 13 deaths. Laboratory tests confirmed the
+presence of Vibrio cholerae, type O1 Ogawa strain.
 Human
 Food and Water-borne
 Update 1

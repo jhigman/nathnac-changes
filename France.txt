@@ -374,12 +374,25 @@ outbreaks
 
 Dengue_in_France
 
-27 Aug 2015 France
-As of 21 Aug 2015, France reported two autochthonous cases of dengue in Nimes,
-Languedoc-Roussillon region. In addition, four suspected cases are still under
-investigation.
+09 Sep 2015 France
+As of 7 Sep 2015, three additional cases of dengue have been now confirmed
+bringing the number of autochthonous cases to five during this year. All cases
+are from the same neighbourhood of Nimes, Languedoc-Roussillon region.
 Human
 Vector-born
+Update 1
+Verified
+State_-_Read_more
+
+Toxic_poisoning_in_France
+
+09 Sep 2015 France
+A total of 212 cases of toxic poisoning related to the consumption of mushrooms
+have been reported between 29 Jun and 30 Aug 2015. Cases of poisoing occurred
+in Aquitaine (47), en Midi-Pyrénées (36), en Rhône-Alpes (27) and Franche-Comté
+(13).
+Human
+Food and Water-borne
 New Post
 Verified
 State_-_Read_more

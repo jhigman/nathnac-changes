@@ -606,15 +606,15 @@ outbreaks
 
 Malaria_in_South_Sudan
 
-17 Aug 2015 Warrap. South Sudan
-In 2015, more than 6,000 cases of malaria have been reported, of which 690 have
-been hospitalised. In Agok (Abyei district) a total of 2,363 cases are
-reported, more than double the number of malaria patients compared to this
-stage in last year`s malaria season. In South Sudan, the malaria season is
-typically May to December.
+09 Sep 2015 Warrap. South Sudan
+Large number of malaria cases has been reported in South Sudan between Jan and
+Aug 2015: 989,400 cases, including 445 deaths, compared to nearly 744,200 cases
+and 303 deaths during the same period in 2014. In Bentiu Protection of
+Civilians site, case numbers have increased from 113 per 10,000 people in May
+to 820 per 10,000
 Human
 Vector-born
-New Post
+Update 1
 Verified
 Relief_Web_-_Read_more
 
