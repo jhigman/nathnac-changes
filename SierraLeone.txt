@@ -561,12 +561,11 @@ outbreaks
 
 Ebola_virus_disease_in_Sierra_Leone
 
-04 Sep 2015 Sierra Leone
-In the last week Sierra Leone has reported one new fatal case of Ebola virus
-disease from Kambia district, bringing the total number of cases to 13,609 with
-3,953 deaths, as of 30 Aug 2015.
+11 Sep 2015 Sierra Leone
+One new confirmed case was reported from Kambia in Sierra Leone in the last
+week, as of 6 Sep 2015. The total number of cases: 13,683 with 3,953 deaths.
 Human
-Update 8
+Update 9
 Verified
 WHO_Regional_-_Read_more
 

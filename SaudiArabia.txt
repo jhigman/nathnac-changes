@@ -195,15 +195,17 @@ those whose activities or medical history put them at increased risk including:
 
 Hepatitis_B_in_brief
 Meningococcal Disease
+For Hajj and Umrah pilgrims and seasonal workers to this area, proof of
+vaccination with a meningococcal ACWY vaccine is a visa requirement for entry.
 Meningococcal disease is a bacterial infection transmitted by inhaling
 respiratory droplets or direct contact with respiratory secretions from an
 infected person. This is usually following prolonged or frequent close contact.
 The most common forms of meningococcal disease are meningococcal meningitis
 (infection of the protective lining around the brain) and septicaemia (blood
 poisoning).
-Those at increased risk include healthcare workers, those visiting friends and
-relatives and long-stay travellers who have close contact with the local
-population.
+Hajj and Umrah pilgrims and seasonal workers at the pilgrimages are at
+increased risk due to the crowded conditions and possible close contact with
+people from countries with higher rates of meningococcal disease.
 
 Meningococcal disease in Saudi Arabia
 
@@ -212,21 +214,17 @@ during the Hajj.
 
 Prevention
 
-Travellers should avoid, if possible, overcrowded conditions.
+Travellers may reduce their risk by avoiding overcrowded situations where
+possible.
 
 Meningococcal disease vaccination
 
-Vaccination is recommended for those whose activities or medical condition put
-them at increased risk including:
-
-* healthcare workers
-* those visiting friends and relatives
-* those who live or travel ‘rough’ such as backpackers
-* long-stay travelers who have close contact with the local population
-* those with certain rare immune system problems (complement disorders) and
-  those who do not have a functioning spleen
-
-For travellers at risk, the ACWY conjugate vaccines are recommended.
+For pilgrims and seasonal workers proof of vaccination with a meningococcal
+ACWY vaccine is a visa requirement for entry. This should be given at least 10
+days before, and within the last 3 years of, planned travel. Details of the
+vaccine given should be recorded in a patient held vaccine record showing the
+traveller’s full name.
+The meningococcal ACWY conjugate vaccine is recommended.
 Meningococcal_disease_in_brief
 Rabies
 Rabies is a viral infection which is usually transmitted following contact with
@@ -498,19 +496,17 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Jordan_ex_Saudi_Arabia
 
-08 Sep 2015 View Countries  +  Jordan
+11 Sep 2015 View Countries  +  Jordan
 Saudi Arabia
 
-Two previously reported cases of MERS-CoV, involving a 73-year-old female and a
-56-year-old male, have been confirmed by the World Health Organization. Both
-cases are associated with a MERS-CoV outbreak currently occurring in a hospital
-in Amman city.
+As of 10 Sep 2015, three more cases have been reported, associated with
+hospital-linked outbreak in Amman city, bringing the total number of MERS-CoV
+infections to eleven.
 Human
 Air-borne
 Imported
-Update 3
-Verified
-WHO_Disease_Outbreak_News_-_Read_more
+Update 5
+Media_-_Read_more
 
 Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
 

@@ -556,12 +556,12 @@ outbreaks
 
 Ebola_virus_disease_in_Guinea
 
-04 Sep 2015 Guinea
-In the last week Guinea has reported two new cases of Ebola virus disease,
-bringing the total number of cases to 3,792 with 2,529 deaths, as of 30 Aug
-2015. Both cases were reported from the Ratoma area of the capital, Conakry.
+11 Sep 2015 Guinea
+In the last week Guinea has reported a single case of Ebola virus disease in
+the capital Conakry, bringing the total number of cases to 3,792 with 2,530
+deaths, as of 6 Sep 2015.
 Human
-Update 10
+Update 11
 Verified
 WHO_Regional_-_Read_more
 

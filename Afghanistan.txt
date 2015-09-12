@@ -47,8 +47,8 @@ Details of vaccination recommendations and requirements are provided below.
 All Travellers
 
 Travellers should be up to date with routine vaccination courses and boosters
-as recommended_in_the_UK.  These vaccinations include for example measles-
-mumps-rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
+as recommended_in_the_UK. These vaccinations include for example measles-mumps-
+rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
 Those who may be at increased risk of an infectious disease due to their work,
 lifestyle choice, or certain underlying health problems should be up to date
 with additional recommended vaccines. See the individual chapters of the ‘Green
@@ -111,7 +111,7 @@ those visiting areas of poor sanitation.
 
 Polio in Afghanistan
 
-Cases of wild type polio virus were last reported in 2014.
+Cases of wild type polio virus were last reported in 2015.
 
 Prevention
 

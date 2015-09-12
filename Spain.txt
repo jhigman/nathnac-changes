@@ -249,6 +249,18 @@ All_News
 outbreaks
 
 
+Chikungunya_virus_infection_in_Spain
+
+11 Sep 2015 Spain
+As of 11 Sep 2015, the previously reported autochthonous case of chikungunya
+was found to be false positive, following further laboratory testing. The
+existence of local transmission of chikungunya has been ruled out.
+Human
+Vector-born
+Update 1
+Verified
+State_-_Read_more
+
 Pertussis_in_Spain
 
 09 Sep 2015 Spain
@@ -259,22 +271,6 @@ Human
 Close association
 New Post
 Pro_Med_-_Read_more
-
-Chikungunya_virus_infection_in_Spain
-
-04 Aug 2015 Spain
-As of 31 Jul 2015, a case of locally acquired chikungunya virus (CHIKV) has
-been reported in a 60-year-old man who lives and works in Gandia, Valencia
-region.  The patient is thought to have been infected in Spain, but developed
-symptoms four days into a trip to France. This is the first locally acquired
-case of CHIKV reported in Spain.  According to the Ministry of Health, as of 12
-Jul 2015, 86 cases of CHIKV were reported this year in Spain. Of these, 18 were
-reported in the Valencia region. They were all travel-associated cases.
-Human
-Vector-born
-New Post
-Verified
-State_-_Read_more
 
 Diphtheria_in_Spain
 

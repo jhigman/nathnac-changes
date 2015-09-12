@@ -492,17 +492,16 @@ outbreaks
 
 Dengue_in_Yemen
 
-22 Jun 2015 View Regions  +  Adan
-Hadramawt
-Shabwah
-Ta'izz
-Yemen
-As of 18 Jun 2015, at least 5,000 people in southern Yemen have been diagnosed
-as having dengue.
+11 Sep 2015 Yemen
+An increase in the number of dengue cases has been reported in Taiz over the
+past two weeks rising from 145 cases in week 32 to 421 in week 33. These
+numbers are higher as compared to cases reported in the same period of time in
+2014.
 Human
 Vector-born
-Update 1
-Media_-_Read_more
+Update 2
+Verified
+Relief_Web_-_Read_more
 More
 
 * RSS
