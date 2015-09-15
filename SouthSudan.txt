@@ -604,6 +604,19 @@ All_News
 outbreaks
 
 
+Cholera_in_South_Sudan
+
+14 Sep 2015 Central Equatoria. South Sudan
+As of 12 September 2015 two new cholera cases have been reported in Juba
+County. As of 12 September 2015, 1,743 cholera cases including 46 deaths  have
+been reported from Juba and Bor County in South Sudan since the outbreak was
+reported on 23 June 2015.
+Human
+Food and Water-borne
+Update 6
+Verified
+State_-_Read_more
+
 Malaria_in_South_Sudan
 
 09 Sep 2015 Warrap. South Sudan
@@ -617,17 +630,6 @@ Vector-born
 Update 1
 Verified
 Relief_Web_-_Read_more
-
-Cholera_in_South_Sudan
-
-05 Aug 2015 Central Equatoria. South Sudan
-As of 1 Aug 2015, a total of 1, 411 cholera cases, including 42 deaths, have
-now been reported in Juba County and Bor, Jonglei State since the outbreak was
-declared on 23 Jun 2015.
-Human
-Food and Water-borne
-Update 5
-State_-_Read_more
 
 Hepatitis_E_in_South_Sudan
 

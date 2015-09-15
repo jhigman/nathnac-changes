@@ -63,11 +63,9 @@ required, should be sought from their healthcare professional.
 * There is a risk of yellow fever transmission in all areas of this country
   (see ‘Most Travellers‘ section below).
 * Under International Health Regulations (2005), a yellow fever vaccination
-  certificate is required from all travellers over 9 months of age arriving
-  from countries with risk of yellow fever transmission.
+  certificate is required from all travellers over 9 months of age.
 * This country considers the yellow fever vaccination certificate to be valid
   for life.
-* View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
 
 
 Most Travellers
