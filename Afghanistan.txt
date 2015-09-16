@@ -76,7 +76,7 @@ aware that proof of vaccination, given four weeks to 12 months before departure
 from the country [an International_Certificate_of_Vaccination_or_Prophylaxis 
 (ICVP)], may be required on exit. Failure to produce this documentation may
 result in vaccination at the point of departure, most likely with oral polio
-vaccine.  See ‘Most Travellers‘ section below.
+vaccine. See ‘Most Travellers‘ section below.
 
 Most Travellers
 
@@ -149,7 +149,7 @@ The following additional advice should also be followed until further notice:
 Polio_in_brief
 Tetanus
 Tetanus is caused by a toxin released from Clostridium tetani and occurs
-worldwide.  Tetanus bacteria are present in soil and manure and may be
+worldwide. Tetanus bacteria are present in soil and manure and may be
 introduced through open wounds such as a puncture wound, burn or scratch.
 
 Prevention
@@ -207,7 +207,7 @@ All travellers should take care with personal, food and water hygiene.
 Cholera vaccination
 
 This oral vaccine is recommended for those whose activities or medical history
-put them at increased risk.  This includes:
+put them at increased risk. This includes:
 
 * aid workers
 * those going to areas of cholera outbreaks who have limited access to safe
@@ -220,7 +220,7 @@ Hepatitis B is a viral infection; it is transmitted by exposure to infected
 blood or body fluids. This mostly occurs during sexual contact or as a result
 of blood-to-blood contact (for example from contaminated equipment during
 medical and dental procedures, tattooing or body piercing procedures, and
-sharing of intravenous needles).   Mothers with the virus can also transmit the
+sharing of intravenous needles). Mothers with the virus can also transmit the
 infection to their baby during childbirth.
 
 Hepatitis B in Afghanistan
@@ -395,7 +395,7 @@ Map coming soon.
 Recommended Antimalarials
 
 The recommended antimalarials for Afghanistan are listed below. They are
-recommended for certain areas only (see  description of risk areas above).  If
+recommended for certain areas only (see description of risk areas above). If
 these are not suitable please seek further specialist advice.
 Please note, the advice for children is different, the dose is based on body
 weight and some antimalarials are not suitable.
@@ -418,7 +418,7 @@ Resources
 * Malaria_factsheet 
 * Insect_and_tick_bite_avoidance
 * Children’s_antimalarial_dose_table
-* Guidelines_for_Malaria_Prevention_in_Travellers_from_the_United_Kingdom
+* Malaria_prevention_guidelines_for_travellers_from_the_UK
 
 
 * Home

@@ -485,7 +485,7 @@ Resources
 * Malaria_factsheet 
 * Insect_and_tick_bite_avoidance
 * Children’s_antimalarial_dose_table
-* Guidelines_for_Malaria_Prevention_in_Travellers_from_the_United_Kingdom
+* Malaria_prevention_guidelines_for_travellers_from_the_UK
 
 
 * Home
@@ -573,6 +573,18 @@ All_News
 
 outbreaks
 
+
+Chikungunya_virus_infection_in_Senegal
+
+15 Sep 2015 Kédougou. Senegal
+On 9 September 2015, an outbreak of chikungunya virus was confirmed, beginning
+on 27 August 2015. As of 8 September 2015, ten cases have been confirmed. The
+last cases in the affected area were reported between 2009 and 2010.
+Human
+Vector-born
+New Post
+Verified
+WHO_-_Other_-_Read_more
 
 Ebola_virus_disease_in_Multiple_countries
 

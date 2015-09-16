@@ -28,11 +28,11 @@ certain health problems is available below.
 Resources
 
 
-* Food_and_Water-Borne_Diseases
-* Insect_Bite_Avoidance
-* Personal_Safety 
-* Sexually_Transmitted_Infections
-* Sun_Protection
+* Food_and_water_hygiene
+* Insect_and_tick_bite_avoidance
+* Personal_safety 
+* Sexually_transmitted_infections
+* Sun_protection
 
 
 * Home
@@ -54,7 +54,7 @@ lifestyle choice, or certain underlying health problems should be up to date
 with additional recommended vaccines. See the individual chapters of the ‘Green
 Book’ Immunisation_against_infectious_disease for further details.
 
-Certificate Requirement
+Certificate Requirements
 
 Please read the information below carefully, as certificate requirements may
 be relevant to certain travellers only. For travellers further details, if
@@ -326,8 +326,8 @@ Resources
 
 * Malaria_in_brief
 * Malaria_factsheet 
-* Insect_and_tick_bite_avoidance_factsheet 
-* Guidelines_for_Malaria_Prevention_in_Travellers_from_the_United_Kingdom
+* Insect_and_tick_bite_avoidance 
+* Malaria_prevention_guidelines_for_travellers_from_the_UK
 
 
 * Home

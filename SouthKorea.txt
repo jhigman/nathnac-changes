@@ -5,7 +5,7 @@
 * Korea (South)
 
 
-General Information
+General information
 
 The information on these pages should be used to research health risks and to
 inform the pre-travel consultation. For advice regarding safety and security
@@ -292,7 +292,7 @@ Resources
 
 * Malaria_in_brief
 * Malaria_factsheet 
-* Insect_and_tick_bite_avoidance_factsheet  
+* Insect_and_tick_bite_avoidance  
 * Guidelines_for_malaria_prevention_in_travellers_from_the_United_Kingdom
 
 

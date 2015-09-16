@@ -452,8 +452,8 @@ Resources
 
 * Malaria_in_brief
 * Factsheet_on_malaria
-* Factsheet_on_Insect_Bite_Avoidance
-* Guidelines_for_Malaria_Prevention_in_Travellers_from_the_United_Kingdom
+* Factsheet_on_Insect_and_tick_bite_avoidance
+* Malaria_prevention_guidelines_for_travellers_from_the_UK
 
 
 * Home
