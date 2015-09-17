@@ -40,7 +40,7 @@ Resources
 * Uganda
 
 
-Vaccine Recommendations
+Vaccine recommendations
 
 Details of vaccination recommendations and requirements are provided below.
 
@@ -168,7 +168,8 @@ cause internal bleeding, organ failure and death.
 
 Yellow Fever in Uganda
 
-There is a risk of yellow fever transmission throughout this country
+There is a risk of yellow fever transmission throughout this country, see
+below.
 
 Prevention
 

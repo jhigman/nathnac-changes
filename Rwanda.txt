@@ -47,8 +47,8 @@ Details of vaccination recommendations and requirements are provided below.
 All Travellers
 
 Travellers should be up to date with routine vaccination courses and boosters
-as recommended_in_the_UK.  These vaccinations include for example measles-
-mumps-rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
+as recommended_in_the_UK. These vaccinations include for example measles-mumps-
+rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
 Those who may be at increased risk of an infectious disease due to their work,
 lifestyle choice, or certain underlying health problems should be up to date
 with additional recommended vaccines. See the individual chapters of the ‘Green
@@ -77,12 +77,12 @@ Most Travellers
 
 The vaccines in this section are recommended for most travellers visiting this
 country. Information on these vaccines can be found by clicking on the blue
-arrow.  Vaccines are listed alphabetically.
+arrow. Vaccines are listed alphabetically.
 Hepatitis A
 Hepatitis A is a viral infection transmitted through contaminated food and
 water or by direct contact with an infectious person. Symptoms are often mild
 or absent in young children, but the disease becomes more serious with
-advancing age.  Recovery can vary from weeks to months. Following hepatitis A
+advancing age. Recovery can vary from weeks to months. Following hepatitis A
 illness immunity is lifelong.
 Those at increased risk include travellers visiting friends and relatives,
 long-stay travellers, and those visiting areas of poor sanitation.
@@ -169,7 +169,7 @@ Hepatitis B is a viral infection; it is transmitted by exposure to infected
 blood or body fluids. This mostly occurs during sexual contact or as a result
 of blood-to-blood contact (for example from contaminated equipment during
 medical and dental procedures, tattooing or body piercing procedures, and
-sharing of intravenous needles).   Mothers with the virus can also transmit the
+sharing of intravenous needles). Mothers with the virus can also transmit the
 infection to their baby during childbirth.
 
 Hepatitis B in Rwanda
@@ -302,7 +302,7 @@ cause internal bleeding, organ failure and death.
 Yellow Fever in Rwanda
 
 There is a low potential for exposure to yellow fever throughout this country,
- see below.
+see below.
 
 Prevention
 
@@ -312,7 +312,7 @@ Travellers should avoid mosquito bites at all times.
 
 
 * Vaccination is generally not recommended, but could be considered for a small
-  subset of travellers ( aged 9 months and older) to such areas who are at
+  subset of travellers (aged 9 months and older) to such areas who are at
   increased risk for exposure because of:
   – Prolonged travel
   – Heavy exposure to mosquito bites

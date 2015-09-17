@@ -47,8 +47,8 @@ Details of vaccination recommendations and requirements are provided below.
 All Travellers
 
 Travellers should be up to date with routine vaccination courses and boosters
-as recommended_in_the_UK.  These vaccinations include for example measles-
-mumps-rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
+as recommended_in_the_UK. These vaccinations include for example measles-mumps-
+rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
 Those who may be at increased risk of an infectious disease due to their work,
 lifestyle choice, or certain underlying health problems should be up to date
 with additional recommended vaccines. See the individual chapters of the ‘Green
@@ -273,17 +273,21 @@ Yellow fever is a viral infection transmitted by mosquitoes which predominantly
 feed between dawn and dusk, but may also bite at night, especially in the
 jungle environment. Symptoms may be absent or mild, but in severe cases it can
 cause internal bleeding, organ failure and death.
+
 Yellow fever in Peru
+
 There is a risk of yellow fever transmission in parts of this country, see
 below.
+
 Prevention
+
 Travellers should avoid mosquito bites at all times.
 
 Yellow fever vaccination
 
 
 * Vaccination is recommended for those aged 9 months of age and older
-  travelling to the following areas at altitudes below 2300 m: the Regions of
+  travelling to the following areas at altitudes below 2,300 m: the Regions of
   Amazonas, Loreto, Madre de Dios, San Martin, Ucayali, Puno, Cuzco; Junín,
   Pasco and Huánuco and designated areas of the following Regions far-north of
   Apurimac; far northern Huancavelica; far-north-eastern Ancash; eastern La
@@ -298,7 +302,7 @@ Yellow fever vaccination
   – Heavy exposure to mosquito bites
   – Inability to avoid insect bites
 * Vaccination is not recommended for travellers whose itineraries are limited
-  to the following areas: all areas above 2300 m altitude, areas west of the
+  to the following areas: all areas above 2,300m altitude, areas west of the
   Andes not listed above, the cities of Cuzco and the capital city of Lima,
   Machu Picchu, and the Inca Trail.
 * See vaccine recommendation map below.

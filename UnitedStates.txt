@@ -295,6 +295,18 @@ All_News
 outbreaks
 
 
+Plague_in_USA
+
+16 Sep 2015 United States
+As of 14 Sept 2015, a case of bubonic plague has been confirmed in a Michigan
+resident who visited Colorado. USA is experiencing an increase in plague cases
+this year, with 14 human cases, including four deaths, reported nationally.
+Human
+Miscellaneous
+Update 4
+Verified
+State_-_Read_more
+
 Influenza_A_in_USA
 
 08 Sep 2015 United States
@@ -344,19 +356,6 @@ Air-borne
 Update 1
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
-
-Plague_in_USA
-
-01 Sep 2015 United States
-Public health officials have confirmed that a Utah resident died from plague in
-August. This is the first reported case of plague in Utah since 2009. Since
-April, 2015 a total of 12 human plague cases have been reported in seven
-states: Arizona, California, Colorado, Georgia, New Mexico, Oregon and Utah.
-Human
-Miscellaneous
-Update 3
-Verified
-State_-_Read_more
 
 Cyclosporiasis_in_USA
 

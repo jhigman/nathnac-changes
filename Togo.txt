@@ -142,7 +142,7 @@ Yellow Fever
 Yellow fever is a viral infection transmitted by  mosquitoes which
  predominantly feed between dawn and dusk, but may also bite at night,
 especially in the jungle environment. Symptoms may be absent or mild, but in
-severe cases, it can cause internal bleeding, organ failure and death
+severe cases, it can cause internal bleeding, organ failure and death.
 
 Yellow Fever in Togo
 

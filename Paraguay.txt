@@ -81,7 +81,7 @@ Hepatitis A
 Hepatitis A is a viral infection transmitted through contaminated food and
 water or by direct contact with an infectious person. Symptoms are often mild
 or absent in young children, but the disease becomes more serious with
-advancing age.  Recovery can vary from weeks to months. Following hepatitis A
+advancing age. Recovery can vary from weeks to months. Following hepatitis A
 illness immunity is lifelong.
 Those at increased risk include travellers visiting friends and relatives,
 long-stay travellers, and those visiting areas of poor sanitation.
@@ -242,7 +242,7 @@ cause internal bleeding, organ failure and death.
 
 Yellow Fever in Paraguay
 
-There is a risk of yellow fever transmission in in parts of this country,  see
+There is a risk of yellow fever transmission in parts of this country, see
 below.
 
 Prevention
