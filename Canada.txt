@@ -225,6 +225,19 @@ All_News
 outbreaks
 
 
+E.coli_in_Canada
+
+17 Sep 2015 Canada
+As of 14 September 2015 there have been 31 cases of E.coli confirmed in Alberta
+(1), Ontario (11), Quebec (17) and Nova Scotia (2). Individuals became sick
+between July 6 and September 4, 2015, with the peak of illnesses reported to
+date occurring between July 25 and August 1, 2015.
+Human
+Food and Water-borne
+Update 1
+Verified
+State_-_Read_more
+
 Trypanosomiasis_–_African_(sleeping_sickness)_in_Canada_ex_Zambia
 
 08 Sep 2015 View Countries  +  Canada
@@ -250,20 +263,6 @@ Human
 Air-borne
 New Post
 Media_-_Read_more
-
-E.coli_in_Canada
-
-26 Aug 2015 Canada
-As of 24 Aug 2015, the Public Health Agency of Canada is investigating an
-outbreak of 24 E.coli cases in Alberta, Nova Scotia, Ontario and Quebec.
-Individuals became ill between 12 July and 8 Aug 2015. Five people have been
-hospitalised, but all are recovering. A specific source or product has not yet
-been identified.
-Human
-Food and Water-borne
-New Post
-Verified
-State_-_Read_more
 
 Vibrio_parahaemolyticus_in_Canada
 

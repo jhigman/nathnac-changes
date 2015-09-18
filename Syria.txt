@@ -296,7 +296,6 @@ Resources
 * Malaria_in_brief
 * Malaria_factsheet 
 * Insect_and_tick_bite_avoidance  
-* Children’s_antimalarial_dose_table
 * Malaria_prevention_guidelines_for_travellers_from_the_UK
 
 

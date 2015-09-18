@@ -362,16 +362,16 @@ suggestive of malaria within a year of return should seek immediate medical
 care. Emergency standby treatment may be considered for those going to remote
 areas with limited access to medical attention.
 
-Areas of Risk
+Risk Areas
 
 
 * There is a high risk of malaria in Rwanda: atovaquone/proguanil OR
   doxycycline OR mefloquine recommended.
 
 
-Antimalarial Recommendations
+Recommended Antimalarials
 
-The recommended antimalarials are listed below.  If these are not suitable
+The recommended antimalarials are listed below. If these are not suitable
 please seek further specialist advice.
 Please note, the advice for children is different, the dose is based on body
 weight and some antimalarials are not suitable.
@@ -384,7 +384,7 @@ Atovaquone 250mg/Proguanil 100mg combination preparation:
   after leaving the malaria risk area
 * take with a fatty meal if possible
 * for children paediatric tablets are available and the dose is based on body
-  weight (see table)
+  weight (see table below)
 
 Doxycycline
 Doxycycline 100mg:
@@ -402,7 +402,7 @@ Mefloquine 250mg:
 * this drug is taken weekly, adults take one 250mg tablet each week
 * start two to three weeks before arrival in the malaria risk area and continue
   weekly until four weeks after leaving the malaria risk area
-* for children the dose is based on the body weight (see table)
+* for children the dose is based on the body weight (see table below)
 
 
 Resources

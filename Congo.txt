@@ -404,8 +404,8 @@ areas with limited access to medical attention.
 
 Risk Areas
 
-There is a high risk of malaria in the Republic of Congo: atovaquone/proguanil
-OR doxycycline OR mefloquine recommended.
+There is a high risk of malaria in the Congo: atovaquone/proguanil OR
+doxycycline OR mefloquine recommended.
 
 Recommended Antimalarials
 

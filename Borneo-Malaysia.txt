@@ -55,8 +55,8 @@ Details of vaccination recommendations and requirements are provided below.
 All Travellers
 
 Travellers should be up to date with routine vaccination courses and boosters
-as recommended_in_the_UK.  These vaccinations include for example measles-
-mumps-rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
+as recommended_in_the_UK. These vaccinations include for example measles-mumps-
+rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
 Those who may be at increased risk of an infectious disease due to their work,
 lifestyle choice, or certain underlying health problems should be up to date
 with additional recommended vaccines. See the individual chapters of the ‘Green
@@ -368,20 +368,20 @@ suggestive of malaria within a year of return should seek immediate medical
 care. Emergency standby treatment may be considered for those going to remote
 areas with limited access to medical attention.
 
-Areas of Risk
+Risk Areas
 
 
-* There is a high risk of malaria in inland areas of eastern Sabah and in the
-  inland, forested areas of Sarawak: atovaquone/proguanil OR doxycycline OR
-  mefloquine recommended
+* There is a high risk of malaria in inland areas of Sabah and in the inland,
+  forested areas of Sarawak: atovaquone/proguanil OR doxycycline OR mefloquine
+  recommended
 * There is a very low risk of malaria in the rest of Malaysian Borneo including
   the coastal areas of Sabah and Sarawak: awareness of risk and bite avoidance
   recommended.
 
-See separate recommendation for the rest of  Malaysia.
+See separate recommendation for the rest of Malaysia.
 See separate recommendation forIndonesian_Borneo.
 
-Antimalarial Recommendations
+Recommended Antimalarials
 
 Antimalarial recommendations are different for different parts of Malaysia.
  Please check the recommendations carefully. If these are not suitable please
@@ -390,8 +390,8 @@ Please note, the advice for children is different, the dose is based on body
 weight and some antimalarials are not suitable.
  
 
-Malaysian Borneo in inland areas of eastern Sabah and in the inland, forested
-areas of Sarawak
+Malaysian Borneo in inland areas of Sabah and in the inland, forested areas of
+Sarawak
 
 Atovaquone/Proguanil
 Atovaquone 250mg/Proguanil 100mg combination preparation:

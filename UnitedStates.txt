@@ -295,6 +295,19 @@ All_News
 outbreaks
 
 
+Salmonellosis_in_USA
+
+17 Sep 2015 United States
+As of 15 September 2015 an outbreak of Salmonella Poona infection has been
+confirmed in 31 states. 418 cases have been reported, which is an increase of
+77 cases since the last update on September 9. Two deaths have been reported
+from California [1] and Texas [1].
+Human
+Food and Water-borne
+Update 1
+Verified
+CDC_-_Read_more
+
 Plague_in_USA
 
 16 Sep 2015 United States
@@ -319,19 +332,6 @@ Air-borne
 Update 4
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
-
-Salmonella_in_USA
-
-07 Sep 2015 United States
-As of 4 Sept 2015, CDC is investigating an outbreak of Salmonella Poona. Since
-3 July 2015, a total of 285 infections have been reported from 27 states. 53
-people have been hospitalised, with one death. Investigations have identified
-cucumbers from Mexico as a likely source of infection.
-Human
-Food and Water-borne
-New Post
-Verified
-CDC_-_Read_more
 
 Eastern_equine_encephalitis_in_USA
 

@@ -367,19 +367,17 @@ Risk Areas
   proguanil OR doxycycline recommended.
 * There is also a risk of malaria in all other rural areas of Vietnam:
   atovaquone/proguanil OR doxycycline recommended.
-* There is a very low risk in the Mekong River delta region (including the
-  island of Phu Quoc) until the border area with Cambodia: awareness of risk
-  and bite avoidance recommended.
+* There is a very low risk in the Mekong River delta region until the border
+  area with Cambodia: awareness of risk and bite avoidance recommended.
 * There is no risk in large cities, including Hanoi and Ho Chi Minh (Saigon),
-  and the Red River delta and coastal areas north of Nha Trang: bite avoidance
-  recommended.
+  the Red River delta, coastal areas north of Nha Trang and Phu Quoc Island:
+  bite avoidance recommended.
 
- 
 
 Recommended Antimalarials
 
 The recommended antimalarials for Vietnam are listed below. They are
-recommended for certain areas only (see  description of risk areas above).  If
+recommended for certain areas only (see description of risk areas above).  If
 these are not suitable please seek further specialist advice.
 Please note, the advice for children is different, the dose is based on body
 weight and some antimalarials are not suitable.

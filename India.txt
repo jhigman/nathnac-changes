@@ -429,7 +429,7 @@ suggestive of malaria within a year of return should seek immediate medical
 care. Emergency standby treatment may be considered for those going to remote
 areas with limited access to medical attention.
 
-Areas of Risk
+Risk Areas
 
 
 * There is a risk of malaria sufficiently high to justify antimalarials in the
@@ -444,21 +444,15 @@ Areas of Risk
   use of antimalarials: awareness of risk and bite avoidance recommended.
 * There is no risk of malaria in the Lakshadweep islands.
 
-A recommendation for awareness of risk plus bite prevention does not mean there
-is NO risk of malaria in the place in question, but indicates that ACMP
-considers the level of risk to be below the threshold for
-recommending antimalarials. However, antimalarials may be considered for a
-small subset of travellers at higher risk of malaria following an individual
-risk assessment (for further details see the ACMP_malaria_guidelines)
 
 Antimalarial Recommendations Map
 
 _India_Malaria_map_
 
-Antimalarial Recommendations
+Recommended Antimalarials
 
-The recommended antimalarials for India are listed below.  They are recommended
-for certain areas only (see description of risk areas above).  If these are not
+The recommended antimalarials for India are listed below. They are recommended
+for certain areas only (see description of risk areas above). If these are not
 suitable please seek further specialist advice.
 Please note, the advice for children is different, the dose is based on body
 weight and some antimalarials are not suitable.
@@ -631,15 +625,14 @@ outbreaks
 
 Dengue_in_India
 
-19 Aug 2015 Delhi. India
-As of 14 Aug 2015, the number of confirmed cases so far in 2015 is 277; 158
-cases were reported from the national capital [Delhi] over the last week. Two
-people have died. The number of cases reported so far in 2015 is the highest in
-the last 5 years.
+17 Sep 2015 Delhi. India
+As of 17 September 2015 there have been 11 deaths in Delhi from dengue. To date
+18,000 cases have been reported from the country in 2015. This is the highest
+number of cases in five years.
 Human
 Vector-born
-New Post
-Pro_Med_-_Read_more
+Update 1
+Relief_Web_-_Read_more
 
 Leptospirosis_in_India
 
