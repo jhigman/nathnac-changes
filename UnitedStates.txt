@@ -295,6 +295,17 @@ All_News
 outbreaks
 
 
+Cyclosporiasis_in_USA
+
+18 Sep 2015 Texas. United States
+As of 14 September 2015, 51 additional cases of Cyclospora cayetanensis
+infection were confirmed, bringing the count to 546 cases in 31 states.
+Human
+Food and Water-borne
+Update 8
+Verified
+Centers_for_Disease_Control_and_Prevention_-_Read_more
+
 Salmonellosis_in_USA
 
 17 Sep 2015 United States
@@ -354,18 +365,6 @@ swine in the week prior to illness onset.
 Human
 Air-borne
 Update 1
-Verified
-Centers_for_Disease_Control_and_Prevention_-_Read_more
-
-Cyclosporiasis_in_USA
-
-27 Aug 2015 Texas. United States
-More cases of Cyclospora infection have been reported, bringing the case count
-to 495 cases in 30 states, as of 25 Aug 2015. 30 states have been affected by
-the outbreak.
-Human
-Food and Water-borne
-Update 7
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
 

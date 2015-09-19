@@ -500,6 +500,18 @@ All_News
 outbreaks
 
 
+Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
+
+18 Sep 2015 Saudi Arabia
+As of 17 September 2015 there have been 1,742 confirmed cases and 528 deaths
+from Middle Eastern Respiratory Syndrome.This includes 2 new cases and 4 new
+deaths in the past 24 hours.
+Human
+Air-borne
+Update 6
+Verified
+State_-_Read_more
+
 Middle_East_respiratory_syndrome_coronavirus_in_Jordan_ex_Saudi_Arabia
 
 11 Sep 2015 View Countries  +  Jordan
@@ -513,19 +525,6 @@ Air-borne
 Imported
 Update 5
 Media_-_Read_more
-
-Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
-
-04 Sep 2015 Saudi Arabia
-As of 3 Sep 2015, there have been a total of 1,199 laboratory confirmed cases
-of MERS-CoV including 512 deaths. The most recent increase in the number of
-MERS-CoV cases in Saudi Arabia is mainly explained by a large, ongoing,
-nosocomial outbreak in Riyadh linked to one healthcare facility.
-Human
-Air-borne
-Update 5
-Verified
-State_-_Read_more
 
 Middle_East_respiratory_syndrome_coronavirus_in_Philippines_ex_Saudi_Arabia
 
