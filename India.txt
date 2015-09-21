@@ -622,13 +622,14 @@ All_News
 
 outbreaks
 
+_India,-Goa--9334840_940_352l_
 
 Dengue_in_India
 
 17 Sep 2015 Delhi. India
 As of 17 September 2015 there have been 11 deaths in Delhi from dengue. To date
-18,000 cases have been reported from the country in 2015. This is the highest
-number of cases in five years.
+18,000 cases have been reported from the country in 2015.
+This is the highest number of cases in five years.
 Human
 Vector-born
 Update 1
