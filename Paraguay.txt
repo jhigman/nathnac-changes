@@ -269,7 +269,7 @@ Yellow fever vaccine recommendations in the Americas
 
 Maps_provided_by_the_Travelers’_Health_Branch,_Centers_for_Disease_Control_and
 Prevention
-_map_3-16_
+_YF-map-Americas_
 Current as of September 2014. This map, which aligns with recommendations also
 published by the World Health Organization (WHO), is an updated version of the
 2010 map created by the Informal WHO Working Group on the Geographic Risk of
