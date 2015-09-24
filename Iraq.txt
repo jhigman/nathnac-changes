@@ -465,18 +465,15 @@ outbreaks
 
 Cholera_in_Iraq
 
-21 Sep 2015 View Regions  +  Baghdad
-Diwaniya
-Najaf
-Iraq
-As of 20 September 2015, an outbreak of cholera, vibrio cholerae subtype 01
-Inaba has been confirmed. Out of a total of 106 stool samples 38 tested
-positive.
+23 Sep 2015 Iraq
+As of 20 September 2015, the number of cholera cases is reported to have
+increased to 164 cases including 58 confirmed cases and four deaths. Previous
+reports indicated cases in the governorates of Najaf, Diwaniya, and parts of
+west Baghdad.
 Human
 Food and Water-borne
-New Post
-Verified
-WHO_Regional_-_Read_more
+Update 1
+Pro_Med_-_Read_more
 More
 
 * RSS

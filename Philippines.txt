@@ -542,13 +542,14 @@ outbreaks
 
 Hand,_foot_and_mouth_disease_in_Philippines
 
-29 Jul 2015 Philippines
-Between 1 January - 4 July 2015 612 cases of hand foot and mouth disease have
-been reported. This reflects a 175.7 percent increase from the same period in
-2014.
+23 Sep 2015 Philippines
+According to the Department of Health Philippines, a total of 1,561 HFMD cases
+were reported from 1 January to 5 September 2015, up 336 percent from 358 cases
+in 2014. This reflects more than 3-fold increase in the first 8 months of 2015
+compared to the same period last year [2014].
 Human
 Miscellaneous
-New Post
+Update 1
 Pro_Med_-_Read_more
 
 Food_Poisoning_in_the_Philippines
