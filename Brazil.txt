@@ -541,6 +541,19 @@ All_News
 outbreaks
 
 
+Dengue_in_Brazil
+
+29 Sep 2015 View Regions  +  Acre
+Gioas
+Sao Paulo
+Brazil
+From January to 8 September 2015 9977 cases were reported in Santa Catarina
+state, compared with 1,372 in the whole of 2014.
+Human
+Vector-born
+Update 2
+ProMED_-_Read_more
+
 Leishmaniasis_–_visceral_(Kala_Azar)_in_Brazil
 
 24 Aug 2015 Para. Brazil
@@ -665,21 +678,6 @@ New Post
 Verified
 State_-_Read_more
 
-Dengue_in_Brazil
-
-06 May 2015 View Regions  +  Acre
-Gioas
-Sao Paulo
-Brazil
-Dengue outbreak is ongoing in Brazil. A total of 745,957 cases have been
-reported by 18 Apr 2015. The number of cases increased by 235 per cent all over
-the country compared to 2014.
-Human
-Vector-born
-Update 1
-Verified
-ReliefWeb_-_Read_more
-
 Leptospirosis_in_Brazil
 
 20 Apr 2015 Acre. Brazil
@@ -695,8 +693,8 @@ Dengue_in_Brazil
 
 07 Apr 2015 Brazil
 Brazil has reported nearly a five-fold increase in the number of dengue cases
-in Feb 2015 compared to thesame time period last year. More than 224;000cases
-have been reported during the first nine weeks of2015.
+in Feb 2015 compared to the same time period last year. More than 224, 000
+cases have been reported during the first nine weeks of 2015.
 Human
 Vector-born
 New Post

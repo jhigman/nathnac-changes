@@ -231,7 +231,7 @@ under the top layer of skin).
 Following administration, no further vaccines should be administered in the
 same limb for 3 months.
 The BCG vaccine is given once only, booster doses are not recommended.
-TB_in_brief
+Tuberculosis_in_brief
 Typhoid
 Typhoid is a bacterial infection transmitted through contaminated food and
 water.  Previous typhoid illness may only partially protect against re-

@@ -294,7 +294,7 @@ same limb for 3 months.
 The BCG vaccine is given once only, booster doses are not recommended.
 Following administration, no further vaccines should be administered in the
 same limb for 3 months.
-TB_in_brief
+Tuberculosis_in_brief
 
 * Home
 * Country_Information

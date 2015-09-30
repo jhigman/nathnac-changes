@@ -290,7 +290,7 @@ under the top layer of skin).
 Following administration, no further vaccines should be administered in the
 same limb for 3 months.
 The BCG vaccine is given once only, booster doses are not recommended.
-TB_in_brief
+Tuberculosis_in_brief
 Yellow Fever
 Yellow fever is a viral infection transmitted by mosquitoes which predominantly
 feed between dawn and dusk, but may also bite at night, especially in the

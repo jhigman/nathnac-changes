@@ -222,11 +222,11 @@ put them at increased risk including:
 * laboratory workers who may be exposed to TBE
 
 TBE_in_brief
-Tuberculosis
+Tuberculosis (TB)
 TB is abacterial infection transmitted most commonly by inhaling respiratory
 droplets from an infectious person. This is usually following prolonged or
 frequent close contact.
-TB in Lithuania
+Tuberculosis in Latvia
 The average annual incidence of TB from 2010 to 2012 was greater than or equal
 to 40 cases per 100,000 population.
 Prevention
@@ -256,7 +256,7 @@ under the top layer of skin).
 Following administration, no further vaccines should be administered in the
 same limb for 3 months.
 The BCG vaccine is given once only, booster doses are not recommended.
-TB_in_brief
+Tuberculosis_in_brief
 
 
 * Home

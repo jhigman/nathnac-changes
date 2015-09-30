@@ -600,15 +600,6 @@ Updated_polio_vaccine_recommendations
 WHO Polio vaccine recommendations for travellers from England, Wales and
 Northern Ireland
 read_more
-_flight-path_
-17 Aug 2015
-
-Vulnerable_to_the_international_spread_of_polio:_Cameroon,_Ethiopia,_Equatorial
-Guinea,_Iraq,_Israel_and_Syria
-
-Recommendations for UK travellers to countries which remain vulnerable to the
-international spread of wild polio virus: Cameroon, Ethiopia, Equatorial read
-more
 All_News
 
 * RSS

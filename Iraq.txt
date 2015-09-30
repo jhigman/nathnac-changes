@@ -286,7 +286,7 @@ same limb for 3 months.
 The BCG vaccine is given once only, booster doses are not recommended.
 Following administration, no further vaccines should be administered in the
 same limb for 3 months.
-TB_in_brief
+Tuberculosis_in_brief
 
 * Home
 * Country_Information
@@ -440,15 +440,6 @@ Updated_polio_vaccine_recommendations
 WHO Polio vaccine recommendations for travellers from England, Wales and
 Northern Ireland
 read_more
-_flight-path_
-17 Aug 2015
-
-Vulnerable_to_the_international_spread_of_polio:_Cameroon,_Ethiopia,_Equatorial
-Guinea,_Iraq,_Israel_and_Syria
-
-Recommendations for UK travellers to countries which remain vulnerable to the
-international spread of wild polio virus: Cameroon, Ethiopia, Equatorial read
-more
 All_News
 
 * RSS
@@ -465,15 +456,16 @@ outbreaks
 
 Cholera_in_Iraq
 
-23 Sep 2015 Iraq
-As of 20 September 2015, the number of cholera cases is reported to have
-increased to 164 cases including 58 confirmed cases and four deaths. Previous
-reports indicated cases in the governorates of Najaf, Diwaniya, and parts of
-west Baghdad.
+29 Sep 2015 Iraq
+As of 23 September 2015 the previous report of an outbreak of cholera has been
+confirmed by the WHO. Laboratory-confirmed cases have been reported from at-
+least five governorates of the country- Baghdad, Babylon, Najaf, Qadisiyyah,
+and Muthanna.
 Human
 Food and Water-borne
-Update 1
-Pro_Med_-_Read_more
+Update 2
+Verified
+WHO_-_Read_more
 More
 
 * RSS
