@@ -145,11 +145,11 @@ them at increased risk including:
 
 * those at risk due to their work (e.g. laboratory staff working with the
   virus, those working with animals or health workers who may be caring for
-  infected patients)
+  infected patients).
 * those travelling to areas where access to post-exposure treatment and medical
-  care is limited
-* those planning higher risk activities such as running or cycling
-* long-stay travellers (more than one month)
+  care is limited.
+* those planning higher risk activities such as running or cycling.
+* long-stay travellers (more than one month).
 
 Rabies_in_brief
 Typhoid

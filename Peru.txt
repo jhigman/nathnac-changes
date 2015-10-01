@@ -131,12 +131,12 @@ Prevention
 
 Travellers should avoid contact with blood or body fluids. This includes:
 
-* avoiding unprotected sexual intercourse
+* avoiding unprotected sexual intercourse.
 * avoiding tattooing, piercing, public shaving, and acupuncture (unless sterile
-  equipment is used)
-* not sharing needles or other injection equipment
+  equipment is used).
+* not sharing needles or other injection equipment.
 * following universal precautions if working in a medical/dental/high risk
-  setting
+  setting.
 
 A sterile medical equipment kit may be helpful when travelling to resource poor
 areas.
@@ -146,17 +146,17 @@ Hepatitis B vaccination
 Vaccination could be considered for all travellers, and is recommended for
 those whose activities or medical history put them at increased risk including:
 
-* those who may have unprotected sex
-* those who may be exposed to contaminated needles through injecting drug use
+* those who may have unprotected sex.
+* those who may be exposed to contaminated needles through injecting drug use.
 * those who may be exposed to blood or body fluids through their work (e.g.
-  health workers)
+  health workers).
 * those who may be exposed to contaminated needles as a result of having
   medical or dental care e.g. those with pre-existing medical conditions and
   those travelling for medical care abroad including those intending to receive
-  renal dialysis overseas
+  renal dialysis overseas.
 * long-stay travellers
-* those who are participating in contact sports
-* families adopting children from this country
+* those who are participating in contact sports.
+* families adopting children from this country.
 
 Hepatitis_B_in_brief
 Rabies
@@ -195,11 +195,11 @@ them at increased risk including:
 
 * those at risk due to their work (e.g. laboratory staff working with the
   virus, those working with animals or health workers who may be caring for
-  infected patients)
+  infected patients).
 * those travelling to areas where access to post-exposure treatment and medical
-  care is limited
-* those planning higher risk activities such as running or cycling
-* long-stay travellers (more than one month)
+  care is limited.
+* those planning higher risk activities such as running or cycling.
+* long-stay travellers (more than one month).
 
 Rabies_in_brief
 Tuberculosis (TB)
