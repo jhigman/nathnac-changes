@@ -295,6 +295,17 @@ All_News
 outbreaks
 
 
+Salmonellosis_in_USA
+
+01 Oct 2015 United States
+Between 22 – 29 September 2015, 113 more cases were confirmed, connected to
+consumption of infected cucumbers. A total of 34 states have reported cases.
+Human
+Food and Water-borne
+Update 3
+Verified
+CDC_-_Read_more
+
 Legionnaires’_Disease_in_USA
 
 30 Sep 2015 New York. United States
@@ -320,19 +331,6 @@ Miscellaneous
 New Post
 Verified
 State_-_Read_more
-
-Salmonellosis_in_USA
-
-23 Sep 2015 United States
-As of 22 September 2015 there have been 558 cases of Salmonella Poona reported
-from 33 states, an increase of 140 cases since the last update on 15 September.
-It is thought that the outbreak is connected to the consumption of imported
-cucumbers.
-Human
-Food and Water-borne
-Update 2
-Verified
-Centers_for_Disease_Control_and_Prevention_-_Read_more
 
 Listeriosis_in_USA
 

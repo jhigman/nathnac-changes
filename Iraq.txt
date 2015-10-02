@@ -456,16 +456,14 @@ outbreaks
 
 Cholera_in_Iraq
 
-29 Sep 2015 Iraq
-As of 23 September 2015 the previous report of an outbreak of cholera has been
-confirmed by the WHO. Laboratory-confirmed cases have been reported from at-
-least five governorates of the country- Baghdad, Babylon, Najaf, Qadisiyyah,
-and Muthanna.
+01 Oct 2015 Iraq
+As of 30 September 2015, 118 new confirmed cases from Al-Diwaniyah, Al-
+Muthanna, Baghdad and Al-Najaf have been reported reaching a total of 533 since
+the beginning of this outbreak.
 Human
 Food and Water-borne
-Update 2
-Verified
-WHO_-_Read_more
+Update 3
+ProMED_-_Read_more
 More
 
 * RSS
