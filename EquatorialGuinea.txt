@@ -112,18 +112,6 @@ Polio vaccination
 * A booster dose of a polio-containing vaccine is recommended for those who
   have not received a dose within the previous 10 years.
 
-The following additional Public Health England and NaTHNaC advice should also
-be followed until further notice
-
-* Travellers to settings with extremely poor hygiene (e.g. refugee camps), or
-  likely to be in close proximity with cases (e.g. healthcare workers), and/or
-  visiting for six months or more, are advised to have a booster dose of polio-
-  containing vaccine if they had not received vaccination in the past 12
-  months.
-* Travellers are encouraged to carry documentary evidence of their polio
-  vaccination status (an International Certificate of Vaccination or
-  Prophylaxis is NOT required by this country).
-
 Polio_in_brief
 Tetanus
 Tetanus is caused by a toxin released from Clostridium tetani and occurs
@@ -548,6 +536,13 @@ Schistosomiasis_in_brief
 
 Important News
 
+_image_four_
+02 Oct 2015
+
+Polio_affected_countries:_update_to_country_status
+
+Latest on WHO temporary recommendations to prevent the international spread of
+wild poliovirus. read_more
 _polio-vaccine-pakistan_
 17 Aug 2015
 

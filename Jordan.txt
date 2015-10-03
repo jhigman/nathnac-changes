@@ -312,17 +312,17 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Jordan_ex_Saudi_Arabia
 
-25 Sep 2015 View Countries  +  Jordan
+02 Oct 2015 View Countries  +  Jordan
 Saudi Arabia
 
-As 18 Sept 2015, the National IHR Focal Point of Jordan notified WHO of five
-additional cases of MERS-CoV, including two deaths.
+As of 23 September 2015 the National IHR Focal Point of Jordan notified WHO of
+four additional cases of Mers-CoV, including one death.
 Human
 Air-borne
 Imported
-Update 6
+Update 7
 Verified
-State_-_Read_more
+WHO_-_Read_more
 
 Middle_East_respiratory_syndrome_coronavirus_in_Jordan
 
