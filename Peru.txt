@@ -330,7 +330,7 @@ risk for exposure to YF virus because of prolonged travel, heavy exposure to
 mosquitoes, or inability to avoid mosquito bites. Consideration for vaccination
 of any traveler must take into account the traveler’s risk of being infected
 with YF virus, country entry requirements, and individual risk factors for
-serious vaccine-associated adverse events (e.g., age, immune status).
+serious vaccine-associated adverse events (e.g. age, immune status).
 
 * Home
 * Country_Information
@@ -551,6 +551,17 @@ All_News
 outbreaks
 
 
+Yellow_fever_in_Peru
+
+05 Oct 2015 Peru
+As of 29 September 2015, 14 cases of sylvan YF have been reported in Cusco (1),
+Huanuco (1), Junin (3), Loreto (4), Madre de Dios (1), San Martin (4) in 2015.
+Human
+Vector-born
+Update 2
+Verified
+ProMED_-_Read_more
+
 Chikungunya_virus_infection_in_Peru
 
 20 Jul 2015 Peru
@@ -577,21 +588,6 @@ Close association
 New Post
 Verified
 ECDC_-_Read_more
-
-Yellow_fever_in_Peru
-
-26 Jun 2015 View Regions  +  Loreto
-Pasco
-Piura
-Puno
-San Martin
-Peru
-As of 16 May 2015 there have been a total of 13 cases and one death.
-Human
-Vector-born
-Update 1
-Verified
-Pro_Med_-_Read_more
 More
 
 * RSS

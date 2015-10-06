@@ -283,7 +283,7 @@ risk for exposure to YF virus because of prolonged travel, heavy exposure to
 mosquitoes, or inability to avoid mosquito bites. Consideration for vaccination
 of any traveler must take into account the traveler’s risk of being infected
 with YF virus, country entry requirements, and individual risk factors for
-serious vaccine-associated adverse events (e.g., age, immune status).
+serious vaccine-associated adverse events (e.g. age, immune status).
 
 * Home
 * Country_Information

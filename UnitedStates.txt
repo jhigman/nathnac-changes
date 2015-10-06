@@ -295,6 +295,31 @@ All_News
 outbreaks
 
 
+Blastomycosis_in_USA
+
+05 Oct 2015 Wisconsin. United States
+As of 29 September 2015, 40 confirmed and 37 probable cases of blastomycosis
+have been reported. It is thought that the outbreak is linked to an exposure at
+Little Wolf River (a popular recreational area) on or after Memorial Day
+weekend (23-25 May 2015). Symptoms can take 2-15 weeks to develop - it is not
+clear if there is an ongoing exposure.
+Human
+Air-borne
+New Post
+Verified
+State_-_Read_more
+
+Eastern_Equine_Encephalitis_in_USA
+
+05 Oct 2015 New York. United States
+On 2 October 2015, a fatal human case of EEE has been reported in Oswego
+county, the second reported in New York state so far in 2015.
+Human
+Vector-born
+New Post
+Verified
+State_-_Read_more
+
 Salmonellosis_in_USA
 
 01 Oct 2015 United States

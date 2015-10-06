@@ -203,7 +203,7 @@ risk for exposure to YF virus because of prolonged travel, heavy exposure to
 mosquitoes, or inability to avoid mosquito bites. Consideration for vaccination
 of any traveler must take into account the traveler’s risk of being infected
 with YF virus, country entry requirements, and individual risk factors for
-serious vaccine-associated adverse events (e.g., age, immune status).
+serious vaccine-associated adverse events (e.g. age, immune status).
 2. As of June 2015, YF vaccination is generally not recommended for travellers
 to Rwanda.  There is however a certificate requirement for all travellers over
 1 year of age.
@@ -565,7 +565,7 @@ _image_four_
 Polio_affected_countries:_update_to_country_status
 
 Latest on WHO temporary recommendations to prevent the international spread of
-wild poliovirus. read_more
+wild poliovirus read_more
 _polio-vaccine-pakistan_
 17 Aug 2015
 

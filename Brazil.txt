@@ -279,7 +279,7 @@ risk for exposure to YF virus because of prolonged travel, heavy exposure to
 mosquitoes, or inability to avoid mosquito bites. Consideration for vaccination
 of any traveler must take into account the traveler’s risk of being infected
 with YF virus, country entry requirements, and individual risk factors for
-serious vaccine-associated adverse events (e.g., age, immune status).
+serious vaccine-associated adverse events (e.g. age, immune status).
 
 * Home
 * Country_Information
@@ -540,6 +540,18 @@ All_News
 
 outbreaks
 
+
+Yellow_fever_in_Brazil
+
+05 Oct 2015 Federal District. Brazil
+A vaccination campaign has been launched to take place between 30 Sep and 7 Oct
+2015 in response to dead monkeys found in areas near houses and farms of the
+region. YF was confirmed in these monkey 3 weeks previously.
+Animal
+Vector-born
+New Post
+Verified
+ProMED_-_Read_more
 
 Dengue_in_Brazil
 
