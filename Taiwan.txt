@@ -378,8 +378,8 @@ outbreaks
 
 Dengue_in_Taiwan
 
-05 Oct 2015 View Regions  +  KaohsiungCounty
-TainanCounty
+05 Oct 2015 View Regions  +  Kaohsiung
+Tainan
 Taiwan
 As of 3 October 2015, 20,241 cases of dengue have been reported in Taiwan since
 May 2015, of which 17,278 have been reported in Tainan and 2,636 in Kaohsiung;
@@ -424,7 +424,7 @@ State_-_Read_more
 
 Scrub_typhus_(Tsutsugamushi_disease)_in_Taiwan
 
-27 Mar 2015 KaohsiungCounty. Taiwan
+27 Mar 2015 Kaohsiung. Taiwan
 There have been 31 cases of scrub typhus reported in Koahsiung; the number is
 expected to increase over the coming months and peak in July.
 Human
