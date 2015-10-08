@@ -463,13 +463,13 @@ outbreaks
 
 Cholera_in_Iraq
 
-01 Oct 2015 Iraq
-As of 30 September 2015, 118 new confirmed cases from Al-Diwaniyah, Al-
-Muthanna, Baghdad and Al-Najaf have been reported reaching a total of 533 since
-the beginning of this outbreak.
+07 Oct 2015 Iraq
+As of 6 October 2015 the Ministry of Health and Environment announced 60 new
+cases of cholera and that the cumulative total cases has reached more than
+1000.
 Human
 Food and Water-borne
-Update 3
+Update 4
 ProMED_-_Read_more
 More
 

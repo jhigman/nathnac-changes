@@ -9,7 +9,7 @@ General information
 
 The information on these pages should be used to research health risks and to
 inform the pre-travel consultation. For advice regarding safety and security
-please check the_UK_Foreign_and_Commonwealth_Office_(FCO)_website.
+please check the UK Foreign and Commonwealth Office (FCO) website.
 Travellers should ideally arrange an appointment with their health professional
 at least four to six weeks before travel. However, even if time is short, an
 appointment is still worthwhile. This appointment provides an opportunity to
@@ -35,20 +35,6 @@ Resources
 * Sun_protection
 
 
-Disclaimer
-
-The travel health information contained in these pages is intended for health
-professionals who assess a patients travel health needs. This document is not a
-complete medical guide for travellers and as such travellers using this site
-should consult with a health professional for specific information related to
-your travel and medical history. While every care has been taken to ensure the
-accuracy and timeliness of the travel health information, NaTHNaC cannot accept
-any liability for injury, loss or damage arising in any respect of any
-statement contained therein. For the purpose of these web pages the term
-“country” covers countries, territories and areas. Areas within a country may
-be shown separately where it is felt necessary in order to provide travel
-health information.
-
 * Home
 * Country_Information
 * Kuwait
@@ -61,12 +47,12 @@ Details of vaccination recommendations and requirements are provided below.
 All Travellers
 
 Travellers should be up to date with routine vaccination courses and boosters
-as recommended_in_the_UK.  These vaccinations include for example measles-
-mumps-rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
+as recommended_in_the_UK. These vaccinations include for example measles-mumps-
+rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
 Those who may be at increased risk of an infectious disease due to their work,
 lifestyle choice, or certain underlying health problems should be up to date
 with additional recommended vaccines. See the individual chapters of the ‘Green
-Book’  Immunisation_against_infectious_disease for further details.
+Book’ Immunisation_against_infectious_disease for further details.
 
 Certificate Requirements
 
@@ -101,9 +87,9 @@ Tetanus_in_brief
 
 Some Travellers
 
-The vaccines in this section are recommended for most travellers visiting this
-country.  Information on these vaccines can be found by clicking on the blue
-arrow.  Vaccines are listed alphabetically.
+The vaccines in this section are recommended for some travellers visiting this
+country. Information on when these vaccines should be considered can be found
+by clicking on the arrow. Vaccines are listed alphabetically.
 Hepatitis A
 Hepatitis A is a viral infection transmitted through contaminated food and
 water or by direct contact with an infectious person. Symptoms are often mild
