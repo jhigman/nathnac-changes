@@ -60,7 +60,7 @@ Please read the information below carefully, as certificate requirements may
 be relevant to certain travellers only.  For travellers further details, if
 required, should be sought from their healthcare professional.
 
-* There is a low potential for exposure to yellow fever in this country (see
+* There is a low potential for exposure to yellow fever throughout Rwanda (see
   ‘Some Travellers’ section below).
 * Under International Health Regulations (2005), a certificate of yellow fever
   vaccination is required from all travellers over 1 year of age.
@@ -311,13 +311,13 @@ Travellers should avoid mosquito bites at all times.
  Yellow fever vaccination
 
 
-* Vaccination is generally not recommended, but could be considered for a small
+* Vaccination is generally notrecommended, but could be considered for a small
   subset of travellers (aged 9 months and older) to such areas who are at
   increased risk for exposure because of:
   – Prolonged travel
   – Heavy exposure to mosquito bites
   – Inability to avoid insect bites
-* View_WHO_vaccine_recommendation_map 
+* See vaccine recommendation map below.
 
 The yellow fever vaccine is not suitable for all travellers, there are specific
 undesirable effects associated with it. This vaccine is only available at
@@ -325,6 +325,24 @@ registered_yellow_fever_vaccination_centres. Health professionals should
 carefully assess the risks and benefits of the vaccine, and seek specialist
 advice if necessary.
 Yellow_fever_in_brief
+
+Yellow fever vaccine recommendations in Africa
+
+Map_provided_by_the_Travelers’_Health_Branch,_Centers_for_Disease_Control_and
+Prevention
+_YF-map-Africa_
+Current as of October 2015. This map, which aligns with recommendations also
+published by the World Health Organization (WHO), is an updated version of the
+2010 map created by the Informal WHO Working Group on the Geographic Risk of
+Yellow Fever.
+1. Yellow fever (YF) vaccination is generally not recommended in areas where
+there is low potential for YF virus exposure. However, vaccination might be
+considered for a small subset of travelers to these areas who are at increased
+risk for exposure to YF virus because of prolonged travel, heavy exposure to
+mosquitoes, or inability to avoid mosquito bites. Consideration for vaccination
+of any traveler must take into account the traveler’s risk of being infected
+with YF virus, country entry requirements, and individual risk factors for
+serious vaccine-associated adverse events (e.g. age, immune status).
 
 * Home
 * Country_Information
