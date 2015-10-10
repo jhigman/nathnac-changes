@@ -463,14 +463,13 @@ outbreaks
 
 Cholera_in_Iraq
 
-07 Oct 2015 Iraq
-As of 6 October 2015 the Ministry of Health and Environment announced 60 new
-cases of cholera and that the cumulative total cases has reached more than
-1000.
+09 Oct 2015 Iraq
+As of 8 October 2015 the Directorate of Public Health announced the cumulative
+number of cases is 1263, including 2 deaths.
 Human
 Food and Water-borne
-Update 4
-ProMED_-_Read_more
+Update 5
+ProMed_-_Read_more
 More
 
 * RSS
