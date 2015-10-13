@@ -469,7 +469,7 @@ number of cases is 1263, including 2 deaths.
 Human
 Food and Water-borne
 Update 5
-ProMed_-_Read_more
+ProMED_-_Read_more
 More
 
 * RSS

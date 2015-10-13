@@ -282,13 +282,12 @@ outbreaks
 
 Cholera_in_Cuba
 
-10 Sep 2015 Cuba
-On 29 Aug 2015, national health authorities reported isolated cases of cholera
-have been confirmed in the province of Holguin in the past few weeks. Active
-control measures are being implemented.
+12 Oct 2015 Cuba
+On 9 October 2015 national health authorities reported that as of EW 29 a total
+of 23 cases due to Vibrio cholerae 01, serotype Ogawa have been confirmed.
 Human
 Food and Water-borne
-New Post
+Update 1
 Verified
 WHO_Other_-_Read_more
 More

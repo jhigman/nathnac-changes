@@ -424,15 +424,14 @@ outbreaks
 
 Cholera_in_Haiti
 
-07 Apr 2015 Haiti
-Between week 1 and week 11 in 2015; there were 10,328 cholera cases, including
-8,124 hospitalizations and 106 deaths. The number of cases and deaths in 2015
-areabove the number reported inthe same period of 2014.
+12 Oct 2015 Haiti
+On 9 October 2015 it was reported that from Jan up to week 37 of 2015 there
+were 22,511 cases of cholera, including 185 deaths.
 Human
 Food and Water-borne
-New Post
+Update 1
 Verified
-State_-_Read_more
+Who_Other_-_Read_more
 
 Cholera_in_Haiti
 
