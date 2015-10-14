@@ -544,7 +544,7 @@ All_News
 outbreaks
 
 
-Polio_in_Laos
+Circulating_vaccine-derived_poliovirus_(CVDPV)_in_Laos
 
 12 Oct 2015 Laos
 On 8 October 2015, the National IHR Focal Point of the Lao People’s Democratic
