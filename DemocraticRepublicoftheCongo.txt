@@ -567,9 +567,7 @@ outbreaks
 
 Cholera_in_Democratic_Republic_of_Congo
 
-09 Oct 2015 View Regions  +  Alunguli
-Ferekeni
-Kailo
+09 Oct 2015 View Regions  +  Ferekeni
 Kindu
 Lubutu
 Democratic Republic of the Congo
