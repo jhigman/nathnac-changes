@@ -310,6 +310,19 @@ All_News
 outbreaks
 
 
+Middle_East_respiratory_syndrome_coronavirus_in_Jordan
+
+16 Oct 2015 Jordan
+On 7 October 2015, the National IHR Focal Point of Jordan notified WHO of 1
+additional case of MERS-CoV. Globally, since September 2012, WHO has been
+notified of 1,595 laboratory-confirmed cases of infection with MERS-CoV,
+including at least 571 related deaths.
+Human
+Air-borne
+Update 2
+Verified
+WHO_-_Read_more
+
 Middle_East_respiratory_syndrome_coronavirus_in_Jordan_ex_Saudi_Arabia
 
 02 Oct 2015 View Countries  +  Jordan
@@ -323,19 +336,6 @@ Imported
 Update 7
 Verified
 WHO_-_Read_more
-
-Middle_East_respiratory_syndrome_coronavirus_in_Jordan
-
-06 Jan 2015 Jordan
-As of 5 Jan 2014; WHO have reported that the 70-year-old; non-national male
-from Saudi Arabia diagnosed with MERS CoV on 25 Dec 2014 in Jordan had consumed
-raw camel milk in Saudi Arabia. He has no other known risk factors. He is
-currently hospitalised in Saudi Arabia.
-Human
-Air-borne
-Update 1
-Verified
-WHO_Disease_Outbreak_News_-_Read_more
 More
 
 * RSS

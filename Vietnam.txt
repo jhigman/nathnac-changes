@@ -57,7 +57,12 @@ be provided. Country specific diphtheria recommendations are not provided here.
 Diphtheria tetanus and polio are combined in a single vaccine in the UK.
 Therefore, when a tetanus booster is recommended for travellers, diphtheria
 vaccine is also given. Should there be an outbreak of diphtheria in a country,
-diphtheria vaccination guidance will be provided.
+diphtheria vaccination guidance will be provided. Country specific diphtheria
+recommendations are not provided here. Diphtheria tetanus and polio are
+combined in a single vaccine in the UK. Therefore, when a tetanus booster is
+recommended for travellers, diphtheria vaccine is also given. Should there be
+an outbreak of diphtheria in a country, diphtheria vaccination guidance will be
+provided.
 Those who may be at increased risk of an infectious disease due to their work,
 lifestyle choice, or certain underlying health problems should be up to date
 with additional recommended vaccines. See the individual chapters of the ‘Green
@@ -524,14 +529,13 @@ outbreaks
 
 Dengue_in_Vietnam
 
-25 Sep 2015 Vietnam
-As of 13 Sept 2015, a total of 36,097 cases of dengue, including 23 deaths were
-reported in Viet Nam for 2015. This is 85.1% higher compared to the same
-reporting period in 2014.
+16 Oct 2015 Vietnam
+As of 15 October 2015 there were 775 cases and five deaths during the previous
+week. As of October 8, Ho Chi Minh City had more than 11,400 cases of dengue
+fever, an increase of 85 per cent compared to the same period in 2014.
 Human
 Vector-born
-New Post
-Verified
+Update 1
 ReliefWeb_-_Read_more
 
 Dengue_in_Vietnam

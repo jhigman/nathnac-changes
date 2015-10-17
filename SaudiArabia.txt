@@ -509,12 +509,15 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
 
-02 Oct 2015 Saudi Arabia
-As of 26 September 2015 the National IHR Focal Point for the Kingdom of Saudi
-Arabia notified WHO of six additional cases of MERS-CoV, including 1 death.
+16 Oct 2015 Saudi Arabia
+Between 27 September and 1 October 2015, the National IHR Focal Point for the
+Kingdom of Saudi Arabia notified WHO of 1 additional case of MERS-CoV.
+Globally, since September 2012, WHO has been notified of 1,595 laboratory-
+confirmed cases of infection with MERS-CoV, including at least 571 related
+deaths.
 Human
 Air-borne
-Update 8
+Update 9
 Verified
 WHO_-_Read_more
 
