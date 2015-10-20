@@ -378,15 +378,17 @@ outbreaks
 
 Dengue_in_Taiwan
 
-05 Oct 2015 View Regions  +  Kaohsiung
-Tainan
-Taiwan
-As of 3 October 2015, 20,241 cases of dengue have been reported in Taiwan since
-May 2015, of which 17,278 have been reported in Tainan and 2,636 in Kaohsiung;
-53 patients are currently in intensive care and 5 deaths have been reported.
+19 Oct 2015 Taiwan
+As of 18 October 2015, 25,131 cases of dengue fever have been reported
+including 106 confirmed deaths; an additional 36 deaths await confirmation. The
+majority of cases have been reported in Tainan (20,281) where the outbreak is
+reported to be slowing down. However, the outbreak appears to be increasing in
+Kaohsiung where 4,419 have been reported.
+Other municipalities have recorded far fewer cases- Pingtung, New Taipei,
+Taipei, Taichung, Taoyuan and Chiayi County.
 Human
 Vector-born
-New Post
+Update 1
 Media_-_Read_more
 
 Brucellosis_in_Taiwan

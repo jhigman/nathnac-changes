@@ -553,13 +553,13 @@ outbreaks
 
 Ebola_virus_disease_in_Guinea
 
-02 Oct 2015 Guinea
-In the week to 27 September 2015 there were 4 new cases of EVD.  This brings
-the total number of confirmed, probable and suspected cases in Guinea to 3805,
-including 2533 deaths.
+19 Oct 2015 Guinea
+After two weeks of no new cases reported, as of 16 October 2015, two new cases
+have been reported (Conakry and Forecariah). One is linked to a previously
+known chain of infection and one is a completely new case.
 Human
-Update 13
-WHO_Regional_-_Read_more
+Update 14
+Media_-_Read_more
 
 Measles_in_Guinea
 

@@ -347,14 +347,16 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_South_Korea
 
-17 Jul 2015 Korea (South)
-As of 17 July 2015 there have been a total of 186 cases of Mers-CoV confirmed
-including 36 deaths.
+19 Oct 2015 Korea (South)
+A patient who was diagnosed with MERS-CoV in June 2015 and had recovered, has
+tested positive again for the virus after being hospitalised on 11 October with
+a high fever. The patient was Rep of Korea’s 80th confirmed MERS case, and the
+last to recover and be released from the hospital on 3 October after testing
+negative for MERS. The patient was also being treated for cancer.
 Human
 Air-borne
-Update 13
-Verified
-Pro_Med_-_Read_more
+Update 14
+ProMED_-_Read_more
 
 Tick_borne_disease_(viral)_in_South_Korea
 
