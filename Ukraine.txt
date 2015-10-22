@@ -103,9 +103,9 @@ Polio vaccination
   the UK schedule.
 * All travellers to Ukraine should make sure they have had a polio-containing
   vaccine in the past 10 years and that children have had an age appropriate
-  course of vaccine; if expecting to stay in Ukraine for more than 6 months
-  then those who are fully vaccinated should receive an additional dose of
-  polio vaccine if not received a dose in the previous 12 months.
+  course of vaccine. If expecting to stay in Ukraine for more than 6 months,
+  those who are fully vaccinated should receive an additional dose of polio
+  vaccine if they have not received a dose in the previous 12 months.
 
 Polio_in_brief
 Tetanus

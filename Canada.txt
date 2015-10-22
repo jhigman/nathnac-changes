@@ -225,6 +225,26 @@ All_News
 outbreaks
 
 
+Salmonellosis_in_Canada
+
+20 Oct 2015 View Regions  +  Alberta
+British Columbia
+Manitoba
+New Brunswick
+Nova Scotia
+Ontario
+Quebec
+Saskatchewan
+Canada
+As of 15 October 2015, the Public Health Agency of Canada has reported 34 cases
+of Salmonella Infantis in eight provinces. The source has not yet been
+identified, an investigation is ongoing.
+Human
+Food and Water-borne
+New Post
+Verified
+State_-_Read_more
+
 E.coli_in_Canada
 
 17 Sep 2015 Canada
@@ -267,7 +287,7 @@ Media_-_Read_more
 Vibrio_parahaemolyticus_in_Canada
 
 20 Aug 2015 View Regions  +  Alberta
-BritishColumbia
+British Columbia
 Canada
 As of 19 Aug 2015, a total of 72 Canadian cases of Vibrio parahaemolyticus
 infections linked to raw shellfish have now been reported. The majority of
@@ -303,7 +323,7 @@ Pro_Med_-_Read_more
 Salmonellosis_in_Canada
 
 06 Jul 2015 View Regions  +  Alberta
-BritishColumbia
+British Columbia
 Manitoba
 Northwest Territories
 Saskatchewan
@@ -331,7 +351,7 @@ ProMED_-_Read_more
 
 Influenza_A_(H5)_in_Canada
 
-05 May 2015 BritishColumbia. Canada
+05 May 2015 British Columbia. Canada
 As of 1 May 2015; a case of highly pathogenic avian influenza H5N8 HPAI has
 been confirmed in a wild bird collected in Feb 2015 as part of enhanced
 surveillance. This is the first H5N8 HPAI virus detection in Canada.
@@ -343,7 +363,7 @@ World_Organisation_for_animal_health_-_Read_more
 
 Influenza_A_(H5N2)_in_Canada
 
-23 Apr 2015 BritishColumbia. Canada
+23 Apr 2015 British Columbia. Canada
 As of 21 Apr 2015; highly pathogenic H5N2 avian influenza virus has been
 reported in province of British Columbia and unrelatedoutbreaks of HPAI A
 (H5N2) were recently detected in birdsin the province of Ontario. These are the
@@ -385,7 +405,7 @@ State_-_Read_more
 
 Measles_in_Canada
 
-09 Apr 2015 BritishColumbia. Canada
+09 Apr 2015 British Columbia. Canada
 Two measles cases have been reported; linked with a recent flight from China to
 Vancouver. The patients were either on the flight; or were in contact with
 someone on the plane.
@@ -397,7 +417,7 @@ State_-_Read_more
 
 Influenza_A_(H7N9)_in_Canada
 
-02 Feb 2015 BritishColumbia. Canada
+02 Feb 2015 British Columbia. Canada
 A second case has now tested positive for the H7N9 avian influenza virus on 29
 Jan 2015. The patient recently returned to Canada after travelling to China
 with the index case (female); who is his wife. Since both cases became

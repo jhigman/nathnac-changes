@@ -362,14 +362,13 @@ Risk Areas
 
 See separate recommendation for Indonesian_Borneo
 
-Antimalarial recommendations
+Recommended Antimalarials
 
 Antimalarial recommendations are different for different parts of Indonesia.
- Please check the recommendations above carefully. If these are not suitable
+Please check the recommendations above carefully. If these are not suitable
 please seek further specialist advice.
 Please note, the advice for children is different, the dose is based on body
 weight and some antimalarials are not suitable.
- 
 
 Lombok and Irian Jaya (Papua)
 
@@ -403,8 +402,8 @@ Mefloquine 250mg:
 * for children the dose is based on the body weight (see table)
 
 
-Indonesia except: Lombok, Irian Jaya (Papua), Bali, the cities on the islands
-of Java and Sumatra,  the city of Jakarta, and Indonesia Borneo
+Rest of Indonesia except: Bali, the cities on the islands of Java and Sumatra,
+ the city of Jakarta, and Indonesian Borneo
 
 Chloroquine and proguanil
 Chloroquine 310mg and proguanil 200mg

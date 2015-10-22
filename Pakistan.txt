@@ -152,17 +152,18 @@ The following additional advice should also be followed until further notice:
   visiting for 6 months or more, are advised to have a booster dose of polio-
   containing vaccine if they had not received vaccination in the past 12
   months.
-* Travellers who intend to visit these countries four weeks or more should be
-  aware that proof of vaccination, given four weeks to 12 months before
-  departure from the country an International_Certificate_of_Vaccination_or
-  Prophylaxis (ICVP), may be required on exit. Failure to produce this
-  documentation may result in vaccination at the point of departure, most
-  likely with oral polio vaccine.
+* Travellers who intend to visit Pakistan for 4 weeks or more should be aware
+  that proof of vaccination, given 4 weeks to 12 months before departure from
+  the country [an International_Certificate_of_Vaccination_or_Prophylaxis 
+  (ICVP)], may be required on exit. Failure to produce this documentation may
+  result in vaccination at the point of departure, most likely with oral polio
+  vaccine.
 * Immunosuppressed and their household contacts or pregnant individuals who
-  plan to travel to Pakistan for one month or more are advised to receive
+  plan to travel to Pakistan for 4 weeks or more are advised to receive
   inactivated polio vaccine (IPV) within 1 year before planned departure from
   Pakistan and to ensure this is recorded on an ICVP.
-* Further information relating to the advice and ICVP issues is availablehere.
+* Further information from_WHO_on_the_Public_Health_Emergency of_International
+  Concern.
 
 Polio_in_brief
 Tetanus

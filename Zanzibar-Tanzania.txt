@@ -560,16 +560,16 @@ outbreaks
 
 Cholera_in_Tanzania
 
-16 Oct 2015 Tanzania (Including Zanzibar)
-As of 16 October 2015 there have been 4,220 cases of cholera, including 67
-deaths and 11 new regions affected since the outbreak started on 15 August
-2015. Regions affected include Dodoma, Geita, Iringa, Kigoma, Kilimanjaro,
-Mara, Morogoro, Mwanza, Pwani, Shinyanga and Singida.
+21 Oct 2015 Tanzania (Including Zanzibar)
+Tanzania has notified WHO of new foci of cholera outbreaks. 13 regions have
+been affected and the cumulative number of cases is 4324 cases, with 67 deaths.
+Regions affected include Dar es Salaam, Dodoma, Geita, Iringa, Kigoma,
+Kilimanjaro, Mara, Morogoro, Mwanza, Pwani, Singida, Shinyaga and Zanzibar.
 Human
 Food and Water-borne
-Update 2
+Update 3
 Verified
-European_Commission_-_Read_more
+WHO_-_Read_more
 
 Cholera_in_Tanzania
 

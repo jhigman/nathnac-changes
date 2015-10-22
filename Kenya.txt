@@ -620,17 +620,15 @@ outbreaks
 
 Cholera_in_Kenya
 
-28 Jul 2015 Kenya
-A total of 17 counties have been affected by cholera outbreaks since 26 Dec
-2014 with a total of 5,049 cases and 98 deaths. As of 21 Jul 2015, the outbreak
-is still ongoing in the counties: Nairobi; Migori; Mombasa; Nakuru; Muranga;
-Kirinyaga; Baringo; Narok; KilifiandKisumu. Kirinyaga and Baringo counties have
-reported a confirmed new wave of the outbreak.
+21 Oct 2015 Kenya
+As of 20 October 2015, a total of 21 counties have been affected by the cholera
+outbreak that has been ongoing since December 2014. Nearly 7000 cases and over
+100 deaths have now been reported.
 Human
 Food and Water-borne
-Update 5
+Update 6
 Verified
-Relief_Web_-_Read_more
+ReliefWeb_-_Read_more
 More
 
 * RSS

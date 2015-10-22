@@ -62,14 +62,12 @@ required, should be sought from their healthcare professional.
 There is no risk of yellow fever on these islands, however, there are
 certificate requirements as listed below:
 
-* Bonaire, Saba, Sint Eustatius: Under International Health Regulations (2005),
-  a certificate of yellow fever vaccination is required from travellers over 6
-  months of age arriving from countries with risk of yellow fever transmission.
-  This requirement applies only to travellers going to Bonaire, Saba or Sint
-  Eustatius.
-* Curacao and Sint Maarten : a yellow fever vaccination certificate is required
-  for travellers over 6 months of age arriving from countries with risk of
-  yellow fever transmission.
+* Bonaire, Saba, Sint Eustatius, Curacao and Sint Maarten: Under International
+  Health Regulations (2005), a certificate of yellow fever vaccination is
+  required from travellers over 6 months of age arriving from countries with
+  risk of yellow fever transmission.
+* Aruba:This island has not stated its yellow fever vaccination certificate
+  requirements.
 * For these islands, the yellow fever vaccination certificate is assumed to be
   valid for 10 years until further notice.
 

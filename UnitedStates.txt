@@ -295,6 +295,18 @@ All_News
 outbreaks
 
 
+Salmonellosis_in_USA
+
+20 Oct 2015 United States
+As of 14 October 2015, CDC has confirmed 35 further cases of Salmonella Poona
+linked to infected cucumbers. A total of 36 states have now reported cases. 767
+cases have been reported overall, with four deaths.
+Human
+Food and Water-borne
+Update 4
+Verified
+CDC_-_Read_more
+
 Rabies_in_USA
 
 08 Oct 2015 Wyoming. United States
@@ -331,17 +343,6 @@ Vector-born
 New Post
 Verified
 State_-_Read_more
-
-Salmonellosis_in_USA
-
-01 Oct 2015 United States
-Between 22 – 29 September 2015, 113 more cases were confirmed, connected to
-consumption of infected cucumbers. A total of 34 states have reported cases.
-Human
-Food and Water-borne
-Update 3
-Verified
-CDC_-_Read_more
 
 Legionnaires’_Disease_in_USA
 
