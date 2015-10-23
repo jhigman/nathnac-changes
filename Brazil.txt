@@ -541,6 +541,17 @@ All_News
 outbreaks
 
 
+Zika_virus_in_Brazil
+
+22 Oct 2015 Brazil
+As of 8 October 2015 locally acquired cases of Zika virus had been detected in
+14 states.
+Human
+Vector-born
+Update 4
+Verified
+WHO_-_Read_more
+
 Yellow_fever_in_Brazil
 
 05 Oct 2015 Federal District. Brazil
@@ -662,16 +673,6 @@ Vector-born
 Update 2
 Verified
 State_-_Read_more
-
-Zika_virus_in_Brazil
-
-03 Jun 2015 Brazil
-As of end May 2015 the first case of Zika virus has been reported in Rio de
-Janeiro state.
-Human
-Vector-born
-Update 3
-ProMED_-_Read_more
 
 Acute_fever_and_rash_syndrome_in_Brazil
 

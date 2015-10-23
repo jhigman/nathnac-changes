@@ -282,14 +282,13 @@ outbreaks
 
 Cholera_in_Cuba
 
-12 Oct 2015 Cuba
-On 9 October 2015 national health authorities reported that as of EW 29 a total
-of 23 cases due to Vibrio cholerae 01, serotype Ogawa have been confirmed.
+22 Oct 2015 Cuba
+As of 21 October 2015 it is reported that there are eight confirmed cases of
+cholera and two awaiting diagnosis in Las Tunas, Puerto Padre.
 Human
 Food and Water-borne
-Update 1
-Verified
-WHO_Other_-_Read_more
+Update 2
+ProMed_-_Read_more
 More
 
 * RSS
