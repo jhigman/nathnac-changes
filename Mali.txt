@@ -534,15 +534,15 @@ outbreaks
 
 Yellow_fever_in_Mali
 
-24 Sep 2015 Mali
-As of 21 Sept 2015, the Government of the Republic of Mali has now reported a
-total of 44 suspected cases, including three deaths. Suspected cases are
-reported from the regions of Kayes, Koutiala and Sikasso.
+23 Oct 2015 Mali
+Between 11 and 22 October 2015 the Government of the Republic of Mali has
+reported four cases of yellow fever in two regions Kayesand Sikasso. A total of
+eight cases have been reported in Mali during 2015.
 Human
 Vector-born
-Update 3
+Update 4
 Verified
-Ministry_of_Health_Mali_-_Read_more
+ReliefWeb_-_Read_more
 
 Poliomyelitis_in_Mali
 

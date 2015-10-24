@@ -553,13 +553,14 @@ outbreaks
 
 Ebola_virus_disease_in_Guinea
 
-19 Oct 2015 Guinea
-After two weeks of no new cases reported, as of 16 October 2015, two new cases
-have been reported (Conakry and Forecariah). One is linked to a previously
-known chain of infection and one is a completely new case.
+23 Oct 2015 Guinea
+Three new confirmed cases were reported in the week to 18 October 2015, one in
+Conakry and two in Forecariah. The country had reported zero cases for the
+previous two weeks.
 Human
-Update 14
-Media_-_Read_more
+Update 15
+Verified
+WHO_-_Read_more
 
 Measles_in_Guinea
 

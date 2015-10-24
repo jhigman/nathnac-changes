@@ -463,17 +463,13 @@ outbreaks
 
 Cholera_in_Iraq
 
-13 Oct 2015 Iraq
-The WHO confirmed that as of 8 October 2015, 1,263 laboratory-confirmed cases
-of Vibrio cholerae 01 Inaba have been reported from at least 15 governorates of
-the country: Babylon, Baghdad, Qadisiyyah, Muthanna, Basra, Wassit, Karbala,
-Najaf, Thi-qar, Maysan, Diyala, Duhok, Erbil, Kirkuk, Salah al-din and
-Suleimaniyah.
+23 Oct 2015 Iraq
+As of 22 October 2015 the Ministry of Health announced that there have been
+more than 1,800 cases including six deaths in Baghdad and other governorates.
 Human
 Food and Water-borne
-Update 6
-Verified
-WHO_-_Read_more
+Update 7
+ReliefWeb_-_Read_more
 More
 
 * RSS
