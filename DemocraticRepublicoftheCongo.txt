@@ -567,16 +567,17 @@ outbreaks
 
 Cholera_in_Democratic_Republic_of_Congo
 
-09 Oct 2015 View Regions  +  Ferekeni
+26 Oct 2015 View Regions  +  Ferekeni
 Kindu
 Lubutu
 Democratic Republic of the Congo
-As of 23 September 2015 the Ministry of Health has reported  2420 cases and 67
-deaths.
+As of 22 October 2015, WHO have now reported 3973 cases of cholera, with 95
+deaths, since mid September 2015.
 Human
 Food and Water-borne
-New Post
-ProMED_-_Read_more
+Update 1
+Verified
+WHO_-_Read_more
 
 Cholera_in_DR_Congo
 

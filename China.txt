@@ -773,18 +773,6 @@ Human
 Update 4
 Verified
 WHO_Disease_Outbreak_News_-_Read_more
-
-Influenza_A_(H5)_in_China
-
-27 Oct 2014 Hunan. China
-As of 24 Oct 2014; a new strain of highly pathogenic avian influenza virus
-(H5N3) has been reported in Hunan province. On 12 Sep 2014; one duck sample was
-collected according to national surveillance plan and tested positive.
-Animal
-Air-borne
-New Post
-Verified
-World_Organisation_for_animal_health_-_Read_more
 More
 
 * RSS
