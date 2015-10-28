@@ -393,7 +393,6 @@ New York
 Ohio
 Tennessee
 Washington
-United States
 As of 18 September 2015, 24 cases of Listeria including one death, have been
 reported from nine states since the outbreak was first reported on 8 August
 2010.  It is thought that the outbreak is connected to a brand of soft cheese
@@ -625,7 +624,6 @@ Salmonellosis_in_USA
 
 14 Jul 2015 View Regions  +  Minnesota
 Wisconsin
-United States
 As of 13 July 2015, CDC and US Dept of Agriculture are investigating two
 outbreaks of Salmonella Enteritidis infections linked to frozen commercial
 chicken products. In the first outbreak, six people infected with a strain of

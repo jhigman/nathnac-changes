@@ -569,7 +569,6 @@ Dengue_in_Brazil
 29 Sep 2015 View Regions  +  Acre
 Gioas
 Sao Paulo
-Brazil
 From January to 8 September 2015 9977 cases were reported in Santa Catarina
 state, compared with 1,372 in the whole of 2014.
 Human
@@ -680,7 +679,6 @@ Acute_fever_and_rash_syndrome_in_Brazil
 Maranhoa
 Parayba
 Pernambuco
-Brazil
 States of Bahia; Maranhao; Pernambuco; Rio Grande do Norte; Sergipe and Paraiba
 have reported cases of acute fever and rash syndrome. As of 29 Apr 2015, a
 total of 6,807 cases have been reported. Samples have been tested for various

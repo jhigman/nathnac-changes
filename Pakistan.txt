@@ -48,12 +48,12 @@ All Travellers
 
 Travellers should be up to date with routine vaccination courses and boosters
 as recommended_in_the_UK. These vaccinations include for example measles-mumps-
-rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine. Country specific
-diphtheria recommendations are not provided here. Diphtheria tetanus and polio
-are combined in a single vaccine in the UK. Therefore, when a tetanus booster
-is recommended for travellers, diphtheria vaccine is also given. Should there
-be an outbreak of diphtheria in a country, diphtheria vaccination guidance will
-be provided.
+rubella (MMR) vaccine and diphtheria-tetanus-polio vaccine.
+Country specific diphtheria recommendations are not provided here. Diphtheria
+tetanus and polio are combined in a single vaccine in the UK. Therefore, when a
+tetanus booster is recommended for travellers, diphtheria vaccine is also
+given. Should there be an outbreak of diphtheria in a country, diphtheria
+vaccination guidance will be provided.
 Those who may be at increased risk of an infectious disease due to their work,
 lifestyle choice, or certain underlying health problems should be up to date
 with additional recommended vaccines. See the individual chapters of the ‘Green
@@ -79,7 +79,9 @@ Yellow Fever
   be valid for 10 years.
 * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission
 
+
 Polio
+
 Travellers who intend to visit Pakistan for four weeks or more should be aware
 that proof of vaccination, given four weeks to 12 months before departure from
 the country [an International_Certificate_of_Vaccination_or_Prophylaxis 
@@ -280,7 +282,6 @@ areas with rice fields and marshland.
 Travellers on shorter trips (typically less than a month) and those who
 restrict their visits to urban areas are usually considered to be at very low
 risk.
- 
 
 Japanese encephalitis in Pakistan
 
@@ -592,7 +593,6 @@ Food_poisoning_in_Pakistan
 
 15 Apr 2015 View Regions  +  Balochistan
 Islamabad
-Pakistan
 Between Jan and Mar 2015, eight brands of mineral and bottled water - currently
 available on the open market are reported to be unsafe for human consumption
 due to chemical and microbiological contamination. These bottled brands

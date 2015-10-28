@@ -620,7 +620,6 @@ Melioidosis_in_Malaysia
 
 09 Mar 2015 View Regions  +  Johor
 Kelantan
-Malaysia
 Pahang has reported 21 cases during the first two months of this year; compared
 with 16 cases throughout last year (2014).
 Human
@@ -634,7 +633,6 @@ Leptospirosis_in_Malaysia
 Pahang
 Perak
 Terengganu
-Malaysia
 As of 18 Jan 2015, a total of 647 cases of suspected leptospirosis were
 reported in the states affected by floods; namely Kelantan (458 cases), Perak
 (113 cases ), Terengganu (39 cases) and Pahang (37 cases). Only 110 cases were

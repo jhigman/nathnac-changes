@@ -235,7 +235,6 @@ Nova Scotia
 Ontario
 Quebec
 Saskatchewan
-Canada
 As of 15 October 2015, the Public Health Agency of Canada has reported 34 cases
 of Salmonella Infantis in eight provinces. The source has not yet been
 identified, an investigation is ongoing.
@@ -288,7 +287,6 @@ Vibrio_parahaemolyticus_in_Canada
 
 20 Aug 2015 View Regions  +  Alberta
 British Columbia
-Canada
 As of 19 Aug 2015, a total of 72 Canadian cases of Vibrio parahaemolyticus
 infections linked to raw shellfish have now been reported. The majority of
 cases have been linked to eating raw oysters.
@@ -327,7 +325,6 @@ British Columbia
 Manitoba
 Northwest Territories
 Saskatchewan
-Canada
 As of 3 Jul 2015, 60 cases of Salmonella illness have been reported in four
 provinces and one territory: Alberta (34); British Columbia (19); Saskatchewan
 (five); Manitoba (one); and the Northwest Territories (one). Illness onset
@@ -379,7 +376,6 @@ E.coli_in_Canada
 
 16 Apr 2015 View Regions  +  Alberta
 Saskatchewan
-Canada
 The Public Health Agency of Canadahas reported twelve cases of E.coli
 infections; with a possible link to leafy greens. A specific product has not
 been identified yet; and the investigation is ongoing. Cases have been reported

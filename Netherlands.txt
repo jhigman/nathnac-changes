@@ -237,7 +237,6 @@ Influenza_A_(H5)_in_Netherlands
 Overijssel
 South Holland Zuid-Holland
 Utrecht
-Netherlands
 Another outbreak of avian influenza H5N8 has been reported in poultry farm as
 of 21 Nov 2014. The affected farm is located in Kamperveen, Overijssel.
 Animal

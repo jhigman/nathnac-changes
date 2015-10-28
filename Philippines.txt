@@ -547,7 +547,6 @@ Cagayan
 Isabela
 Nueva Vizcaya
 Quirino
-Philippines
 On 11 October 2015 it was reported there have been 8,084 cases of dengue from
 January to 3 October 2015, compared to 2,391 during the same period in 2014.
 Human
@@ -573,7 +572,6 @@ Food_Poisoning_in_the_Philippines
 15 Jul 2015 View Regions  +  AgusandelSur
 Surigao del Sur
 SurigaodelNorte
-Philippines
 The Department of Health of the Philippines has confirmed that 1,925 people
 have been reported as poisoned after they ate candy on 10 Jul 2015. Symptoms
 included dizziness and vomiting. Currently, 66 patients are in hospital for
