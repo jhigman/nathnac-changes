@@ -463,13 +463,14 @@ outbreaks
 
 Cholera_in_Iraq
 
-23 Oct 2015 Iraq
-As of 22 October 2015 the Ministry of Health announced that there have been
-more than 1,800 cases including six deaths in Baghdad and other governorates.
+28 Oct 2015 Iraq
+As of 27 October 2015, WHO reports that the current number of laboratory
+confirmed cholera cases is now 2,055.
 Human
 Food and Water-borne
-Update 7
-ReliefWeb_-_Read_more
+Update 8
+Verified
+WHO_-_Read_more
 More
 
 * RSS
