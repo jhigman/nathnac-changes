@@ -431,13 +431,13 @@ outbreaks
 
 Zika_virus_in_Colombia
 
-19 Oct 2015 Bolivar. Colombia
-On 16 October 2015, Zika virus was confirmed for the first time in Colombia. To
-date,  9 cases have been confirmed by the National Institute of Health from 98
-samples tested (13 in Cartagena and 85 in Turbaco).
+29 Oct 2015 Colombia
+As of 28 October 2015, cases are reported from at least nine municipalities in
+five departments. The majority of cases are reported from Bolivar department,
+where the first locally acquired case was confirmed on 16 October 2015.
 Human
 Vector-born
-New Post
+Update 1
 Verified
 State_-_Read_more
 
