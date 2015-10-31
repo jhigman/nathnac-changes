@@ -545,14 +545,6 @@ Polio_affected_countries:_update_to_country_status
 
 Latest on WHO temporary recommendations to prevent the international spread of
 wild poliovirus read_more
-_polio-vaccine-pakistan_
-17 Aug 2015
-
-Updated_polio_vaccine_recommendations
-
-WHO Polio vaccine recommendations for travellers from England, Wales and
-Northern Ireland
-read_more
 13 May 2015
 
 Polio:_exportations_from_Afghanistan

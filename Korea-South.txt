@@ -347,16 +347,17 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_South_Korea
 
-19 Oct 2015 Korea (South)
-A patient who was diagnosed with MERS-CoV in June 2015 and had recovered, has
-tested positive again for the virus after being hospitalised on 11 October with
-a high fever. The patient was Rep of Korea’s 80th confirmed MERS case, and the
-last to recover and be released from the hospital on 3 October after testing
-negative for MERS. The patient was also being treated for cancer.
+30 Oct 2015 Korea (South)
+On 12 October 2015, the National IHR Focal Point of the Republic of Korea
+provided follow-up information on a previously reported case of MERS-CoV
+infection. The patient who previously tested negative was readmitted to
+hospital unwell and has now tested positive. A total of 186 MERS-CoV cases,
+including 36 deaths, have been confirmed.
 Human
 Air-borne
-Update 14
-ProMED_-_Read_more
+Update 15
+Verified
+WHO_-_Read_more
 
 Tick_borne_disease_(viral)_in_South_Korea
 

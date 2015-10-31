@@ -553,12 +553,13 @@ outbreaks
 
 Ebola_virus_disease_in_Guinea
 
-23 Oct 2015 Guinea
-Three new confirmed cases were reported in the week to 18 October 2015, one in
-Conakry and two in Forecariah. The country had reported zero cases for the
-previous two weeks.
+30 Oct 2015 Guinea
+Three new confirmed cases of EVD were reported in the week to 25 October, from
+Guinea. All 3 new cases are from the same household in the subprefecture of
+Kaliah, Forecariah, and are registered high-risk contacts linked to a case from
+the same area last week.
 Human
-Update 15
+Update 16
 Verified
 WHO_-_Read_more
 
