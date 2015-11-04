@@ -472,14 +472,13 @@ outbreaks
 
 Cholera_in_Mozambique
 
-16 Apr 2015 Nampula. Mozambique
-As of 15 Apr 2015, more than 7,000 cases of cholera have been reported across
-Mozambique; with 51 deaths. Nampula is one of the most affected areas.
+03 Nov 2015 Mozambique
+Between September and 30 October 2015, a further 479 cases of cholera,
+including three deaths have been reported.
 Human
 Food and Water-borne
-Update 7
-Verified
-ReliefWeb_-_Read_more
+Update 8
+ProMed_-_Read_more
 
 Dengue_in_Mozambique
 

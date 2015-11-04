@@ -600,14 +600,15 @@ outbreaks
 
 Acute_Haemorrhagic_Fever_Syndrome_in_Sudan
 
-19 Oct 2015 Central Darfur. Sudan
-As of 16 October 2015, 39 cases of haemorrhagic fever have been reported by the
-Minister of Health, of which 30 have been reported in the last two weeks. 16
-cases have died. Samples have been sent for testing but so far the cause is
-unknown.
+03 Nov 2015 Sudan
+On 27 October 2015, the Ministry of Health and WHO reported an outbreak of
+viral haemorrhagic fever. From 29 August 2015 to 25 October 2015 a total of 182
+suspected cases, including 103 deaths, were reported in 12 localities in South,
+East, Central, WestandNorth Darfur.
 Human
-Update 1
-Media_-_Read_more
+Update 2
+Verified
+ReliefWeb_-_Read_more
 
 Undiagnosed_illness_in_Sudan
 

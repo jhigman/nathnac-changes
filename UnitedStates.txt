@@ -194,7 +194,9 @@ surrounding areas. All travellers to dengue areas are at risk.
 Dengue in USA
 
 There is a risk of dengue in the states of Florida (specifically Key West in
-Monroe County), and Texas (along the border with Mexico in Cameron County).
+Monroe County), and Texas (along the border with Mexico in Cameron
+County). Sporadic outbreaks of locally acquired dengue have occurred in the
+state of Hawaii.
 
 Prevention
 
@@ -294,6 +296,32 @@ All_News
 
 outbreaks
 
+
+Dengue_in_USA
+
+03 Nov 2015 Hawaii. United States
+As of 29 October 2015 the Hawaii Department of Health is investigating two
+confirmed and four probable cases of dengue in residents and visitors that was
+locally-acquired. Dengue is not endemic in Hawaii.  This is the first locally-
+acquired cluster since the 2011 outbreak on Oahu.
+Human
+Vector-born
+New Post
+Verified
+State_-_Read_more
+
+E._coli_in_USA
+
+03 Nov 2015 View Regions  +  Oregon
+Washington
+As of 31 October 2015, 19 cases of E. coli have been reported in Washington and
+three from Oregon. Cases are thought to be associated with a restaurant chain.
+No deaths have been reported.
+Human
+Food and Water-borne
+New Post
+Verified
+State_-_Read_more
 
 Shigellosis_in_USA
 
