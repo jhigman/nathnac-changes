@@ -571,7 +571,7 @@ Important News
 Marburg_virus_disease:_Uganda
 
 The Ministry of Health Uganda has reported a laboratory confirmed case of
-Marburg virus disease (MVD) read_more
+Marburg virus disease (MVD) Read_more
 All_News
 
 * RSS

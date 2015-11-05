@@ -221,68 +221,68 @@ _iStock_2788828-Hanta-Yosemite_
 Plague_in_Yosemite_National_Park,_California,_USA
 
 The California Department of Public Health (CDPH) report a case of human plague
-read_more
+Read_more
 _USA_
 11 Aug 2015
 
 Legionnaires’_disease:_South_Bronx,_New_York
 
 An outbreak of Legionnaires’ disease has been reported in the South Bronx, New
-York read_more
+York Read_more
 _Mosquito_
 21 Jul 2015
 
 Chikungunya_virus:_Caribbean_and_the_Americas
 
-Ongoing surveillance on Chikungunya virus in Caribbean and the Americas read
+Ongoing surveillance on Chikungunya virus in Caribbean and the Americas Read
 more
 25 Jun 2015
 
 Invasive_meningococcal_disease:_USA
 
 Invasive meningococcal disease (meningitis) outbreak in men who have sex with
-men: United States (Chicago, Illinois) read_more
+men: United States (Chicago, Illinois) Read_more
 _Saudi-Arabia_
 22 Jun 2015
 
 MERS-CoV_update:_Republic_of_Korea_and_China
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
-in Republic of Korea (South Korea) and China read_more
+in Republic of Korea (South Korea) and China Read_more
 05 Jun 2015
 
 MERS-CoV:_Republic_of_Korea_and_China
 
 Middle East respiratory syndrome coronavirus (MERS-CoV) update: Republic of
-Korea and China read_more
+Korea and China Read_more
 11 May 2015
 
 Measles:_worldwide
 
-A measles reminder for health professionals and travellers read_more
+A measles reminder for health professionals and travellers Read_more
 06 May 2015
 
 HPAI_viruses:_Canada_and_the_United_States_of_America
 
 Novel highly pathogenic avian influenza (HPAI) viruses: Canada and the United
-States of America read_more
+States of America Read_more
 15 Dec 2014
 
 MERS-CoV:_worldwide
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
-read_more
+Read_more
 03 Dec 2014
 
 Enterovirus_D68:_North_America_and_Europe
 
 USA has reported cases and clusters of severe respiratory illness associated
-with Enterovirus D68 (EV-D68) read_more
+with Enterovirus D68 (EV-D68) Read_more
 05 Sep 2014
 
 Mosquito_and_tick_borne_diseases:_USA
 
-Mosquitoes in the United States transmit various diseases read_more
+Mosquitoes in the United States transmit various diseases Read_more
 All_News
 
 * RSS
@@ -299,14 +299,12 @@ outbreaks
 
 Dengue_in_USA
 
-03 Nov 2015 Hawaii. United States
-As of 29 October 2015 the Hawaii Department of Health is investigating two
-confirmed and four probable cases of dengue in residents and visitors that was
-locally-acquired. Dengue is not endemic in Hawaii.  This is the first locally-
-acquired cluster since the 2011 outbreak on Oahu.
+04 Nov 2015 Hawaii. United States
+As of 3 November 2015 the Ministry of Health has confirmed 11 cases of dengue
+fever in Hawaii.
 Human
 Vector-born
-New Post
+Update 1
 Verified
 State_-_Read_more
 

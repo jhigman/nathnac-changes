@@ -574,7 +574,7 @@ Important News
 Meningococcal_meningitis:_Niger
 
 The Ministry of Public Health of Niger has reported 6,179 suspected cases of
-meningococcal meningitis read_more
+meningococcal meningitis Read_more
 All_News
 
 * RSS

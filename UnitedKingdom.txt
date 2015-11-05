@@ -149,40 +149,40 @@ _Japan-shop_
 Meningococcal_meningitis:_scouts_returned_from_Japan
 
 Cases of meningococcal meningitis reported in scouts recently returned from the
-23rd World Scout Jamboree in Japan read_more
+23rd World Scout Jamboree in Japan Read_more
 _Mexico_
 10 Aug 2015
 
 Cyclospora_in_travellers_returning_from_Mexico
 
 A cluster of cases of Cyclospora infection in travellers who have recently
-returned from Mexico read_more
+returned from Mexico Read_more
 _Saudi-Arabia_
 22 Jun 2015
 
 MERS-CoV_update:_Republic_of_Korea_and_China
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
-in Republic of Korea (South Korea) and China read_more
+in Republic of Korea (South Korea) and China Read_more
 05 Jun 2015
 
 MERS-CoV:_Republic_of_Korea_and_China
 
 Middle East respiratory syndrome coronavirus (MERS-CoV) update: Republic of
-Korea and China read_more
+Korea and China Read_more
 _ticks_
 11 Dec 2014
 
 Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
-diseases read_more
+diseases Read_more
 03 Dec 2014
 
 Enterovirus_D68:_North_America_and_Europe
 
 USA has reported cases and clusters of severe respiratory illness associated
-with Enterovirus D68 (EV-D68) read_more
+with Enterovirus D68 (EV-D68) Read_more
 All_News
 
 * RSS

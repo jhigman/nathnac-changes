@@ -167,14 +167,14 @@ _image_four_
 Polio_affected_countries:_update_to_country_status
 
 Latest on WHO temporary recommendations to prevent the international spread of
-wild poliovirus read_more
+wild poliovirus Read_more
 _ticks_
 11 Dec 2014
 
 Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
-diseases read_more
+diseases Read_more
 All_News
 
 * RSS
