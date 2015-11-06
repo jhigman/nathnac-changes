@@ -293,6 +293,9 @@ West_Nile_virus:_France
 
 The first locally acquired case human case of West Nile virus since 2003 has
 been reported in France Read_more
+
+*
+
 _Mosquito_
 01 Sep 2015
 
@@ -300,6 +303,9 @@ Dengue_in_France
 
 2 cases of locally acquired dengue reported in Nimes, Languedoc-Roussillon
 region of France Read_more
+
+*
+
 _lake-sunset_
 21 Aug 2015
 
@@ -307,6 +313,9 @@ Schistosomiasis:_Corsica,_France_–_update
 
 Further cases of (presumed) locally acquired schistosomiasis associated with
 the River Cavu, Corsica Read_more
+
+*
+
 _Saudi-Arabia_
 22 Jun 2015
 
@@ -314,18 +323,27 @@ MERS-CoV_update:_Republic_of_Korea_and_China
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 in Republic of Korea (South Korea) and China Read_more
+
+*
+
 05 Jun 2015
 
 MERS-CoV:_Republic_of_Korea_and_China
 
 Middle East respiratory syndrome coronavirus (MERS-CoV) update: Republic of
 Korea and China Read_more
+
+*
+
 _lake-sunset_
 02 Jun 2015
 
 Schistosomiasis:_Corsica,_France
 
 Transmission of schistosomiasis (locally acquired): Corsica, France Read_more
+
+*
+
 27 May 2015
 
 Imported_canine_rabies:_France
@@ -333,17 +351,26 @@ Imported_canine_rabies:_France
 A report of a confirmed case of rabies in a domestic dog, Le Chambon
 Feugerolles, Loire, Rhône-Alpes, France
 Read_more
+
+*
+
 11 May 2015
 
 Measles:_worldwide
 
 A measles reminder for health professionals and travellers Read_more
+
+*
+
 15 Dec 2014
 
 MERS-CoV:_worldwide
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 Read_more
+
+*
+
 _ticks_
 11 Dec 2014
 
@@ -351,18 +378,27 @@ Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
 diseases Read_more
+
+*
+
 03 Dec 2014
 
 Enterovirus_D68:_North_America_and_Europe
 
 USA has reported cases and clusters of severe respiratory illness associated
 with Enterovirus D68 (EV-D68) Read_more
+
+*
+
 01 Sep 2014
 
 Dengue:_France
 
 An autochthonous (locally acquired) dengue case in department of the Var,
 France Read_more
+
+*
+
 All_News
 
 * RSS
@@ -377,6 +413,21 @@ All_News
 outbreaks
 
 
+Dengue_in_France
+
+05 Nov 2015 France
+As of 30 October 2015 there has been an additional case of locally acquired
+dengue, making a total of six in the same family from Nimes, Languedoc-
+Roussillon region.
+Human
+Vector-born
+Update 2
+Verified
+State_-_Read_more
+
+*
+
+
 West_Nile_virus_in_France
 
 12 Oct 2015 Gard. France
@@ -389,17 +440,8 @@ New Post
 Verified
 ECDC_-_Read_more
 
-Dengue_in_France
+*
 
-09 Sep 2015 France
-As of 7 Sep 2015, three additional cases of dengue have been now confirmed
-bringing the number of autochthonous cases to five during this year. All cases
-are from the same neighbourhood of Nimes, Languedoc-Roussillon region.
-Human
-Vector-born
-Update 1
-Verified
-State_-_Read_more
 
 Toxic_poisoning_in_France
 
@@ -413,6 +455,9 @@ Food and Water-borne
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Schistosomiasis_in_France
 
@@ -428,6 +473,9 @@ Food and Water-borne
 Update 4
 Verified
 ECDC_-_Read_more
+
+*
+
 
 Rabies_in_France_ex_Algeria
 
@@ -445,6 +493,9 @@ New Post
 Verified
 World_Organisation_for_animal_health_-_Read_more
 
+*
+
+
 Trichinellosis_in_France
 
 11 May 2015 Corse-du-Sud. France
@@ -457,6 +508,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Measles_in_France
 
 08 May 2015 Haut-Rhin. France
@@ -467,6 +521,9 @@ Close association
 Update 1
 Verified
 State_-_Read_more
+
+*
+
 
 Chikungunya_virus_infection_in_France_ex_Cameroon
 
@@ -483,6 +540,9 @@ Vector-born
 New Post
 Verified
 Eurosurveillance_-_Read_more
+
+*
+
 More
 
 * RSS

@@ -286,6 +286,9 @@ Chikungunya_virus:_Pacific_Islands_and_Oceania
 
 Locally acquired transmission of chikungunya virus in Pacific Islands and
 Oceania Read_more
+
+*
+
 All_News
 
 * RSS
@@ -312,6 +315,9 @@ New Post
 Verified
 Relief_Web_-_Read_more
 
+*
+
+
 Leptospirosis_in_French_Polynesia
 
 06 May 2015 French Polynesia (Including Tahiti)
@@ -323,6 +329,9 @@ Update 1
 Verified
 WHO_regional_-_Read_more
 
+*
+
+
 Chikungunya_virus_infection_in_French_Polynesia
 
 27 Mar 2015 French Polynesia (Including Tahiti)
@@ -332,6 +341,9 @@ Vector-born
 Update 6
 Verified
 WHO_regional_-_Read_more
+
+*
+
 More
 
 * RSS

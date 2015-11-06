@@ -320,12 +320,18 @@ _Singapore_
 Group_B_streptococcal_infections:_Singapore
 
 Increased number of Group B Streptococcus (GBS) cases in Singapore Read_more
+
+*
+
 22 May 2015
 
 Hand,_foot_and_mouth_disease_in_the_Western_Pacific_region
 
 Japan has reported 15,285 cases of Hand, foot and mouth disease (HFMD) Read
 more
+
+*
+
 All_News
 
 * RSS
@@ -352,6 +358,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Hand,_foot_and_mouth_disease_in_Singapore
 
 17 Jun 2015 Singapore
@@ -363,6 +372,9 @@ Miscellaneous
 Update 2
 Verified
 State_-_Read_more
+
+*
+
 More
 
 * RSS

@@ -311,6 +311,9 @@ MERs-CoV_update:_Saudi_Arabia_and_South_Korea
 
 Update to risk assessment for the Middle East (including Saudi Arabia) and
 South Korea Read_more
+
+*
+
 _Saudi-Arabia_
 02 Sep 2015
 
@@ -318,6 +321,9 @@ MERS-CoV_update:_Saudi_Arabia_and_South_Korea
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 in the Middle East and recent outbreak in South Korea Read_more
+
+*
+
 _Saudi-Arabia_
 22 Jun 2015
 
@@ -325,12 +331,18 @@ MERS-CoV_update:_Republic_of_Korea_and_China
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 in Republic of Korea (South Korea) and China Read_more
+
+*
+
 05 Jun 2015
 
 MERS-CoV:_Republic_of_Korea_and_China
 
 Middle East respiratory syndrome coronavirus (MERS-CoV) update: Republic of
 Korea and China Read_more
+
+*
+
 All_News
 
 * RSS
@@ -359,6 +371,9 @@ Update 15
 Verified
 WHO_-_Read_more
 
+*
+
+
 Tick_borne_disease_(viral)_in_South_Korea
 
 13 Jul 2015 Korea (South)
@@ -369,6 +384,9 @@ Human
 Vector-born
 New Post
 ProMED_-_Read_more
+
+*
+
 
 Middle_East_respiratory_syndrome_coronavirus_in_China_ex_South_Korea
 
@@ -389,6 +407,9 @@ Imported
 New Post
 Verified
 WHO_Disease_Outbreak_News_-_Read_more
+
+*
+
 More
 
 * RSS

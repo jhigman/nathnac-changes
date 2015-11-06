@@ -222,6 +222,9 @@ Plague_in_Yosemite_National_Park,_California,_USA
 
 The California Department of Public Health (CDPH) report a case of human plague
 Read_more
+
+*
+
 _USA_
 11 Aug 2015
 
@@ -229,6 +232,9 @@ Legionnaires’_disease:_South_Bronx,_New_York
 
 An outbreak of Legionnaires’ disease has been reported in the South Bronx, New
 York Read_more
+
+*
+
 _Mosquito_
 21 Jul 2015
 
@@ -236,12 +242,18 @@ Chikungunya_virus:_Caribbean_and_the_Americas
 
 Ongoing surveillance on Chikungunya virus in Caribbean and the Americas Read
 more
+
+*
+
 25 Jun 2015
 
 Invasive_meningococcal_disease:_USA
 
 Invasive meningococcal disease (meningitis) outbreak in men who have sex with
 men: United States (Chicago, Illinois) Read_more
+
+*
+
 _Saudi-Arabia_
 22 Jun 2015
 
@@ -249,40 +261,61 @@ MERS-CoV_update:_Republic_of_Korea_and_China
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 in Republic of Korea (South Korea) and China Read_more
+
+*
+
 05 Jun 2015
 
 MERS-CoV:_Republic_of_Korea_and_China
 
 Middle East respiratory syndrome coronavirus (MERS-CoV) update: Republic of
 Korea and China Read_more
+
+*
+
 11 May 2015
 
 Measles:_worldwide
 
 A measles reminder for health professionals and travellers Read_more
+
+*
+
 06 May 2015
 
 HPAI_viruses:_Canada_and_the_United_States_of_America
 
 Novel highly pathogenic avian influenza (HPAI) viruses: Canada and the United
 States of America Read_more
+
+*
+
 15 Dec 2014
 
 MERS-CoV:_worldwide
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 Read_more
+
+*
+
 03 Dec 2014
 
 Enterovirus_D68:_North_America_and_Europe
 
 USA has reported cases and clusters of severe respiratory illness associated
 with Enterovirus D68 (EV-D68) Read_more
+
+*
+
 05 Sep 2014
 
 Mosquito_and_tick_borne_diseases:_USA
 
 Mosquitoes in the United States transmit various diseases Read_more
+
+*
+
 All_News
 
 * RSS
@@ -299,27 +332,32 @@ outbreaks
 
 Dengue_in_USA
 
-04 Nov 2015 Hawaii. United States
-As of 3 November 2015 the Ministry of Health has confirmed 11 cases of dengue
-fever in Hawaii.
+05 Nov 2015 Hawaii. United States
+As of 4 November 2015 there have been 15 cases of locally acquired dengue on
+the Big Island of Hawaii.
 Human
 Vector-born
+Update 2
+Verified
+State_-_Read_more
+
+*
+
+
+E._coli_in_USA
+
+05 Nov 2015 View Regions  +  Oregon
+Washington
+As of 3 November 2015 there have been 41 cases of E coli in Washington (29) and
+Oregon (12). No deaths have been reported.
+Human
+Food and Water-borne
 Update 1
 Verified
 State_-_Read_more
 
-E._coli_in_USA
+*
 
-03 Nov 2015 View Regions  +  Oregon
-Washington
-As of 31 October 2015, 19 cases of E. coli have been reported in Washington and
-three from Oregon. Cases are thought to be associated with a restaurant chain.
-No deaths have been reported.
-Human
-Food and Water-borne
-New Post
-Verified
-State_-_Read_more
 
 Shigellosis_in_USA
 
@@ -333,6 +371,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Salmonellosis_in_USA
 
 20 Oct 2015 United States
@@ -345,6 +386,9 @@ Update 4
 Verified
 CDC_-_Read_more
 
+*
+
+
 Rabies_in_USA
 
 08 Oct 2015 Wyoming. United States
@@ -356,6 +400,9 @@ Miscellaneous
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Blastomycosis_in_USA
 
@@ -371,6 +418,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Eastern_Equine_Encephalitis_in_USA
 
 05 Oct 2015 New York. United States
@@ -381,6 +431,9 @@ Vector-born
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Legionnaires’_Disease_in_USA
 
@@ -393,6 +446,9 @@ Air-borne
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Plague_in_USA
 
@@ -407,6 +463,9 @@ Miscellaneous
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Listeriosis_in_USA
 
@@ -429,6 +488,9 @@ New Post
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
 
+*
+
+
 Cyclosporiasis_in_USA
 
 18 Sep 2015 Texas. United States
@@ -439,6 +501,9 @@ Food and Water-borne
 Update 8
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
+
+*
+
 
 Plague_in_USA
 
@@ -451,6 +516,9 @@ Miscellaneous
 Update 4
 Verified
 State_-_Read_more
+
+*
+
 
 Influenza_A_in_USA
 
@@ -465,6 +533,9 @@ Update 4
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
 
+*
+
+
 Eastern_equine_encephalitis_in_USA
 
 02 Sep 2015 New York. United States
@@ -475,6 +546,9 @@ Vector-born
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Influenza_A_in_USA
 
@@ -489,6 +563,9 @@ Update 1
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
 
+*
+
+
 Tularaemia_in_USA
 
 25 Aug 2015 United States
@@ -499,6 +576,9 @@ Miscellaneous
 Update 4
 Verified
 State_-_Read_more
+
+*
+
 
 Rabies_in_USA
 
@@ -511,6 +591,9 @@ Vector-born
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Influenza_A_(H5)_in_USA
 
@@ -525,6 +608,9 @@ Update 2
 Verified
 OIE_-_Read_more
 
+*
+
+
 Influenza_A_(H5N2)_in_USA
 
 21 Aug 2015 United States
@@ -538,6 +624,9 @@ Update 5
 Verified
 OIE_-_Read_more
 
+*
+
+
 Legionnaires’_disease_in_USA
 
 21 Aug 2015 New York. United States
@@ -549,6 +638,9 @@ Air-borne
 Update 2
 Verified
 State_-_Read_more
+
+*
+
 
 Tick-borne_relapsing_fever_in_USA
 
@@ -562,6 +654,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Hantavirus_in_USA
 
 17 Aug 2015 California. United States
@@ -571,6 +666,9 @@ Human
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Salmonellosis_in_USA
 
@@ -584,6 +682,9 @@ Update 2
 Verified
 State_-_Read_more
 
+*
+
+
 Pertussis_in_USA
 
 05 Aug 2015 Washington. United States
@@ -595,6 +696,9 @@ Close association
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Gastroenteritis_in_USA
 
@@ -609,6 +713,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Anaplasmosis_in_USA
 
 27 Jul 2015 New York. United States
@@ -619,6 +726,9 @@ Human
 Vector-born
 New Post
 Media_-_Read_more
+
+*
+
 
 Salmonellosis_in_USA
 
@@ -631,6 +741,9 @@ Food and Water-borne
 Update 1
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
+
+*
+
 
 West_Nile_virus_in_USA
 
@@ -645,6 +758,9 @@ Vector-born
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Salmonellosis_in_USA
 
@@ -663,6 +779,9 @@ New Post
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
 
+*
+
+
 Meningococcal_disease_in_USA
 
 13 Jul 2015 Illinois. United States
@@ -674,6 +793,9 @@ Close association
 Update 1
 Verified
 State_-_Read_more
+
+*
+
 
 Salmonellosis_in_USA
 
@@ -689,6 +811,9 @@ New Post
 Verified
 CDC_-_Read_more
 
+*
+
+
 Enterovirus_in_USA
 
 29 Jun 2015 United States
@@ -702,6 +827,9 @@ Update 18
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
 
+*
+
+
 Lassa_fever_in_USA_ex_Liberia
 
 26 May 2015 View Countries  +  Liberia
@@ -714,6 +842,9 @@ Imported
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Rabies_in_USA
 
@@ -729,6 +860,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Legionnaires’_disease_in_USA
 
 18 May 2015 New York. United States
@@ -741,6 +875,9 @@ Air-borne
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Hepatitis_A_in_USA_ex_Mexico
 
@@ -756,6 +893,9 @@ New Post
 Verified
 ReliefWeb_-_Read_more
 
+*
+
+
 Botulism_in_USA
 
 28 Apr 2015 Ohio. United States
@@ -770,6 +910,9 @@ Update 2
 Verified
 State_-_Read_more
 
+*
+
+
 Salmonellosis_in_USA
 
 22 Apr 2015 United States
@@ -781,6 +924,9 @@ Food and Water-borne
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Measles_in_USA
 
@@ -794,6 +940,9 @@ Close association
 Update 3
 Verified
 State_-_Read_more
+
+*
+
 
 Botulism_in_USA
 
@@ -809,6 +958,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Influenza_A_in_USA
 
 14 Apr 2015 Illinois. United States
@@ -821,6 +973,9 @@ Air-borne
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Shigellosis_in_USA
 
@@ -836,6 +991,9 @@ New Post
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
 
+*
+
+
 Influenza_A_(H7)_in_USA
 
 08 Apr 2015 United States
@@ -847,6 +1005,9 @@ Air-borne
 Update 1
 Verified
 World_Organisation_for_animal_health_-_Read_more
+
+*
+
 
 Ebola_virus_disease_in_USA_ex_Sierra_Leone
 
@@ -861,6 +1022,9 @@ Imported
 New Post
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
+
+*
+
 
 Tick_borne_disease_(viral)_in_USA
 
@@ -878,6 +1042,9 @@ New Post
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
 
+*
+
+
 Undiagnosed_illness_in_USA
 
 09 Feb 2015 Colorado. United States
@@ -889,6 +1056,9 @@ Miscellaneous
 Update 8
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
+
+*
+
 
 Influenza_A_(H5N1)_in_USA
 
@@ -906,6 +1076,9 @@ New Post
 Verified
 World_Organisation_for_animal_health_-_Read_more
 
+*
+
+
 Shigellosis_in_USA
 
 18 Jan 2015 United States
@@ -916,6 +1089,9 @@ Human
 Food and Water-borne
 New Post
 ProMED_-_Read_more
+
+*
+
 
 Pertussis_in_USA
 
@@ -928,6 +1104,9 @@ Close association
 Update 1
 Verified
 ProMED_-_Read_more
+
+*
+
 
 Legionnaires’_disease_in_USA
 
@@ -943,6 +1122,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Listeriosis_in_Canada_ex_USA
 
 15 Jan 2015 View Countries  +  Canada
@@ -956,6 +1138,9 @@ Food and Water-borne
 Update 1
 Verified
 Health_Canada_-_Read_more
+
+*
+
 
 Undiagnosed_illness_in_USA
 
@@ -973,6 +1158,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Tularaemia_in_USA
 
 08 Dec 2014 United States
@@ -982,6 +1170,9 @@ Human
 Miscellaneous
 New Post
 ProMED_-_Read_more
+
+*
+
 
 Eastern_equine_encephalitis_in_USA
 
@@ -993,6 +1184,9 @@ Vector-born
 Update 1
 Verified
 State_Authority_-_Read_more
+
+*
+
 More
 
 * RSS

@@ -572,6 +572,9 @@ Marburg_virus_disease:_Uganda
 
 The Ministry of Health Uganda has reported a laboratory confirmed case of
 Marburg virus disease (MVD) Read_more
+
+*
+
 All_News
 
 * RSS
@@ -599,6 +602,9 @@ New Post
 Verified
 Relief_Web_-_Read_more
 
+*
+
+
 Typhoid_fever_in_Uganda
 
 21 Apr 2015 Kampala. Uganda
@@ -610,6 +616,9 @@ Food and Water-borne
 Update 5
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
+
+*
+
 
 Hepatitis_E_in_Uganda
 
@@ -623,6 +632,9 @@ Update 4
 Verified
 ReliefWeb_-_Read_more
 
+*
+
+
 Marburg_haemorrhagic_fever_in_Uganda
 
 12 Nov 2014 Kampala. Uganda
@@ -634,6 +646,9 @@ Human
 Update 1
 Verified
 State_-_Read_more
+
+*
+
 More
 
 * RSS

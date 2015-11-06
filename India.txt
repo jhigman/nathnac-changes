@@ -590,11 +590,17 @@ _Diwali_
 Travelling_for_Diwali?
 
 Advice for UK residents planning to celebrate Diwali abroad Read_more
+
+*
+
 12 Mar 2015
 
 Seasonal_Influenza_A_H1N1:_India
 
 Influenza A (H1N1) - predominant influenza virus reported in India Read_more
+
+*
+
 All_News
 
 * RSS
@@ -622,6 +628,9 @@ Food and Water-borne
 New Post
 ProMED_-_Read_more
 
+*
+
+
 Dengue_in_India
 
 17 Sep 2015 Delhi. India
@@ -633,6 +642,10 @@ Vector-born
 Update 1
 Relief_Web_-_Read_more
 
+*  As of 17 September 2015 there have been 11 deaths in Delhi from dengue. To
+  date 18,000" class="desc-14684" />
+
+
 Leptospirosis_in_India
 
 20 Jul 2015 Maharashtra. India
@@ -643,6 +656,9 @@ Human
 Food and Water-borne
 Update 2
 Pro_Med_-_Read_more
+
+*
+
 
 Tick_borne_disease_(viral)_in_India
 
@@ -658,6 +674,9 @@ Vector-born
 New Post
 Pro_Med_-_Read_more
 
+*
+
+
 Kyasanur_forest_disease_in_India
 
 20 Apr 2015 Goa. India
@@ -669,6 +688,9 @@ Vector-born
 New Post
 ProMED_-_Read_more
 
+*
+
+
 Food_poisoning_in_India
 
 30 Mar 2015 Assam. India
@@ -679,6 +701,9 @@ Human
 Food and Water-borne
 New Post
 ProMED_-_Read_more
+
+*
+
 
 Influenza_A(H1N1)pdm09_–_Confirmed_in_India
 
@@ -692,6 +717,9 @@ Update 1
 Verified
 State_-_Read_more
 
+*
+
+
 Kyasanur_forest_disease_in_India
 
 20 Feb 2015 Kerala. India
@@ -704,6 +732,9 @@ Vector-born
 Update 2
 ProMED_-_Read_more
 
+*
+
+
 Scrub_typhus_(Tsutsugamushi_disease)_in_India
 
 02 Feb 2015 TamilNadu. India
@@ -715,6 +746,9 @@ Vector-born
 New Post
 Verified
 Media_-_Read_more
+
+*
+
 
 Japanese_encephalitis_in_India
 
@@ -730,6 +764,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Malaria_in_India
 
 29 Jan 2015 Karnataka. India
@@ -743,6 +780,9 @@ Human
 Vector-born
 New Post
 ProMED_-_Read_more
+
+*
+
 More
 
 * RSS

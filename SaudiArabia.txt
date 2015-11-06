@@ -460,6 +460,9 @@ Hajj_pilgrims_urged_to_be_aware_of_MERS_advice
 
 PHE and NaTHNaC remind pilgrims of health and travel advice for Hajj and Umrah
 Read_more
+
+*
+
 _Saudi-Arabia_
 16 Sep 2015
 
@@ -467,6 +470,9 @@ MERs-CoV_update:_Saudi_Arabia_and_South_Korea
 
 Update to risk assessment for the Middle East (including Saudi Arabia) and
 South Korea Read_more
+
+*
+
 _Saudi-Arabia_
 02 Sep 2015
 
@@ -474,6 +480,9 @@ MERS-CoV_update:_Saudi_Arabia_and_South_Korea
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 in the Middle East and recent outbreak in South Korea Read_more
+
+*
+
 _Saudi-Arabia_
 22 Jun 2015
 
@@ -481,18 +490,27 @@ MERS-CoV_update:_Republic_of_Korea_and_China
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 in Republic of Korea (South Korea) and China Read_more
+
+*
+
 05 Jun 2015
 
 MERS-CoV:_Republic_of_Korea_and_China
 
 Middle East respiratory syndrome coronavirus (MERS-CoV) update: Republic of
 Korea and China Read_more
+
+*
+
 15 Dec 2014
 
 MERS-CoV:_worldwide
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 Read_more
+
+*
+
 All_News
 
 * RSS
@@ -519,6 +537,9 @@ Update 10
 Verified
 WHO_-_Read_more
 
+*
+
+
 Middle_East_respiratory_syndrome_coronavirus_in_Jordan_ex_Saudi_Arabia
 
 02 Sep 2015 View Countries  +  Jordan
@@ -536,6 +557,9 @@ Update 1
 Verified
 WHO_Disease_Outbreak_News_-_Read_more
 
+*
+
+
 Middle_East_respiratory_syndrome_coronavirus_in_Philippines_ex_Saudi_Arabia
 
 12 Feb 2015 View Countries  +  Philippines
@@ -550,6 +574,9 @@ Imported
 New Post
 Verified
 State_-_Read_more
+
+*
+
 More
 
 * RSS

@@ -163,6 +163,9 @@ Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
 diseases Read_more
+
+*
+
 All_News
 
 * RSS
@@ -189,6 +192,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Legionnaires’_disease_in_Portugal
 
 04 Sep 2015 Portugal
@@ -201,6 +207,9 @@ Air-borne
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Legionnaires’_disease_in_Portugal
 
@@ -216,6 +225,9 @@ Air-borne
 Update 5
 Verified
 Eurosurveillance_-_Read_more
+
+*
+
 More
 
 * RSS

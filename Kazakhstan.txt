@@ -339,6 +339,9 @@ Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
 diseases Read_more
+
+*
+
 All_News
 
 * RSS
@@ -365,6 +368,9 @@ New Post
 Verified
 World_Organisation_for_animal_health_-_Read_more
 
+*
+
+
 Measles_in_Multiple_countries
 
 09 Mar 2015 View Countries  +  Bosnia and Herzegovina
@@ -387,6 +393,9 @@ Close association
 New Post
 Verified
 WHO_regional_-_Read_more
+
+*
+
 More
 
 * RSS

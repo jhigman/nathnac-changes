@@ -515,17 +515,26 @@ MERS-CoV_update:_Republic_of_Korea_and_China
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 in Republic of Korea (South Korea) and China Read_more
+
+*
+
 11 May 2015
 
 Measles:_worldwide
 
 A measles reminder for health professionals and travellers Read_more
+
+*
+
 15 Dec 2014
 
 MERS-CoV:_worldwide
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 Read_more
+
+*
+
 All_News
 
 * RSS
@@ -555,6 +564,9 @@ New Post
 Verified
 ReliefWeb_-_Read_more
 
+*
+
+
 Hand,_foot_and_mouth_disease_in_Philippines
 
 23 Sep 2015 Philippines
@@ -566,6 +578,9 @@ Human
 Miscellaneous
 Update 1
 Pro_Med_-_Read_more
+
+*
+
 
 Food_Poisoning_in_the_Philippines
 
@@ -581,6 +596,9 @@ Food and Water-borne
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Middle_East_respiratory_syndrome_coronavirus_in_Philippines
 
@@ -598,6 +616,9 @@ Update 1
 Verified
 WHO_Disease_Outbreak_News_-_Read_more
 
+*
+
+
 Influenza_A_(Avian_–_suspected)_in_Philippines
 
 26 Feb 2015 Philippines
@@ -609,6 +630,9 @@ Imported
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Middle_East_respiratory_syndrome_coronavirus_in_Philippines_ex_Saudi_Arabia
 
@@ -625,6 +649,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Acute_diarrhoeal_syndrome_in_Philippines
 
 20 Nov 2014 Bohol. Philippines
@@ -636,6 +663,9 @@ Human
 Food and Water-borne
 New Post
 HealthMap_media_report_-_Read_more
+
+*
+
 
 Henipavirus_in_Philippines
 
@@ -650,6 +680,9 @@ Miscellaneous
 New Post
 Verified
 ProMED_-_Read_more
+
+*
+
 More
 
 * RSS

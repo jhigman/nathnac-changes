@@ -281,6 +281,9 @@ _Mosquito-generic_
 Mosquito-borne_diseases:_Australia
 
 Mosquitoes in Australia transmit various diseases Read_more
+
+*
+
 All_News
 
 * RSS
@@ -307,6 +310,9 @@ Update 1
 Verified
 State_-_Read_more
 
+*
+
+
 Ross_River_virus_in_Netherlands_ex_Australia
 
 07 Aug 2015 View Countries  +  Australia
@@ -321,6 +327,9 @@ New Post
 Verified
 Eurosurveillance_-_Read_more
 
+*
+
+
 Ross_river_virus_in_Australia
 
 02 Jun 2015 Queensland. Australia
@@ -331,6 +340,9 @@ Vector-born
 Update 4
 Verified
 State_-_Read_more
+
+*
+
 
 Murray_valley_encephalitis_in_Australia
 
@@ -344,6 +356,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Measles_in_Australia
 
 28 Apr 2015 New South Wales. Australia
@@ -356,6 +371,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Dengue_in_Australia
 
 30 Mar 2015 Australia
@@ -367,6 +385,9 @@ Vector-born
 New Post
 Verified
 WHO_regional_-_Read_more
+
+*
+
 
 Salmonellosis_in_Australia
 
@@ -381,6 +402,9 @@ Food and Water-borne
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Hepatitis_A_in_Australia
 
@@ -397,6 +421,9 @@ Update 1
 Verified
 State_-_Read_more
 
+*
+
+
 Toxic_poisoning_in_Australia
 
 27 Feb 2015 New South Wales. Australia
@@ -408,6 +435,9 @@ Human
 Toxic
 New Post
 Media_-_Read_more
+
+*
+
 
 Japanese_encephalitis_in_Australia_ex_Indonesia
 
@@ -424,6 +454,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Ross_river_virus_in_Australia
 
 27 Jan 2015 New South Wales. Australia
@@ -436,6 +469,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Pertussis_in_Australia
 
 16 Jan 2015 Victoria. Australia
@@ -447,6 +483,9 @@ Close association
 New Post
 Verified
 ProMED_-_Read_more
+
+*
+
 
 Melioidosis_in_Australia
 
@@ -461,6 +500,9 @@ Miscellaneous
 New Post
 Verified
 State_-_Read_more
+
+*
+
 More
 
 * RSS

@@ -193,24 +193,36 @@ Important News
 Measles:_worldwide
 
 A measles reminder for health professionals and travellers Read_more
+
+*
+
 06 May 2015
 
 HPAI_viruses:_Canada_and_the_United_States_of_America
 
 Novel highly pathogenic avian influenza (HPAI) viruses: Canada and the United
 States of America Read_more
+
+*
+
 10 Feb 2015
 
 Imported_avian_influenza_A_(H7N9):_Canada
 
 First cases of influenza A (H7N9) infection in humans in North America Read
 more
+
+*
+
 03 Dec 2014
 
 Enterovirus_D68:_North_America_and_Europe
 
 USA has reported cases and clusters of severe respiratory illness associated
 with Enterovirus D68 (EV-D68) Read_more
+
+*
+
 All_News
 
 * RSS
@@ -244,6 +256,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 E.coli_in_Canada
 
 17 Sep 2015 Canada
@@ -256,6 +271,10 @@ Food and Water-borne
 Update 1
 Verified
 State_-_Read_more
+
+*  As of 14 September 2015 there have been 31 cases of E.coli confirmed in
+  Albert" class="desc-15066" />
+
 
 Trypanosomiasis_–_African_(sleeping_sickness)_in_Canada_ex_Zambia
 
@@ -273,6 +292,9 @@ New Post
 Verified
 Pro_Med_-_Read_more
 
+*
+
+
 Legionnaires’_disease_in_Canada
 
 27 Aug 2015 Canada
@@ -282,6 +304,9 @@ Human
 Air-borne
 New Post
 Media_-_Read_more
+
+*
+
 
 Vibrio_parahaemolyticus_in_Canada
 
@@ -295,6 +320,9 @@ Update 1
 Verified
 State_-_Read_more
 
+*
+
+
 Cyclosporiasis_in_Canada
 
 11 Aug 2015 Canada
@@ -307,6 +335,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Tick-borne_encephalitis_in_Canada
 
 16 Jul 2015 Prince Edward Island. Canada
@@ -317,6 +348,9 @@ Vector-born
 New Post
 Verified
 Pro_Med_-_Read_more
+
+*
+
 
 Salmonellosis_in_Canada
 
@@ -336,6 +370,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Tetanus_in_Canada
 
 03 Jun 2015 Canada
@@ -345,6 +382,9 @@ Human
 Miscellaneous
 New Post
 ProMED_-_Read_more
+
+*
+
 
 Influenza_A_(H5)_in_Canada
 
@@ -357,6 +397,9 @@ Air-borne
 New Post
 Verified
 World_Organisation_for_animal_health_-_Read_more
+
+*
+
 
 Influenza_A_(H5N2)_in_Canada
 
@@ -372,6 +415,9 @@ Update 1
 Verified
 WHO_regional_-_Read_more
 
+*
+
+
 E.coli_in_Canada
 
 16 Apr 2015 View Regions  +  Alberta
@@ -386,6 +432,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Measles_in_Canada
 
 10 Apr 2015 Canada
@@ -399,6 +448,9 @@ Update 1
 Verified
 State_-_Read_more
 
+*
+
+
 Measles_in_Canada
 
 09 Apr 2015 British Columbia. Canada
@@ -410,6 +462,9 @@ Close association
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Influenza_A_(H7N9)_in_Canada
 
@@ -423,6 +478,9 @@ Air-borne
 Update 1
 Verified
 State_-_Read_more
+
+*
+
 
 Listeriosis_in_Canada_ex_USA
 
@@ -438,6 +496,9 @@ Update 1
 Verified
 Health_Canada_-_Read_more
 
+*
+
+
 Pertussis_in_Canada
 
 05 Dec 2014 Alberta. Canada
@@ -448,6 +509,9 @@ Close association
 New Post
 Verified
 State_-_Read_more
+
+*
+
 More
 
 * RSS

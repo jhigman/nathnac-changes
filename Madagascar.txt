@@ -473,6 +473,9 @@ Plague:_Madagascar
 
 Madagascar’s Ministry of Health notified the World Health Organization (WHO) of
 an outbreak of plague Read_more
+
+*
+
 All_News
 
 * RSS
@@ -499,6 +502,9 @@ Update 1
 Verified
 Relief_Web_-_Read_more
 
+*
+
+
 Poliomyelitis_in_Madagascar
 
 20 Jul 2015 Madagascar
@@ -511,6 +517,9 @@ Update 2
 Verified
 Polio_Eradication_-_Read_more
 
+*
+
+
 Plague_in_Madagascar
 
 12 Feb 2015 Madagascar
@@ -522,6 +531,9 @@ Miscellaneous
 Update 4
 Verified
 WHO_Other_-_Read_more
+
+*
+
 More
 
 * RSS

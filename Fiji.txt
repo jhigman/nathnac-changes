@@ -270,6 +270,9 @@ Chikungunya_virus:_Pacific_Islands_and_Oceania
 
 Locally acquired transmission of chikungunya virus in Pacific Islands and
 Oceania Read_more
+
+*
+
 All_News
 
 * RSS
@@ -294,6 +297,9 @@ New Post
 Verified
 WHO_Regional_-_Read_more
 
+*
+
+
 Chikungunya_virus_infection_in_Fiji
 
 24 Jul 2015 Fiji
@@ -303,6 +309,9 @@ Vector-born
 New Post
 Verified
 WHO_Regional_-_Read_more
+
+*
+
 
 Typhoid_fever_in_Fiji
 
@@ -314,6 +323,9 @@ Human
 Food and Water-borne
 New Post
 Media_-_Read_more
+
+*
+
 More
 
 * RSS

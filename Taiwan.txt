@@ -356,12 +356,18 @@ Imported_avian_influenza_A_(H7N9):_Canada
 
 First cases of influenza A (H7N9) infection in humans in North America Read
 more
+
+*
+
 28 Nov 2014
 
 Avian_influenza_A_(H7N9):_China
 
 Ongoing surveillance of human cases of avian influenza A (H7N9) in China Read
 more
+
+*
+
 All_News
 
 * RSS
@@ -391,6 +397,9 @@ Vector-born
 Update 1
 Media_-_Read_more
 
+*
+
+
 Brucellosis_in_Taiwan
 
 28 Aug 2015 Taiwan
@@ -401,6 +410,9 @@ Imported
 Miscellaneous
 New Post
 Media_-_Read_more
+
+*
+
 
 Norovirus_in_Taiwan
 
@@ -413,6 +425,9 @@ Food and Water-borne
 New Post
 Pro_Med_-_Read_more
 
+*
+
+
 Norovirus_in_Taiwan
 
 27 Mar 2015 Taiwan
@@ -424,6 +439,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Scrub_typhus_(Tsutsugamushi_disease)_in_Taiwan
 
 27 Mar 2015 Kaohsiung. Taiwan
@@ -433,6 +451,9 @@ Human
 Vector-born
 New Post
 State_-_Read_more
+
+*
+
 
 Influenza_A_(H5)_in_Taiwan
 
@@ -447,6 +468,9 @@ Update 1
 Verified
 Other_-_Verified_-_Read_more
 
+*
+
+
 Influenza_A_(H5)_in_Taiwan
 
 19 Jan 2015 Kaohsiung City and Pingtung. Taiwan
@@ -458,6 +482,9 @@ Air-borne
 New Post
 Verified
 World_Organisation_for_animal_health_-_Read_more
+
+*
+
 
 Influenza_A_(H5N2)_in_Taiwan
 
@@ -471,6 +498,9 @@ New Post
 Verified
 World_Organisation_for_animal_health_-_Read_more
 
+*
+
+
 Rabies_in_Taiwan
 
 31 Dec 2014 NantouandYunlin. Taiwan
@@ -482,6 +512,9 @@ Miscellaneous
 Update 12
 Verified
 ProMED_-_Read_more
+
+*
+
 
 Hepatitis_A_in_Taiwan
 
@@ -496,6 +529,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Dengue_in_Taiwan
 
 27 Nov 2014 KaohsiungCity. Taiwan
@@ -508,6 +544,9 @@ Vector-born
 New Post
 Verified
 State_-_Read_more
+
+*
+
 More
 
 * RSS

@@ -346,12 +346,18 @@ Meningococcal_meningitis:_scouts_returned_from_Japan
 
 Cases of meningococcal meningitis reported in scouts recently returned from the
 23rd World Scout Jamboree in Japan Read_more
+
+*
+
 22 May 2015
 
 Hand,_foot_and_mouth_disease_in_the_Western_Pacific_region
 
 Japan has reported 15,285 cases of Hand, foot and mouth disease (HFMD) Read
 more
+
+*
+
 All_News
 
 * RSS
@@ -377,6 +383,9 @@ Update 3
 Verified
 WHO_Regional_-_Read_more
 
+*
+
+
 Measles_in_Japan_ex_Mongolia
 
 24 Aug 2015 View Countries  +  Japan
@@ -391,6 +400,9 @@ Close association
 New Post
 Verified
 Pro_Med_-_Read_more
+
+*
+
 
 Meningococcal_disease_United_Kingdom_ex_Japan
 
@@ -408,6 +420,9 @@ New Post
 Verified
 ECDC_-_Read_more
 
+*
+
+
 Meningococcal_disease_in_Sweden_ex_Japan
 
 18 Aug 2015 View Countries  +  Japan
@@ -423,6 +438,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Meningococcal_disease_in_UK_ex_Japan
 
 17 Aug 2015 View Countries  +  Japan
@@ -437,6 +455,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Acute_fever_and_rash_syndrome_in_Japan
 
 15 Jul 2015 Tokyo. Japan
@@ -449,6 +470,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Norovirus_in_Japan
 
 03 Jul 2015 Japan
@@ -460,6 +484,9 @@ Food and Water-borne
 New Post
 Verified
 Eurosurveillance_-_Read_more
+
+*
+
 More
 
 * RSS

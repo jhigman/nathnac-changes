@@ -326,24 +326,36 @@ MERS-CoV_update:_Republic_of_Korea_and_China
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 in Republic of Korea (South Korea) and China Read_more
+
+*
+
 05 Jun 2015
 
 MERS-CoV:_Republic_of_Korea_and_China
 
 Middle East respiratory syndrome coronavirus (MERS-CoV) update: Republic of
 Korea and China Read_more
+
+*
+
 18 Mar 2015
 
 Avian_influenza:_Egypt_and_worldwide
 
 Human infections with avian influenza viruses in Egypt and worldwide
 Read_more
+
+*
+
 15 Dec 2014
 
 MERS-CoV:_worldwide
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 Read_more
+
+*
+
 All_News
 
 * RSS
@@ -369,6 +381,9 @@ New Post
 Verified
 ProMED_-_Read_more
 
+*
+
+
 Influenza_A_(H5N1)_in_Egypt
 
 15 May 2015 Egypt
@@ -380,6 +395,9 @@ Air-borne
 Update 3
 Verified
 WHO_regional_-_Read_more
+
+*
+
 
 Influenza_A_(H9N2)_in_Egypt
 
@@ -393,6 +411,9 @@ Update 1
 Verified
 Other_-_Verified_-_Read_more
 
+*
+
+
 Influenza_A_(H5N1)_in_Egypt
 
 24 Dec 2014 Egypt
@@ -404,6 +425,9 @@ Air-borne
 Update 2
 Verified
 State_-_Read_more
+
+*
+
 More
 
 * RSS

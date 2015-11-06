@@ -191,12 +191,18 @@ Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
 diseases Read_more
+
+*
+
 03 Dec 2014
 
 Enterovirus_D68:_North_America_and_Europe
 
 USA has reported cases and clusters of severe respiratory illness associated
 with Enterovirus D68 (EV-D68) Read_more
+
+*
+
 All_News
 
 * RSS
@@ -222,6 +228,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Tick-borne_encephalitis_in_Sweden
 
 08 Sep 2015 Sweden
@@ -235,6 +244,9 @@ Vector-born
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Meningococcal_disease_in_Sweden_ex_Japan
 
@@ -251,6 +263,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Salmonellosis_in_Sweden
 
 31 Jul 2015 Sweden
@@ -266,6 +281,9 @@ Update 1
 Verified
 Eurosurveillance_-_Read_more
 
+*
+
+
 Diphtheria_in_Sweden_ex_Multiple_countries
 
 21 Jul 2015 Sweden
@@ -278,6 +296,9 @@ Miscellaneous
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Measles_in_Sweden_ex_Germany
 
@@ -294,6 +315,9 @@ New Post
 Verified
 ECDC_report_-_Read_more
 
+*
+
+
 Influenza_A_(H5)_in_Sweden
 
 23 Mar 2015 Stockholms lan. Sweden
@@ -308,6 +332,9 @@ New Post
 Verified
 World_Organisation_for_animal_health_-_Read_more
 
+*
+
+
 Psittacosis_in_Sweden
 
 30 Jan 2015 Vastra Gotalands lan. Sweden
@@ -321,6 +348,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Enterovirus_in_Sweden
 
 01 Dec 2014 Sweden
@@ -332,6 +362,9 @@ Miscellaneous
 New Post
 Verified
 ECDC_report_-_Read_more
+
+*
+
 
 Influenza_A_(H10N7)_in_Sweden
 
@@ -346,6 +379,9 @@ Air-borne
 New Post
 Verified
 Eurosurveillance_-_Read_more
+
+*
+
 More
 
 * RSS

@@ -157,6 +157,9 @@ Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
 diseases Read_more
+
+*
+
 All_News
 
 * RSS
@@ -184,6 +187,9 @@ Food and Water-borne
 New Post
 ProMED_-_Read_more
 
+*
+
+
 Trichinellosis_in_Belgium
 
 05 Dec 2014 Antwerpen and Limburg. Belgium
@@ -195,6 +201,9 @@ Food and Water-borne
 New Post
 Verified
 State_-_Read_more
+
+*
+
 More
 
 * RSS

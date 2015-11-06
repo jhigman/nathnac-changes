@@ -506,17 +506,26 @@ _ebola-who_
 Recurrence_of_Ebola_Virus_Disease:_Liberia
 
 Recurrence of Ebola Virus disease (EVD) in Liberia Read_more
+
+*
+
 03 Jul 2015
 
 Travel_to_countries_affected_by_Ebola
 
 Travel to countries affected by Ebola: Public Health England Returning Workers
 Scheme as of 1 July 2015 Read_more
+
+*
+
 09 Jan 2015
 
 Ebola_Virus_Disease_(EVD)_in_West_Africa
 
 Ongoing surveillance of Ebola Virus Disease (EVD) in West Africa Read_more
+
+*
+
 All_News
 
 * RSS
@@ -541,6 +550,9 @@ Update 10
 Verified
 WHO_Regional_-_Read_more
 
+*
+
+
 Ebola_virus_disease_in_Italy_ex_Sierra_Leone
 
 24 Jul 2015 View Countries  +  Italy
@@ -556,6 +568,9 @@ Update 1
 Verified
 WHO_Regional_-_Read_more
 
+*
+
+
 Ebola_virus_disease_in_United_Kingdom_ex_Sierra_Leone
 
 17 Mar 2015 View Countries  +  Sierra Leone
@@ -570,6 +585,9 @@ Update 2
 Verified
 State_-_Read_more
 
+*
+
+
 Ebola_virus_disease_in_USA_ex_Sierra_Leone
 
 16 Mar 2015 View Countries  +  Sierra Leone
@@ -583,6 +601,9 @@ Imported
 New Post
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
+
+*
+
 
 Ebola_virus_disease_in_Multiple_countries
 
@@ -605,6 +626,9 @@ Update 2
 Verified
 WHO_Regional_-_Read_more
 
+*
+
+
 Ebola_virus_disease_in_United_Kingdom_ex_Sierra_Leone
 
 02 Jan 2015 View Countries  +  Sierra Leone
@@ -619,6 +643,9 @@ Imported
 New Post
 Verified
 WHO_Disease_Outbreak_News_-_Read_more
+
+*
+
 More
 
 * RSS

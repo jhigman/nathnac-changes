@@ -228,18 +228,27 @@ MERS-CoV_update:_Republic_of_Korea_and_China
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 in Republic of Korea (South Korea) and China Read_more
+
+*
+
 05 Jun 2015
 
 MERS-CoV:_Republic_of_Korea_and_China
 
 Middle East respiratory syndrome coronavirus (MERS-CoV) update: Republic of
 Korea and China Read_more
+
+*
+
 15 Dec 2014
 
 MERS-CoV:_worldwide
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 Read_more
+
+*
+
 All_News
 
 * RSS
@@ -267,6 +276,9 @@ Update 1
 Verified
 WHO_Disease_Outbreak_News_-_Read_more
 
+*
+
+
 Middle_East_respiratory_syndrome_coronavirus_in_United_Arab_Emirates
 
 10 Jun 2015 Abu Dhabi. United Arab Emirates
@@ -279,6 +291,9 @@ Air-borne
 New Post
 Verified
 WHO_Disease_Outbreak_News_-_Read_more
+
+*
+
 
 Middle_East_respiratory_syndrome_coronavirus_in_United_Arab_Emirates
 
@@ -293,6 +308,9 @@ New Post
 Verified
 WHO_Outbreak_Verification_List_-_Read_more
 
+*
+
+
 Middle_East_respiratory_syndrome_coronavirus_in_United_Arab_Emirates
 
 22 May 2015 Abu Dhabi. United Arab Emirates
@@ -302,6 +320,9 @@ Air-borne
 Update 3
 Verified
 WHO_Disease_Outbreak_News_-_Read_more
+
+*
+
 
 Middle_East_respiratory_syndrome_coronavirus_in_Germany_ex_UAE
 
@@ -317,6 +338,9 @@ Imported
 New Post
 Verified
 State_-_Read_more
+
+*
+
 More
 
 * RSS

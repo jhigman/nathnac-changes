@@ -295,6 +295,9 @@ Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
 diseases Read_more
+
+*
+
 All_News
 
 * RSS
@@ -320,6 +323,9 @@ New Post
 Verified
 ECDC_-_Read_more
 
+*
+
+
 Brucellosis_in_Bulgaria
 
 13 Aug 2015 Kjustendil. Bulgaria
@@ -332,6 +338,9 @@ Miscellaneous
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Anthrax_in_Bulgaria
 
@@ -346,6 +355,9 @@ Miscellaneous
 New Post
 Verified
 State_-_Read_more
+
+*
+
 More
 
 * RSS

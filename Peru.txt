@@ -524,6 +524,9 @@ Chikungunya_virus:_Caribbean_and_the_Americas
 
 Ongoing surveillance on Chikungunya virus in Caribbean and the Americas Read
 more
+
+*
+
 _Peru_
 08 Jul 2015
 
@@ -531,12 +534,18 @@ Yellow_fever:_Peru
 
 Since the start of 2015, a small number of cases of of jungle (sylvatic) yellow
 fever have been reported Read_more
+
+*
+
 16 Apr 2015
 
 Yellow_fever:_Peru
 
 Cases of Yellow fever have been reported from Loreto, Pasco, Piura, Puno and
 San Martin Read_more
+
+*
+
 All_News
 
 * RSS
@@ -562,6 +571,9 @@ Update 2
 Verified
 ProMED_-_Read_more
 
+*
+
+
 Chikungunya_virus_infection_in_Peru
 
 20 Jul 2015 Peru
@@ -571,6 +583,9 @@ Vector-born
 New Post
 Verified
 WHO_other_-_Read_more
+
+*
+
 
 Measles_in_Germany_ex_Peru
 
@@ -588,6 +603,9 @@ Close association
 New Post
 Verified
 ECDC_-_Read_more
+
+*
+
 More
 
 * RSS

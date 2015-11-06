@@ -489,44 +489,68 @@ Chikungunya_virus:_Caribbean_and_the_Americas
 
 Ongoing surveillance on Chikungunya virus in Caribbean and the Americas Read
 more
+
+*
+
 17 Jun 2015
 
 Yellow_fever:_Goiás_state,_Brazil
 
 Confirmation of a case of yellow fever in a previously unvaccinated woman
 living in Alexânia, Goiás state Read_more
+
+*
+
 20 May 2015
 
 Zika_virus_outbreak:_Brazil
 
 Cases have been confirmed in Rio Grande do Norte and Bahia states Read_more
+
+*
+
 11 May 2015
 
 Measles:_worldwide
 
 A measles reminder for health professionals and travellers Read_more
+
+*
+
 01 Apr 2015
 
 Yellow_Fever:_Brazil
 
 A new case of yellow fever has been confirmed in Brazil Read_more
+
+*
+
 18 Feb 2015
 
 Yellow_fever:_Brazil
 
 As of 13 February 2014, a new case of yellow fever has been reported in Brazil
 Read_more
+
+*
+
 17 Feb 2015
 
 Yellow_fever:_Brazil
 
 A new case of yellow fever has been reported in Brazil Read_more
+
+*
+
 16 Dec 2014
 
 West_Nile_virus:_Brazil
 
 The Ministry of Health of Brazil has confirmed an isolated case of West Nile
 virus (WNV) Read_more
+
+*
+
 All_News
 
 * RSS
@@ -552,6 +576,9 @@ Update 4
 Verified
 WHO_-_Read_more
 
+*
+
+
 Yellow_fever_in_Brazil
 
 05 Oct 2015 Federal District. Brazil
@@ -563,6 +590,9 @@ Vector-born
 New Post
 Verified
 ProMED_-_Read_more
+
+*
+
 
 Dengue_in_Brazil
 
@@ -576,6 +606,9 @@ Vector-born
 Update 2
 ProMED_-_Read_more
 
+*
+
+
 Leishmaniasis_–_visceral_(Kala_Azar)_in_Brazil
 
 24 Aug 2015 Para. Brazil
@@ -588,6 +621,9 @@ Vector-born
 New Post
 Pro_Med_-_Read_more
 
+*
+
+
 Yellow fever in Brazil
 
 03 Aug 2015 Brazil
@@ -598,6 +634,9 @@ Vector-born
 New Post
 Verified
 Read more
+
+*
+
 
 Leishmaniasis_–_visceral_(Kala_Azar)_in_Brazil
 
@@ -610,6 +649,9 @@ Vector-born
 New Post
 Pro_Med_-_Read_more
 
+*
+
+
 Mumps_in_Brazil
 
 23 Jul 2015 Minas Gerais. Brazil
@@ -620,6 +662,9 @@ Human
 Close association
 New Post
 Pro_Med_-_Read_more
+
+*
+
 
 Leishmaniasis_in_Brazil
 
@@ -632,6 +677,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Mayaro_virus_in_Brazil
 
 06 Jul 2015 Gioas. Brazil
@@ -641,6 +689,9 @@ Human
 Vector-born
 New Post
 Pro_Med_-_Read_more
+
+*
+
 
 Zika_virus_in_Italy_ex_Brazil
 
@@ -655,6 +706,9 @@ Vector-born
 New Post
 Verified
 Eurosurveillance_-_Read_more
+
+*
+
 
 Yellow_fever_in_Brazil
 
@@ -673,6 +727,9 @@ Update 2
 Verified
 State_-_Read_more
 
+*
+
+
 Acute_fever_and_rash_syndrome_in_Brazil
 
 06 May 2015 View Regions  +  Bahia
@@ -689,6 +746,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Leptospirosis_in_Brazil
 
 20 Apr 2015 Acre. Brazil
@@ -699,6 +759,9 @@ Human
 Food and Water-borne
 New Post
 ProMED_-_Read_more
+
+*
+
 
 Dengue_in_Brazil
 
@@ -711,6 +774,9 @@ Vector-born
 New Post
 ECDC_-_Read_more
 
+*
+
+
 Yellow_fever_in_Brazil
 
 31 Mar 2015 Amapa. Brazil
@@ -721,6 +787,9 @@ Vector-born
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Malaria_in_Brazil
 
@@ -735,6 +804,9 @@ New Post
 Verified
 Other_-_Verified_-_Read_more
 
+*
+
+
 Yellow_fever_in_Brazil
 
 18 Feb 2015 Brazil
@@ -748,6 +820,9 @@ New Post
 Verified
 Other_-_Verified_-_Read_more
 
+*
+
+
 Yellow_fever_in_Brazil
 
 16 Feb 2015 Brazil
@@ -759,6 +834,9 @@ Vector-born
 New Post
 Verified
 State_-_Read_more
+
+*
+
 
 Measles_in_Brazil
 
@@ -773,6 +851,9 @@ New Post
 Verified
 WHO_Other_-_Read_more
 
+*
+
+
 West_Nile_virus_in_Brazil
 
 10 Dec 2014 Piaui. Brazil
@@ -786,6 +867,9 @@ Update 1
 Verified
 State_-_Read_more
 
+*
+
+
 Brazilian_spotted_fever_in_Brazil
 
 01 Dec 2014 Sao Paulo. Brazil
@@ -795,6 +879,9 @@ Human
 Vector-born
 New Post
 ProMED_-_Read_more
+
+*
+
 More
 
 * RSS

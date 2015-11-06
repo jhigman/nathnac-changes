@@ -228,6 +228,9 @@ Previously_reported_chikungunya_in_Spain_–_false_positive
 
 The previously reported chikungunya virus infection in Gandía, mainland Spain
 is not laboratory confirmed Read_more
+
+*
+
 _Spain_
 05 Aug 2015
 
@@ -235,6 +238,9 @@ Chikungunya:_Spain
 
 The first case of locally acquired chikungunya virus infection is reported in
 Gandía, mainland Spain Read_more
+
+*
+
 _ticks_
 11 Dec 2014
 
@@ -242,6 +248,9 @@ Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
 diseases Read_more
+
+*
+
 All_News
 
 * RSS
@@ -268,6 +277,9 @@ Update 1
 Verified
 State_-_Read_more
 
+*
+
+
 Pertussis_in_Spain
 
 09 Sep 2015 Spain
@@ -278,6 +290,9 @@ Human
 Close association
 New Post
 Pro_Med_-_Read_more
+
+*
+
 
 Diphtheria_in_Spain
 
@@ -291,6 +306,9 @@ Update 1
 Verified
 WHO_-_Read_more
 
+*
+
+
 Legionnaires’_disease_in_Spain
 
 17 Mar 2015 Valencia. Spain
@@ -302,6 +320,9 @@ Air-borne
 New Post
 Verified
 State_-_Read_more
+
+*
+
 More
 
 * RSS

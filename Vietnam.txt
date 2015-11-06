@@ -499,11 +499,17 @@ Hand,_foot_and_mouth_disease_in_the_Western_Pacific_region
 
 Japan has reported 15,285 cases of Hand, foot and mouth disease (HFMD) Read
 more
+
+*
+
 11 May 2015
 
 Measles:_worldwide
 
 A measles reminder for health professionals and travellers Read_more
+
+*
+
 All_News
 
 * RSS
@@ -529,6 +535,9 @@ Vector-born
 Update 1
 ReliefWeb_-_Read_more
 
+*
+
+
 Dengue_in_Vietnam
 
 13 Aug 2015 Vietnam
@@ -542,6 +551,9 @@ Update 3
 Verified
 WHO_Regional_-_Read_more
 
+*
+
+
 Diphtheria_in_Vietnam
 
 16 Jul 2015 QuangNam. Vietnam
@@ -552,6 +564,9 @@ Air-borne
 New Post
 Verified
 Pro_Med_-_Read_more
+
+*
+
 
 Trypanosomiasis_(other)_in_Vietnam
 
@@ -564,6 +579,9 @@ Vector-born
 New Post
 ProMED_-_Read_more
 
+*
+
+
 Hand,_foot_and_mouth_disease_in_Vietnam
 
 21 Jan 2015 Vietnam
@@ -573,6 +591,9 @@ Human
 Miscellaneous
 New Post
 ProMED_-_Read_more
+
+*
+
 
 Measles_in_Vietnam
 
@@ -585,6 +606,9 @@ Close association
 Update 6
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
+
+*
+
 More
 
 * RSS

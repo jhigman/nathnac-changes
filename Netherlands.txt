@@ -153,18 +153,27 @@ MERS-CoV_update:_Republic_of_Korea_and_China
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 in Republic of Korea (South Korea) and China Read_more
+
+*
+
 05 Jun 2015
 
 MERS-CoV:_Republic_of_Korea_and_China
 
 Middle East respiratory syndrome coronavirus (MERS-CoV) update: Republic of
 Korea and China Read_more
+
+*
+
 15 Dec 2014
 
 MERS-CoV:_worldwide
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 Read_more
+
+*
+
 _ticks_
 11 Dec 2014
 
@@ -172,12 +181,18 @@ Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
 diseases Read_more
+
+*
+
 03 Dec 2014
 
 Enterovirus_D68:_North_America_and_Europe
 
 USA has reported cases and clusters of severe respiratory illness associated
 with Enterovirus D68 (EV-D68) Read_more
+
+*
+
 All_News
 
 * RSS
@@ -206,6 +221,9 @@ New Post
 Verified
 Eurosurveillance_-_Read_more
 
+*
+
+
 Louse-borne_relapsing_fever_in_Netherlands_ex_Eritrea
 
 31 Jul 2015 View Countries  +  Eritrea
@@ -220,6 +238,9 @@ New Post
 Verified
 Eurosurveillance_-_Read_more
 
+*
+
+
 Influenza_A_(H5N2)_in_Netherlands
 
 08 Apr 2015 North Brabant. Netherlands
@@ -230,6 +251,9 @@ Air-borne
 New Post
 Verified
 World_Organisation_for_animal_health_-_Read_more
+
+*
+
 
 Influenza_A_(H5)_in_Netherlands
 
@@ -244,6 +268,9 @@ Air-borne
 Update 3
 Verified
 World_Organisation_for_animal_health_-_Read_more
+
+*
+
 More
 
 * RSS

@@ -584,6 +584,9 @@ Important News
 Measles:_worldwide
 
 A measles reminder for health professionals and travellers Read_more
+
+*
+
 All_News
 
 * RSS
@@ -610,6 +613,9 @@ Update 2
 Verified
 ReliefWeb_-_Read_more
 
+*
+
+
 Undiagnosed_illness_in_Sudan
 
 05 Oct 2015 Northern Darfur. Sudan
@@ -623,6 +629,9 @@ New Post
 Verified
 ProMED_-_Read_more
 
+*
+
+
 Meningococcal_Disease_in_Sudan
 
 23 Sep 2015 Sudan
@@ -633,6 +642,9 @@ Human
 Close association
 New Post
 Pro_Med_-_Read_more
+
+*
+
 
 Measles_in_Sudan
 
@@ -646,6 +658,9 @@ New Post
 Verified
 ReliefWeb_-_Read_more
 
+*
+
+
 Dengue_in_Sudan
 
 17 Dec 2014 Northern Darfur. Sudan
@@ -657,6 +672,9 @@ Update 2
 Verified
 ReliefWeb_-_Read_more
 
+*
+
+
 Acute_haemorrhagic_fever_syndrome_in_Sudan
 
 09 Dec 2014 Northern Darfur. Sudan
@@ -666,6 +684,9 @@ Human
 Update 4
 Verified
 Other_-_Verified_-_Read_more
+
+*
+
 
 Leishmaniasis_–_cutaneous_in_Sudan
 
@@ -678,6 +699,9 @@ Vector-born
 New Post
 Verified
 ReliefWeb_-_Read_more
+
+*
+
 More
 
 * RSS

@@ -231,23 +231,35 @@ MERS-CoV_update:_Republic_of_Korea_and_China
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 in Republic of Korea (South Korea) and China Read_more
+
+*
+
 05 Jun 2015
 
 MERS-CoV:_Republic_of_Korea_and_China
 
 Middle East respiratory syndrome coronavirus (MERS-CoV) update: Republic of
 Korea and China Read_more
+
+*
+
 11 May 2015
 
 Measles:_worldwide
 
 A measles reminder for health professionals and travellers Read_more
+
+*
+
 15 Dec 2014
 
 MERS-CoV:_worldwide
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 Read_more
+
+*
+
 _ticks_
 11 Dec 2014
 
@@ -255,6 +267,9 @@ Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
 diseases Read_more
+
+*
+
 All_News
 
 * RSS
@@ -288,6 +303,9 @@ Update 1
 Verified
 Pro_Med_-_Read_more
 
+*
+
+
 Measles_in_Germany_ex_Peru
 
 29 Jun 2015 View Countries  +  Germany
@@ -305,6 +323,9 @@ New Post
 Verified
 ECDC_-_Read_more
 
+*
+
+
 Zika_virus_in_Germany_ex_Malaysia_(Borneo)
 
 18 May 2015 View Countries  +  Germany
@@ -320,6 +341,9 @@ New Post
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
 
+*
+
+
 Measles_in_Norway_ex_Germany
 
 28 Apr 2015 View Countries  +  Germany
@@ -333,6 +357,9 @@ Close association
 New Post
 Media_-_Read_more
 
+*
+
+
 Measles_in_Germany
 
 23 Apr 2015 Berlin and Brandenburg. Germany
@@ -344,6 +371,9 @@ Close association
 Update 1
 Verified
 State_-_Read_more
+
+*
+
 
 Measles_in_Sweden_ex_Germany
 
@@ -359,6 +389,9 @@ Close association
 New Post
 Verified
 ECDC_report_-_Read_more
+
+*
+
 
 Measles_in_Multiple_countries
 
@@ -383,6 +416,9 @@ New Post
 Verified
 WHO_regional_-_Read_more
 
+*
+
+
 Middle_East_respiratory_syndrome_coronavirus_in_Germany_ex_UAE
 
 09 Mar 2015 View Countries  +  Germany
@@ -398,6 +434,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Borna_disease_virus_(BVD)_infection_in_Germany
 
 02 Mar 2015 Saxony-Anhalt. Germany
@@ -411,6 +450,9 @@ Miscellaneous
 New Post
 Verified
 ECDC_report_-_Read_more
+
+*
+
 More
 
 * RSS

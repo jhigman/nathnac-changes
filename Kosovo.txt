@@ -234,6 +234,9 @@ Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
 diseases Read_more
+
+*
+
 All_News
 
 * RSS
@@ -259,6 +262,9 @@ Miscellaneous
 New Post
 Verified
 State_-_Read_more
+
+*
+
 More
 
 * RSS

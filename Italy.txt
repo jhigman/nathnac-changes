@@ -223,18 +223,27 @@ MERS-CoV_update:_Republic_of_Korea_and_China
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 in Republic of Korea (South Korea) and China Read_more
+
+*
+
 05 Jun 2015
 
 MERS-CoV:_Republic_of_Korea_and_China
 
 Middle East respiratory syndrome coronavirus (MERS-CoV) update: Republic of
 Korea and China Read_more
+
+*
+
 15 Dec 2014
 
 MERS-CoV:_worldwide
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 Read_more
+
+*
+
 _ticks_
 11 Dec 2014
 
@@ -242,6 +251,9 @@ Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
 diseases Read_more
+
+*
+
 All_News
 
 * RSS
@@ -269,6 +281,9 @@ New Post
 Verified
 Eurosurveillance_-_Read_more
 
+*
+
+
 Ebola_virus_disease_in_Italy_ex_Sierra_Leone
 
 24 Jul 2015 View Countries  +  Italy
@@ -284,6 +299,9 @@ Update 1
 Verified
 WHO_Regional_-_Read_more
 
+*
+
+
 Zika_virus_in_Italy_ex_Brazil
 
 12 Jun 2015 View Countries  +  Brazil
@@ -298,6 +316,9 @@ New Post
 Verified
 Eurosurveillance_-_Read_more
 
+*
+
+
 Meningococcal_disease_in_Italy
 
 12 May 2015 Florence. Italy
@@ -309,6 +330,9 @@ Human
 Close association
 New Post
 Media_-_Read_more
+
+*
+
 
 Measles_in_Multiple_countries
 
@@ -333,6 +357,9 @@ New Post
 Verified
 WHO_regional_-_Read_more
 
+*
+
+
 Influenza_A_(H5)_in_Italy
 
 17 Dec 2014 Rovigo. Italy
@@ -344,6 +371,9 @@ Air-borne
 New Post
 Verified
 Other_-_Verified_-_Read_more
+
+*
+
 More
 
 * RSS

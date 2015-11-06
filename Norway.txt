@@ -195,12 +195,18 @@ Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
 diseases Read_more
+
+*
+
 03 Dec 2014
 
 Enterovirus_D68:_North_America_and_Europe
 
 USA has reported cases and clusters of severe respiratory illness associated
 with Enterovirus D68 (EV-D68) Read_more
+
+*
+
 All_News
 
 * RSS
@@ -226,6 +232,9 @@ Miscellaneous
 New Post
 ProMed_-_Read_more
 
+*
+
+
 Measles_in_Norway_ex_Germany
 
 28 Apr 2015 View Countries  +  Germany
@@ -238,6 +247,9 @@ Imported
 Close association
 New Post
 Media_-_Read_more
+
+*
+
 
 Naegleria_fowleri_infections_in_Norway
 
@@ -252,6 +264,9 @@ New Post
 Verified
 State_-_Read_more
 
+*
+
+
 Enterovirus_in_Norway
 
 01 Dec 2014 Norway
@@ -263,6 +278,9 @@ Miscellaneous
 New Post
 Verified
 ECDC_report_-_Read_more
+
+*
+
 More
 
 * RSS

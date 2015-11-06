@@ -248,6 +248,9 @@ Important News
 Measles:_worldwide
 
 A measles reminder for health professionals and travellers Read_more
+
+*
+
 _ticks_
 11 Dec 2014
 
@@ -255,6 +258,9 @@ Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
 diseases Read_more
+
+*
+
 All_News
 
 * RSS
@@ -283,6 +289,9 @@ Close association
 New Post
 Verified
 Other_-_ECDC_-_Read_more
+
+*
+
 More
 
 * RSS

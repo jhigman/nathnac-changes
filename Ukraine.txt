@@ -319,6 +319,9 @@ Circulating_vaccine_derived_polio_virus_(cVDPV):_Ukraine
 
 An outbreak of Vaccine Derived Polio Virus is reported from south-western
 Ukraine, bordering Romania, Hungary, Slovakia and Poland Read_more
+
+*
+
 _ticks_
 11 Dec 2014
 
@@ -326,6 +329,9 @@ Diseases_transmitted_by_insects_and_ticks:_Europe
 
 Europe has several native insects and tick species capable of transmitting
 diseases Read_more
+
+*
+
 All_News
 
 * RSS
@@ -352,6 +358,9 @@ New Post
 Verified
 WHO_Disease_Outbreak_News_-_Read_more
 
+*
+
+
 Rabies_in_Ukraine
 
 03 Jul 2015 Donets'kaOblast'. Ukraine
@@ -362,6 +371,9 @@ Animal
 New Post
 Verified
 Health_Map_media_report_-_Read_more
+
+*
+
 
 Salmonellosis_in_Ukraine
 
@@ -375,6 +387,9 @@ Food and Water-borne
 New Post
 Verified
 State_-_Read_more
+
+*
+
 More
 
 * RSS

@@ -532,6 +532,9 @@ MERS-CoV_update:_Republic_of_Korea_and_China
 
 Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
 in Republic of Korea (South Korea) and China Read_more
+
+*
+
 All_News
 
 * RSS
@@ -557,6 +560,9 @@ New Post
 Verified
 ERCC_-_Read_more
 
+*
+
+
 Dengue_in_Thailand
 
 25 Aug 2015 Thailand
@@ -568,6 +574,9 @@ Human
 Vector-born
 New Post
 Pro_Med_-_Read_more
+
+*
+
 
 Dengue_in_Thailand
 
@@ -581,6 +590,9 @@ Vector-born
 New Post
 Media_-_Read_more
 
+*
+
+
 Middle_East_respiratory_syndrome_coronavirus_in_Thailand
 
 19 Jun 2015 Thailand
@@ -593,6 +605,9 @@ Imported
 New Post
 Verified
 WHO_Disease_Outbreak_News_-_Read_more
+
+*
+
 
 Leishmaniasis_–_visceral_(Kala_Azar)_in_Thailand
 
@@ -608,6 +623,9 @@ New Post
 Verified
 ProMED_-_Read_more
 
+*
+
+
 Scrub_typhus_(Tsutsugamushi_disease)_in_Thailand
 
 24 Nov 2014 Thailand
@@ -618,6 +636,9 @@ Vector-born
 New Post
 Verified
 State_-_Read_more
+
+*
+
 More
 
 * RSS
