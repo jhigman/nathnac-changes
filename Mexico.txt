@@ -382,23 +382,21 @@ All_News
 outbreaks
 
 
-Cyclosporiasis_in_UK_ex_Mexico
+Cyclosporiasis_in_UK_and_Canada_ex_Mexico
 
-08 Sep 2015 View Countries  +  Mexico
+06 Nov 2015 View Countries  +  Canada
+Mexico
 United Kingdom
 
-The outbreak of cyclospora associated with travel to Mexico has been ongoing
-since 1 Jun 2015. As of 2 Sep 2015, 69 cases with known travel to Mexico have
-been reported in England, Scotland and Wales, of which 39 have been laboratory
-confirmed cases. Most of the cases have stayed at various hotels and resorts on
-the Riviera Maya coast of Mexico. A further six cases in England are awaiting
-travel history information.
+Between 21 June and 22 September 2015 cyclospora cayetanensis was identified in
+176 returned travellers (79 in the UK and 97 in Canada) from the Riviera Maya
+region of Mexico.
 Human
 Imported
 Food and Water-borne
-New Post
+Update 1
 Verified
-State_-_Read_more
+Eurosurveillance_-_Read_more
 
 *
 

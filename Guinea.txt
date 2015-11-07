@@ -565,13 +565,11 @@ outbreaks
 
 Ebola_virus_disease_in_Guinea
 
-30 Oct 2015 Guinea
-Three new confirmed cases of EVD were reported in the week to 25 October, from
-Guinea. All 3 new cases are from the same household in the subprefecture of
-Kaliah, Forecariah, and are registered high-risk contacts linked to a case from
-the same area last week.
+06 Nov 2015 Guinea
+One new confirmed case of EVD was reported in the week to 1 November 2015.
+There have been 3810 cases and 2536 deaths since the start of the outbreak.
 Human
-Update 16
+Update 17
 Verified
 WHO_-_Read_more
 

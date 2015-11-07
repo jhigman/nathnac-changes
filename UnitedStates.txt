@@ -332,12 +332,12 @@ outbreaks
 
 Dengue_in_USA
 
-05 Nov 2015 Hawaii. United States
-As of 4 November 2015 there have been 15 cases of locally acquired dengue on
-the Big Island of Hawaii.
+06 Nov 2015 Hawaii. United States
+As of 5 November 2015 19 cases of dengue have been confirmed on the Big Island
+of Hawaii in residents (12) and visitors (7).
 Human
 Vector-born
-Update 2
+Update 3
 Verified
 State_-_Read_more
 
