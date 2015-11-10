@@ -565,6 +565,21 @@ All_News
 outbreaks
 
 
+Yellow_fever_in_Brazil
+
+09 Nov 2015 Goias. Brazil
+As of 6 November 2015 the death of a monkey from yellow fever has been
+confirmed in the southwestern region of Goiania, the capital city of Goias
+state. Cases in humans were confirmed in February and June 2015.
+Human
+Vector-born
+Update 4
+Verified
+State_-_Read_more
+
+*
+
+
 Zika_virus_in_Brazil
 
 22 Oct 2015 Brazil
@@ -712,20 +727,15 @@ Eurosurveillance_-_Read_more
 
 Yellow_fever_in_Brazil
 
-04 Jun 2015 Parana. Brazil
-The previously reported case of yellow fever in Alexania; Goias state has been
-confirmed by local health authorities. The patient is the 31-year-old woman who
-lived in Alexania and obtained the positive diagnosis of yellow fever in
-Brasilia of the Federal District and returned to Alexania after being
-discharged. In 2015; the Ministry of Health has reported a total of five cases
-of yellow fever (three are under investigation and two are confirmed cases).
-Three deaths were reported. The likely sites of infection were: Alto Paraiso;
-Niquelandia; Sao Miguel do Araguaia and Alexania.
+08 May 2015 Parana. Brazil
+A 31-year-old resident of Arapongas (Parana state) who died with suspected
+dengue haemorrhagic fever has been tested positive for yellow fever. The
+patient has travelled to Mato Grosso do Sul on a fishing trip in late Mar 2015.
+He developed symptoms and sought treatment while being in Mato Grosso do Sul.
 Human
 Vector-born
-Update 2
-Verified
-State_-_Read_more
+New Post
+ProMED_-_Read_more
 
 *
 
@@ -803,37 +813,6 @@ Vector-born
 New Post
 Verified
 Other_-_Verified_-_Read_more
-
-*
-
-
-Yellow_fever_in_Brazil
-
-18 Feb 2015 Brazil
-As of 16 February 2015 Alto Paraiso has two confirmed cases of yellow fever in
-2015; one in a 22 year old male and the other in a tourist who visited the
-municipality and recovered. Neither was vaccinated. A vaccination programme is
-underway.
-Human
-Vector-born
-New Post
-Verified
-Other_-_Verified_-_Read_more
-
-*
-
-
-Yellow_fever_in_Brazil
-
-16 Feb 2015 Brazil
-As of 13 Feb 2015; the Ministry of Health has reported a case of yellow fever
-involving a person who passed through the city of Alto Paraiso in Goias. The
-individual was diagnosed and treated in Rio de Janeiro.
-Human
-Vector-born
-New Post
-Verified
-State_-_Read_more
 
 *
 

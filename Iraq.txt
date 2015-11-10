@@ -458,15 +458,42 @@ outbreaks
 
 Cholera_in_Iraq
 
-03 Nov 2015 Iraq
-As of 1 November 2015 the Ministry of Health has reported 2,173 laboratory
-confirmed cholera cases with two deaths from 15 out of 19 governorates, since
-the outbreak began on 15 September 2015.
+09 Nov 2015 Iraq
+As of 6 November 2015 there have been 2,500 cases and two deaths from cholera.
 Human
 Food and Water-borne
-Update 9
-Verified
-WHO_-_Read_more
+Update 10
+ProMed_-_Read_more
+
+*
+
+
+Cholera_in_Bahrain_(Ex_Iraq)
+
+09 Nov 2015 View Countries  +  Bahrain
+Iraq
+
+As of 6 November 2015 UNICEF have reported that the outbreak of cholera
+occurring in Iraq, has spread to Bahrain.
+Human
+Food and Water-borne
+New Post
+ProMed_-_Read_more
+
+*
+
+
+Cholera_in_Kuwait_(ex_Iraq)
+
+09 Nov 2015 View Countries  +  Iraq
+Kuwait
+
+As of 6 November 2015 UNICEF have reported that the outbreak of cholera
+occurring in Iraq, has spread to Kuwait.
+Human
+Food and Water-borne
+New Post
+ProMed_-_Read_more
 
 *
 

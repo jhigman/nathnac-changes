@@ -330,6 +330,20 @@ All_News
 outbreaks
 
 
+Eastern_equine_encephalitis_in_USA
+
+09 Nov 2015 New York. United States
+As of 5 November 2015 a new case of EEE was reported from Onondaga County. The
+individual is reported to be recovering. This is the second case during 2015.
+Human
+Vector-born
+Update 1
+Verified
+State_-_Read_more
+
+*
+
+
 Dengue_in_USA
 
 06 Nov 2015 Hawaii. United States
@@ -532,20 +546,6 @@ Air-borne
 Update 4
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more
-
-*
-
-
-Eastern_equine_encephalitis_in_USA
-
-02 Sep 2015 New York. United States
-A patient has been diagnosed with eastern equine encephalitis [EEE] in the
-Onondaga County.
-Human
-Vector-born
-New Post
-Verified
-State_-_Read_more
 
 *
 
