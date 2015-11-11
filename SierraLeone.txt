@@ -542,11 +542,11 @@ outbreaks
 
 Ebola_virus_disease_in_Sierra_Leone
 
-18 Sep 2015 Sierra Leone
-In the week to 13 September 2015 Sierra Leone confirmed 5 new cases of Ebola
-Virus Disease, bringing the total number of cases to 13,756 and 3,953 deaths.
+10 Nov 2015 Sierra Leone
+As of 7 November 2015 the World Health Organization declares that EVD
+transmission has been stopped in Sierra Leone.
 Human
-Update 10
+Update 11
 Verified
 WHO_Regional_-_Read_more
 

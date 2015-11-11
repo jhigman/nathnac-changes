@@ -330,28 +330,14 @@ All_News
 outbreaks
 
 
-Eastern_equine_encephalitis_in_USA
-
-09 Nov 2015 New York. United States
-As of 5 November 2015 a new case of EEE was reported from Onondaga County. The
-individual is reported to be recovering. This is the second case during 2015.
-Human
-Vector-born
-Update 1
-Verified
-State_-_Read_more
-
-*
-
-
 Dengue_in_USA
 
-06 Nov 2015 Hawaii. United States
-As of 5 November 2015 19 cases of dengue have been confirmed on the Big Island
-of Hawaii in residents (12) and visitors (7).
+10 Nov 2015 Hawaii. United States
+As of 9 November 2015 there have been 27 cases of dengue in residents (19) and
+visitors (8). All cases are recovering.
 Human
 Vector-born
-Update 3
+Update 4
 Verified
 State_-_Read_more
 
@@ -360,12 +346,27 @@ State_-_Read_more
 
 E._coli_in_USA
 
-05 Nov 2015 View Regions  +  Oregon
+10 Nov 2015 View Regions  +  Oregon
 Washington
-As of 3 November 2015 there have been 41 cases of E coli in Washington (29) and
-Oregon (12). No deaths have been reported.
+As of 9 November 2015 there have been 42 cases reported from Washington (27)
+and Oregon (15). Case counts may go up or down as additional test results are
+available and the investigation progresses.
 Human
 Food and Water-borne
+Update 2
+Verified
+CDC_-_Read_more
+
+*
+
+
+Eastern_equine_encephalitis_in_USA
+
+09 Nov 2015 New York. United States
+As of 5 November 2015 a new case of EEE was reported from Onondaga County. The
+individual is reported to be recovering. This is the second case during 2015.
+Human
+Vector-born
 Update 1
 Verified
 State_-_Read_more
