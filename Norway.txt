@@ -223,16 +223,17 @@ outbreaks
 
 Mumps_in_Norway
 
-10 Nov 2015 View Regions  +  Bergen
+11 Nov 2015 View Regions  +  Bergen
 Oslo
 Trondheim
-As of 6 November 2015 approximately 80 cases of mumps have been reported to the
-Institute for Public Health. It is believed that the outbreak was brought in by
-foreign students. Case numbers had previously reduced significantly since 1960.
+As of 10 November 2015 70 cases of mumps are suspected or confirmed in the
+Trondheim region. The current figures represent an increase compared to the
+previous five years.
 Human
 Close association
-New Post
-ProMed_-_Read_more
+Update 1
+Verified
+State_-_Read_more
 
 *
 

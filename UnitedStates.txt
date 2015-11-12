@@ -215,6 +215,15 @@ Dengue_in_brief
 
 Important News
 
+_Mosquito---bite-prevention_
+11 Nov 2015
+
+Dengue:_Hawaii
+
+First cluster of locally acquired dengue fever in Hawaii since 2011. Read_more
+
+*
+
 _iStock_2788828-Hanta-Yosemite_
 13 Aug 2015
 
@@ -332,12 +341,12 @@ outbreaks
 
 Dengue_in_USA
 
-10 Nov 2015 Hawaii. United States
-As of 9 November 2015 there have been 27 cases of dengue in residents (19) and
-visitors (8). All cases are recovering.
+11 Nov 2015 Hawaii. United States
+As of 10 November 2015 33 cases of dengue have been confirmed in residents (25)
+and visitors (8).
 Human
 Vector-born
-Update 4
+Update 5
 Verified
 State_-_Read_more
 
