@@ -279,6 +279,29 @@ Prevention
 
 Altitude_illness_in_brief
 
+Dengue
+
+Dengue is a viral infection transmitted by mosquitoes which predominantly feed
+between dawn and dusk.  It causes a flu-like illness, which can occasionally
+develop into a more serious life-threatening forms of the disease. Severe
+dengue is rare in travellers.
+The mosquitoes that transmit dengue are most abundant in towns, cities and
+surrounding areas. All travellers to dengue areas are at risk.
+
+Dengue in Egypt
+
+Dengue is known or has the potential to occur in this country (see_our_outbreak
+section).
+
+Prevention
+
+
+* All travellers should avoid mosquito bites particularly between dawn and
+  dusk.
+* There is no vaccination or medication to prevent dengue.
+
+Dengue_in_brief
+
 Schistosomiasis
 
 Schistosomiasis is a parasitic infection. Schistosoma larvae are released from
@@ -368,6 +391,23 @@ All_News
 
 
 outbreaks
+
+
+Dengue_in_Egypt
+
+13 Nov 2015 Dayrout District. Egypt
+Between 1 and 31 October 2015,  253 cases were admitted to the Dayrout Fever
+Hospital due to acute febrile illness.  Several samples have been tested and 28
+of 118 serum samples were positive for dengue virus type 1. Entomological
+surveillance and vector control measures continue to be implemented in the
+affected villages and its surrounding areas.
+Human
+Vector-born
+New Post
+Verified
+WHO_-_Read_more
+
+*
 
 
 Influenza_A_(H9N2)_in_Egypt
