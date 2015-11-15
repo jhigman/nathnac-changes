@@ -395,7 +395,7 @@ outbreaks
 
 Dengue_in_Egypt
 
-13 Nov 2015 Dayrout District. Egypt
+13 Nov 2015 Egypt
 Between 1 and 31 October 2015,  253 cases were admitted to the Dayrout Fever
 Hospital due to acute febrile illness.  Several samples have been tested and 28
 of 118 serum samples were positive for dengue virus type 1. Entomological

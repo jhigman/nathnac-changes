@@ -137,15 +137,16 @@ and dawn.
 Those at increased risk include travellers who are staying for a month or
 longer during the transmission season, especially if travel will include rural
 areas with rice fields and marshland.
-Travellers on shorter trips (typically less than a month) and those who
-restrict their visits to urban areas are usually considered to be at very low
-risk.
+Travellers on shorter trips (typically less than a month), or trips that take
+place outside the peak transmission season and those who restrict their visits
+to urban areas are usually considered to be at very low risk.
 Japanese encephalitis in Japan
-JE occurs in this country. The transmission season is June to September, except
-on Ryuku Islands (Okinawa) where the season is April to December. Local human
-JE incidence rates may not accurately reflect the risks to non-immune visitors
-because of high vaccination rates in local populations. High levels of viral
-transmission can occur in the absence of human disease.
+JE occurs in this country.  The transmission season is typically June to
+September, except on Ryuku Islands (Okinawa) where the season is typically
+April to December. Rarely cases in travellers are reported outside these
+months.  Local human JE incidence rates may not accurately reflect the risks to
+non-immune visitors because of high vaccination rates in local populations.
+High levels of viral transmission can occur in the absence of human disease.
 Prevention
 All travellers should avoid mosquito bites particularly between dusk and dawn.
 

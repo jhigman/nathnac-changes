@@ -548,7 +548,7 @@ outbreaks
 
 Crimean-Congo_Haemorrhagic_Fever_(CCHF)_in_Senegal
 
-13 Nov 2015 St Louis. Senegal
+13 Nov 2015 Senegal
 On 10 November 2015, a case of CCHF was confirmed by the Department of
 Infectious Diseases at the Fann Hospital in Dakar. CCHF is rarely reported in
 Senegal and this is the first case to be reported in St Louis.
