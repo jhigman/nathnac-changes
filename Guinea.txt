@@ -565,13 +565,16 @@ outbreaks
 
 Ebola_Virus_Disease_in_Brazil_(ex_Guinea)
 
-12 Nov 2015 View Countries  +  Brazil
+16 Nov 2015 View Countries  +  Brazil
 Guinea
 
-As of 11 November 2015 a suspected case of EVD has been reported in a 46 yr old
-Brazilian male recently returned from Guinea.
+As of 15 November 2015 the Ministry of Health reports that the second
+examination for suspected patient’s diagnosis of Ebola virus infection also was
+negative. With that, the case is dropped and will be notified to the World
+Health Organization, through the Pan American Health Organization (PAHO), as
+set out in the International Health Regulations (IHR).
 Human
-New Post
+Update 1
 Verified
 State_-_Read_more
 
