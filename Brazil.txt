@@ -483,6 +483,16 @@ Schistosomiasis_in_brief
 Important News
 
 _Mosquito_
+19 Nov 2015
+
+Chikungunya_virus:_Caribbean_and_the_Americas
+
+Ongoing surveillance and updated case report numbers for Chikungunya virus in
+Caribbean and the Americas Read_more
+
+*
+
+_Mosquito_
 21 Jul 2015
 
 Chikungunya_virus:_Caribbean_and_the_Americas
@@ -563,6 +573,29 @@ All_News
 
 
 outbreaks
+
+
+Microcephaly_in_Brazil
+
+19 Nov 2015 View Regions  +  Bahia
+Ceara
+Paraiba
+Pernambuco
+Piaui
+Rio Grande do Norte
+Sergipe
+As of 17 November 2015, the Ministry of Health in Brazil has reported an
+unusual increase in cases of microcephaly in north-eastern Brazil.
+Investigations, including clinical, laboratory and ultrasound analysis of
+newborns and their mothers is ongoing. A public health emergency of national
+significance has been declared.
+Human
+Miscellaneous
+New Post
+Verified
+State_-_Read_more
+
+*
 
 
 Ebola_Virus_Disease_in_Brazil_(ex_Guinea)
@@ -762,7 +795,7 @@ Acute_fever_and_rash_syndrome_in_Brazil
 
 06 May 2015 View Regions  +  Bahia
 Maranhoa
-Parayba
+Paraiba
 Pernambuco
 States of Bahia; Maranhao; Pernambuco; Rio Grande do Norte; Sergipe and Paraiba
 have reported cases of acute fever and rash syndrome. As of 29 Apr 2015, a
