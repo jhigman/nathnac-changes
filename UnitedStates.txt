@@ -339,6 +339,22 @@ All_News
 outbreaks
 
 
+Salmonellosis_in_USA
+
+20 Nov 2015 United States
+Between 14 October and 18 November 2015 71 more cases of Salmonella Poona
+connected to cucumbers imported from Mexico, have been reported from 23 states.
+Cases have been reported in two new states for the first time (Connecticut and
+New Hampshire) making the total number 38.
+Human
+Food and Water-borne
+Update 5
+Verified
+CDC_-_Read_more
+
+*
+
+
 Vibrio_vulnificus_in_USA
 
 18 Nov 2015 Florida. United States
@@ -407,21 +423,6 @@ Food and Water-borne
 New Post
 Verified
 State_-_Read_more
-
-*
-
-
-Salmonellosis_in_USA
-
-20 Oct 2015 United States
-As of 14 October 2015, CDC has confirmed 35 further cases of Salmonella Poona
-linked to infected cucumbers. A total of 36 states have now reported cases. 767
-cases have been reported overall, with four deaths.
-Human
-Food and Water-borne
-Update 4
-Verified
-CDC_-_Read_more
 
 *
 
