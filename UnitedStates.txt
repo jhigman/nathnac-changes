@@ -339,6 +339,21 @@ All_News
 outbreaks
 
 
+E._coli_in_USA
+
+23 Nov 2015 United States
+As of 20 November 2015 cases of E coli connected to a restaurant chain have
+been reported from three more states making six; California (2), Minnesota (2),
+New York (1), Ohio (1), Oregon (13), and Washington (26).
+Human
+Food and Water-borne
+Update 3
+Verified
+CDC_-_Read_more
+
+*
+
+
 Salmonellosis_in_USA
 
 20 Nov 2015 United States
@@ -378,22 +393,6 @@ Vector-born
 Update 6
 Verified
 State_-_Read_more
-
-*
-
-
-E._coli_in_USA
-
-10 Nov 2015 View Regions  +  Oregon
-Washington
-As of 9 November 2015 there have been 42 cases reported from Washington (27)
-and Oregon (15). Case counts may go up or down as additional test results are
-available and the investigation progresses.
-Human
-Food and Water-borne
-Update 2
-Verified
-CDC_-_Read_more
 
 *
 

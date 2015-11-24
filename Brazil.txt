@@ -575,6 +575,20 @@ All_News
 outbreaks
 
 
+Zika_virus_in_Brazil
+
+23 Nov 2015 Brazil
+As of 21 November 2015 five cases of zika virus have been confirmed in a new
+state, Tocantins.
+Human
+Vector-born
+Update 5
+Verified
+State_-_Read_more
+
+*
+
+
 Microcephaly_in_Brazil
 
 19 Nov 2015 View Regions  +  Bahia
@@ -627,20 +641,6 @@ Vector-born
 Update 4
 Verified
 State_-_Read_more
-
-*
-
-
-Zika_virus_in_Brazil
-
-22 Oct 2015 Brazil
-As of 8 October 2015 locally acquired cases of Zika virus had been detected in
-14 states.
-Human
-Vector-born
-Update 4
-Verified
-WHO_-_Read_more
 
 *
 
