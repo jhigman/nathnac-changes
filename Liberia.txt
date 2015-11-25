@@ -524,15 +524,15 @@ outbreaks
 
 Ebola_virus_disease_in_Liberia
 
-04 Sep 2015 Liberia
-The World Health Organization (WHO) has declared Liberia free of Ebola virus
-transmission for a second time.  42 days have passed since the last lab
-confirmed case.
-Liberia now enters a 90-day period of heightened surveillance.
+24 Nov 2015 Liberia
+On 23 November 2015 WHO reported a new outbreak of EVD had been identified on
+19 November 2015. Three confirmed cases from the same family are receiving
+treatment and 150 contacts are being monitored. Liberia was declared free of
+EVD in the human population on 3 September 2015.
 Human
-Update 6
+Update 7
 Verified
-WHO_Other_-_Read_more
+WHO_-_Read_more
 
 *
 

@@ -458,12 +458,14 @@ outbreaks
 
 Cholera_in_Iraq
 
-09 Nov 2015 Iraq
-As of 6 November 2015 there have been 2,500 cases and two deaths from cholera.
+24 Nov 2015 Iraq
+As of 17 November 2015 a total of 4,858 laboratory-confirmed cases of cholera
+have been reported, including two deaths in 16 out of the 19 governorates.
 Human
 Food and Water-borne
-Update 10
-ProMed_-_Read_more
+Update 11
+Verified
+WHO_-_Read_more
 
 *
 

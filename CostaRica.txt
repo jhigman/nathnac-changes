@@ -64,7 +64,7 @@ required, should be sought from their healthcare professional.
   certificate requirement:
 * Under International Health Regulations (2005), a yellow fever vaccination
   certificate is required from travellers over 9 months of age arriving from
-  countries with risk of yellow fever transmison (with the exception of
+  countries with risk of yellow fever transmission (with the exception of
   Burundi, Chad, Congo, Côte d’Ivoire, Ethiopia, Guinea-Bissau, Equatorial
   Guinea, Kenya, Mali, Mauritania, Niger, Central African Republic, Rwanda,
   Senegal, South Sudan, Togo and Uganda in Africa; and Argentina, Guyana,

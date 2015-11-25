@@ -560,13 +560,16 @@ outbreaks
 
 Cholera_in_Tanzania
 
-10 Nov 2015 Kigoma. Tanzania (Including Zanzibar)
-As of 8 November 2015 seven cases of cholera have been reported in the Kigoma
-region. The previous outbreak was reported to have ended in September 2015.
+24 Nov 2015 Tanzania (Including Zanzibar)
+As of 18 November 2015 the cumulative number of suspected/confirmed cases of
+cholera is 9,240 with 132 cumulative total deaths in 19 regions. Zanzibar has
+reported a total of 380 cholera cases and four deaths. 90 new cases were
+reported from Pemba between 9th-19th November.
 Human
 Food and Water-borne
-New Post
-Media_-_Read_more
+Update 1
+Verified
+ReliefWeb_-_Read_more
 
 *
 
