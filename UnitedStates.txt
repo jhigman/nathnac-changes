@@ -339,7 +339,29 @@ All_News
 outbreaks
 
 
-E._coli_in_USA
+E.coli_in_USA
+
+25 Nov 2015 View Regions  +  California
+Colorado
+Missouri
+Montana
+Utah
+Virginia
+Washington
+As of 23 November 2015, 19 cases of Shiga toxin-producing E coli  O157:H7 have
+been reported from seven states. No deaths have been reported. Evidence
+suggests that rotisserie chicken salad made and sold in a chain of retail
+stores is a likely source of the outbreak.
+Human
+Food and Water-borne
+New Post
+Verified
+CDC_-_Read_more
+
+*
+
+
+E.coli_in_USA
 
 23 Nov 2015 United States
 As of 20 November 2015 cases of E coli connected to a restaurant chain have
@@ -1193,20 +1215,6 @@ Human
 Miscellaneous
 New Post
 ProMED_-_Read_more
-
-*
-
-
-Eastern_equine_encephalitis_in_USA
-
-26 Nov 2014 New York. United States
-On 24 Sept 2014, Onondaga County Health Department confirmed a second case of
-Eastern Equine Encephalitis in a local resident.
-Human
-Vector-born
-Update 1
-Verified
-State_Authority_-_Read_more
 
 *
 
