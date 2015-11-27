@@ -577,23 +577,23 @@ outbreaks
 
 Microcephaly_in_Brazil
 
-25 Nov 2015 View Regions  +  Bahia
+26 Nov 2015 View Regions  +  Bahia
 Ceara
 Paraiba
 Pernambuco
 Piaui
 Rio Grande do Norte
 Sergipe
-As of 21 November 2015, 739 suspected cases of microcephaly have been
-identified in 160 municipalities in nine states of Brazil. Although the cause
-of this event is yet to be determined, pregnant women who are travelling to
-Brazil should seek advice from their travel health advisor well in advance of
-their trip.  Further information on pregnancy and travel is available here.
+As of 25 November 2015, ECDC has evaluated a possible link between the increase
+of congenital microcephaly in Brazil and Zika virus infection. Pregnant women
+who are travelling to Brazil should seek advice from their travel health
+advisor well in advance of their trip. Further_information_on_pregnancy_and
+travel_is_available_here.
 Human
 Miscellaneous
-Update 1
+Update 2
 Verified
-State_-_Read_more
+ECDC_-_Read_more
 
 *
 

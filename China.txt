@@ -811,20 +811,6 @@ ProMED_-_Read_more
 
 *
 
-
-Dengue_in_China
-
-27 Nov 2014 Guangdong. China
-As of 16 Nov 2014; the province reported 44;696 laboratory-confirmed and
-clinical cases of dengue from 20 cities. Of these; 37;062 cases were reported
-from Guangzhou – capital and largest city of Guangdong province.
-Human
-Update 4
-Verified
-WHO_Disease_Outbreak_News_-_Read_more
-
-*
-
 More
 
 * RSS
