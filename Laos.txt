@@ -570,13 +570,12 @@ outbreaks
 
 Circulating_vaccine-derived_poliovirus_(CVDPV)_in_Laos
 
-09 Nov 2015 Laos
-As of 4 November 2015 a new case of circulating vaccine-derived poliovirus type
-1 (cVDPV1) was reported in Laos in Borikhamxay province, with onset of
-paralysis on 7 October. This is the second case during 2015.
+27 Nov 2015 Laos
+As of 26 November 2015, the World Health Organization has confirmed two
+additional cases of type 1 vaccine-derived poliovirus (VDPV1) in Laos.
 Human
 Food and Water-borne
-Update 1
+Update 2
 Verified
 WHO_-_Read_more
 

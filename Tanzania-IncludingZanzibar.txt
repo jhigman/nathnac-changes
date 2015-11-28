@@ -560,16 +560,14 @@ outbreaks
 
 Cholera_in_Tanzania
 
-24 Nov 2015 Tanzania (Including Zanzibar)
-As of 18 November 2015 the cumulative number of suspected/confirmed cases of
-cholera is 9,240 with 132 cumulative total deaths in 19 regions. Zanzibar has
-reported a total of 380 cholera cases and four deaths. 90 new cases were
-reported from Pemba between 9th-19th November.
+27 Nov 2015 Tanzania (Including Zanzibar)
+As of 26 November 2015, the World Health Organization has confirmed at least
+9,871 cases of cholera, including 150 deaths, across the country.
 Human
 Food and Water-borne
-Update 1
+Update 2
 Verified
-ReliefWeb_-_Read_more
+WHO_-_Read_more
 
 *
 
