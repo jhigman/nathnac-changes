@@ -386,13 +386,16 @@ outbreaks
 
 Zika_Virus_in_Guatemala
 
-27 Nov 2015 Guatemala
-As of 24 November 2015, media reports state that the Ministry of Health,
-Guatemala has confirmed the presence of Zika virus in Guatemala.
+30 Nov 2015 Guatemala
+As of 27 November 2015, WHO received notification of a laboratory-confirmed
+autochthonous case of Zika virus infection in Guatemala. The patient developed
+symptoms on 11 November 2015. Investigations are being carried out to detect
+further cases.
 Human
 Vector-born
-New Post
-Media_-_Read_more
+Update 1
+Verified
+WHO_-_Read_more
 
 *
 

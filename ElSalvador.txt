@@ -348,14 +348,14 @@ outbreaks
 
 Zika_virus_in_El_Salvador
 
-27 Nov 2015 El Salvador
-As of 25 November 2015, the Ministry of Health, El Salvador has confirmed
-presence of Zika virus in El Salvador.
+30 Nov 2015 El Salvador
+On 24 November 2015, the National IHR Focal Point of El Salvador notified WHO
+of three laboratory-confirmed autochthonous cases of Zika virus infection.
 Human
 Vector-born
-New Post
+Update 1
 Verified
-State_-_Read_more
+WHO_-_Read_more
 
 *
 

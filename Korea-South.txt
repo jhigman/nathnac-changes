@@ -392,7 +392,7 @@ ProMED_-_Read_more
 Middle_East_respiratory_syndrome_coronavirus_in_China_ex_South_Korea
 
 01 Jun 2015 View Countries  +  China
-China (Hong Kong)
+Hong Kong (China)
 Korea (South)
 
 On 29 May 2015, the National Health and Family Planning Commission of China

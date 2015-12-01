@@ -2,7 +2,7 @@
 
 * Home
 * Country_Information
-* China (Hong Kong)
+* Hong Kong (China)
 
 
 General information
@@ -45,7 +45,7 @@ Resources
 
 * Home
 * Country_Information
-* China (Hong Kong)
+* Hong Kong (China)
 
 
 Vaccine recommendations
@@ -281,7 +281,7 @@ Typhoid vaccination
 
 * Home
 * Country_Information
-* China (Hong Kong)
+* Hong Kong (China)
 
 
 Malaria
@@ -292,7 +292,7 @@ Malaria
 
 * Home
 * Country_Information
-* China (Hong Kong)
+* Hong Kong (China)
 
 
 Other risks
@@ -324,7 +324,7 @@ Dengue_in_brief
 
 * Home
 * Country_Information
-* China (Hong Kong)
+* Hong Kong (China)
 
 
 Important News
@@ -392,30 +392,15 @@ All_News
 
 * Home
 * Country_Information
-* China (Hong Kong)
+* Hong Kong (China)
 
 
 outbreaks
 
 
-Influenza_A_(H7N9)_in_China_(Hong_Kong)
+Vibrio_infections_in_Hong_Kong_(China)
 
-11 Nov 2015 China (Hong Kong)
-As of 11 November 2015 two cases of avian influenza A (H7N9) have been reported
-in Zhejiang. Both individuals had exposure to poultry.
-Human
-Air-borne
-Imported
-Update 1
-Verified
-State_-_Read_more
-
-*
-
-
-Vibrio_infections_in_China_(Hong_Kong)
-
-25 Aug 2015 China (Hong Kong)
+25 Aug 2015 Hong Kong (China)
 Two persons have contracted infection with Vibrio vulnificus between Jul - Aug
 2015. Both cases had visited wet market; one had a history of fish sting.
 Human
@@ -426,9 +411,9 @@ Media_-_Read_more
 *
 
 
-Japanese_encephalitis_in_China_(Hong_Kong)
+Japanese_encephalitis_in_Hong_Kong_(China)
 
-06 Jul 2015 China (Hong Kong)
+06 Jul 2015 Hong Kong (China)
 As of 30 Jun 2015, health authorities in Hong Kong are investigating the first
 suspected local case of Japanese encephalitis (JE) this year. Although the case
 had travel history during the incubation period; the duration of stay was
@@ -445,7 +430,7 @@ State_-_Read_more
 Middle_East_respiratory_syndrome_coronavirus_in_China_ex_South_Korea
 
 01 Jun 2015 View Countries  +  China
-China (Hong Kong)
+Hong Kong (China)
 Korea (South)
 
 On 29 May 2015, the National Health and Family Planning Commission of China
@@ -465,9 +450,9 @@ WHO_Disease_Outbreak_News_-_Read_more
 *
 
 
-Influenza_A_(H5)_in_China_(Hong_Kong)
+Influenza_A_(H5)_in_Hong_Kong_(China)
 
-06 May 2015 China (Hong Kong)
+06 May 2015 Hong Kong (China)
 Highly pathogenic avian influenza virus (H5N6) has been reported in wild birds
 (Oriental Magpie-Robin). No spread of disease was evident. The date of end of
 the outbreak is the same as the date the bird was found (29 April 2015).
@@ -480,9 +465,9 @@ World_Organisation_for_animal_health_-_Read_more
 *
 
 
-Hepatitis_A_in_China_(Hong_Kong)
+Hepatitis_A_in_Hong_Kong_(China)
 
-16 Apr 2015 China (Hong Kong)
+16 Apr 2015 Hong Kong (China)
 As of 14 Apr 2015; Hong Kong has reported increased number of cases of
 hepatitis A infection. A total of 64 cases have been reported; compared with
 43; 44 and 46 cases in the previous years (2012; 2013 and 2014 respectively).
@@ -497,9 +482,9 @@ State_-_Read_more
 *
 
 
-Influenza_A_(H7)_in_China_(Hong_Kong)
+Influenza_A_(H7)_in_Hong_Kong_(China)
 
-02 Jan 2015 China (Hong Kong)
+02 Jan 2015 Hong Kong (China)
 As of 31 December 2014 official information is provided on contact tracing
 after samples of live chickens imported from the mainland tested positive. To
 date no cases have been confirmed in humans.
@@ -508,6 +493,25 @@ Air-borne
 New Post
 Verified
 ProMED_-_Read_more
+
+*
+
+
+Influenza_A_(H7N9)_in_Hong_Kong_(China)
+
+31 Dec 2014 Hong Kong (China)
+As of 30 December 2014 a case has been confirmed in a 68 year old female who
+developed symptoms on 19 December and is in critical condition. The preliminary
+epidemiological investigation revealed that the patient travelled to Shenzhen
+on 13 December and returned to Hong Kong on the same day. The patient did not
+visit any wet market or have contact with live poultry in Hong Kong during the
+incubation period.
+Human
+Air-borne
+Imported
+New Post
+Verified
+WHO_Disease_Outbreak_News_-_Read_more
 
 *
 

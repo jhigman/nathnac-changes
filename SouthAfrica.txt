@@ -511,6 +511,24 @@ All_News
 outbreaks
 
 
+CRIMEAN_CONGO_HAEMORRHAGIC_FEVER_IN_SOUTH_AFRICA
+
+30 Nov 2015 View Regions  +  Free State
+Wepener
+As of 30 November 2015, the National Institute for Communicable Diseases in
+South Africa has confirmed Crimean-Congo Haemorrhagic Fever (CCHF) in a 25-year
+old male reportedly bitten by ticks before falling ill. This is the first
+confirmed case of CCHF in 2015 and the 200th confirmed case in South Africa
+since 1981.
+Human
+Vector-born
+New Post
+Verified
+National_Institute_for_Communicable_Diseases_in_South_Africa_-_Read_more
+
+*
+
+
 Diphtheria_in_South_Africa
 
 07 Jul 2015 Kwazulu-Natal. South Africa
@@ -549,7 +567,7 @@ State_-_Read_more
 
 Crimean Congo haemorrhagic fever in South Africa
 
-29 Dec 2014 FreeState. South Africa
+29 Dec 2014 Free State. South Africa
 South Africa has confirmed a sixth case of Crimean-Congo haemorrhagic fever
 (CCHF) for 2014. The case; a 70-year-old farmer from Free State Province, was
 reportedly bitten by a tick whilst handling cattle in mid Nov 2014. He became

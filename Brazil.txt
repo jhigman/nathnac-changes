@@ -575,39 +575,39 @@ All_News
 outbreaks
 
 
+Zika_virus_in_Brazil
+
+30 Nov 2015 Brazil
+As of 25 November 2015, according to media sources citing the Flavivirus
+Laboratory at the Oswaldo Cruz Institute, seven cases of Guillain–Barré
+syndrome have been linked to Zika infections in Pernambuco state.
+Human
+Vector-born
+Update 6
+Media_-_Read_more
+
+*
+
+
 Microcephaly_in_Brazil
 
-26 Nov 2015 View Regions  +  Bahia
+30 Nov 2015 View Regions  +  Bahia
 Ceara
 Paraiba
 Pernambuco
 Piaui
 Rio Grande do Norte
 Sergipe
-As of 25 November 2015, ECDC has evaluated a possible link between the increase
-of congenital microcephaly in Brazil and Zika virus infection. Pregnant women
-who are travelling to Brazil should seek advice from their travel health
-advisor well in advance of their trip. Further_information_on_pregnancy_and
-travel_is_available_here.
+As of 27 November 2015, the Ministry of Health of Brazil has given WHO an
+update regarding the unusual increase in microcephaly in newborns. As of 21
+November, a total of 739 cases are being investigated in nine states of
+northeast Brazil. One fatal case was reported in the state of Rio Grande do
+Norte.
 Human
 Miscellaneous
-Update 2
+Update 3
 Verified
-ECDC_-_Read_more
-
-*
-
-
-Zika_virus_in_Brazil
-
-23 Nov 2015 Brazil
-As of 21 November 2015 five cases of zika virus have been confirmed in a new
-state, Tocantins.
-Human
-Vector-born
-Update 5
-Verified
-State_-_Read_more
+WHO_-_Read_more
 
 *
 
@@ -896,19 +896,6 @@ Vector-born
 Update 1
 Verified
 State_-_Read_more
-
-*
-
-
-Brazilian_spotted_fever_in_Brazil
-
-01 Dec 2014 Sao Paulo. Brazil
-As of 30 Nov 2014; five cases of Brazilian Spotted Fever have been reported in
-Piracicaba city (Sao Paulo); including four deaths.
-Human
-Vector-born
-New Post
-ProMED_-_Read_more
 
 *
 

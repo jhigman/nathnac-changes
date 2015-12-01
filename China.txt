@@ -671,15 +671,15 @@ outbreaks
 
 Influenza_A_(H7N9)_in_China
 
-20 Oct 2015 Zhejiang. China
-As of 19 October 2015, WHO reported two additional laboratory-confirmed human
-cases of avian influenza A (H7N9) virus. Both had exposure to poultry and live
-poultry markets.
+30 Nov 2015 China
+As of 26 November 2015, since it was first reported in March 2013, a total of
+681 cases of novel avian influenza A(H7N9) virus have been reported, including
+275 deaths. No autochthonous cases have been reported outside China.
 Human
 Air-borne
-New Post
+Update 2
 Verified
-WHO_-_Read_more
+ECDC_-_Read_more
 
 *
 
@@ -749,7 +749,7 @@ State_-_Read_more
 Middle_East_respiratory_syndrome_coronavirus_in_China_ex_South_Korea
 
 01 Jun 2015 View Countries  +  China
-China (Hong Kong)
+Hong Kong (China)
 Korea (South)
 
 On 29 May 2015, the National Health and Family Planning Commission of China
@@ -800,7 +800,7 @@ State_-_Read_more
 
 Influenza_A_(H7N9)_in_China
 
-07 Jan 2015 Jiangsu. China
+07 Jan 2015 China
 As of 6 January 2015 an additional case has been confirmed in a 36 yr old male
 who is in critical condition.
 Human
