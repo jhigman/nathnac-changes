@@ -108,9 +108,12 @@ those visiting areas of poor sanitation.
 
 Polio in Nigeria
 
-Case/s of wild type polio virus were last reported in July 2014. Cases of
-circulating Vaccine Derived Polio Virus (cVDPV) have been reported during 2015.
+Travellers should be aware that this country has recently reported cases of
+circulating Vaccine Derived Polio Virus (cVDPV) [Please_see_Outbreak
+Surveillance_Section].
+
 Prevention
+
 All travellers should take care with personal and food and water hygiene.
 
 Polio vaccination
@@ -118,8 +121,14 @@ Polio vaccination
 
 * All travellers should have completed a polio vaccination course according to
   the UK schedule.
-* A booster dose of a polio-containing vaccine is recommended for those who
-  have not received a dose within the previous 10 years.
+* All travellers to Nigeria should make sure they have had a polio-containing
+  vaccine in the past 10 years and that children have had an age appropriate
+  course of vaccine.
+* Those who are travelling to settings with extremely poor hygiene (e.g.
+  refugee camps), or likely to be in close proximity with cases (e.g.
+  healthcare workers), and/or expecting to stay in Nigeria for more than 6
+  months and are previously fully vaccinated, should receive an additional dose
+  of polio vaccine if they have not received a dose in the previous 12 months.
 
 Polio_in_brief
 Tetanus
@@ -560,6 +569,17 @@ Schistosomiasis_in_brief
 
 
 Important News
+
+_world-banner_
+01 Dec 2015
+
+Circulating_vaccine_derived_polio_virus_(cVDPV):_changes_to_Country_Information
+pages-_polio_vaccination
+
+Latest on WHO temporary recommendations to prevent the international spread of
+cVDPV and update to country status Read_more
+
+*
 
 _image_four_
 02 Oct 2015

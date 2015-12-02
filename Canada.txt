@@ -239,13 +239,29 @@ outbreaks
 
 Pertussis_in_Canada
 
-18 Nov 2015 Quebec. Canada
-From 1 October to 10 November 2015 the number of confirmed cases of pertussis
-has risen from 40 to 151.
+01 Dec 2015 Canada
+As of 26 November 2015, 61 cases of pertussis [whooping cough] have been
+reported from the Saskatoon region.
 Human
 Close association
+Update 1
+Verified
+State_-_Read_more
+
+*
+
+
+Hepatitis_A_in_Canada
+
+01 Dec 2015 Alberta. Canada
+As of 19 November 2015 health authorities have confirmed a case of hepatitis A
+in an individual who worked at the Powderkeg Lounge (located at the Lake Louise
+Ski Resort), while infectious.
+Human
+Food and Water-borne
 New Post
-ProMED_-_Read_more
+Verified
+State_-_Read_more
 
 *
 
