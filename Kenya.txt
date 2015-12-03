@@ -620,13 +620,15 @@ outbreaks
 
 Cholera_in_Kenya
 
-01 Dec 2015 Kenya
-As of 1 December 2015 three cases of cholera have been reported
-in Nakurucounty.
+21 Oct 2015 Kenya
+As of 20 October 2015, a total of 21 counties have been affected by the cholera
+outbreak that has been ongoing since December 2014. Nearly 7000 cases and over
+100 deaths have now been reported.
 Human
 Food and Water-borne
-Update 7
-Media_-_Read_more
+Update 6
+Verified
+ReliefWeb_-_Read_more
 
 *
 

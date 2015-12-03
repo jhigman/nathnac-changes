@@ -339,6 +339,21 @@ All_News
 outbreaks
 
 
+Dengue_in_USA
+
+02 Dec 2015 Hawaii. United States
+As of 1 December 2015, a total of 117 confirmed cases of dengue have been
+reported in Hawaii, with 103 cases in Hawaii Island residents and 14 in
+visitors.
+Human
+Vector-born
+Update 7
+Verified
+State_-_Read_more
+
+*
+
+
 Eastern_Equine_Encephalitis_in_USA
 
 27 Nov 2015 Maine. United States
@@ -415,20 +430,6 @@ As of 14 November 2015 42 cases of Vibrio vulnificus have been reported.
 Human
 Food and Water-borne
 New Post
-Verified
-State_-_Read_more
-
-*
-
-
-Dengue_in_USA
-
-17 Nov 2015 Hawaii. United States
-As of 16 November 2015, a total of 56 confirmed dengue cases have now been
-reported in Hawaii.
-Human
-Vector-born
-Update 6
 Verified
 State_-_Read_more
 
