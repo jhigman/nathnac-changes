@@ -482,6 +482,16 @@ Schistosomiasis_in_brief
 
 Important News
 
+_iStock_000016582578_Large[1]_
+20 Nov 2015
+
+Zika_Virus:_The_Americas
+
+International spread of Zika virus with first locally acquired cases in
+Suriname Read_more
+
+*
+
 _Mosquito_
 19 Nov 2015
 
@@ -577,37 +587,32 @@ outbreaks
 
 Zika_virus_in_Brazil
 
-30 Nov 2015 Brazil
-As of 25 November 2015, according to media sources citing the Flavivirus
-Laboratory at the Oswaldo Cruz Institute, seven cases of Guillain–Barré
-syndrome have been linked to Zika infections in Pernambuco state.
+03 Dec 2015 Brazil
+As of 1 December 2015, a total of 18 states in Brazil have confirmed
+autochthonous circulation:  North region (Amazonas, Pará, Rondônia, Roraima,
+and Tocantins), Northeast region (Alagoas, Bahía, Ceará, Maranhão, Paraíba,
+Pernambuco, Piauí, and Rio Grande do Norte), Southeast region (Espírito Santo,
+Rio de Janeiro, and São Paulo), Central-West region (Mato Grosso), and South
+region (Paraná).
 Human
 Vector-born
-Update 6
-Media_-_Read_more
+Update 7
+Verified
+PAHO_-_Read_more
 
 *
 
 
 Microcephaly_in_Brazil
 
-30 Nov 2015 View Regions  +  Bahia
-Ceara
-Paraiba
-Pernambuco
-Piaui
-Rio Grande do Norte
-Sergipe
-As of 27 November 2015, the Ministry of Health of Brazil has given WHO an
-update regarding the unusual increase in microcephaly in newborns. As of 21
-November, a total of 739 cases are being investigated in nine states of
-northeast Brazil. One fatal case was reported in the state of Rio Grande do
-Norte.
+03 Dec 2015 Brazil
+As of 30 November 2015, 1,248 cases of microcephaly including 7 deaths have
+been reported in 14 states of Brazil, which are under investigation.
 Human
 Miscellaneous
-Update 3
+Update 4
 Verified
-WHO_-_Read_more
+PAHO_-_Read_more
 
 *
 
@@ -735,7 +740,7 @@ Pro_Med_-_Read_more
 Leishmaniasis_in_Brazil
 
 07 Jul 2015 Piaui. Brazil
-As of 6 Jul 2015,  health authorities in Piaui state have reported a total of
+As of 6 Jul 2015,Â  health authorities in Piaui state have reported a total of
 97 cases of visceral leishmaniasis and 14 cases of the cutaneous form.
 Human
 Vector-born
@@ -829,7 +834,7 @@ Dengue_in_Brazil
 07 Apr 2015 Brazil
 Brazil has reported nearly a five-fold increase in the number of dengue cases
 in Feb 2015 compared to the same time period last year. More than 224, 000
-cases have been reported during the first nine weeks of 2015.
+cases have been reported during the first nine weeks ofÂ 2015.
 Human
 Vector-born
 New Post
