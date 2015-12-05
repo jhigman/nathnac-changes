@@ -505,14 +505,15 @@ outbreaks
 
 Zika_virus_in_Venezuela
 
-02 Dec 2015 Venezuela
-As of 1 December 2015, the Pan American Health Organization have confirmed
-autochthonous (locally acquired) circulation of Venezuela in Mexico.
+04 Dec 2015 Venezuela
+On 27 November 2015, the National IHR Focal Point of Venezuela received
+notification of 7 suspected cases of Zika virus infection. As of 3 December
+2015 the cases have been laboratory confirmed.
 Human
 Vector-born
-New Post
+Update 1
 Verified
-PAHO_/_WHO_-_Read_more
+WHO_-_Read_more
 
 *
 

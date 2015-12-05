@@ -527,13 +527,12 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
 
-06 Nov 2015 Saudi Arabia
-On 2 November 2015 the Ministry of Health confirmed one new case of MERS-CoV.
-There have been 1,274 cases including 544 deaths since the outbreak began in
-2012.
+04 Dec 2015 Saudi Arabia
+On 1 December 2015, one new case of MERS-CoV was reported. Since 2012 there
+have been 1278 cases one asymptomatic, including 549 deaths.
 Human
 Air-borne
-Update 11
+Update 12
 Verified
 State_-_Read_more
 
