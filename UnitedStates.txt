@@ -339,6 +339,25 @@ All_News
 outbreaks
 
 
+Tularaemia_in_USA
+
+07 Dec 2015 View Regions  +  Colorado
+Nebraska
+South Dakota
+Wyoming
+On 4 December 2015, a total of 100 tularaemia cases were reported for 2015 in
+Colorado, Nebraska, South Dakota and Wyoming. This represents a substantial
+increase in the annual number of cases respectively reported in each state
+during the period 2004–2014.
+Human
+Miscellaneous
+New Post
+Verified
+CDC_-_Read_more
+
+*
+
+
 Salmonellosis_in_USA
 
 04 Dec 2015 View Regions  +  California
@@ -1242,19 +1261,6 @@ Miscellaneous
 New Post
 Verified
 State_-_Read_more
-
-*
-
-
-Tularaemia_in_USA
-
-08 Dec 2014 United States
-A total of 15 cases of the disease have been confirmed in the state this year;
-five times the annual average for the state.
-Human
-Miscellaneous
-New Post
-ProMED_-_Read_more
 
 *
 
