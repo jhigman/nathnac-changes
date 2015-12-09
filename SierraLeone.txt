@@ -552,13 +552,15 @@ outbreaks
 
 Ebola_virus_disease_in_Sierra_Leone
 
-10 Nov 2015 Sierra Leone
-As of 7 November 2015 the World Health Organization declares that EVD
-transmission has been stopped in Sierra Leone.
+08 Dec 2015 Sierra Leone
+As of 7 December 2015 the World Health Organization has declared that Ebola
+virus transmission has stopped in Sierra Leone. That is because forty-two days
+have passed since the last person confirmed to have Ebola virus disease had a
+second negative blood test.
 Human
-Update 11
+Update 12
 Verified
-WHO_Regional_-_Read_more
+WHO_-_Read_more
 
 *
 
