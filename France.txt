@@ -118,13 +118,7 @@ Some Travellers
 The vaccines in this section are recommended for some travellers visiting this
 country. Information on when these vaccines should be considered can be found
 by clicking on the arrow. Vaccines are listed alphabetically.
-Rabies
-Rabies is a viral infection which is usually transmitted following contact with
-the saliva of an infected animal most often via a bite, scratch or lick to an
-open wound or mucous membrane (such as on the eye, nose or mouth). Although
-many different animals can transmit the virus, worldwide most cases follow a
-bite or scratch from an infected dog. Bats are also an important source of
-infection in some countries.
+Rabies (Bat Lyssavirus)
 Although rare, bat lyssaviruses (bat rabies) can be transmitted to humans or
 other animals following contact with the saliva of an infected bat most often
 by a bite. The disease can also be transmitted if the saliva of an infected bat
@@ -137,30 +131,25 @@ The risk to most travellers is low. However, it is increased for certain
 occupations for example bat handlers and veterinarians, or certain activities
 such as caving.
 
-Rabies in France
+ Bat Lyssavirus in France
 
-As of 27 May 2015, one case of imported rabies in a domesticated dog has been
-reported in Le Chambon Feugerolles, Loire, Rhone-Alpes, France. The risk to
-people in this area is still considered to be low (see outbreaks section).
-Rabies has not been reported in domestic or wild animals in other parts of this
-country; most travellers are considered to be at low risk. However, bats may
+Rabies has not been reported in domestic or wild animals in this country;
+therefore most travellers are considered to be at low risk. However, bats may
 carry bat lyssavirus (bat rabies).
 
 Prevention
 
-
-* Travellers should avoid contact with bats. Bites from bats are frequently
-  unrecognised. Rabies-like disease caused by bat lyssaviruses is preventable
-  with prompt post-exposure rabies treatment.
-* Following a possible exposure, wounds should be thoroughly cleansed and an
-  urgent local medical assessment sought, even if the wound appears trivial.
-  Although rabies is not usually reported in other animals in this country, it
-  is sensible to seek prompt medical advice if bitten or scratched. It is
-  possible, although very rare for bats to pass rabies like viruses to other
-  animals including pets.
-* Post-exposure treatment and advice should be in accordance with national
-  guidelines.
-
+Travellers should avoid contact with bats. Bites from bats are frequently
+unrecognised. Rabies-like disease caused by bat lyssaviruses is preventable
+with prompt post-exposure rabies treatment.
+Following a possible exposure, wounds should be thoroughly cleansed and an
+urgent local medical assessment sought, even if the wound appears trivial.
+Although rabies has not been reported in other animals in this country, it is
+sensible to seek prompt medical advice if bitten or scratched. It is possible,
+although very rare for bats to pass rabies like viruses to other animals
+including pets.
+Post-exposure treatment and advice should be in accordance with national
+guidelines.
 
 Rabies vaccination
 
@@ -171,7 +160,7 @@ Rabies vaccination
 * Pre exposure vaccines could be considered for those whose activities put them
   at increased risk of exposure to bats.
 
- Rabies_in_brief
+Rabies_in_brief
 Tick-Borne Encephalitis (TBE)
 TBE is a viral infection transmitted by the bite of infected ticks. Less
 commonly, cases of TBE occur following ingestion of unpasteurised milk
@@ -411,6 +400,23 @@ All_News
 
 
 outbreaks
+
+
+Influenza_A_(H5)_in_France
+
+11 Dec 2015 View Regions  +  Dordogne
+Gers
+Haute-Vienne
+Landes
+As of 10 December 2015 12 outbreaks of avian influenza H5 (various strains)
+have been detected in poultry in four departments in the south-west of France.
+Animal
+Air-borne
+New Post
+Verified
+Ministry_of_Agriculture_-_Read_more
+
+*
 
 
 Influenza_A_(H5N1)_in_France

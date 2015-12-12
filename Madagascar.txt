@@ -527,7 +527,7 @@ Relief_Web_-_Read_more
 *
 
 
-Poliomyelitis_in_Madagascar
+Circulating_vaccine-derived_poliomyelitis_in_Madagascar
 
 20 Jul 2015 Madagascar
 The total number of circulating vaccine derived polio virus type 1 (cVDPV1) in

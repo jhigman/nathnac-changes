@@ -96,6 +96,39 @@ Hepatitis A vaccination
 As hepatitis A vaccine is well tolerated and affords long-lasting protection,
 it is recommended for all previously unvaccinated travellers.
 Hepatitis_A_in_brief
+Polio
+Polio is caused by one of three types of polio virus and is transmitted by
+contaminated food and water. Previous infection with one type of polio virus
+does not protect against other types of the virus.
+Those at increased risk include travellers visiting friends and relatives,
+those in direct contact with an infected person, long-stay travellers, and
+those visiting areas of poor sanitation.
+
+Polio in Myanmar 
+
+Travellers should be aware that this country has recently reported cases of
+circulating Vaccine Derived Polio Virus (cVDPV) (Please_see_Outbreak
+Surveillance_Section).
+
+Prevention
+
+All travellers should take care with personal and food and water hygiene.
+
+Polio vaccination
+
+
+* All travellers should have completed a polio vaccination course according to
+  the UK schedule.
+* All travellers to Myanmar should make sure they have had a polio-containing
+  vaccine in the past 10 years and that children have had an age appropriate
+  course of vaccine.
+* Those who are travelling to settings with extremely poor hygiene (e.g.
+  refugee camps), or likely to be in close proximity with cases (e.g.
+  healthcare workers), and/or expecting to stay in Myanmar  for more than 6
+  months and are previously fully vaccinated, should receive an additional dose
+  of polio vaccine if they have not received a dose in the previous 12 months.
+
+Polio_in_brief
 Tetanus
 Tetanus is caused by a toxin released from Clostridium tetani and occurs
 worldwide.  Tetanus bacteria are present in soil and manure and may be
@@ -498,6 +531,22 @@ All_News
 
 
 outbreaks
+
+
+Circulating_vaccine-derived_poliomyelitis_in_Myanmar
+
+11 Dec 2015 Rakhine. Myanmar (Burma)
+As of 9 December 2015 an outbreak of type 2 circulating vaccine-derived
+poliovirus (cVDPV) has been confirmed in Myanmar, with two new cases confirmed
+in the past week. The most recent reported case was isolated from a 15-month
+old child with onset of paralysis on 15 October 2015
+Human
+Food and Water-borne
+New Post
+Verified
+Global_Polio_Eradication_Initiative_-_Read_more
+
+*
 
 
 Cholera_in_Myanmar

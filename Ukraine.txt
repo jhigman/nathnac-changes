@@ -333,7 +333,7 @@ cVDPV and update to country status Read_more
 _polio-vaccine-pakistan_
 07 Sep 2015
 
-Circulating_vaccine_derived_polio_virus_(cVDPV):_Ukraine
+Circulating_vaccine-derived_polio_virus_(cVDPV):_Ukraine
 
 An outbreak of Vaccine Derived Polio Virus is reported from south-western
 Ukraine, bordering Romania, Hungary, Slovakia and Poland Read_more
@@ -364,7 +364,7 @@ All_News
 outbreaks
 
 
-Poliomyelitis_in_Ukraine
+Circulating_vaccine-derived_poliomyelitis_in_Ukraine
 
 02 Sep 2015 Ukraine
 Two cases of circulating vaccine-derived poliovirus type 1 (cVDPV1) have been

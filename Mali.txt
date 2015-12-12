@@ -546,7 +546,7 @@ State_-_Read_more
 *
 
 
-Poliomyelitis_in_Mali
+Circulating_vaccine-derived_poliomyelitis_in_Mali
 
 08 Sep 2015 Mali
 A case of circulating vaccine-derived poliovirus type 2 (cVDPV2) has been
