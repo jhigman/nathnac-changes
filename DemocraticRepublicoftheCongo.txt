@@ -565,23 +565,38 @@ All_News
 outbreaks
 
 
+Measles_in_Democratic_Republic_of_Congo
+
+14 Dec 2015 Katanga. Democratic Republic of the Congo
+As of 12 December 2015, more than 47,000 suspected cases of measles, with over
+500 deaths, have now been reported in the southeast province of Katanga. This
+is the worst epidemic since 2011.
+Human
+Close association
+Update 5
+Verified
+United_Nations_-_Read_more
+
+*
+
+
 Cholera_in_Democratic_Republic_of_Congo
 
-26 Oct 2015 View Regions  +  Ferekeni
+14 Dec 2015 View Regions  +  Ferekeni
 Kindu
 Lubutu
-As of 22 October 2015, WHO have now reported 3973 cases of cholera, with 95
-deaths, since mid September 2015.
+As of 10 December 2015, a total of 19,705 suspected cases of cholera, with 297
+deaths, have now been reported.
 Human
 Food and Water-borne
-Update 1
+Update 2
 Verified
 WHO_-_Read_more
 
 *
 
 
-Cholera_in_DR_Congo
+Cholera_in_Democratic_Republic_of_Congo
 
 30 Sep 2015 Katanga and South Kivu. Democratic Republic of the Congo
 As of 29 Sept 2015, the province of Maniema has reported 697 cholera cases,
@@ -596,22 +611,7 @@ ReliefWeb_-_Read_more
 *
 
 
-Measles_in_DR_Congo
-
-28 Aug 2015 Katanga. Democratic Republic of the Congo
-The measles outbreak in DR Congo is ongoing, a total of 17, 000 cases and
-nearly 300 deaths have been reported. The number of cases has dramatically
-increased in 2015, most have been reported in Katanga Province.
-Human
-Close association
-Update 4
-Verified
-Centers_for_Disease_Control_and_Prevention_-_Read_more
-
-*
-
-
-Meningitis_in_DR_Congo
+Meningitis_in_Democratic_Republic_of_Congo
 
 05 May 2015 Democratic Republic of the Congo
 As of 30 Apr 2015; over 1,500 cases of meningitis have been reproted for the
@@ -625,7 +625,7 @@ ReliefWeb_-_Read_more
 *
 
 
-Typhoid_fever_in_DR_Congo
+Typhoid_fever_in_Democratic_Republic_of_Congo
 
 05 May 2015 Eastern Orientale. Democratic Republic of the Congo
 As of 30 Apr 2015, more than 80,000 cases of typhoid fever with 44 deaths; have

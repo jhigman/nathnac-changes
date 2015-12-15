@@ -534,12 +534,13 @@ outbreaks
 
 Yellow_fever_in_Mali
 
-26 Nov 2015 Mali
-As of 25 November 2015, a total of 122 suspected yellow fever cases, with 13
-deaths, have been reported for 2015.
+14 Dec 2015 Mali
+As of 10 December 2015, twelve further suspected yellow fever cases, including
+one death, have been reported. The cumulative position is that 141 suspected
+cases have now been reported.
 Human
 Vector-born
-Update 5
+Update 6
 Verified
 State_-_Read_more
 
