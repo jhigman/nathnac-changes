@@ -402,6 +402,20 @@ All_News
 outbreaks
 
 
+Chikungunya_virus_infection_in_Mexico
+
+15 Dec 2015 Mexico
+As 11 December 2015, a total of 11,070 confirmed chikungunya cases have now
+been reported.
+Human
+Vector-born
+Update 2
+Verified
+PAHO_-_Read_more
+
+*
+
+
 Zika_virus_in_Mexico
 
 07 Dec 2015 Mexico
@@ -449,19 +463,6 @@ Food and Water-borne
 Update 1
 Verified
 Eurosurveillance_-_Read_more
-
-*
-
-
-Chikungunya_virus_infection_in_Mexico
-
-20 May 2015 Chiapas. Mexico
-As of 19 May 2015 1,067 cases have been reported since November 2014 when the
-first cases of local infections were detected in the country.
-Human
-Vector-born
-Update 1
-ProMED_-_Read_more
 
 *
 

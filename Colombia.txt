@@ -464,16 +464,14 @@ outbreaks
 
 Chikungunya_virus_infection_in_Colombia
 
-25 Nov 2015 Colombia
-As of 8 November 2015, 351,343 cases of chikununyga have been reported, of
-which 348,855 were confirmed clinically, 1990 were laboratory-confirmed and 495
-are considered suspected cases. Virus circulation has been demonstrated in 35
-territorial entities.
+15 Dec 2015 Colombia
+As of 11 December 2015, a total of 355,347 suspected  and confirmed cases of
+chikungunya, with 69 deaths, have now been reported.
 Human
 Vector-born
-Update 6
+Update 7
 Verified
-State_-_Read_more
+PAHO_-_Read_more
 
 *
 
