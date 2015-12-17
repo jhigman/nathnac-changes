@@ -626,6 +626,22 @@ All_News
 outbreaks
 
 
+Dengue_in_India
+
+16 Dec 2015 India
+As of 2 December 2015, the Indian authorities have reported an upsurge in
+dengue cases and related deaths. A total of 84,391 dengue cases, with 170
+deaths, have been reported so far for 2015. This is a significant increase: in
+2014 a total of 40,571 cases, with 137 deaths, were reported overall.
+Human
+Vector-born
+Update 2
+Verified
+Ministry_of_Health_and_Family_Welfare,_India_-_Read_more
+
+*
+
+
 Immunedeficiency_related_vaccine-derived_polio_in_India
 
 07 Dec 2015 Delhi. India
@@ -655,21 +671,6 @@ New Post
 ProMED_-_Read_more
 
 *
-
-
-Dengue_in_India
-
-17 Sep 2015 Delhi. India
-As of 17 September 2015 there have been 11 deaths in Delhi from dengue. To date
-18,000 cases have been reported from the country in 2015.
-This is the highest number of cases in five years.
-Human
-Vector-born
-Update 1
-Relief_Web_-_Read_more
-
-*  As of 17 September 2015 there have been 11 deaths in Delhi from dengue. To
-  date 18,000" class="desc-14684" />
 
 
 Leptospirosis_in_India

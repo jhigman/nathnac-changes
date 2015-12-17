@@ -96,8 +96,8 @@ those visiting areas of poor sanitation.
 
 Polio in South Sudan
 
-Cases of circulating Vaccine Derived Polio Virus (cVDPV) have been reported
-[see_Outbreak_Surveillance].
+Travellers should be aware that this country has recently reported cases of
+circulating Vaccine Derived Polio Virus (cVDPV)[see_Outbreak_Surveillance].
 
 Prevention
 
@@ -108,8 +108,14 @@ Polio vaccination
 
 * All travellers should have completed a polio vaccination course according to
   the UK schedule.
-* A booster dose of a polio-containing vaccine is recommended for those who
-  have not received a dose within the previous 10 years.
+* All travellers to South Sudan should make sure they have had a polio-
+  containing vaccine in the past 10 years and that children have had an age
+  appropriate course of vaccine.
+* Those who are travelling to settings with extremely poor hygiene (e.g.
+  refugee camps), or likely to be in close proximity with cases (e.g.
+  healthcare workers), and/or expecting to stay in South Sudan for more than 6
+  months and are previously fully vaccinated, should receive an additional dose
+  of polio vaccine if they have not received a dose in the previous 12 months.
 
 Polio_in_brief
 Tetanus
