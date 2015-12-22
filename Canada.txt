@@ -237,6 +237,22 @@ All_News
 outbreaks
 
 
+Salmonellosis_in_Canada
+
+21 Dec 2015 Canada
+As of 18 December 2015 there are 91 cases of Salmonella Infantis illness in
+nine provinces: British Columbia (6), Alberta (11), Saskatchewan (2), Manitoba
+(2), Ontario (53), Quebec (13) Nova Scotia (2), Prince Edward Island (1) andNew
+Brunswick (1).
+Human
+Food and Water-borne
+Update 1
+Verified
+Public_Health_Agency_of_Canada_-_Read_more
+
+*
+
+
 Pertussis_in_Canada
 
 01 Dec 2015 Canada
@@ -281,28 +297,6 @@ Food and Water-borne
 Update 1
 Verified
 Eurosurveillance_-_Read_more
-
-*
-
-
-Salmonellosis_in_Canada
-
-20 Oct 2015 View Regions  +  Alberta
-British Columbia
-Manitoba
-New Brunswick
-Nova Scotia
-Ontario
-Quebec
-Saskatchewan
-As of 15 October 2015, the Public Health Agency of Canada has reported 34 cases
-of Salmonella Infantis in eight provinces. The source has not yet been
-identified, an investigation is ongoing.
-Human
-Food and Water-borne
-New Post
-Verified
-State_-_Read_more
 
 *
 
