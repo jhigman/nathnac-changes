@@ -671,15 +671,15 @@ outbreaks
 
 Influenza_A_(H7N9)_in_China
 
-30 Nov 2015 China
-As of 26 November 2015, since it was first reported in March 2013, a total of
-681 cases of novel avian influenza A(H7N9) virus have been reported, including
-275 deaths. No autochthonous cases have been reported outside China.
+22 Dec 2015 China
+As of 17 December 2015, WHO have reported two additional, laboratory confirmed
+cases of human infection with avian influenza, one in Guangdong Province and
+one in Zhejiang Province.
 Human
 Air-borne
-Update 2
+Update 3
 Verified
-ECDC_-_Read_more
+WHO_-_Read_more
 
 *
 

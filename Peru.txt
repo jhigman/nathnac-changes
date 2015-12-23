@@ -562,14 +562,15 @@ outbreaks
 
 Yellow_fever_in_Peru
 
-05 Oct 2015 Peru
-As of 29 September 2015, 14 cases of sylvan YF have been reported in Cusco (1),
-Huanuco (1), Junin (3), Loreto (4), Madre de Dios (1), San Martin (4) in 2015.
+22 Dec 2015 Peru
+Between 22 and 28 November 2015 (Epidemiological Week 47) a total of 21 jungle
+yellow fever cases were reported from the departments of Cusco, Huánuco, Junin,
+Loreto, Madre de Dios, Pasco and San Martin.
 Human
 Vector-born
-Update 2
+Update 3
 Verified
-ProMED_-_Read_more
+State_-_Read_more
 
 *
 

@@ -404,17 +404,14 @@ outbreaks
 
 Influenza_A_(H5)_in_France
 
-11 Dec 2015 View Regions  +  Dordogne
-Gers
-Haute-Vienne
-Landes
-As of 10 December 2015 12 outbreaks of avian influenza H5 (various strains)
-have been detected in poultry in four departments in the south-west of France.
+22 Dec 2015 France
+As of 22 December 2015, a total of 61 outbreaks of highly pathogenic avian
+influenza in poultry have been detected in six departments of southwest France.
 Animal
 Air-borne
-New Post
+Update 1
 Verified
-Ministry_of_Agriculture_-_Read_more
+State_-_Read_more
 
 *
 
