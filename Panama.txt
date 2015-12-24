@@ -478,13 +478,15 @@ outbreaks
 
 Zika_virus_in_Panama
 
-04 Dec 2015 Guna Yala. Panama
-On 3 December 2015 the first three cases of zika virus have been identified.
+23 Dec 2015 Guna Yala. Panama
+As of 17 December 2015, four cases of Zika virus have been confirmed. A total
+of 95 suspected cases, with symptoms compatible with Zika virus infection, have
+also been reported in the Ustupu and Ogobsugun islands, Guna Yala province.
 Human
 Vector-born
-New Post
+Update 1
 Verified
-State_-_Read_more
+WHO_-_Read_more
 
 *
 
