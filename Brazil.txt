@@ -597,14 +597,14 @@ outbreaks
 
 Microcephaly_in_Brazil
 
-15 Dec 2015 Brazil
-As of 15 December 2015, a total of 1,761 suspected cases of microcephaly in
-newborns, including 19 deaths, have been identified in Brazil.
+24 Dec 2015 Brazil
+Up to 19 November 2015, 2,782 cases of microcephaly including 40 deaths have
+been reported from 20 states.
 Human
 Miscellaneous
-Update 5
+Update 6
 Verified
-WHO_-_Read_more
+Ministry_of_Health_Brazil_-_Read_more
 
 *
 

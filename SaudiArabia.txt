@@ -145,6 +145,8 @@ risk. This includes:
 * men who have sex with men
 * injecting drug users
 * those who may be exposed to the virus through their work
+* those going to areas of hepatitis A outbreaks who have limited access to safe
+  water and medical care
 
 Hepatitis A vaccine is well tolerated and affords long-lasting protection,
 it could be considered for all previously unvaccinated travellers.

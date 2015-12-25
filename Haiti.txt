@@ -427,18 +427,14 @@ outbreaks
 
 Cholera_in_Haiti
 
-14 Dec 2015 View Regions  +  Artibonite
-Nord Department
-Ouest Department
-Sud Department
-Sud-Est Department
-On 11 December 2015, it was reported that as of 28 November 2015, a total of
-31,396 cholera cases have now been reported.
+24 Dec 2015 Haiti
+Up to 19 November 2015, 30,080 cases of cholera have been confirmed since the
+beginning of the year.
 Human
 Food and Water-borne
-Update 1
+Update 2
 Verified
-United_Nations_-_Read_more
+PAHO_-_Read_more
 
 *
 
