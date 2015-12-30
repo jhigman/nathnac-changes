@@ -529,15 +529,14 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
 
-18 Dec 2015 Saudi Arabia
-On 17 December 2015 one new case of MERS-CoV was confirmed. Since 2012 there
-have been a total of 1,281 cases of laboratory-confirmed cases including one
-asymptomatic and 550 deaths.
+29 Dec 2015 Saudi Arabia
+On 27 December 2015, one new case of MERS-CoV was confirmed in a 54 year old
+male expatriate in Jeddah.
 Human
 Air-borne
-Update 14
+Update 15
 Verified
-Ministry_of_Health_Saudi_Arabia_-_Read_more
+State_-_Read_more
 
 *
 

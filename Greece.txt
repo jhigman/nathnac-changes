@@ -283,7 +283,7 @@ _street-food_
 Hepatitis_A_cluster_in_travellers_returning_from_Rhodes,_Greece
 
 Public Health England has identified hepatitis A infections in UK residents who
-had been to Greece. Read_more
+had been to Greece Read_more
 
 *
 

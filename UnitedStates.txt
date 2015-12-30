@@ -339,6 +339,20 @@ All_News
 outbreaks
 
 
+Dengue_in_USA
+
+29 Dec 2015 Hawaii. United States
+As of 28 December 2015, a total of 181 cases of dengue have now been confirmed
+in Hawaii.
+Human
+Vector-born
+Update 8
+Verified
+State_-_Read_more
+
+*
+
+
 Norovirus_in_USA
 
 24 Dec 2015 Minnesota. United States
@@ -392,21 +406,6 @@ Food and Water-borne
 New Post
 Verified
 CDC_-_Read_more
-
-*
-
-
-Dengue_in_USA
-
-02 Dec 2015 Hawaii. United States
-As of 1 December 2015, a total of 117 confirmed cases of dengue have been
-reported in Hawaii, with 103 cases in Hawaii Island residents and 14 in
-visitors.
-Human
-Vector-born
-Update 7
-Verified
-State_-_Read_more
 
 *
 
