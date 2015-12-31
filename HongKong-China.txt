@@ -496,25 +496,6 @@ ProMED_-_Read_more
 
 *
 
-
-Influenza_A_(H7N9)_in_Hong_Kong_(China)
-
-31 Dec 2014 Hong Kong (China)
-As of 30 December 2014 a case has been confirmed in a 68 year old female who
-developed symptoms on 19 December and is in critical condition. The preliminary
-epidemiological investigation revealed that the patient travelled to Shenzhen
-on 13 December and returned to Hong Kong on the same day. The patient did not
-visit any wet market or have contact with live poultry in Hong Kong during the
-incubation period.
-Human
-Air-borne
-Imported
-New Post
-Verified
-WHO_Disease_Outbreak_News_-_Read_more
-
-*
-
 More
 
 * RSS
