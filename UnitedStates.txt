@@ -341,6 +341,20 @@ outbreaks
 
 Dengue_in_USA
 
+04 Jan 2016 Florida. United States
+As of 19 December 2015, a single, locally acquired case of dengue has been
+reported in Broward County, Florida.
+Human
+Vector-born
+New Post
+Verified
+State_-_Read_more
+
+*
+
+
+Dengue_in_USA
+
 29 Dec 2015 Hawaii. United States
 As of 28 December 2015, a total of 181 cases of dengue have now been confirmed
 in Hawaii.

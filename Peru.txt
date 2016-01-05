@@ -562,15 +562,17 @@ outbreaks
 
 Yellow_fever_in_Peru
 
-22 Dec 2015 Peru
-Between 22 and 28 November 2015 (Epidemiological Week 47) a total of 21 jungle
-yellow fever cases were reported from the departments of Cusco, Huánuco, Junin,
-Loreto, Madre de Dios, Pasco and San Martin.
+04 Jan 2016 Peru
+As of 31 December 2015, the Pan American Health Organization reported 56
+suspected cases of yellow fever, including three deaths. Of the reported cases,
+11 were confirmed, 12 were classified as probable, and the rest were discarded.
+The number of combined probable and confirmed cases in 2015 is higher than
+observed in 2014.
 Human
 Vector-born
-Update 3
+Update 4
 Verified
-State_-_Read_more
+PAHO_-_Read_more
 
 *
 

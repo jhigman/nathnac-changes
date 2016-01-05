@@ -671,12 +671,13 @@ outbreaks
 
 Influenza_A_(H5N6)_in_China
 
-30 Dec 2015 Shenzen. China
-On 29 December 2015 a case of avian Influenza (H5N6) was confirmed in a 26 year
-old female, who is in critical condition.
+04 Jan 2016 Shenzen. China
+As of 1 January 2016, a confirmed human case of avian influenza A(H5N6) in a
+40-year-old woman in Zhaoqing was reported by the Health and Family Planning
+Commission of Guangdong Province.
 Human
 Air-borne
-New Post
+Update 1
 Verified
 State_-_Read_more
 
