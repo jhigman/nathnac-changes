@@ -669,30 +669,30 @@ All_News
 outbreaks
 
 
-Influenza_A_(H5N6)_in_China
+Influenza_A_(H7N9)_in_China
 
-04 Jan 2016 Shenzen. China
-As of 1 January 2016, a confirmed human case of avian influenza A(H5N6) in a
-40-year-old woman in Zhaoqing was reported by the Health and Family Planning
-Commission of Guangdong Province.
+05 Jan 2016 China
+As of 5 January 2016, a human case of avian influenza A (H7N9) in a 46-year-old
+man in Jiangxi Province, mainland China, was reported by the Department of
+Health in Hong Kong.
 Human
 Air-borne
-Update 1
+Update 5
 Verified
 State_-_Read_more
 
 *
 
 
-Influenza_A_(H7N9)_in_China
+Influenza_A_(H5N6)_in_China
 
-22 Dec 2015 China
-As of 17 December 2015, WHO have reported two additional, laboratory confirmed
-cases of human infection with avian influenza, one in Guangdong Province and
-one in Zhejiang Province.
+05 Jan 2016 China
+As of 4 January 2016, a human case of avian influenza A (H5N6) in a 26-year-old
+female from Baoan District, Shenzhen City, Guangdong Province has been
+confirmed.
 Human
 Air-borne
-Update 3
+Update 2
 Verified
 WHO_-_Read_more
 

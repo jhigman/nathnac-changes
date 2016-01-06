@@ -298,6 +298,38 @@ All_News
 outbreaks
 
 
+Pertussis_in_Australia
+
+05 Jan 2016 Australia
+As of 11 December 2015, a total of 20,670 notifications of pertussis (whooping
+cough) have been reported for 2015. This is approximately 1.7 times the number
+notified for the same period in 2014.
+Human
+Close association
+Update 1
+Verified
+State_-_Read_more
+
+*
+
+
+Japanese_encephalitis_in_Australia_ex_Indonesia
+
+05 Jan 2016 View Countries  +  Australia
+Indonesia (including Bali)
+
+As of 11 December 2015, a case of Japanese Encephalitis in a 42 year-old woman
+has been reported in Queensland. She is reported as acquiring the infection in
+Indonesia.
+Human
+Vector-born
+New Post
+Verified
+State_-_Read_more
+
+*
+
+
 Measles_in_Australia_ex_Singapore
 
 08 Dec 2015 View Countries  +  Australia
@@ -484,21 +516,6 @@ Vector-born
 New Post
 Verified
 State_-_Read_more
-
-*
-
-
-Pertussis_in_Australia
-
-16 Jan 2015 Victoria. Australia
-Between 1 January 2014 and 6 January 2015 there were a total of 4,606 cases of
-pertussis notified to the Department of Health and Human Services which
-represents a 56 per cent increase in cases compared to the same time in 2013.
-Human
-Close association
-New Post
-Verified
-ProMED_-_Read_more
 
 *
 
