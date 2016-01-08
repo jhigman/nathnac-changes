@@ -427,14 +427,15 @@ outbreaks
 
 Cholera_in_Haiti
 
-24 Dec 2015 Haiti
-Up to 19 November 2015, 30,080 cases of cholera have been confirmed since the
-beginning of the year.
+07 Jan 2016 Haiti
+A total of 31,396 cholera cases and 297 deaths were reported from January to
+November 2015. In 2014, a total of 21,916 cases were reported during the same
+period. International efforts to reduce the number of cases continues.
 Human
 Food and Water-borne
-Update 2
+Update 3
 Verified
-PAHO_-_Read_more
+Coordination_Committee_in_Haiti_-_Read_more
 
 *
 
