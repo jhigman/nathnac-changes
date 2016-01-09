@@ -340,16 +340,14 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Oman
 
-05 Jun 2015 Oman
-As of 29 May 2015, Oman has reported an additional case of Middle East
-respiratory syndrome coronavirus (MERS-CoV) infection in a 75-year-old male
-from Al Dahir village. The patient owns a barn with camels and young calves;
-and has frequent contact with them.
+08 Jan 2016 Oman
+As of 4 January 2016, the Ministry of Health in Oman has reported a case of
+MERS-CoV. The last reported case was in May 2015.
 Human
 Air-borne
-New Post
+Update 1
 Verified
-WHO_Outbreak_Verification_List_-_Read_more
+State_-_Read_more
 
 *
 

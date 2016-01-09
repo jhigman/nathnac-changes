@@ -529,14 +529,14 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
 
-29 Dec 2015 Saudi Arabia
-On 27 December 2015, one new case of MERS-CoV was confirmed in a 54 year old
-male expatriate in Jeddah.
+08 Jan 2016 Saudi Arabia
+The Kingdom of Saudi Arabia has notified the WHO of four additional cases MERS-
+CoV infection, including 2 deaths between 29 November and 17 December 2015.
 Human
 Air-borne
-Update 15
+Update 16
 Verified
-State_-_Read_more
+WHO_-_Read_more
 
 *
 
