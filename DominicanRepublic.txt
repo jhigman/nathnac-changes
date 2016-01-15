@@ -294,7 +294,7 @@ suggestive of malaria within a year of return should seek immediate medical
 care. Emergency standby treatment may be considered for those going to remote
 areas with limited access to medical attention.
 
-Areas of risk
+Risk Areas
 
 
 * There is a risk of malaria in all areas of the Dominican Republic except in
@@ -302,6 +302,10 @@ Areas of risk
   areas
 * Santiago and Santo Domingo: awareness of risk and bite avoidance recommended
 
+
+Antimalarial Recommendations Map
+
+_Dominican-Republic-malaria-map_
 
 Antimalarial Recommendations
 

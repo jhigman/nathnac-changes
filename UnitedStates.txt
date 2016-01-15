@@ -341,12 +341,12 @@ outbreaks
 
 Dengue_in_USA
 
-04 Jan 2016 Florida. United States
-As of 19 December 2015, a single, locally acquired case of dengue has been
-reported in Broward County, Florida.
+14 Jan 2016 Hawaii. United States
+As of 13 January 2016, a total of 215 confirmed cases of dengue have been
+reported in Hawaii since September 2015.
 Human
 Vector-born
-New Post
+Update 9
 Verified
 State_-_Read_more
 
@@ -355,12 +355,12 @@ State_-_Read_more
 
 Dengue_in_USA
 
-29 Dec 2015 Hawaii. United States
-As of 28 December 2015, a total of 181 cases of dengue have now been confirmed
-in Hawaii.
+04 Jan 2016 Florida. United States
+As of 19 December 2015, a single, locally acquired case of dengue has been
+reported in Broward County, Florida.
 Human
 Vector-born
-Update 8
+New Post
 Verified
 State_-_Read_more
 
@@ -1236,40 +1236,6 @@ Close association
 Update 1
 Verified
 ProMED_-_Read_more
-
-*
-
-
-Legionnaires’_disease_in_USA
-
-15 Jan 2015 United States
-As of 13 Jan 2015; an outbreak of Legionnaires' disease has been reported in
-the Bronx. Eight of the twelve recent cases of Legionnaires` disease in the
-Bronx have been diagnosed among Co-Op City residents. The preliminary tests
-have shown that the cooling towers at Co-Op City are contaminated with the
-Legionella bacteria.
-Human
-Air-borne
-New Post
-Verified
-State_-_Read_more
-
-*
-
-
-Listeriosis_in_Canada_ex_USA
-
-15 Jan 2015 View Countries  +  Canada
-United States
-
-Of the two recently reported cases; only one case has been shown to be related
-to the US outbreak of Listeria related to the consumption of caramel apples.
-Human
-Imported
-Food and Water-borne
-Update 1
-Verified
-Health_Canada_-_Read_more
 
 *
 
