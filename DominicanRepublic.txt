@@ -298,7 +298,7 @@ Risk Areas
 
 
 * There is a risk of malaria in all areas of the Dominican Republic except in
-  the cities of Santiago and Santo Domingo : chloroquinerecommended for risk
+  the cities of Santiago and Santo Domingo: chloroquinerecommended for risk
   areas
 * Santiago and Santo Domingo: awareness of risk and bite avoidance recommended
 
@@ -307,10 +307,10 @@ Antimalarial Recommendations Map
 
 _Dominican-Republic-malaria-map_
 
-Antimalarial Recommendations
+Recommended Antimalarials
 
-The recommended antimalarials  are listed below.  They are recommended for
-certain areas only (see  description of risk areas above).  If these are not
+The recommended antimalarials are listed below. They are recommended for
+certain areas only (see description of risk areas above). If these are not
 suitable please seek further specialist advice.
 Please note, the advice for children is different, the dose is based on body
 weight and some antimalarials are not suitable.

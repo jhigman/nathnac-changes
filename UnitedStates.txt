@@ -1224,21 +1224,6 @@ ProMED_-_Read_more
 
 *
 
-
-Pertussis_in_USA
-
-16 Jan 2015 United States
-As of 13 January 2015 a death has been reported in a 25 day old infant. This is
-the first death in Santa Barbara County and the second death in California
-since the outbreak started in 2014.
-Human
-Close association
-Update 1
-Verified
-ProMED_-_Read_more
-
-*
-
 More
 
 * RSS

@@ -597,13 +597,15 @@ outbreaks
 
 Microcephaly_in_Brazil
 
-06 Jan 2016 Brazil
-As of 5 January 2016, a total of 3,174 suspected cases of microcephaly in
-newborns have been reported in 684 municipalities of 21 Brazilian states.
-Amazonas State has now registered their first suspected case.
+15 Jan 2016 Brazil
+As of 14 January 2016, the Ministry of Health in Brazil have reported 3,530
+suspected cases of microcephaly in newborns in 724 municipalities of 21
+Brazilian states. Research results confirm four deaths related to maternal Zika
+virus infection: two newborns at term, who died in the first 24 hours of life
+and two miscarriages.
 Human
 Miscellaneous
-Update 8
+Update 9
 Verified
 State_-_Read_more
 
