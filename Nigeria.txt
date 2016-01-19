@@ -607,21 +607,11 @@ outbreaks
 
 Lassa_Fever_in_Nigeria
 
-11 Jan 2016 View Regions  +  Bauchi
-Edo
-Gombe
-Kano
-Nassarawa
-Niger
-Oyo
-Plateau
-Rivers
-Taraba
-As of 8 January 2016, a total of 81 cases of Lassa Fever (17 laboratory
-confirmed) and 35 deaths have been reported from 10 states. The first cases
-were reported in Bauchi State in November 2015.
+18 Jan 2016 Nigeria
+As of 14 January 2016 there have been 140 suspected cases, 30 confirmed cases
+and 53 deaths.
 Human
-New Post
+Update 1
 Verified
 State_-_Read_more
 
