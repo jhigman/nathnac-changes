@@ -446,7 +446,9 @@ outbreaks
 
 Zika_virus_in_Guadeloupe
 
-20 Jan 2016 Guadeloupe. France
+20 Jan 2016 View Countries  +  France
+Guadeloupe
+
 As of 19 January 2016 the first locally acquired cases have been reported.
 Human
 Vector-born
@@ -459,7 +461,9 @@ CDC_-_Read_more
 
 Zika_virus_in_St_Martin
 
-18 Jan 2016 St Martin. France
+18 Jan 2016 View Countries  +  France
+St Martin
+
 As of 17 January 2016 the first locally acquired cases have been reported.
 Human
 Vector-born

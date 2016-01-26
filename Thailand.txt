@@ -550,6 +550,23 @@ All_News
 outbreaks
 
 
+Middle_East_respiratory_syndrome_coronavirus_in_Thailand
+
+25 Jan 2016 Thailand
+As of 24 January 2016, WHO has confirmed a case of Middle East respiratory
+syndrome coronavirus (MERS CoV) disease in a 71 year old from Oman who arrived
+in Thailand on 22 January 2016. This is the second case imported into the
+country in the last seven months.
+Human
+Air-borne
+Imported
+Update 1
+Verified
+WHO_-_Read_more
+
+*
+
+
 Cholera_in_Thailand
 
 29 Sep 2015 Thailand
@@ -590,22 +607,6 @@ Human
 Vector-born
 New Post
 Media_-_Read_more
-
-*
-
-
-Middle_East_respiratory_syndrome_coronavirus_in_Thailand
-
-19 Jun 2015 Thailand
-As of 18 Jun 2015, Thailand has reported a case of a Middle East respiratory
-syndrome coronavirus (MERS CoV) in a traveller from the Middle East region.
-This is the first case in the WHO South-East Asia Region.
-Human
-Air-borne
-Imported
-New Post
-Verified
-WHO_Disease_Outbreak_News_-_Read_more
 
 *
 

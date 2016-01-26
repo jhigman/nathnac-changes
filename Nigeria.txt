@@ -607,13 +607,14 @@ outbreaks
 
 Lassa_Fever_in_Nigeria
 
-18 Jan 2016 Nigeria
-As of 14 January 2016 there have been 140 suspected cases, 30 confirmed cases
-and 53 deaths.
+25 Jan 2016 Nigeria
+From December 2015 to 19 January 2016, Nigerian authorities have reported 218
+suspected and 42 confirmed cases of Lassa fever, including 79 deaths. The
+outbreak is affecting 17 states and the Federal Capital Territory.
 Human
-Update 1
+Update 2
 Verified
-State_-_Read_more
+ECDC_-_Read_more
 
 *
 
@@ -688,22 +689,6 @@ Human
 Update 2
 Verified
 WHO_Regional_-_Read_more
-
-*
-
-
-Influenza_A_(H5)_in_Nigeria
-
-26 Jan 2015 Kano. Nigeria
-Highly pathogenic avian influenza virus (H5N1 subtype)has been confirmed in
-Kano state. Between 11 and 21 Jan 2015, more outbreaks have been reported. Also
-an outbreak has been confirmed in Plateau state, as of 16 Jan 2015. More than
-2,000 birds have been affected in total.
-Animal
-Air-borne
-Update 1
-Verified
-World_Organisation_for_animal_health_-_Read_more
 
 *
 
