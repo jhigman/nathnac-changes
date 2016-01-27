@@ -309,32 +309,6 @@ States of America Read_more
 
 *
 
-15 Dec 2014
-
-MERS-CoV:_worldwide
-
-Ongoing surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV)
-Read_more
-
-*
-
-03 Dec 2014
-
-Enterovirus_D68:_North_America_and_Europe
-
-USA has reported cases and clusters of severe respiratory illness associated
-with Enterovirus D68 (EV-D68) Read_more
-
-*
-
-05 Sep 2014
-
-Mosquito_and_tick_borne_diseases:_USA
-
-Mosquitoes in the United States transmit various diseases Read_more
-
-*
-
 All_News
 
 * RSS
@@ -347,6 +321,25 @@ All_News
 
 
 outbreaks
+
+
+Listeriosis_in_the_USA
+
+26 Jan 2016 View Regions  +  Indiana
+Massachusetts
+New Jersey
+New York
+Pennsylvania
+Since September 2015, a multistate outbreak of Listeria monocytogenes
+infections (listeriosis) has been ongoing. Twelve cases and one death have been
+reported from six states.
+Human
+Food and Water-borne
+New Post
+Verified
+CDC_-_Read_more
+
+*
 
 
 Dengue_in_USA
