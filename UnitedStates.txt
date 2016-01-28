@@ -323,6 +323,21 @@ All_News
 outbreaks
 
 
+Salmonellosis_in_USA
+
+27 Jan 2016 United States
+As of 26 January 2016, CDC has confirmed a total of 888 cases of Salmonella
+Poona, with 191 hospital admissions and six deaths, linked to cucumbers
+imported from Mexico, in 39 states.
+Human
+Food and Water-borne
+Update 6
+Verified
+CDC_-_Read_more
+
+*
+
+
 Listeriosis_in_the_USA
 
 26 Jan 2016 View Regions  +  Indiana
@@ -474,22 +489,6 @@ New York (1), Ohio (1), Oregon (13), and Washington (26).
 Human
 Food and Water-borne
 Update 3
-Verified
-CDC_-_Read_more
-
-*
-
-
-Salmonellosis_in_USA
-
-20 Nov 2015 United States
-Between 14 October and 18 November 2015 71 more cases of Salmonella Poona
-connected to cucumbers imported from Mexico, have been reported from 23 states.
-Cases have been reported in two new states for the first time (Connecticut and
-New Hampshire) making the total number 38.
-Human
-Food and Water-borne
-Update 5
 Verified
 CDC_-_Read_more
 
