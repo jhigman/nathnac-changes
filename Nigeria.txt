@@ -607,14 +607,15 @@ outbreaks
 
 Lassa_Fever_in_Nigeria
 
-25 Jan 2016 Nigeria
-From December 2015 to 19 January 2016, Nigerian authorities have reported 218
-suspected and 42 confirmed cases of Lassa fever, including 79 deaths. The
-outbreak is affecting 17 states and the Federal Capital Territory.
+28 Jan 2016 Nigeria
+As of 27 January 2016, WHO has reported that between August 2015 and 23 January
+2016, a total of 159 suspected cases of Lassa fever, including 82 deaths, were
+reported across 19 states. Investigations are ongoing, therefore, these figures
+are subject to change.
 Human
-Update 2
+Update 3
 Verified
-ECDC_-_Read_more
+WHO_-_Read_more
 
 *
 

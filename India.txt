@@ -658,7 +658,7 @@ ECDC_-_Read_more
 *
 
 
-Cholera_in_Belgium_(ex_India)
+Cholera_in_Belgium_ex_India
 
 14 Oct 2015 View Countries  +  Belgium
 India
@@ -774,40 +774,6 @@ Vector-born
 New Post
 Verified
 Media_-_Read_more
-
-*
-
-
-Japanese_encephalitis_in_India
-
-29 Jan 2015 Assam and West Bengal. India
-As of 31 Dec 2014; Assam state has reported a total of 2;194 acute encephalitis
-cases; 761 of which have been confirmed Japanese encephalitis (JE). JE have
-risen nearly 5-fold in last five years in Assam. Increased numbers of cases
-have also been reported from West Bengal (a total of 404 JE cases in 2014;
-compared with 140 cases in 2013).
-Human
-Vector-born
-New Post
-Verified
-State_-_Read_more
-
-*
-
-
-Malaria_in_India
-
-29 Jan 2015 Karnataka. India
-A rise in cases of malaria has been reported in Dakshina Kannada and Udupi;
-Karnataka state. The two districts together have reported more than 9;800 cases
-of malaria in 2014; which is more than 50 per cent of the total cases of
-malaria in the state; which has recorded a total of 12;141 cases. There has
-also been a 45 per cent increase in the number of P. falciparum malaria cases
-in the Dakshina Kannada.
-Human
-Vector-born
-New Post
-ProMED_-_Read_more
 
 *
 

@@ -470,7 +470,7 @@ WHO_-_Read_more
 *
 
 
-Cholera_in_Bahrain_(Ex_Iraq)
+Cholera_in_Bahrain_ex_Iraq
 
 09 Nov 2015 View Countries  +  Bahrain
 Iraq
@@ -485,7 +485,7 @@ ProMed_-_Read_more
 *
 
 
-Cholera_in_Kuwait_(ex_Iraq)
+Cholera_in_Kuwait_ex_Iraq
 
 09 Nov 2015 View Countries  +  Iraq
 Kuwait
