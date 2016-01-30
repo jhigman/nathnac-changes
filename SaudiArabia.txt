@@ -520,14 +520,15 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
 
-15 Jan 2016 Saudi Arabia
-As of 13 January 2016, a new MERS CoV case has been reported in a 50-year-old
-male Saudi resident who had contact with camels.
+29 Jan 2016 Saudi Arabia
+Between 27 December 2015 and 13 January 2016, the National IHR Focal Point for
+the Kingdom of Saudi Arabia notified WHO of four additional cases of Middle
+East respiratory syndrome coronavirus (MERS-CoV) infection.
 Human
 Air-borne
-Update 17
+Update 18
 Verified
-ProMED_-_Read_more
+WHO_-_Read_more
 
 *
 

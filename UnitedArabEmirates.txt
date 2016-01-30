@@ -256,16 +256,15 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_United_Arab_Emirates
 
-29 Jun 2015 Abu Dhabi. United Arab Emirates
-As of 21 Jun 2015, the United Arab Emirates notified WHO of two additional
-cases of Middle East respiratory syndrome coronavirus (MERS-CoV) infection in
-two family members (contacts of the previos case in UAE, reported on 16 Jun
-2015 and who has since died from his infection in the Eatsern Region).
+29 Jan 2016 United Arab Emirates
+Between 11 and 14 January 2016, the National IHR Focal Point of the United Arab
+Emirates notified WHO of 2 additional cases of Middle East respiratory syndrome
+coronavirus (MERS-CoV) infection, including 1 death.
 Human
 Air-borne
-Update 1
+Update 2
 Verified
-WHO_Disease_Outbreak_News_-_Read_more
+WHO_-_Read_more
 
 *
 

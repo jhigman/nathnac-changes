@@ -563,14 +563,15 @@ outbreaks
 
 Ebola_virus_disease_in_Sierra_Leone
 
-18 Jan 2016 Sierra Leone
-As of 15 January 2016 a new case of EVD has been confirmed. Sierra Leone is
-still in a 90-day period of enhanced surveillance following the declaration on
-7 November 2015 of the end of Ebola transmission in the country.
+29 Jan 2016 Sierra Leone
+As of 26 January 2016, ECDC states that on 20 January 2016, the Sierra Leone
+Ministry of Health has reported a second EVD case in the district of Tonkolili.
+This patient is a relative of the person who died on 12 January 2016.
+“
 Human
-Update 13
+Update 14
 Verified
-WHO_-_Read_more
+ECDC_-_Read_more
 
 *
 
