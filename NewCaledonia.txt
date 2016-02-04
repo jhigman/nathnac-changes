@@ -343,14 +343,14 @@ outbreaks
 
 Zika_virus_in_New_Caledonia
 
-26 Mar 2015 New Caledonia
-As of 20 Mar 2015, six Zika cases have been diagnosed in New Caledonia since
-the beginning of 2015. They are reported as originating from Vanuatu.
+03 Feb 2016 New Caledonia
+As of 25 October 2015, the Health Surveillance Office of French Polynesia
+confirmed a Zika case in New Caledonia on 22 October 2015.
 Human
 Vector-born
-New Post
+Update 1
 Verified
-WHO_regional_-_Read_more
+Health_Surveillance_Office_of_French_Polynesia_-_Read_more
 
 *
 

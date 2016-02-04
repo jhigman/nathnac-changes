@@ -436,13 +436,14 @@ outbreaks
 
 Zika_virus_in_Solomon_Islands
 
-09 Apr 2015 Solomon Islands
-As of 6 Apr 2015 there have been 240 Zika like illness cases since Feb 2015.
+03 Feb 2016 Solomon Islands
+As of 26 July 2015, the Health Surveillance Office of French Polynesia
+described Zika as circulating in the Solomon Islands.
 Human
 Vector-born
-Update 1
+Update 2
 Verified
-WHO_regional_-_Read_more
+Health_Surveillance_Office_of_French_Polynesia_-_Read_more
 
 *
 
