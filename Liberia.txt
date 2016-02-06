@@ -610,30 +610,6 @@ ProMED_-_Read_more
 *
 
 
-Ebola_virus_disease_in_Multiple_countries
-
-06 Feb 2015 View Countries  +  Guinea
-Liberia
-Mali
-Nigeria
-Senegal
-Sierra Leone
-
-There have been almost 22,500 reported confirmed, probable, and suspected cases
-of EVD in Guinea, Liberia and Sierra Leone with almost 9000 reported deaths. A
-total of 39 new confirmed cases were reported in Guinea, 5 in Liberia, and 80
-in Sierra Leone in the seven days to 1 Feb 2015. Distribution of cases as of 1
-Feb 2015 in the countries with intense transmission are as follows: Guinea:
-2,975 cases and 1,944 deaths; Liberia: 8,745 cases and 3,746 deaths; Sierra
-Leone: 10,740 cases and 3,276 deaths.
-Human
-Update 2
-Verified
-WHO_Regional_-_Read_more
-
-*
-
-
 Ebola_virus_disease_in_Liberia
 
 11 May 2015 Liberia

@@ -520,13 +520,13 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
 
-29 Jan 2016 Saudi Arabia
-Between 27 December 2015 and 13 January 2016, the National IHR Focal Point for
-the Kingdom of Saudi Arabia notified WHO of four additional cases of Middle
-East respiratory syndrome coronavirus (MERS-CoV) infection.
+05 Feb 2016 Saudi Arabia
+Between 22 and 27 January 2016, the National IHR Focal Point for the Kingdom of
+Saudi Arabia notified WHO of 5 additional cases of Middle East respiratory
+syndrome coronavirus (MERS-CoV) infection.
 Human
 Air-borne
-Update 18
+Update 19
 Verified
 WHO_-_Read_more
 
