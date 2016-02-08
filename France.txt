@@ -328,7 +328,7 @@ been reported in France Read_more
 
 *
 
-_Mosquito_
+_Mosquito-generic_
 01 Sep 2015
 
 Dengue_in_France
