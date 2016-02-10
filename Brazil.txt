@@ -328,6 +328,10 @@ Risk Areas
 * There is no risk of malaria in Iguaçu Falls: bite avoidance recommended.
 
 
+Antimalarial Recommendations Map
+
+_Brazil-malaria-map_
+
 Recommended Antimalarials
 
 The recommended antimalarials for Brazil are listed below. They are recommended
@@ -482,7 +486,7 @@ Schistosomiasis_in_brief
 
 Important News
 
-_world-banner_
+_Aedes-mosquito_
 01 Feb 2016
 
 Zika_virus_–_update_and_advice_for_travellers_including_pregnant_women
@@ -503,7 +507,7 @@ different diseases Read_more
 
 *
 
-_Mosquito-generic_
+_Aedes-mosquito_
 19 Jan 2016
 
 Zika_virus_–_update_and_advice_for_pregnant_women
@@ -905,22 +909,6 @@ Vector-born
 New Post
 Verified
 Other_-_Verified_-_Read_more
-
-*
-
-
-Measles_in_Brazil
-
-10 Feb 2015 Brazil
-As of 5 Feb 2015; a total of 718 cases have been confirmed in 31
-municipalities. A total of 51 cases remain under investigation in twelve
-municipalities. (In comparision - between 2013 and 2015; a total of 971
-confirmed measles cases were reported in the Federal District and nine states).
-Human
-Close association
-New Post
-Verified
-WHO_Other_-_Read_more
 
 *
 
