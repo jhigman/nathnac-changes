@@ -298,6 +298,20 @@ All_News
 outbreaks
 
 
+Salmonellosis_in_Australia
+
+10 Feb 2016 Victoria. Australia
+On 5 February 2016 a recall of a range of pre-packaged salad products was
+announced which have been linked to an outbreak of salmonella.
+Human
+Food and Water-borne
+New Post
+Verified
+State_-_Read_more
+
+*
+
+
 Pertussis_in_Australia
 
 05 Jan 2016 Australia
@@ -483,24 +497,6 @@ Human
 Toxic
 New Post
 Media_-_Read_more
-
-*
-
-
-Japanese_encephalitis_in_Australia_ex_Indonesia
-
-11 Feb 2015 View Countries  +  Australia
-Indonesia (including Bali)
-
-As of 10 Feb 2015; a 45-year-old male resident of Victoria; mainland Australia;
-has been diagnosed with Japanese encephalitis (JE) after travel to Bali;
-Indonesia. This is the first notified case of JE in Victoria.
-Human
-Imported
-Vector-born
-New Post
-Verified
-State_-_Read_more
 
 *
 

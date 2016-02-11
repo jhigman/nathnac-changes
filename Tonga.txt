@@ -324,13 +324,15 @@ outbreaks
 
 Zika_virus_in_Tonga
 
-29 Jan 2016 Tonga
-As of 29 January the first locally acquired cases have been reported.
+10 Feb 2016 Tonga
+The Ministry of Health, Kingdom of Tonga declared on the 1st February 2016 that
+Tonga is experiencing an outbreak of the Zika virus. As of 8 February 2016
+weekly case reports of Zika are reported to be increasing.
 Human
 Vector-born
-New Post
+Update 1
 Verified
-Department_of_Health_Australia_-_Read_more
+State_-_Read_more
 
 *
 
