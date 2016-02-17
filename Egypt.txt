@@ -441,21 +441,6 @@ WHO_regional_-_Read_more
 
 *
 
-
-Influenza_A_(H9N2)_in_Egypt
-
-17 Feb 2015 Aswan. Egypt
-The previously reported human case of A(H9N2) influenza has been confirmed on
-10 Feb 2015. The case was detected by the routine national avian
-influenzasurveillance system in Aswan Governorate.
-Human
-Air-borne
-Update 1
-Verified
-Other_-_Verified_-_Read_more
-
-*
-
 More
 
 * RSS
