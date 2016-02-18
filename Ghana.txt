@@ -506,20 +506,14 @@ outbreaks
 
 Meningitis_in_Ghana
 
-08 Feb 2016 View Regions  +  Ashanti
-Brong-Ahafo
-Northern
-In December 2015, suspected cases of meningitis were reported from the Brong
-Ahafo region and in January 2016 additional cases were reported in 6 districts
-of Brong Ahafo and two districts in the Northern region. Sporadic cases have
-also been reported in the Ashanti region. As of 29 January 2016, a total of 325
-cases and 61 deaths have been reported. Streptococcus pneumonia has been
-identified as the main causative agent of meningitis in this outbreak.
+17 Feb 2016 Ghana
+As of 17 February 2016, a total of 456 cases and 85 deaths have been reported
+across nine regions.
 Human
 Close association
-New Post
+Update 1
 Verified
-WHO_-_Read_more
+State_-_Read_more
 
 *
 

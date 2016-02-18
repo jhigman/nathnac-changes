@@ -292,12 +292,29 @@ All_News
 outbreaks
 
 
+Zika_virus_in_Aruba
+
+17 Feb 2016 View Countries  +  Aruba
+Caribbean Islands (Netherlands)
+
+As of 16 February, the first cases of locally transmitted Zika virus have been
+reported in Aruba.
+Human
+Vector-born
+New Post
+Verified
+State_-_Read_more
+
+*
+
+
 Zika_Virus_in_Bonaire
 
-16 Feb 2016 Bonaire.
+16 Feb 2016 Bonaire. Caribbean Islands (Netherlands)
 As of 15 February 2016, the first case of locally transmitted Zika virus has
 been reported in Bonaire.
 Human
+Vector-born
 New Post
 Verified
 State_-_Read_more
