@@ -325,23 +325,16 @@ outbreaks
 
 Salmonellosis_in_USA
 
-03 Feb 2016 View Regions  +  Minnesota
-New Jersey
-New Mexico
-Ohio
-Oklahoma
-Oregon
-Tennessee
-Utah
-Wisconsin
-As of 2 February, 2016, a total of 11 cases of Salmonella Virchow have been
-reported in nine states. No deaths have been reported. Epidemiologic evidence
-suggests a commercial food supplement is a likely source of this outbreak.
-Cases have been reported in Minnesota, New Jersey, New Mexico, Ohio, Oklahoma,
-Oregon, Tennessee, Utah and Wisconsin.
+22 Feb 2016 United States
+As of February 17 2016, 18 people infected with the outbreak strain of
+Salmonella Virchow have been reported from 15 states: Florida (1),
+Massachusetts (1), Maryland (1), Minnesota (2), New Jersey (2), New Mexico (1),
+North Carolina (1), Ohio (1), Oklahoma (1), Oregon (1), Rhode Island (1),
+Tennessee (1), Texas (1), Utah (2), and Wisconsin (1). Onset ranges from 5 Dec
+2015 to 3 Feb 2016 where information is available.
 Human
 Food and Water-borne
-New Post
+Update 1
 Verified
 CDC_-_Read_more
 

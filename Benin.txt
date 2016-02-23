@@ -549,14 +549,16 @@ outbreaks
 
 Lassa_fever_in_Benin
 
-08 Feb 2016 Borgou. Benin
-As of 5 February 2016, 25 suspected cases among which 12 deaths have been
-identified in Tchaourou, Borgou department. Among the deceased, four cases of
-Lassa fever have been confirmed as positive.
+22 Feb 2016 Benin
+Between 21 January and 16 February, 71 cases (6 confirmed) have been reported
+from seven departments: Borgou (52), Collines (13), Ouémé (2), Alibori (1),
+Atlantique (1), Kouffo (1) and Littoral (1). A total of 23 deaths have been
+recorded in Borgou (16), Collines (4), Atlantique (1), Ouémé (1) and Plateau
+(1).
 Human
-New Post
+Update 1
 Verified
-UN_News_Centre_-_Read_more
+WHO_-_Read_more
 
 *
 
