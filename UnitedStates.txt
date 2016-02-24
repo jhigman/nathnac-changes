@@ -325,7 +325,7 @@ outbreaks
 
 Salmonellosis_in_USA
 
-22 Feb 2016 United States
+22 Feb 2016 Ohio. United States
 As of February 17 2016, 18 people infected with the outbreak strain of
 Salmonella Virchow have been reported from 15 states: Florida (1),
 Massachusetts (1), Maryland (1), Minnesota (2), New Jersey (2), New Mexico (1),
@@ -1188,25 +1188,6 @@ tested positive for Ebola virus returned to the US and was admitted to hospital
 for care and treatment.
 Human
 Imported
-New Post
-Verified
-Centers_for_Disease_Control_and_Prevention_-_Read_more
-
-*
-
-
-Tick_borne_disease_(viral)_in_USA
-
-24 Feb 2015 Kansas. United States
-A new virus (a novel member of the genus Thogotovirus) may have contributed to
-the death of a previously healthy man in eastern Kansas during late spring in
-2014. The patient with history of tick bite; fever and fatigue developed
-multiorgan failure; and died eleven days after illness onset. This is the first
-time a virus in this group has been shown to cause human illness in the United
-States and only the eighth known case of thogotoviruses causing symptoms in
-humans.
-Human
-Vector-born
 New Post
 Verified
 Centers_for_Disease_Control_and_Prevention_-_Read_more

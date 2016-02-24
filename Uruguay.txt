@@ -270,6 +270,20 @@ All_News
 
 outbreaks
 
+
+Dengue_in_Uruguay
+
+23 Feb 2016 Montevideo. Uruguay
+As 19 Feb 2016, a second case of locally transmitted dengue has been reported.
+The first case for Uruguay was recorded on 13 Feb 2016.
+Human
+Vector-born
+New Post
+Verified
+State_-_Read_more
+
+*
+
 More
 
 * RSS
