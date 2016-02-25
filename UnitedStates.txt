@@ -325,7 +325,25 @@ outbreaks
 
 Salmonellosis_in_USA
 
-22 Feb 2016 Ohio. United States
+24 Feb 2016 View Regions  +  Kansas
+Missouri
+Oklahoma
+Pennsylvania
+As of 23 February 2016 13 cases of Salmonella Muenchen have been reported from
+four states. No deaths have been reported. Investigations indicate that a brand
+of alfalfa sprouts are a likely source.
+Human
+Food and Water-borne
+New Post
+Verified
+CDC_-_Read_more
+
+*
+
+
+Salmonellosis_in_USA
+
+22 Feb 2016 United States
 As of February 17 2016, 18 people infected with the outbreak strain of
 Salmonella Virchow have been reported from 15 states: Florida (1),
 Massachusetts (1), Maryland (1), Minnesota (2), New Jersey (2), New Mexico (1),
