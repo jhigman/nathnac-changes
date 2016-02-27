@@ -349,12 +349,13 @@ outbreaks
 
 Haemolytic-Uremic_Syndrome_in_Romania
 
-18 Feb 2016 Romania
-As of 17 Feb 2016, a cluster of Haemolytic-Uremic Syndrome in children has been
-reported. Out of 12 cases three have died. No causative agent has yet been
-identified.
+26 Feb 2016 Romania
+As of 25 Feb 2016, the causative agent for the cluster of HUS in 12 children,
+of which 3 have died, has been confirmed as Verotoxin-producing E. coli O26.
+Authorities are emphasising the importance of good food hygiene while the exact
+mode of transmission is being investigated.
 Human
-New Post
+Update 1
 Verified
 State_-_Read_more
 
