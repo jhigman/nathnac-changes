@@ -478,6 +478,58 @@ Prevention
 
 Schistosomiasis_in_brief
 
+Zika Virus
+
+Zika virus (ZIKV) is a viral infection transmitted by mosquitoes which
+predominantly feed between dawn and dusk. A small number of cases of sexual
+transmission of ZIKV have also been reported. Most people infected with ZIKV
+have no symptoms. When symptoms do occur they are usually mild and, short-
+lived. Serious complications and deaths are not common, however, an increase in
+congenital anomalies (birth defects), neurological and autoimmune syndromes
+have recently been reported in areas where ZIKV outbreaks have occurred.
+Possible links to ZIKV infection are being investigated.
+
+Zika virus in Brazil
+
+This country has reported locally acquired cases of ZIKV in the last 2 months
+(so is considered to have current active ZIKV transmission). Increasing or
+widespread transmission has been reported. Details of specific affected areas
+within this country are not available, but the mosquitoes that transmit ZIKV
+are unlikely to be found above 2,000m altitude.
+
+Prevention
+
+
+* All travellers should avoid mosquito bites particularly between dawn and
+  dusk.
+* There is no vaccination or medication to prevent ZIKV infection.
+* It is recommended that pregnant women planning to travel to areas with active
+  ZIKV transmission should postpone non-essential travel until after pregnancy.
+* Women should avoid becoming pregnant while travelling in, and for 28 days
+  after leaving an area with active ZIKV transmission.
+* If a woman develops symptoms compatible with ZIKV infection, it is
+  recommended she avoids becoming pregnant for a further 28 days following.
+* Pregnant women who visited this country while pregnant, or who become
+  pregnant within 28 days of leaving this country, should contact their GP,
+  obstetrician or midwife for further advice, even if they have not been
+  unwell. Further_information_about_when_to_perform_fetal_ultrasound_scanning,
+  and,_if_necessary,_referral_to_the_local_fetal_medicine_service_is_available.
+
+
+Preventing sexual transmission
+
+
+* Almost all cases of ZIKV are acquired via mosquito bites. A small number of
+  cases of sexual transmission of ZIKV have been reported, although reports are
+  increasing, the risk of sexual transmission of ZIKV is thought to be very
+  low.
+* See_further_information_for_women_who_are_pregnant,_at_risk_of_getting
+  pregnant,_or_planning_pregnancy,_and_their_male_partners.
+
+See_detailed_guidance_on_factors_to_consider_when_assessing_the_risk_of_ZIKV.
+Zika_virus_in_brief
+ 
+
 
 * Home
 * Country_Information
@@ -487,13 +539,14 @@ Schistosomiasis_in_brief
 Important News
 
 _Aedes-mosquito_
-01 Feb 2016
+01 Mar 2016
 
-Zika_virus_–_update_and_advice_for_travellers_including_pregnant_women
+Zika_virus_–_update_and_advice_for_travellers_including_pregnant_women_and
+those_planning_pregnancy
 
-Pregnant travellers and those with serious health problems are advised to seek
-advice from a health professional before travel to areas with active ZI Read
-more
+It is recommended that pregnant women planning to travel, postpone non-
+essential travel to areas with active ZIKV transmission until after pregnancy
+Read_more
 
 *
 
