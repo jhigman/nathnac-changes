@@ -243,9 +243,9 @@ Possible links to ZIKV infection are being investigated.
 Zika virus in Caribbean Islands (Netherlands): Aruba, Bonaire, and Sint Maarten
 
 These countries have reported locally acquired cases of ZIKV in the last 2
-months (so is considered to have current active ZIKV transmission). Sporadic
-transmission following recent introduction has been reported. Details of
-specific affected areas within this country are not available.
+months (so are considered to have current active ZIKV transmission). Sporadic
+transmission has been reported. Details of specific affected areas within this
+country are not available.
 
 Zika virus in Caribbean Islands (Netherlands): Curaçao
 

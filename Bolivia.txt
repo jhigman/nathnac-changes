@@ -521,11 +521,11 @@ Zika virus in Bolivia
 
 This country has reported locally acquired cases of ZIKV in the last 2 months
 (so is considered to have current active ZIKV transmission). Increasing or
-widespread transmission following recent introduction has been reported.
-Details of specific affected areas within this country are not available, but
-the mosquitoes that transmit ZIKV are unlikely to be found above 2,000m
-altitude. There are a number of locations above 2,000m in Bolivia including
-Potosi city 4,090m; La Paz 3,630m and El Alto 4,150m.
+widespread transmission has been reported. Details of specific affected areas
+within this country are not available, but the mosquitoes that transmit ZIKV
+are unlikely to be found above 2,000m altitude. There are a number of locations
+above 2,000m in Bolivia including Potosi city 4,090m; La Paz 3,630m and El Alto
+4,150m.
 
 Prevention
 
