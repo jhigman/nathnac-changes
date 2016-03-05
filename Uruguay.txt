@@ -239,6 +239,36 @@ Typhoid vaccination
 
 Typhoid_in_brief
 
+* Home
+* Country_Information
+* Uruguay
+
+
+Other risks
+
+
+Dengue
+
+Dengue is a viral infection transmitted by mosquitoes which predominantly feed
+between dawn and dusk.  It causes a flu-like illness, which can occasionally
+develop into a more serious life-threatening form of the disease. . Severe
+dengue is rare in travellers.
+The mosquitoes that transmit dengue are most abundant in towns, cities and
+surrounding areas. All travellers to dengue areas are at risk.
+
+Dengue in Uruguay
+
+Dengue is known or has the potential to occur in this country.
+
+ Prevention
+
+
+* All travellers should avoid mosquito bites particularly between dawn and
+  dusk.
+* There is no vaccination or medication to prevent dengue .
+
+Dengue_in_brief
+
 
 * Home
 * Country_Information

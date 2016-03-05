@@ -301,9 +301,10 @@ Possible links to ZIKV infection are being investigated.
 
 Zika virus in New Caledonia
 
-This country has reported locally acquired cases of ZIKV in the last 9 months
-(but no cases have been reported in more than 8 weeks). Details of specific
-affected areas within this country are not available.
+This country has reported locally acquired cases of ZIKV in the last 2 months
+(so is considered to have current active ZIKV transmission). Sporadic
+transmission has been reported. Details of specific affected areas within this
+country are not available.
 
 Prevention
 
@@ -387,14 +388,13 @@ outbreaks
 
 Zika_virus_in_New_Caledonia
 
-03 Feb 2016 New Caledonia
-As of 25 October 2015, the Health Surveillance Office of French Polynesia
-confirmed a Zika case in New Caledonia on 22 October 2015.
+04 Mar 2016 New Caledonia
+As of 3 March, a new case has been reported.
 Human
 Vector-born
-Update 1
+Update 2
 Verified
-Health_Surveillance_Office_of_French_Polynesia_-_Read_more
+State_-_Read_more
 
 *
 

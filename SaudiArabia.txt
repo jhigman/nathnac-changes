@@ -520,12 +520,13 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
 
-26 Feb 2016 Saudi Arabia
-As of 25 Feb 2016, two new cases, males aged 56 and 60 years, have been
-confirmed. Both had recently been in contact with camels.
+04 Mar 2016 Saudi Arabia
+Between 27 Feb and 4 Mar 2016, a total of seven cases and two deaths have been
+reported, a case in Alartawia, two cases and a death in Buraidah, a death in
+Mahail Asseer, three cases in Riyadh, and a case in Shagraa.
 Human
 Air-borne
-Update 21
+Update 22
 Verified
 State_-_Read_more
 
