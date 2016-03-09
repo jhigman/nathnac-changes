@@ -732,21 +732,6 @@ ProMED_-_Read_more
 
 *
 
-
-Influenza_A(H1N1)pdm09_–_Confirmed_in_India
-
-10 Mar 2015 India
-Influenza A (H1N1) activity continues to increase in India. As of 26 Feb 2015;
-a total number of laboratory confirmed cases has reached 18;105 with 1;005
-related deaths.
-Human
-Air-borne
-Update 1
-Verified
-State_-_Read_more
-
-*
-
 More
 
 * RSS
