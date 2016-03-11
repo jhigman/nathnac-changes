@@ -477,8 +477,7 @@ Preventing sexual transmission
 
 * Almost all cases of ZIKV are acquired via mosquito bites. A small number of
   cases of sexual transmission of ZIKV have been reported, although reports are
-  increasing, the risk of sexual transmission of ZIKV is thought to be very
-  low.
+  increasing, the risk of sexual transmission of ZIKV is thought to be low.
 * See_further_information_for_women_who_are_pregnant,_at_risk_of_getting
   pregnant,_or_planning_pregnancy,_and_their_male_partners.
 
@@ -539,6 +538,20 @@ All_News
 outbreaks
 
 
+Cholera_in_Dominican_Republic
+
+10 Mar 2016 Dominican Republic
+As of 9 March 2016, a total of 68 suspected cholera cases, with no deaths, have
+been reported for 2016.
+Human
+Food and Water-borne
+Update 1
+Verified
+PAHO_-_Read_more
+
+*
+
+
 Zika_virus_in_Dominican_Republic
 
 25 Jan 2016 Dominican Republic
@@ -548,20 +561,6 @@ present in the country.
 Human
 Vector-born
 Update 2
-Verified
-State_-_Read_more
-
-*
-
-
-Cholera_in_Dominican_Republic
-
-23 Nov 2015 Pedernales. Dominican Republic
-As of 18 November 2015 three cases of cholera have been confirmed in the state
-of Pedernales. No deaths have been reported.
-Human
-Food and Water-borne
-New Post
 Verified
 State_-_Read_more
 

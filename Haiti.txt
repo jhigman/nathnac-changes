@@ -437,8 +437,7 @@ Preventing sexual transmission
 
 * Almost all cases of ZIKV are acquired via mosquito bites. A small number of
   cases of sexual transmission of ZIKV have been reported, although reports are
-  increasing, the risk of sexual transmission of ZIKV is thought to be very
-  low.
+  increasing, the risk of sexual transmission of ZIKV is thought to be low.
 * See_further_information_for_women_who_are_pregnant,_at_risk_of_getting
   pregnant,_or_planning_pregnancy,_and_their_male_partners.
 
@@ -499,6 +498,20 @@ All_News
 outbreaks
 
 
+Cholera_in_Haiti
+
+10 Mar 2016 Haiti
+As of 9 March 2016, a total of 7,040 suspected cholera cases and 88 deaths have
+been reported for 2016.
+Human
+Food and Water-borne
+Update 4
+Verified
+PAHO_-_Read_more
+
+*
+
+
 Zika_virus_in_Haiti
 
 14 Jan 2016 Haiti
@@ -509,21 +522,6 @@ Vector-born
 New Post
 Verified
 PAHO_/_WHO_-_Read_more
-
-*
-
-
-Cholera_in_Haiti
-
-07 Jan 2016 Haiti
-A total of 31,396 cholera cases and 297 deaths were reported from January to
-November 2015. In 2014, a total of 21,916 cases were reported during the same
-period. International efforts to reduce the number of cases continues.
-Human
-Food and Water-borne
-Update 3
-Verified
-Coordination_Committee_in_Haiti_-_Read_more
 
 *
 

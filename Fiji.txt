@@ -40,7 +40,7 @@ Resources
 * Fiji
 
 
-Vaccine Recommendations
+Vaccine recommendations
 
 Details of vaccination recommendations and requirements are provided below.
 
@@ -229,7 +229,7 @@ Typhoid vaccination
 * Fiji
 
 
-Other Risks
+Other risks
 
 The risks below may be present in all or part of the country.
 
@@ -268,9 +268,10 @@ Possible links to ZIKV infection are being investigated.
 
 Zika virus in Fiji
 
-This country has reported locally acquired cases of ZIKV in the last 9 months
-(but no cases have been reported in more than 8 weeks). Details of specific
-affected areas within this country are not available.
+This country has reported locally acquired cases of ZIKV in the last 2 months
+(so is considered to have current active ZIKV transmission). Sporadic
+transmission has been reported. Details of specific affected areas within this
+country are not available.
 
 Prevention
 
@@ -278,20 +279,25 @@ Prevention
 * All travellers should avoid mosquito bites particularly between dawn and
   dusk.
 * There is no vaccination or medication to prevent ZIKV infection.
+* It is recommended that pregnant women planning to travel to areas with active
+  ZIKV transmission should postpone non-essential travel until after pregnancy.
+* Women should avoid becoming pregnant while travelling in, and for 28 days
+  after leaving an area with active ZIKV transmission.
+* If a woman develops symptoms compatible with ZIKV infection, it is
+  recommended she avoids becoming pregnant for a further 28 days following.
 * Pregnant women who visited this country while pregnant, or who become
   pregnant within 28 days of leaving this country, should contact their GP,
-  obstetrician or midwife for further advice, even if you have not been unwell.
-  Further_information_about_when_to_perform_fetal_ultrasound_scanning,_and,_if
-  necessary,_referral_to_the_local_fetal_medicine_service_is_available.
+  obstetrician or midwife for further advice, even if they have not been
+  unwell. Further_information_about_when_to_perform_fetal_ultrasound_scanning,
+  and,_if_necessary,_referral_to_the_local_fetal_medicine_service_is_available.
 
 
 Preventing sexual transmission
 
 
-* Almost all cases of ZIKV are acquired via mosquito bites. A number of cases
-  of sexual transmission of ZIKV have been reported, although reports are
-  increasing, the risk of sexual transmission of ZIKV is thought to be very
-  low.
+* Almost all cases of ZIKV are acquired via mosquito bites. A small number of
+  cases of sexual transmission of ZIKV have been reported, although reports are
+  increasing, the risk of sexual transmission of ZIKV is thought to be low.
 * See_further_information_for_women_who_are_pregnant,_at_risk_of_getting
   pregnant,_or_planning_pregnancy,_and_their_male_partners.
 
