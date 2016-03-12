@@ -581,14 +581,14 @@ outbreaks
 
 Yellow_fever_in_Angola
 
-08 Mar 2016 Angola
-As of 4 Mar 2016, a total of 759 suspected cases and 34 deaths in Huambo,
-Huila, Bie, Kwanzu Sul, Uige and seven other provinces have been reported.
+11 Mar 2016 Angola
+As of 9 March 2016 there have been 65 confirmed cases, 813 suspected cases, and
+138 deaths from yellow fever since the outbreak started in December 2015.
 Human
 Vector-born
-Update 5
+Update 6
 Verified
-United_Nations_Office_for_the_Coordination_of_Humanitarian_Affairs_-_Read_more
+WHO_-_Read_more
 
 *
 
