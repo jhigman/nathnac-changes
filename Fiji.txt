@@ -360,14 +360,14 @@ outbreaks
 
 Zika_virus_in_Fiji
 
-25 Oct 2015 Fiji
-As of 25 October 2015, the Public Health Surveillance Office of French
-Polynesia reported an outbreak of Zika virus as still ongoing.
+14 Mar 2016 Fiji
+As of 9 March 2016, cases of locally acquired Zika virus disease are
+increasing.
 Human
 Vector-born
-Update 1
+Update 2
 Verified
-Public_Health_Surveillance_Office_of_French_Polynesi_-_Read_more
+Pacific_Public_Health_Surveillance_Network_-_Read_more
 
 *
 
