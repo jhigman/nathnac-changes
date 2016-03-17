@@ -465,11 +465,11 @@ Possible links to ZIKV infection are being investigated.
 Zika virus in Guyana
 
 This country has reported locally acquired cases of ZIKV in the last 2 months
-(so is considered to have current active ZIKV transmission). Sporadic
-transmission has been reported. Details of specific affected areas within this
-country are not available. The mosquitoes that transmit ZIKV are unlikely to be
-found above 2,000m altitude. There are some peaks above this altitude in the
-South and West of the country.
+(so is considered to have current active ZIKV transmission). Increasing or
+widespread transmission has been reported. Details of specific affected areas
+within this country are not available. The mosquitoes that transmit ZIKV are
+unlikely to be found above 2,000m altitude. There are some peaks above this
+altitude in the South and West of the country.
 
 Prevention
 
