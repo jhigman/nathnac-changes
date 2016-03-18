@@ -373,9 +373,15 @@ Zika virus in Honduras
 This country has reported locally acquired cases of ZIKV in the last 2 months
 (so is considered to have current active ZIKV transmission). Increasing or
 widespread transmission has been reported. Details of specific affected areas
-within this country are not available. The mosquitoes that transmit ZIKV are
-unlikely to be found above 2,000m altitude. There are some mountain peaks above
-this altitude in Honduras.
+within this country are not available, but the mosquitoes that transmit ZIKV
+are unlikely to be found above 2,000m altitude.
+This map shows areas which are above 2,000m and can be used by travellers and
+health professionals as a general guide to indicate potentially lower risk
+areas for mosquito-acquired ZIKV infection, however there may still be a risk
+of sexual transmission.
+_zika-map-honduras_
+Map_of_areas_above_2,000m_in_Honduras._Click_to_enlarge.
+Courtesy_of_CDC
 
 Prevention
 
