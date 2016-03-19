@@ -300,14 +300,25 @@ outbreaks
 
 Measles_in_Australia
 
-23 Feb 2016 Victoria. Australia
-As of 23 Feb 2016, 14 adult cases of measles in the Brunswick area of Melbourne
-have been confirmed. Several cases travelled to inner city areas whilst
-infectious, 29 Jan-20 Feb 2016, and two primary schools are taking
-precautionary measures. All cases have been acquired locally with no history of
-overseas travel.
+18 Mar 2016 Victoria. Australia
+As of 17 March 2016, the number of cases has risen to 21 since end of January
+2016. Cases have occurred in several suburbs to Greater Melbourne.
 Human
 Close association
+Update 1
+Verified
+State_-_Read_more
+
+*
+
+
+Legionellosis_in_Australia
+
+18 Mar 2016 Sydney. Australia
+As of 9 March 2016, four cases have been reported. Central Sydney is the centre
+of the outbreak.
+Human
+Air-borne
 New Post
 Verified
 State_-_Read_more

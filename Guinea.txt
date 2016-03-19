@@ -635,6 +635,18 @@ All_News
 outbreaks
 
 
+Ebola_virus_disease_in_Guinea
+
+18 Mar 2016 Guinea
+As 17 March 2016, two new cases in N’zérékoré Prefecture, Guinée Forestière.
+Human
+Update 18
+Verified
+WHO_-_Read_more
+
+*
+
+
 Polio_in_Guinea
 
 02 Mar 2016 Guinea
@@ -663,19 +675,6 @@ Human
 Update 1
 Verified
 State_-_Read_more
-
-*
-
-
-Ebola_virus_disease_in_Guinea
-
-06 Nov 2015 Guinea
-One new confirmed case of EVD was reported in the week to 1 November 2015.
-There have been 3810 cases and 2536 deaths since the start of the outbreak.
-Human
-Update 17
-Verified
-WHO_-_Read_more
 
 *
 

@@ -520,12 +520,13 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
 
-11 Mar 2016 Saudi Arabia
-As of 9 March 2016 new cases and deaths from MERS-CoV have been reported. Since
-2012 there have been 1,330 cases and 562 deaths in the country.
+18 Mar 2016 Saudi Arabia
+As of 16 March 2016, a case in Baha, 6 cases and 7 deaths in Buraidah, 2 cases
+in Hail, 2 cases in Kharj, 2 cases and a death in Riyadh, a case and a death in
+Taif were reported between 11 and 17 March.
 Human
 Air-borne
-Update 23
+Update 24
 Verified
 State_-_Read_more
 

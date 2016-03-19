@@ -529,13 +529,14 @@ outbreaks
 
 Cholera_in_Zambia
 
-02 Mar 2016 Lusaka. Zambia
-As of 12 February 2016, a total of 20 cholera cases have been reported. This is
-the first report of cholera in Lusaka since 2010.
+18 Mar 2016 Lusaka. Zambia
+As of 9 March 2016, a total of 104 cases have been reported in Lusaka district
+(84) and Chibombo district (20).
 Human
 Food and Water-borne
-New Post
-Media_-_Read_more
+Update 1
+Verified
+State_-_Read_more
 
 *
 

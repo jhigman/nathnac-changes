@@ -581,14 +581,30 @@ outbreaks
 
 Yellow_fever_in_Angola
 
-11 Mar 2016 Angola
-As of 9 March 2016 there have been 65 confirmed cases, 813 suspected cases, and
-138 deaths from yellow fever since the outbreak started in December 2015.
+18 Mar 2016 Angola
+As of 15 March 2016, a total of 885 suspected cases, 146 deaths, and 121
+confirmed cases have been reported between 5 December 2015 and 13 March 2016.
 Human
 Vector-born
-Update 6
+Update 7
 Verified
-WHO_-_Read_more
+State_-_Read_more
+
+*
+
+
+Yellow_fever_in_China_ex_Angola
+
+18 Mar 2016 View Countries  +  Angola
+China
+
+As of 17 March 2016, a first case of yellow fever for China in a 32-year old
+male returning from Luanda, Angola.
+Human
+Vector-born
+New Post
+Verified
+State_-_Read_more
 
 *
 
