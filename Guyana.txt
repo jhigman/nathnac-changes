@@ -469,13 +469,20 @@ This country has reported locally acquired cases of ZIKV in the last 2 months
 widespread transmission has been reported. Details of specific affected areas
 within this country are not available, but the mosquitoes that transmit ZIKV
 are unlikely to be found above 2,000m altitude.
-This map shows areas which are above 2,000m and can be used by travellers and
-health professionals as a general guide to indicate potentially lower risk
+The map below shows areas which are above 2,000m and can be used by travellers
+and health professionals as a general guide to indicate potentially lower risk
 areas for mosquito-acquired ZIKV infection, however there may still be a risk
 of sexual transmission.
+Map_provided_by_the_Travelers’_Health_Branch,_Centers_for_Disease_Control_and
+Prevention
 _zika-map-guyana_
-Map_of_areas_above_2,000m_in_Guyana._Click_to_enlarge.
-Courtesy_of_CDC
+The categories shown on this map are intended as a general guideline and should
+not be considered to indicate absolute risk. Elevation may vary within an area
+to a larger extent than this map can depict. The presence of mosquitoes may
+change seasonally, with increasing temperatures or rainfall, and may change
+over time. Travellers to destinations that cross or are near an elevation
+border may wish to consider the destination as an area of lower elevation.
+Travellers to high elevations are still at risk of getting Zika from sex.
 
 Prevention
 
