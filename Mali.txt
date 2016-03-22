@@ -534,14 +534,14 @@ outbreaks
 
 Meningitis_in_Mali
 
-09 Mar 2016 View Regions  +  Koulikoro
-Sikasso
-As of 8 March 2016, a total of 10 confirmed meningitis cases (including seven
-cases of meningitis C) and 24 suspected meningitis cases have been reported
-from Bougouni (Sikasso) and Ouélessebougou (Koulikoro). .
+21 Mar 2016 Mali
+As of 20 March 2016, a total of 65 suspected cases, 9 deaths, and 23 confirmed
+cases have been reported between 21 February 2016 and 18 March 2016. Meningitis
+C was found in 14, and S. pneumoniae in 4 out of the 23 confirmed cases. The
+main affected regions have been Koulikoro, Sikasso, and Bamako.
 Human
 Close association
-New Post
+Update 1
 Verified
 State_-_Read_more
 
