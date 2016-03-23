@@ -676,16 +676,17 @@ outbreaks
 
 Yellow_fever_in_China_ex_Angola
 
-18 Mar 2016 View Countries  +  Angola
+22 Mar 2016 View Countries  +  Angola
 China
 
-As of 17 March 2016, a first case of yellow fever for China in a 32-year old
-male returning from Luanda, Angola.
+As of 21 March 2016, three more imported cases have been reported by
+authorities in Beijing. The cases first sought medical attention in Angola on
+6, 9, and 11 March 2016, respectively.
 Human
 Vector-born
-New Post
+Update 1
 Verified
-State_-_Read_more
+Beijing_Municipal_Health_and_Family_Planning_-_Read_more
 
 *
 

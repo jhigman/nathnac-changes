@@ -363,13 +363,14 @@ outbreaks
 
 Zika_virus_in_Jamaica
 
-02 Feb 2016 Jamaica
-As of 30 January the first locally acquired case has been confirmed.
+22 Mar 2016 Jamaica
+As of 18 March 2016, three new cases have been reported in the parishes of St
+Catherine and St Thomas.
 Human
 Vector-born
-New Post
+Update 1
 Verified
-PAHO_-_Read_more
+State_-_Read_more
 
 *
 
