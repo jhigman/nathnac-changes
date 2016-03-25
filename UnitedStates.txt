@@ -323,6 +323,20 @@ All_News
 outbreaks
 
 
+Dengue_in_USA
+
+24 Mar 2016 Hawaii. United States
+As of 23 March 2016 there have been 263 confirmed cases of dengue, since the
+outbreak was first reported in September 2015.
+Human
+Vector-born
+Update 10
+Verified
+State_-_Read_more
+
+*
+
+
 Salmonellosis_in_USA
 
 11 Mar 2016 View Regions  +  Alabama
@@ -445,20 +459,6 @@ Food and Water-borne
 New Post
 Verified
 CDC_-_Read_more
-
-*
-
-
-Dengue_in_USA
-
-14 Jan 2016 Hawaii. United States
-As of 13 January 2016, a total of 215 confirmed cases of dengue have been
-reported in Hawaii since September 2015.
-Human
-Vector-born
-Update 9
-Verified
-State_-_Read_more
 
 *
 

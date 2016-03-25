@@ -350,13 +350,13 @@ outbreaks
 
 Zika_virus_in_Virgin_Islands_(USA)
 
-27 Jan 2016 St Croix. Virgin Islands (USA)
-As of 22 January 2016, the US Virgin Islands reported a case of Zika virus in a
-42 year old woman with no history of previous travel during the incubation
-period of the virus.
+24 Mar 2016 St Croix. Virgin Islands (USA)
+As of 21 March the first case of zika virus has been reported from the island
+of St Thomas. The neighbouring island of St Croix has previously reported
+cases.
 Human
 Vector-born
-New Post
+Update 1
 Verified
 State_-_Read_more
 
