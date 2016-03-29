@@ -285,9 +285,7 @@ outbreaks
 
 Zika_virus_in_Finland_ex_Maldives
 
-30 Jun 2015 View Countries  +  Finland
-Maldives
-
+30 Jun 2015 Maldives
 As of 30 June 2015 a Finnish traveller was diagnosed with Zika virus upon
 return to Finland from the Maldives.
 Human

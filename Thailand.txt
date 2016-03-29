@@ -615,9 +615,7 @@ outbreaks
 
 Zika_virus_in_Taiwan_ex_Thailand
 
-28 Jan 2016 View Countries  +  Taiwan
-Thailand
-
+28 Jan 2016 Thailand
 As of 19 January 2016, a case of Zika virus has been confirmed in a symptomatic
 Thai resident who was stopped by an airport quarantine official on his arrival
 in Taiwan. This was his first visit to Taiwan and prior to this he had remained
