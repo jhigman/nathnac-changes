@@ -323,6 +323,24 @@ All_News
 outbreaks
 
 
+VTEC_O157_in_USA
+
+29 Mar 2016 View Regions  +  Minnesota
+Wisconsin
+As of 25 March 2016, eleven people infected with VTEC O157 were reported from
+Minnesota (8) and Wisconsin (3) between 17 January and 17 February 2016. No one
+developed haemolytic uremic syndrome and no deaths were reported. All
+interviewed (9) reported eating alfalfa sprouts in the week before onset. A
+brand of sprouts distributed in all foci was voluntarily recalled.
+Human
+Food and Water-borne
+Update 1
+Verified
+CDC_-_Read_more
+
+*
+
+
 Dengue_in_USA
 
 24 Mar 2016 Hawaii. United States
@@ -356,22 +374,6 @@ Food and Water-borne
 New Post
 Verified
 CDC_-_Read_more
-
-*
-
-
-VTEC_O157_in_USA
-
-26 Feb 2016 View Regions  +  Minnesota
-Wisconsin
-As of 25 Feb 2016, nine cases of Verotoxin-producing E. coli O157 infection
-have reported from Minnesota and Wisconsin. Two are in hospital. A brand of
-alfalfa sprouts produced in Wisconsin is under investigation.
-Human
-Food and Water-borne
-New Post
-Verified
-State_-_Read_more
 
 *
 
