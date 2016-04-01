@@ -555,13 +555,12 @@ outbreaks
 
 Ebola_virus_disease_in_Liberia
 
-24 Nov 2015 Liberia
-On 23 November 2015 WHO reported a new outbreak of EVD had been identified on
-19 November 2015. Three confirmed cases from the same family are receiving
-treatment and 150 contacts are being monitored. Liberia was declared free of
-EVD in the human population on 3 September 2015.
+30 Mar 2016 Liberia
+As of the 29 March 2016, the temporary recommendations in relation to the
+Public Health Emergency of International Concern (PHEIC) for Ebola in West
+Africa have been lifted.
 Human
-Update 7
+Update 8
 Verified
 WHO_-_Read_more
 

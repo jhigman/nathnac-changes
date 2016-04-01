@@ -637,10 +637,12 @@ outbreaks
 
 Ebola_virus_disease_in_Guinea
 
-18 Mar 2016 Guinea
-As 17 March 2016, two new cases in N’zérékoré Prefecture, Guinée Forestière.
+31 Mar 2016 Guinea
+As of 30 March 2016, the WHO reported three further confirmed cases of Ebola.
+They were reported on 21, 26 and 28 March respectively, and all five confirmed
+cases are epidemiological linked.
 Human
-Update 18
+Update 20
 Verified
 WHO_-_Read_more
 

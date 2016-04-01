@@ -619,6 +619,21 @@ All_News
 outbreaks
 
 
+Cholera_in_Kenya
+
+31 Mar 2016 Kenya
+As of 22 March 2016, the Government of Kenya reported that the continuing
+cholera epidemic has affected 28 Counties. A total of 13,299 cases and 216
+deaths have been reported nationally.
+Human
+Food and Water-borne
+Update 7
+Verified
+State_-_Read_more
+
+*
+
+
 Yellow_fever_in_Kenya_ex_Angola
 
 29 Mar 2016 View Countries  +  Angola
@@ -631,21 +646,6 @@ Vector-born
 New Post
 Verified
 State_-_Read_more
-
-*
-
-
-Cholera_in_Kenya
-
-21 Oct 2015 Kenya
-As of 20 October 2015, a total of 21 counties have been affected by the cholera
-outbreak that has been ongoing since December 2014. Nearly 7000 cases and over
-100 deaths have now been reported.
-Human
-Food and Water-borne
-Update 6
-Verified
-ReliefWeb_-_Read_more
 
 *
 

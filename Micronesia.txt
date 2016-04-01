@@ -40,7 +40,7 @@ Resources
 * Micronesia
 
 
-Vaccine Recommendations
+Vaccine recommendations
 
 Details of vaccination recommendations and requirements are provided below.
 
@@ -272,6 +272,18 @@ Dengue_in_brief
 
 Important News
 
+_Aedes-mosquito_
+01 Mar 2016
+
+Zika_virus_–_update_and_advice_for_travellers_including_pregnant_women_and
+those_planning_pregnancy
+
+It is recommended that pregnant women planning to travel, postpone non-
+essential travel to areas with active ZIKV transmission until after pregnancy
+Read_more
+
+*
+
 _Mosquito-generic_
 28 Nov 2015
 
@@ -304,6 +316,20 @@ All_News
 
 
 outbreaks
+
+
+Zika_virus_in_Federate_States_of_Micronesia
+
+31 Mar 2016 Kosrae. Micronesia
+As of 30 March 2016, ECDC has reported sporadic Zika transmission in Kosrae,
+one of islands of Micronesia.
+Human
+Vector-born
+New Post
+Verified
+ECDC_-_Read_more
+
+*
 
 More
 

@@ -563,14 +563,14 @@ outbreaks
 
 Ebola_virus_disease_in_Sierra_Leone
 
-29 Jan 2016 Sierra Leone
-As of 26 January 2016, ECDC states that on 20 January 2016, the Sierra Leone
-Ministry of Health has reported a second EVD case in the district of Tonkolili.
-This patient is a relative of the person who died on 12 January 2016.
+30 Mar 2016 Sierra Leone
+As of the 29 March 2016, the temporary recommendations in relation to the
+Public Health Emergency of International Concern (PHEIC) for Ebola in West
+Africa have been lifted.
 Human
-Update 14
+Update 15
 Verified
-ECDC_-_Read_more
+WHO_-_Read_more
 
 *
 
