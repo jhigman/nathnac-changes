@@ -520,13 +520,12 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
 
-24 Mar 2016 Saudi Arabia
-As of 22 March 2016 two cases of Mers-CoV have been confirmed, one of which was
-fatal.  There has been a total of 1,358 cases and 577 deaths, since the
-outbreak was first reported in 2012.
+01 Apr 2016 Saudi Arabia
+As of 31 March 2016, seven new cases and five deaths were reported between 25
+and 31 March 2016.
 Human
 Air-borne
-Update 25
+Update 26
 Verified
 State_-_Read_more
 
