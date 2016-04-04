@@ -60,14 +60,16 @@ Please read the information below carefully, as certificate requirements may
 be relevant to certain travellers only. For travellers further details, if
 required, should be sought from their healthcare professional.
 
-* There is no risk of yellow fever in Belize, however, there is a certificate
-  requirement.
+* There is no risk of yellow fever in Belize, however, there is a certificate
+  requirement
 * Under International Health Regulations (2005), a yellow fever vaccination
   certificate is required from travellers over 1 year of age arriving from
-  countries with risk of yellow fever transmission.
-* For this country, the yellow fever vaccination certificate is assumed to be
-  valid for 10 years until further notice.
-* View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
+  countries with risk of yellow fever transmission and for travellers having
+  transited through an airport of a country with risk of yellow fever
+  transmission
+* This country considers the yellow fever vaccination certificate to be
+  valid for life
+* View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission
 
 
 Most Travellers

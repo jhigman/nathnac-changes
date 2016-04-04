@@ -63,7 +63,7 @@ required, should be sought from their healthcare professional.
 * There is a risk of yellow fever transmission in parts of Ethiopia (see ‘Some
   Travellers’ section below).
 * Under International Health Regulations (2005), a yellow fever vaccination
-  certificate is required from travellers over 1 year of age arriving from
+  certificate is required from travellers over 9 months of age arriving from
   countries with risk of yellow fever transmission and for travellers having
   transited more than 12 hours through an airport of a country with risk of
   yellow fever transmission.

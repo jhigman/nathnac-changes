@@ -60,18 +60,17 @@ Please read the information below carefully, as certificate requirements may
 be relevant to certain travellers only. For travellers further details, if
 required, should be sought from their healthcare professional.
 
-* There is a risk of yellow fever transmission in all areas of this country
-  (see see ‘Most Traveller’ section below).
-* Under International Health Regulations (2005), a certificate of yellow fever
-  vaccination is required from all travellers over 1 year of age.
-* For this country, the yellow fever vaccination certificate is assumed to be
-  valid for 10 years until further notice.
+* There is a risk of yellow fever transmission in all areas of this country
+  (see ‘Most Traveller’ section below).
+* Under International Health Regulations (2005), a yellow fever vaccination
+  certificate is required from travellers over 1 year of age arriving from
+  countries with risk of yellow fever transmission and for travellers having
+  transited through an airport of a country with risk of yellow fever
+  transmission..
+* This country considers the yellow fever vaccination certificate to be
+  valid for life.
+* View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
 
-The yellow fever vaccine is not suitable for all travellers, there are specific
-undesirable effects associated with it. This vaccine is only available at
-registered_yellow_fever_vaccination_centres. Health professionals should
-carefully assess the risks and benefits of the vaccine, and seek specialist
-advice if necessary.
 
 Most Travellers
 

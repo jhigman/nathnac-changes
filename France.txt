@@ -80,8 +80,10 @@ Caribbean Sea) only
   countries with risk of yellow fever transmission and for travellers having
   transited more than 12 hours through the airport of a country with risk of
   yellow fever transmission.
-* For these countries, the yellow fever vaccination certificate is assumed to
-  be valid for 10 years until further notice.
+* For Saint Martin and Saint Barthélemy, the yellow fever vaccination
+  certificate is assumed to be valid for 10 years until further notice.
+* Guadeloupe considers the yellow fever vaccination certificate to be valid for
+  life.
 * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
 
 
