@@ -531,6 +531,16 @@ Schistosomiasis_in_brief
 
 Important News
 
+_11747546_940_352l_
+31 Mar 2016
+
+Yellow_Fever_in_Angola
+
+Yellow Fever outbreak in Angola and imported cases reported in China, the
+Democratic Republic of Congo and Kenya Read_more
+
+*
+
 11 May 2015
 
 Measles:_worldwide
@@ -551,6 +561,36 @@ All_News
 
 
 outbreaks
+
+
+Yellow_fever_in_Angola
+
+04 Apr 2016 Angola
+As of 28 March 2016, 1311 suspected cases, 483 confirmed cases, and 185 deaths
+have been reported between 5 December 2015 and 27 March 2016. Luanda is the
+centre of the outbreak, but 15 other provinces have also been affected.
+Human
+Vector-born
+Update 9
+Verified
+State_-_Read_more
+
+*
+
+
+Yellow_fever_in_China_ex_Angola
+
+04 Apr 2016 View Countries  +  Angola
+China
+
+As of 2 April 2016, four imported cases have been reported in Fujian Province.
+Human
+Vector-born
+Update 2
+Verified
+State_-_Read_more
+
+*
 
 
 Yellow_fever_in_Mauritania_ex_Angola
@@ -596,38 +636,6 @@ Vector-born
 New Post
 Verified
 State_-_Read_more
-
-*
-
-
-Yellow_fever_in_Angola
-
-23 Mar 2016 Angola
-As of 21 March 2016, a total of 1,132 suspected and confirmed cases have been
-reported nationally, including 168 deaths. Luanda remains the most affected
-province, but case numbers outside Luanda are increasing.
-Human
-Vector-born
-Update 8
-Verified
-WHO_-_Read_more
-
-*
-
-
-Yellow_fever_in_China_ex_Angola
-
-22 Mar 2016 View Countries  +  Angola
-China
-
-As of 21 March 2016, three more imported cases have been reported by
-authorities in Beijing. The cases first sought medical attention in Angola on
-6, 9, and 11 March 2016, respectively.
-Human
-Vector-born
-Update 1
-Verified
-Beijing_Municipal_Health_and_Family_Planning_-_Read_more
 
 *
 

@@ -555,12 +555,11 @@ outbreaks
 
 Ebola_virus_disease_in_Liberia
 
-30 Mar 2016 Liberia
-As of the 29 March 2016, the temporary recommendations in relation to the
-Public Health Emergency of International Concern (PHEIC) for Ebola in West
-Africa have been lifted.
+04 Apr 2016 Liberia
+As of 1 April 2016, a 30-year old woman died of Ebola. This is the first case
+in Liberia since the PHEIC was lifted.
 Human
-Update 8
+Update 9
 Verified
 WHO_-_Read_more
 

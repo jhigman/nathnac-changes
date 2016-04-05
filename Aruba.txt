@@ -70,8 +70,6 @@ certificate requirements as listed below:
   requirements.
 * For these islands, the yellow fever vaccination certificate is assumed to be
   valid for 10 years until further notice.
-
-
 * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
 * See_also:_Saint_Martin_(France)
 

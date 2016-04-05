@@ -461,7 +461,9 @@ outbreaks
 
 Dengue_in_Guadeloupe_(France)
 
-01 Apr 2016 Guadeloupe. France
+01 Apr 2016 View Countries  +  France
+Guadeloupe
+
 As 24 March 2016, 9 confirmed and 9 probable cases have been reported.
 Human
 Vector-born
