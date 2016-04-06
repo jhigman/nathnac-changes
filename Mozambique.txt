@@ -63,15 +63,16 @@ required, should be sought from their healthcare professional.
 * There isno risk of yellow fever in this country, however, there is a
   certificate requirement.
 * Under International Health Regulations (2005), a yellow fever vaccination
-  certificate is required for travellers over 1 year of age arriving from
+  certificate is required for travellers over 9 months of age arriving from
   countries with risk of yellow fever transmission and for travellers having
-  transited through an airport of a country with risk of yellow fever
-  transmission (with the exception of South Sudan and with the addition of Sao
-  Tome and Principe, Somalia, United Republic of Tanzania in Africa; with the
-  exception of Argentina, French Guiana and Paraguay in South America).
+  transited for more than 12 hours through an airport of a country with risk of
+  yellow fever transmission (with the exception of South Sudan and with the
+  addition of Sao Tome and Principe, Somalia, United Republic of Tanzania in
+  Africa; with the exception of Argentina, French Guiana and Paraguay in South
+  America).
 * This country considers the yellow fever vaccination certificate to be valid
-  for 10 years.
-* View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission
+  for life.
+* View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
 
 
 Most Travellers
@@ -83,7 +84,7 @@ Hepatitis A
 Hepatitis A is a viral infection transmitted through contaminated food and
 water or by direct contact with an infectious person. Symptoms are often mild
 or absent in young children, but the disease becomes more serious with
-advancing age.  Recovery can vary from weeks to months. Following hepatitis A
+advancing age. Recovery can vary from weeks to months. Following hepatitis A
 illness immunity is lifelong.
 Those at increased risk include travellers visiting friends and relatives,
 long-stay travellers, and those visiting areas of poor sanitation.

@@ -65,11 +65,11 @@ required, should be sought from their healthcare professional.
 * Under International Health Regulations (2005), a certificate of yellow fever
   vaccination is required from travellers over 1 year of age arriving from or
   having passed through countries with risk of yellow fever transmission and
-  for travellers having transited for more than 12 hours through an airport of
-  a country with risk of yellow fever transmission.
+  for travellers having transited through an airport of a country with risk of
+  yellow fever transmission.
 * This country considers the yellow fever vaccination certificate to be valid
   for 10 years.
-* View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission
+* View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
 
 
 Most Travellers

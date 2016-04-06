@@ -66,8 +66,8 @@ required, should be sought from their healthcare professional.
   certificate is required for travellers over 1 year of age who, within the
   preceding 6 days, have been in or have transited more than 12 hours through
   an airport of a country with risk of yellow fever transmission.
-* For this country, the yellow fever vaccination certificate is assumed to be
-  valid for 10 years until further notice.
+* This country considers the yellow fever vaccination certificate to be valid
+  for 10 years.
 * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission.
 
 

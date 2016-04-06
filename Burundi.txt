@@ -69,7 +69,7 @@ required, should be sought from their healthcare professional.
 
 The yellow fever vaccine is not suitable for all travellers, there are specific
 undesirable effects associated with it. This vaccine is only available at
-registered yellow fever vaccination centres. Health professionals should
+registered_yellow_fever_vaccination_centres. Health professionals should
 carefully assess the risks and benefits of the vaccine, and seek specialist
 advice if necessary.
 
