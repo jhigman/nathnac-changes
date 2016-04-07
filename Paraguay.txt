@@ -63,7 +63,7 @@ required, should be sought from their healthcare professional.
 * There is a risk of yellow fever transmission in parts of this country (see
   ‘Some Travellers’ section below).
 * Under International Health Regulations (2005), a yellow fever vaccination
-  certficate is required for travellers over 9 months of age arriving from
+  certificate is required for travellers over 9 months of age arriving from
   countries with risk of yellow fever transmission and for travellers having
   transited more than 12 hours through an airport of a country with risk of
   yellow fever transmission.
@@ -327,6 +327,10 @@ Risk Areas
 * There is a very low risk of malaria in all other areas of Paraguay: awareness
   of risk and bite avoidance recommended.
 
+
+Antimalarial Recommendations Map
+
+_Paraguay-malaria-map_
 
 Antimalarial Recommendations
 

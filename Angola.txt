@@ -565,15 +565,14 @@ outbreaks
 
 Yellow_fever_in_Angola
 
-04 Apr 2016 Angola
-As of 28 March 2016, 1311 suspected cases, 483 confirmed cases, and 185 deaths
-have been reported between 5 December 2015 and 27 March 2016. Luanda is the
-centre of the outbreak, but 15 other provinces have also been affected.
+06 Apr 2016 Angola
+As of 1 April 2016, a total of 1,794 YF cases (483 laboratory-confirmed) have
+been reported nationally, including 198 deaths.
 Human
 Vector-born
-Update 9
+Update 10
 Verified
-State_-_Read_more
+ECDC_-_Read_more
 
 *
 
