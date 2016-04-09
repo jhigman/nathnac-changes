@@ -637,12 +637,11 @@ outbreaks
 
 Ebola_virus_disease_in_Guinea
 
-31 Mar 2016 Guinea
-As of 30 March 2016, the WHO reported three further confirmed cases of Ebola.
-They were reported on 21, 26 and 28 March respectively, and all five confirmed
-cases are epidemiological linked.
+08 Apr 2016 Guinea
+As of 7 April 2016, a total of nine cases and eight deaths have been reported
+in Nzérékoré and Macenta since 20 March 2016.
 Human
-Update 20
+Update 21
 Verified
 WHO_-_Read_more
 

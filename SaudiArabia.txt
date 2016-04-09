@@ -520,12 +520,12 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
 
-01 Apr 2016 Saudi Arabia
-As of 31 March 2016, seven new cases and five deaths were reported between 25
-and 31 March 2016.
+08 Apr 2016 Saudi Arabia
+As of 7 April 2016, a total of four cases and three deaths have been reported
+in the past week.
 Human
 Air-borne
-Update 26
+Update 27
 Verified
 State_-_Read_more
 

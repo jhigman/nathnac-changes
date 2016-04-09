@@ -555,12 +555,12 @@ outbreaks
 
 Ebola_virus_disease_in_Liberia
 
-05 Apr 2016 Liberia
-As of 4 April 2016 a second case of EVD has been confirmed, the son of the
-woman who died on 1 April. He is receiving treatment in Monrovia. He travelled
-from Guinea with his mother and two siblings.
+08 Apr 2016 Liberia
+As of 7 April 2016, the third case in the recent flare-up has been reported. It
+concerns a son of the woman who died of  EVD 31 March and whose brother was
+diagnosed a few days later.
 Human
-Update 10
+Update 11
 Verified
 WHO_-_Read_more
 
