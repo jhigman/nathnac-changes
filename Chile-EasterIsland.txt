@@ -2,7 +2,7 @@
 
 * Home
 * Country_Information
-* Chile (Easter Island)
+* Easter Island (Chile)
 
 
 General information
@@ -39,7 +39,7 @@ Resources
 
 * Home
 * Country_Information
-* Chile (Easter Island)
+* Easter Island (Chile)
 
 
 Vaccine recommendations
@@ -213,7 +213,7 @@ Typhoid vaccination
 
 * Home
 * Country_Information
-* Chile (Easter Island)
+* Easter Island (Chile)
 
 
 Other risks
@@ -245,7 +245,7 @@ Dengue_in_brief
 
 * Home
 * Country_Information
-* Chile (Easter Island)
+* Easter Island (Chile)
 
 
 Important News
@@ -258,10 +258,24 @@ All_News
 
 * Home
 * Country_Information
-* Chile (Easter Island)
+* Easter Island (Chile)
 
 
 outbreaks
+
+
+Dengue_in_Easter_Island_(Chile)
+
+11 Apr 2016 Easter Island (Chile)
+As of 10 April 2016, the Ministry of Health has confirmed an outbreak of
+dengue, with 28 cases in Rapa Nui.
+Human
+Vector-born
+New Post
+Verified
+State_-_Read_more
+
+*
 
 More
 

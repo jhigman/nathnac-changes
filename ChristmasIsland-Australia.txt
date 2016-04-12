@@ -2,7 +2,7 @@
 
 * Home
 * Country_Information
-* Australia (Christmas Island)
+* Christmas Island (Australia)
 
 
 General information
@@ -43,7 +43,7 @@ Resources
 
 * Home
 * Country_Information
-* Australia (Christmas Island)
+* Christmas Island (Australia)
 
 
 Vaccine recommendations
@@ -249,7 +249,7 @@ Typhoid_in_brief
 
 * Home
 * Country_Information
-* Australia (Christmas Island)
+* Christmas Island (Australia)
 
 
 Other risks
@@ -281,7 +281,7 @@ Dengue_in_brief
 
 * Home
 * Country_Information
-* Australia (Christmas Island)
+* Christmas Island (Australia)
 
 
 Important News
@@ -294,7 +294,7 @@ All_News
 
 * Home
 * Country_Information
-* Australia (Christmas Island)
+* Christmas Island (Australia)
 
 
 outbreaks
