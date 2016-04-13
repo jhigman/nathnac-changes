@@ -556,14 +556,16 @@ outbreaks
 
 Yellow_fever_in_Democratic_Republic_of_Congo_ex_Angola
 
-31 Mar 2016 View Countries  +  Angola
+12 Apr 2016 View Countries  +  Angola
 Democratic Republic of the Congo
 
-As of 29 March 2016, WHO have reported that cases of yellow fever have been
-exported from Angola to the Democratic Republic of Congo.
+As of 11 April 2016, a total of 151 suspected YF cases, including 21 deaths,
+have been reported from January to March 2016. Nine cases were confirmed by
+serology, with three confirmed cases imported from Angola and detected in Kongo
+Central province, which shares a border with Angola.
 Human
 Vector-born
-New Post
+Update 1
 Verified
 WHO_-_Read_more
 
