@@ -266,7 +266,9 @@ outbreaks
 
 Dengue_in_Easter_Island_(Chile)
 
-11 Apr 2016 Easter Island (Chile)
+11 Apr 2016 View Countries  +  Chile
+Easter Island (Chile)
+
 As of 10 April 2016, the Ministry of Health has confirmed an outbreak of
 dengue, with 28 cases in Rapa Nui.
 Human
