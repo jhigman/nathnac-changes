@@ -323,6 +323,25 @@ All_News
 outbreaks
 
 
+Elizabethkingia_anophelis_in_USA
+
+18 Apr 2016 View Regions  +  Illinois
+Michigan
+Wisconsin
+As of 13 April 2016, 62 cases including 20 deaths across three states have been
+reported. The majority were over the age of 65 years, and all have had serious
+underlying health conditions. It has not been determined whether the deaths
+associated with this outbreak were caused by the bacterial infection, the
+patients’ underlying health conditions, or both.
+Human
+Miscellaneous
+New Post
+Verified
+CDC_-_Read_more
+
+*
+
+
 Measles_in_USA
 
 08 Apr 2016 View Regions  +  California
@@ -1166,23 +1185,6 @@ in Disney California Adventure Park Additional cases were secondary to those.
 Human
 Close association
 Update 3
-Verified
-State_-_Read_more
-
-*
-
-
-Botulism_in_USA
-
-20 Apr 2015 New Mexico. United States
-The Health authorities in New Mexico and Texas and the Centers for Disease
-Control and Prevention (CDC) are investigating an outbreak of botulism. Two
-patients have been hospitalised in Texas with suspected botulism. The source is
-currently being investigated but is likely contaminated food. The patients are
-two adults from Lea County.
-Human
-Food and Water-borne
-New Post
 Verified
 State_-_Read_more
 

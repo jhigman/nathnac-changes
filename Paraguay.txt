@@ -403,10 +403,9 @@ Possible links to ZIKV infection are being investigated.
 
 Zika virus in Paraguay
 
-This country has reported locally acquired cases of ZIKV in the last 2 months
-(so is considered to have current active ZIKV transmission). Increasing or
-widespread transmission has been reported. Details of specific affected areas
-within this country are not available.
+This country has reported locally acquired cases of ZIKV in the last 9 months
+(but no cases have been reported in more than 8 weeks). Details of specific
+affected areas within this country are not available.
 
 Prevention
 
