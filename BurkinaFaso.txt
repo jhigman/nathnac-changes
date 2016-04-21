@@ -550,21 +550,6 @@ All_News
 
 outbreaks
 
-
-Influenza_A_(H5N1)_in_Burkina_Faso
-
-22 Apr 2015 Burkina Faso
-As of 21 Apr 2015; the World Health Organisation for Animal Health has
-confirmed the outbreak of highly pathogenic avian influenza H5N1 in poultry
-throughout Burkina Faso.
-Animal
-Air-borne
-Update 1
-Verified
-World_Organisation_for_animal_health_-_Read_more
-
-*
-
 More
 
 * RSS

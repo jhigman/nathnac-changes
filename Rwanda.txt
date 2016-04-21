@@ -64,6 +64,9 @@ required, should be sought from their healthcare professional.
   ‘Some Travellers’ section below).
 * Under International Health Regulations (2005), a certificate of yellow fever
   vaccination is required from all travellers over 1 year of age.
+* As of 17 April 2016, the Republic_of_Rwanda_Ministry_of_Health published
+  additional_information_concerning_yellow_fever_vaccination_certificate
+  requirements.
 * For this country, the yellow fever vaccination certificate is assumed to be
   valid for 10 years until further notice.
 
