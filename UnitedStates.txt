@@ -323,6 +323,21 @@ All_News
 outbreaks
 
 
+Salmonellosis_in_USA
+
+25 Apr 2016 United States
+As of 21 April 2016, a total of 33 people infected with the outbreak strain of
+Salmonella Virchow were reported from 23 states associated with a single raw
+food product now removed from sale.
+Human
+Food and Water-borne
+Update 2
+Verified
+CDC_-_Read_more
+
+*
+
+
 Elizabethkingia_anophelis_in_USA
 
 18 Apr 2016 View Regions  +  Illinois
@@ -426,24 +441,6 @@ of alfalfa sprouts are a likely source.
 Human
 Food and Water-borne
 New Post
-Verified
-CDC_-_Read_more
-
-*
-
-
-Salmonellosis_in_USA
-
-22 Feb 2016 United States
-As of February 17 2016, 18 people infected with the outbreak strain of
-Salmonella Virchow have been reported from 15 states: Florida (1),
-Massachusetts (1), Maryland (1), Minnesota (2), New Jersey (2), New Mexico (1),
-North Carolina (1), Ohio (1), Oklahoma (1), Oregon (1), Rhode Island (1),
-Tennessee (1), Texas (1), Utah (2), and Wisconsin (1). Onset ranges from 5 Dec
-2015 to 3 Feb 2016 where information is available.
-Human
-Food and Water-borne
-Update 1
 Verified
 CDC_-_Read_more
 
