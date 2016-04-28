@@ -570,13 +570,13 @@ outbreaks
 
 Cholera_in_Tanzania
 
-14 Dec 2015 Tanzania (Including Zanzibar)
-As of 8 December 2015, a total of 10,412 cholera cases and 159 deaths have been
-reported in 21 of the country’s 30 regions. The capital, Dar es Salaam,
-accounts for 44% of the cases.
+27 Apr 2016 Tanzania (Including Zanzibar)
+As of 20 April 2016, a total of 24,108 cases, including 378 deaths, had been
+reported nationwide. The majority of these cases had been reported from 23
+regions in mainland Tanzania (20,961 cases, including 329 deaths).
 Human
 Food and Water-borne
-Update 3
+Update 4
 Verified
 WHO_-_Read_more
 
