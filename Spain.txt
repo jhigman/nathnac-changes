@@ -257,15 +257,13 @@ outbreaks
 
 Norovirus_in_Spain
 
-20 Apr 2016 Catalonia. Spain
-As of 18 April 2016, the Public Health Agency of Catalonia and the Public
-Health Agency of Barcelona are investigating a gastroenteritis outbreak
-possibly transmitted by consumption of bottled water. Currently there are 2,020
-cases in the provinces of Barcelona and Tarragona. Norovirus has been isolated
-in samples from several patients.
+28 Apr 2016 Catalonia. Spain
+As of 25 April 2016, the Public Health Agency of Catalonia has reported 4,136
+gastroenteritis cases, with norovirus identified as the causative agent. This
+outbreak has been linked to commercial spring water packaged in Andorra.
 Human
 Food and Water-borne
-New Post
+Update 1
 Verified
 State_-_Read_more
 

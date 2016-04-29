@@ -582,14 +582,14 @@ outbreaks
 
 Yellow_fever_in_Uganda
 
-20 Apr 2016 Uganda
-As of 19 April 2016, three yellow fever cases have been reported in the south
-of Uganda. The patients had no travel history to Angola.
+28 Apr 2016 Uganda
+As of 21 April 2016, the Ugandan government have confirmed six yellow fever
+cases, with two deaths.
 Human
 Vector-born
-New Post
+Update 1
 Verified
-WHO_-_Read_more
+State_-_Read_more
 
 *
 

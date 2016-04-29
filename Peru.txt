@@ -572,15 +572,16 @@ outbreaks
 
 Yellow_fever_in_Peru
 
-18 Apr 2016 Junin. Peru
-As of 15 April 2016, a case and three deaths in Selva Central have been
-reported by health authorities in Junín in the past two months. These are the
-first cases to be reported from the area in eight years.
+28 Apr 2016 Junin. Peru
+As of 22 April 2016, a total of 20 confirmed and probable cases of yellow fever
+have been reported in Peru. This exceeds the total number of cases reported in
+the preceding two years: with 15 cases reported in 2014 and 17 cases reported
+in 2015.
 Human
 Vector-born
-New Post
+Update 1
 Verified
-State_-_Read_more
+PAHO_-_Read_more
 
 *
 
