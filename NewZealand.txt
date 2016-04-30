@@ -212,12 +212,13 @@ outbreaks
 
 Measles_in_New_Zealand
 
-18 Apr 2016 Waikato. New Zealand
-As 14 April 2016, three cases of measles with risk of public exposure have been
-reported from central Hamilton between 25 March and 9 April 2016.
+29 Apr 2016 New Zealand
+As of 29 April 2016, nine confirmed cases and three suspected cases have been
+reported. The latest case is a staff member at hospital in central Hamilton.
+Contact tracing of patients and staff has been initiated.
 Human
 Close association
-New Post
+Update 1
 Verified
 State_-_Read_more
 

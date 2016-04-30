@@ -65,6 +65,11 @@ required, should be sought from their healthcare professional.
 * Under International Health Regulations (2005), a certificate of yellow fever
   vaccination is required from travellers over 1 year of age arriving from
   countries with risk of yellow fever transmission.
+* Following an outbreak of yellow fever in Uganda April 16, the Ministry_of
+  Health_have_issued_a_press_release_21_April_2016 stating that all travellers
+  require proof of yellow fever vaccination to be allowed in to or out of the
+  country. No further details have been provided on the minimum age group. This
+  information should be followed until further notice.
 * For this country, the yellow fever vaccination certificate is assumed to be
   valid for 10 years until further notice.
 * View_the_WHO_list_of_countries_with_risk_of_yellow_fever_transmission
