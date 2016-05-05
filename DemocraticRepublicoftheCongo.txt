@@ -556,12 +556,15 @@ outbreaks
 
 Yellow_fever_in_Democratic_Republic_of_the_Congo
 
-26 Apr 2016 Tshuapa. Democratic Republic of the Congo
-As of 19 April 2016, A first case of local transmission this year has been
-reported from Tshuapa.
+04 May 2016 Democratic Republic of the Congo
+As of 2 May 2016, the World Health Organization reported that from early
+January to 22 March 2016, a total of 453 suspected yellow fever cases,
+including 45 deaths, were identified by the national surveillance system.
+Further investigations identified 41 cases potentially related to the outbreak
+in Angola.
 Human
 Vector-born
-New Post
+Update 1
 Verified
 WHO_-_Read_more
 
