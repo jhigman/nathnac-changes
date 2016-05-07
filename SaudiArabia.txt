@@ -520,12 +520,12 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Saudi_Arabia
 
-29 Apr 2016 Saudi Arabia
-As of 28 April, a case in a 58-year old female in Abha has been reported in the
-past week.
+06 May 2016 Saudi Arabia
+As of 5 May 2016, four cases including a death have been reported in the past
+week.
 Human
 Air-borne
-Update 29
+Update 30
 Verified
 State_-_Read_more
 

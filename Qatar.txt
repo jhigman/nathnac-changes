@@ -255,13 +255,11 @@ outbreaks
 
 Middle_East_respiratory_syndrome_coronavirus_in_Qatar
 
-23 Feb 2016 Qatar
-As 21 Feb 2016, a case in a 66-year old male has been reported. This is the
-first reported case in Qatar since May 2015. The patient had just returned from
-Saudi Arabia.
+06 May 2016 Qatar
+As 2 May 2016, a second case for 2016 has been reported in a 40-year male.
 Human
 Air-borne
-Update 1
+Update 2
 Verified
 State_-_Read_more
 
