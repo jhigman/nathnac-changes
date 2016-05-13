@@ -233,9 +233,9 @@ Possible links to ZIKV infection are being investigated.
 Zika virus in Dominica
 
 This country has reported locally acquired cases of ZIKV in the last 2 months
-(so is considered to have current active ZIKV transmission). Sporadic
-transmission has been reported. Details of specific affected areas within this
-country are not available.
+(so is considered to have current active ZIKV transmission). Increasing or
+widespread transmission has been reported. Details of specific affected areas
+within this country are not available.
 
 Prevention
 
